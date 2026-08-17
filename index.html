@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mezzy Media — Atlanta Breaking News & Culture</title>
+<meta name="description" content="Mezzy Media covers Atlanta breaking news, food, sports, style, nightlife and local culture. First on the story, real on the culture.">
+<style>
+  :root{
+    --bg:#0d0d10; --panel:#15151b; --panel2:#1c1c25; --line:#2a2a36;
+    --text:#f2f2f5; --muted:#9a9aa8; --accent:#39d98a; --accent2:#5b8cff;
+    --crown:#7ed957;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.55;-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+  header{position:sticky;top:0;z-index:50;background:rgba(13,13,16,.9);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  .nav{display:flex;align-items:center;justify-content:space-between;height:64px}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:.3px;font-size:20px}
+  .brand .dot{width:12px;height:12px;border-radius:3px;background:var(--accent);box-shadow:0 0 14px var(--accent)}
+  .nav ul{display:flex;gap:22px;list-style:none}
+  .nav ul a{color:var(--muted);font-size:14px;font-weight:600}
+  .nav ul a:hover{color:var(--text)}
+  .hero{padding:74px 0 54px;border-bottom:1px solid var(--line);background:radial-gradient(1200px 400px at 70% -10%,rgba(91,140,255,.14),transparent),radial-gradient(900px 400px at 10% 10%,rgba(57,217,138,.10),transparent)}
+  .kicker{color:var(--accent);font-weight:700;letter-spacing:2px;text-transform:uppercase;font-size:12px;margin-bottom:16px}
+  .hero h1{font-size:clamp(34px,6vw,60px);line-height:1.05;font-weight:900;letter-spacing:-.5px;max-width:16ch}
+  .hero p{color:var(--muted);font-size:18px;margin-top:18px;max-width:56ch}
+  .cta{display:flex;gap:12px;margin-top:28px;flex-wrap:wrap}
+  .btn{padding:12px 20px;border-radius:10px;font-weight:700;font-size:14px}
+  .btn.primary{background:var(--accent);color:#052312}
+  .btn.ghost{border:1px solid var(--line);color:var(--text)}
+  section{padding:56px 0;border-bottom:1px solid var(--line)}
+  h2{font-size:26px;font-weight:800;letter-spacing:-.2px}
+  .sub{color:var(--muted);margin-top:6px;margin-bottom:26px;max-width:60ch}
+  .grid{display:grid;gap:16px}
+  .lanes{grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px;transition:.15s}
+  .card:hover{border-color:#3a3a4a;transform:translateY(-2px)}
+  .card .tag{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:var(--accent2)}
+  .card h3{margin-top:8px;font-size:17px}
+  .card p{color:var(--muted);font-size:14px;margin-top:8px}
+  .team{grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
+  .person{display:flex;gap:14px;align-items:flex-start;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px}
+  .avatar{width:44px;height:44px;border-radius:50%;flex:0 0 44px;display:grid;place-items:center;font-weight:800;color:#0b0b0f}
+  .person h4{font-size:15px}
+  .person span{color:var(--muted);font-size:13px}
+  .stories{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+  .story{background:var(--panel);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+  .story .band{height:6px;background:linear-gradient(90deg,var(--accent),var(--accent2))}
+  .story .body{padding:18px}
+  .story .meta{color:var(--muted);font-size:12px;margin-top:10px}
+  .disc{background:var(--panel2);border:1px solid var(--line);border-radius:14px;padding:20px;color:var(--muted);font-size:14px}
+  .disc strong{color:var(--text)}
+  footer{padding:40px 0;color:var(--muted);font-size:13px}
+  .footcols{display:flex;justify-content:space-between;flex-wrap:wrap;gap:20px}
+  footer a{color:var(--muted)}
+  footer a:hover{color:var(--text)}
+  .small{font-size:12px;color:#6f6f7d;margin-top:22px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <div class="brand"><span class="dot"></span> MEZZY&nbsp;MEDIA</div>
+    <ul>
+      <li><a href="#coverage">Coverage</a></li>
+      <li><a href="#latest">Latest</a></li>
+      <li><a href="#team">Newsroom</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <div class="kicker">Atlanta • Breaking news &amp; culture</div>
+    <h1>First on the story. Real on the culture.</h1>
+    <p>Mezzy Media is Atlanta's breaking-news and culture desk — crime and public safety you can trust, plus the food, sports, style, nightlife and local moments that actually move the city.</p>
+    <div class="cta">
+      <a class="btn primary" href="https://www.facebook.com/profile.php?id=61593458609595" target="_blank" rel="noopener">Follow on Facebook</a>
+      <a class="btn ghost" href="#coverage">What we cover</a>
+    </div>
+  </div>
+</div>
+
+<section id="coverage">
+  <div class="wrap">
+    <h2>What we cover</h2>
+    <p class="sub">Ten lanes, one city. Credibility lanes keep it factual; culture lanes keep it fun.</p>
+    <div class="grid lanes">
+      <div class="card"><div class="tag">Credibility</div><h3>Breaking News</h3><p>Verified, sourced, first — the stories Atlanta needs to know now.</p></div>
+      <div class="card"><div class="tag">Credibility</div><h3>Public Safety</h3><p>Case updates and accidents/traffic, facts only, no speculation.</p></div>
+      <div class="card"><div class="tag">Culture</div><h3>Food &amp; Dining</h3><p>New spots, classics, and where Atlanta is eating this week.</p></div>
+      <div class="card"><div class="tag">Culture</div><h3>Sports</h3><p>Falcons, Braves, Hawks, ATL United — and the culture around them.</p></div>
+      <div class="card"><div class="tag">Culture</div><h3>Style &amp; Fashion</h3><p>Atlanta's look — streetwear to runway, on the people who set it.</p></div>
+      <div class="card"><div class="tag">Culture</div><h3>Nightlife</h3><p>What's poppin' after dark, from Midtown to the Westside.</p></div>
+      <div class="card"><div class="tag">Culture</div><h3>Tech &amp; Business</h3><p>The Alpharetta-to-downtown corridor building the new ATL.</p></div>
+      <div class="card"><div class="tag">Culture</div><h3>Local Events</h3><p>Festivals, pop-ups, and the weekend's must-dos.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="latest">
+  <div class="wrap">
+    <h2>Latest from the desk</h2>
+    <p class="sub">Fresh coverage rolls in continuously across our lanes. A sample of the kind of stories we run:</p>
+    <div class="grid stories">
+      <div class="story"><div class="band"></div><div class="body"><div class="card" style="all:unset"></div><strong>Data-center boom reshapes metro Atlanta's power grid</strong><div class="meta">Tech &amp; Business • by Priya</div></div></div>
+      <div class="story"><div class="band"></div><div class="body"><strong>Weekend eats: three new Westside kitchens worth the drive</strong><div class="meta">Food &amp; Dining • by Aaliyah</div></div></div>
+      <div class="story"><div class="band"></div><div class="body"><strong>Falcons camp report: who's turning heads before Week 1</strong><div class="meta">Sports • by Jamal</div></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="team">
+  <div class="wrap">
+    <h2>The newsroom</h2>
+    <p class="sub">A bench of dedicated desk voices, each owning their lane. Every byline is an AI-assisted persona — see our disclosure below.</p>
+    <div class="grid team">
+      <div class="person"><div class="avatar" style="background:#39d98a">A</div><div><h4>Aaliyah</h4><span>Lead anchor — breaking news, food, weather, case updates</span></div></div>
+      <div class="person"><div class="avatar" style="background:#5b8cff">J</div><div><h4>Jamal</h4><span>Sports &amp; fitness desk</span></div></div>
+      <div class="person"><div class="avatar" style="background:#ffb454">P</div><div><h4>Priya</h4><span>Tech &amp; business — the Alpharetta corridor</span></div></div>
+      <div class="person"><div class="avatar" style="background:#e879f9">X</div><div><h4>Xavier</h4><span>Style, nightlife &amp; entertainment</span></div></div>
+      <div class="person"><div class="avatar" style="background:#f87171">M</div><div><h4>Maria</h4><span>Community &amp; mission coverage</span></div></div>
+      <div class="person"><div class="avatar" style="background:#facc15">A</div><div><h4>Ashley</h4><span>Suburbs &amp; sports</span></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="about">
+  <div class="wrap">
+    <h2>About Mezzy Media</h2>
+    <p class="sub" style="max-width:70ch">Mezzy Media is an Atlanta-based digital news and culture brand. Our mission is simple: be first with the news, most credible on the facts, and most entertaining on the culture. We cover the stories that shape daily life in metro Atlanta — from public safety to the food, sports, and nightlife that make the city what it is — and deliver them in a voice that actually sounds like Atlanta.</p>
+    <div class="disc">
+      <p><strong>AI &amp; editorial disclosure.</strong> Mezzy Media's stories are produced with an AI-assisted newsroom. Our named personas (Aaliyah, Jamal, Priya, Xavier and others) are editorial voices for our desks, not real individuals. Public-safety, case-update and mission coverage is kept strictly factual regardless of topic.</p>
+      <p style="margin-top:12px"><strong>Affiliate disclosure.</strong> Mezzy Media participates in affiliate programs, including the Amazon Services LLC Associates Program. When we recommend a product, we may earn a commission from qualifying purchases at no extra cost to you. Affiliate links are marked <em>#ad</em>. As an Amazon Associate we earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="wrap">
+    <h2>Contact &amp; follow</h2>
+    <p class="sub">Tips, partnerships, and local business inquiries welcome.</p>
+    <div class="grid stories">
+      <div class="card"><div class="tag">Social</div><h3>Facebook</h3><p><a href="https://www.facebook.com/profile.php?id=61593458609595" target="_blank" rel="noopener" style="color:var(--accent2)">Follow Mezzy Media →</a></p></div>
+      <div class="card"><div class="tag">Email</div><h3>Newsroom &amp; tips</h3><p>tips@mezzymedia.com</p></div>
+      <div class="card"><div class="tag">Business</div><h3>Partnerships</h3><p>Local sponsorships &amp; affiliate partnerships — reach out via Facebook or email.</p></div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap footcols">
+    <div>
+      <div class="brand" style="font-size:16px"><span class="dot"></span> MEZZY MEDIA</div>
+      <div class="small">Atlanta breaking news &amp; culture. AI-assisted newsroom.</div>
+    </div>
+    <div style="text-align:right">
+      <div><a href="#about">About</a> &nbsp;•&nbsp; <a href="#coverage">Coverage</a> &nbsp;•&nbsp; <a href="#privacy">Privacy</a></div>
+      <div class="small" id="privacy">© 2026 Mezzy Media. Privacy: we do not sell personal data. Affiliate links may earn us a commission. As an Amazon Associate we earn from qualifying purchases.</div>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
