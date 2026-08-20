@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-20T09:04:07",
+ "updated": "2026-08-20T09:13:41",
  "hero": {
-  "title": "ICE accuses lawmakers of disrupting Georgia facility visit",
+  "title": "LIVE: Stockbridge mayor accused of misspending, misconduct appears in court",
   "desc": "",
-  "url": "https://www.fox5atlanta.com/news/ice-accuses-lawmakers-disrupting-georgia-facility-visit"
+  "url": "https://www.wsbtv.com/news/local/stockbridge-mayor-accused-misspending-misconduct-appears-court/4V2F7Q4PRFHWXDCRR3QRQCAHXI/"
  },
  "rails": [
   {
@@ -11,93 +11,93 @@
    "title": "Top 10 in Atlanta",
    "items": [
     {
-     "title": "ICE accuses lawmakers of disrupting Georgia facility visit",
+     "title": "LIVE: Stockbridge mayor accused of misspending, misconduct appears in court",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "FOX 5",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/ice-accuses-lawmakers-disrupting-georgia-facility-visit",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQBKCN7EHXNHTZKTTV523GRQRZQ.jpeg?auth=c021a15ec91e65c3058a9044fd1cd80fbb313b4119c152096894885a69cc54af&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/stockbridge-mayor-accused-misspending-misconduct-appears-court/4V2F7Q4PRFHWXDCRR3QRQCAHXI/",
      "score": 0
     },
     {
-     "title": "Costco to sell Medicare Advantage plans",
+     "title": "19-year-old graduates from GSU with math degree in just 14 months",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "WSB-TV",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/trending/costco-sell-medicare-advantage-plans/BFFZA7RS3ZF4VP6MORSBB6ORTE/",
+     "url": "https://www.11alive.com/article/news/local/19-year-old-graduates-from-gsu-with-math-degree-in-just-14-months/85-aab27db8-c279-4992-aa09-645372b7a08e",
      "score": 0
     },
     {
-     "title": "Pokemon announces Polaroid collab, Pikachu-themed instant cameras",
+     "title": "Recall alert: FDA issues highest-level recall warning for Publix frozen berries",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/pokemon-polaroid-cameras-90s/507-e98626eb-d568-48e8-abb7-303c0b143982",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FN7UO47R2URGIBGBV233AU6U77A.jpg?auth=7b92ab9de16c8961141933c635885177ff96d5a0ebb3b1adf6f4be14f303c9cb&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/trending/recall-alert-fda-issues-highest-level-recall-warning-publix-frozen-berries/6ZTMDTM6DVFJZLZAUN47XHNUBI/",
      "score": 0
     },
     {
-     "title": "Warrants: Tennessee woman faces felony charges after leaving 1-year-old alone in hot car for multiple hours",
+     "title": "Amazon drone delivery bringing faster service to Atlanta",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/regional/knoxville-woman-felony-charges-after-leaving-1-year-old-in-hot-car/51-d30ed80c-a9d3-4f14-84fd-426a3faf5767",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/about-amazon-hero-prime-air-amazon-news-wl-20260817.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/amazon-drone-delivery-bringing-faster-service-atlanta",
      "score": 0
     },
     {
-     "title": "Cobb County man named as suspect in Greg Biffle home break-in investigation",
+     "title": "Army unit offers soldiers four days off for reenlistment to play new 'Grand Theft Auto'",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "11Alive",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/crime/greg-biffle-burglary-home-break-in-case-update/275-9361ae90-15b4-47e5-a26c-e31114e99035",
+     "url": "https://www.11alive.com/article/news/nation-world/army-unit-offers-soldiers-days-off-to-play-new-gta/507-da6a1576-794c-4484-bf77-9995d2d94a06",
      "score": 0
     },
     {
-     "title": "Atlanta sisters kidnapping: 911 call from mother released",
+     "title": "Danny Hall: Hall of Fame Class of 2026",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "FOX 5",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/atlanta-sisters-kidnapping-911-call-from-mother-released",
+     "cat": "Breaking",
+     "source": "atlanta:sports:ramblinwreck.com",
+     "img": "https://ramblinwreck.com/amt-media/584131/",
+     "url": "https://ramblinwreck.com/danny-hall-hall-of-fame-class-of-2026/",
      "score": 0
     },
     {
-     "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
+     "title": "Man with 100-plus prior arrests accused of shoplifting again in Atlanta",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/amazon-drone-package-delivery-expansion-500-united-states-cities/507-c855c3e8-7930-44e0-b03f-22840f00eb54",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/edward-stewart-arrest.jpg.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-100-plus-prior-arrests-accused-shoplifting-again-atlanta",
      "score": 0
     },
     {
-     "title": "Chiefs\u2019 offensive coordinator Eric Bieniemy says wife is \u2018on great road to recovery\u2019",
+     "title": "Atlanta loses bid to host 2028 Democratic National Convention",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "WSB-TV",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/chiefs-offensive-coordinator-eric-bieniemy-says-wife-is-great-road-recovery/3MV5EWL44NCGRI643ZT7HS26UM/",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/05/1200/630/gettyimages-2242301615.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/atlanta-eliminated-from-2028-democratic-convention-host-pool",
      "score": 0
     },
     {
-     "title": "What a doll: Mattel\u2019s Marilyn Monroe Barbie marks 100th anniversary of actress\u2019 birth",
+     "title": "Atlanta eliminated in bid to host 2028 DNC",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "WSB-TV",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/trending/what-doll-mattels-marilyn-monroe-barbie-marks-100th-anniversary-actress-birth/2ZVIYBDPXZEV3FNFJHG5DDS4CQ/",
+     "url": "https://www.11alive.com/article/news/politics/atlanta-2028-dnc-bid-eliminated/85-b5d1e765-9b07-413f-886b-4e588c45b962",
      "score": 0
     },
     {
-     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
+     "title": "US national debt passes $40 trillion milestone",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2LRILNLEWRBXBO33C3XWFCMDIY.jpg?auth=d852b44614fcb1793480e0ed0ea2b6f9816689de67738692d4f6303e7e873453&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/trending/us-national-debt-passes-40-trillion-milestone/KW56MD3NDJH2XPFQA2G64BS5XM/",
      "score": 0
     }
    ]
@@ -107,93 +107,285 @@
    "title": "Breaking in the A",
    "items": [
     {
-     "title": "ICE accuses lawmakers of disrupting Georgia facility visit",
+     "title": "LIVE: Stockbridge mayor accused of misspending, misconduct appears in court",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "FOX 5",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/ice-accuses-lawmakers-disrupting-georgia-facility-visit",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQBKCN7EHXNHTZKTTV523GRQRZQ.jpeg?auth=c021a15ec91e65c3058a9044fd1cd80fbb313b4119c152096894885a69cc54af&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/stockbridge-mayor-accused-misspending-misconduct-appears-court/4V2F7Q4PRFHWXDCRR3QRQCAHXI/",
      "score": 0
     },
     {
-     "title": "Costco to sell Medicare Advantage plans",
+     "title": "19-year-old graduates from GSU with math degree in just 14 months",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "WSB-TV",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/trending/costco-sell-medicare-advantage-plans/BFFZA7RS3ZF4VP6MORSBB6ORTE/",
+     "url": "https://www.11alive.com/article/news/local/19-year-old-graduates-from-gsu-with-math-degree-in-just-14-months/85-aab27db8-c279-4992-aa09-645372b7a08e",
      "score": 0
     },
     {
-     "title": "Pokemon announces Polaroid collab, Pikachu-themed instant cameras",
+     "title": "Recall alert: FDA issues highest-level recall warning for Publix frozen berries",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/pokemon-polaroid-cameras-90s/507-e98626eb-d568-48e8-abb7-303c0b143982",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FN7UO47R2URGIBGBV233AU6U77A.jpg?auth=7b92ab9de16c8961141933c635885177ff96d5a0ebb3b1adf6f4be14f303c9cb&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/trending/recall-alert-fda-issues-highest-level-recall-warning-publix-frozen-berries/6ZTMDTM6DVFJZLZAUN47XHNUBI/",
      "score": 0
     },
     {
-     "title": "Warrants: Tennessee woman faces felony charges after leaving 1-year-old alone in hot car for multiple hours",
+     "title": "Amazon drone delivery bringing faster service to Atlanta",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/regional/knoxville-woman-felony-charges-after-leaving-1-year-old-in-hot-car/51-d30ed80c-a9d3-4f14-84fd-426a3faf5767",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/about-amazon-hero-prime-air-amazon-news-wl-20260817.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/amazon-drone-delivery-bringing-faster-service-atlanta",
      "score": 0
     },
     {
-     "title": "Cobb County man named as suspect in Greg Biffle home break-in investigation",
+     "title": "Army unit offers soldiers four days off for reenlistment to play new 'Grand Theft Auto'",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "11Alive",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/crime/greg-biffle-burglary-home-break-in-case-update/275-9361ae90-15b4-47e5-a26c-e31114e99035",
+     "url": "https://www.11alive.com/article/news/nation-world/army-unit-offers-soldiers-days-off-to-play-new-gta/507-da6a1576-794c-4484-bf77-9995d2d94a06",
      "score": 0
     },
     {
-     "title": "Atlanta sisters kidnapping: 911 call from mother released",
+     "title": "Danny Hall: Hall of Fame Class of 2026",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "FOX 5",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/atlanta-sisters-kidnapping-911-call-from-mother-released",
+     "cat": "Breaking",
+     "source": "atlanta:sports:ramblinwreck.com",
+     "img": "https://ramblinwreck.com/amt-media/584131/",
+     "url": "https://ramblinwreck.com/danny-hall-hall-of-fame-class-of-2026/",
      "score": 0
     },
     {
-     "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
+     "title": "Man with 100-plus prior arrests accused of shoplifting again in Atlanta",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/amazon-drone-package-delivery-expansion-500-united-states-cities/507-c855c3e8-7930-44e0-b03f-22840f00eb54",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/edward-stewart-arrest.jpg.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-100-plus-prior-arrests-accused-shoplifting-again-atlanta",
      "score": 0
     },
     {
-     "title": "Chiefs\u2019 offensive coordinator Eric Bieniemy says wife is \u2018on great road to recovery\u2019",
+     "title": "Atlanta loses bid to host 2028 Democratic National Convention",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "WSB-TV",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/chiefs-offensive-coordinator-eric-bieniemy-says-wife-is-great-road-recovery/3MV5EWL44NCGRI643ZT7HS26UM/",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/05/1200/630/gettyimages-2242301615.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/atlanta-eliminated-from-2028-democratic-convention-host-pool",
      "score": 0
     },
     {
-     "title": "What a doll: Mattel\u2019s Marilyn Monroe Barbie marks 100th anniversary of actress\u2019 birth",
+     "title": "Atlanta eliminated in bid to host 2028 DNC",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "WSB-TV",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/trending/what-doll-mattels-marilyn-monroe-barbie-marks-100th-anniversary-actress-birth/2ZVIYBDPXZEV3FNFJHG5DDS4CQ/",
+     "url": "https://www.11alive.com/article/news/politics/atlanta-2028-dnc-bid-eliminated/85-b5d1e765-9b07-413f-886b-4e588c45b962",
      "score": 0
     },
     {
-     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
+     "title": "US national debt passes $40 trillion milestone",
      "desc": "",
-     "cat": "breaking_news",
-     "source": "11Alive",
+     "cat": "Breaking",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2LRILNLEWRBXBO33C3XWFCMDIY.jpg?auth=d852b44614fcb1793480e0ed0ea2b6f9816689de67738692d4f6303e7e873453&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/trending/us-national-debt-passes-40-trillion-milestone/KW56MD3NDJH2XPFQA2G64BS5XM/",
+     "score": 0
+    }
+   ]
+  },
+  {
+   "id": "culture",
+   "title": "ATL Culture",
+   "items": [
+    {
+     "title": "Atlanta food truck owner asks for help after theft",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/l0u0hpbhczba77lj/1200/630/q46pmtve8qcq2fpk.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/atlanta-food-truck-owner-asks-help-after-theft",
+     "score": 0
+    },
+    {
+     "title": "Gunfire hits apartments, cars in southwest Atlanta",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/4hujpbvq70c3t2mi/1200/630/826ij1lzl68tblkp.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta",
+     "score": 0
+    },
+    {
+     "title": "MARTA hosting job fair, offering signing bonus for certain positions",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FO62K4UXPGZGLLE3PEZ52NL5NKI.jpeg?auth=fbdde15cb3db14ddd21eb916055f7637bdeb73310a408e5b2a6625c8f6b38678&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/marta-hosting-job-fair-offering-signing-bonus-certain-positions/V6YLPKV3S5B2BI2VLA7BIXJKLE/",
+     "score": 0
+    },
+    {
+     "title": "Overnight shooting damages car, apartments in southwest Atlanta",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
+     "url": "https://www.atlantanewsfirst.com/2026/08/20/overnight-shooting-damages-car-apartments-southwest-atlanta/",
+     "score": 0
+    },
+    {
+     "title": "SWAT respond to DeKalb apartment complex with someone barricaded inside",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/dekalb-county/swat-respond-dekalb-apartment-complex-with-someone-barricaded-inside/NHMALZMKIBD5LDRGZVFFL3SSOI/",
+     "score": 0
+    },
+    {
+     "title": "SWAT responds to barricaded man at DeKalb County apartments",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/swat-responds-barricaded-man-dekalb-county-apartments",
+     "score": 0
+    },
+    {
+     "title": "DeKalb Police at scene of apparent barricaded person at apartment complex",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/crime/dekalb-police-scene-apparent-barricaded-person/85-56fe1f32-e961-41e5-a29d-1beae05e781f",
+     "score": 0
+    },
+    {
+     "title": "Milligan University identifies 2 cyclists killed after crash in Carter County involving vehicle",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/state/crash-involving-vehicle-milligan-university-cyclists-carter-county/51-568e082b-1830-4651-b561-415b4dd12bb5",
+     "score": 0
+    },
+    {
+     "title": "Statewide manhunt for 'armed and dangerous' Sparta man",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/statewide-manhunt-armed-dangerous-sparta-man",
+     "score": 0
+    },
+    {
+     "title": "Sandy Springs illegal after-hours club shut down after fight inside leads to shooting",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/local/sandy-springs-illegal-after-hours-club-shut-down-after-fight-inside-leads-to-shooting-outside/85-8a2deadc-efa8-4d7c-a560-5e86698bfe2f",
+     "score": 0
+    }
+   ]
+  },
+  {
+   "id": "sports",
+   "title": "ATL Sports",
+   "items": [
+    {
+     "title": "Mercedes-Benz voted best NFL stadium in the country",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/local/mercedes-benz-voted-best-nfl-stadium-in-the-country/85-1286f196-812d-45bd-95c4-08f85fdb3030",
+     "score": 0
+    },
+    {
+     "title": "Former UGA, NFL player says alleged scheme wiped out $500K savings",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/tae-crowder-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/former-uga-nfl-player-says-alleged-scheme-wiped-out-500k-savings",
+     "score": 0
+    },
+    {
+     "title": "Georgia women\u2019s soccer aims to break NCAA attendance record with match at Sanford Stadium",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/georgia-womens-soccer-aims-break-ncaa-attendance-record-sanford-stadium/QS65QJ6N2VGBFHS7BKSSSNNZ3I/",
+     "score": 0
+    },
+    {
+     "title": "Former UGA linebacker says he lost life savings to scammer, asks for help",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/19/former-uga-linebacker-says-he-lost-life-savings-scammer-asks-help/",
+     "score": 0
+    },
+    {
+     "title": "\u2018World-class\u2019 Mercedes-Benz Stadium voted best NFL stadium in USA Today poll",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/19/world-class-mercedes-benz-stadium-voted-best-nfl-stadium-usa-today-poll/",
+     "score": 0
+    },
+    {
+     "title": "UGA and Progressive announce new Sanford Stadium partnership, sponsorship",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/sports/college/university-of-georgia/uga-progressive-announce-new-sanford-stadium-partnership-sponsorship/O3XZJWBVTBEIDN2N6XN2IP2NLE/",
+     "score": 0
+    },
+    {
+     "title": "Brewers tie MLB record with 22-0 victory against Mariners",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/brewers-tie-mlb-record-with-22-0-victory-against-mariners/QHJD2QRYU5HIDK7YWQKQVSIH2Y/",
+     "score": 0
+    },
+    {
+     "title": "Georgia Tech Breaks Record for Student Season Tickets for Third-Straight Year",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:ramblinwreck.com",
+     "img": "",
+     "url": "https://ramblinwreck.com/georgia-tech-breaks-record-for-student-season-tickets-for-third-straight-year/",
+     "score": 0
+    },
+    {
+     "title": "2026-27 Georgia Tech Golf Schedule Unveiled",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:ramblinwreck.com",
+     "img": "",
+     "url": "https://ramblinwreck.com/2026-27-georgia-tech-golf-schedule-unveiled/",
+     "score": 0
+    },
+    {
+     "title": "Former Falcons player says he\u2019s grateful for support after mother\u2019s murder",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/atlanta/former-falcons-player-says-hes-grateful-support-after-mothers-murder/W32HGUQXO5GHRONTWP4YYMLQFA/",
      "score": 0
     }
    ]
