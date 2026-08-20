@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-20T09:49:05",
+ "updated": "2026-08-20T10:37:13",
  "hero": {
-  "title": "'You gotta get to them': Atlanta officers describe moments of rescuing kidnapped sisters, arresting babysitter",
+  "title": "Gunfire hits apartments, cars in southwest Atlanta",
   "desc": "",
-  "url": "https://www.11alive.com/article/news/local/atlanta-police-officers-describe-moments-of-rescuing-kidnaped-sisters/85-15456658-55e3-434a-abc9-63aa3e9eb434"
+  "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta"
  },
  "rails": [
   {
@@ -11,49 +11,40 @@
    "title": "Top 10 in Atlanta",
    "items": [
     {
-     "title": "'You gotta get to them': Atlanta officers describe moments of rescuing kidnapped sisters, arresting babysitter",
+     "title": "Gunfire hits apartments, cars in southwest Atlanta",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/4hujpbvq70c3t2mi/1200/630/826ij1lzl68tblkp.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta",
+     "score": 97
+    },
+    {
+     "title": "Lithonia man sentenced in deadly gas station shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/man-sentenced-gas-station-murder",
+     "score": 93
+    },
+    {
+     "title": "Victim in deadly Atlanta apartment shooting identified",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYDDXEJTP65BTVJ3E2MHW6FW43A.png?auth=af103c9d6df803f27ffdc3d39a11c5591edfc719f7b7706d91b028ae9f5c2c21&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/victim-deadly-atlanta-apartment-shooting-identified/W4E6TD62MZHGZLEBKAJYKY5KEU/",
+     "score": 93
+    },
+    {
+     "title": "Days after deadly shooting in Smyrna home, investigators say burglar targeted empty house \u2014 then connected him to Greg Biffle case",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/local/atlanta-police-officers-describe-moments-of-rescuing-kidnaped-sisters/85-15456658-55e3-434a-abc9-63aa3e9eb434",
-     "score": 0
-    },
-    {
-     "title": "Bodycam video shows Atlanta officers rescuing kidnapped sisters from sweltering trailer",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZAXEQTWVENGMFOMWHDJM4JAESE.jpeg?auth=4263cd6fe948a762f958c529c0ab82e0a344b2e7bc6ca58680ff37fecdba8d0b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/bodycam-video-shows-atlanta-officers-rescuing-kidnapped-sisters-sweltering-trailer/WIUUZZ7RHJFQPDB4KWBV65WBUM/",
-     "score": 0
-    },
-    {
-     "title": "Woman accused of kidnapping 2 girls faked her own pregnancy, sheriff says",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGEGXECZUWNAIDJBGZVXU5AVBIY.jpg?auth=9c8c9d8cb1135dd2a857aa1c7eb7b73dea17e376e0df48ab8ed5b443b5f6eb53&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/woman-accused-kidnapping-2-girls-faked-her-own-pregnancy-sheriff-says/HJ363DSPCFFZTBDOO23MJZ2IXY/",
-     "score": 0
-    },
-    {
-     "title": "Woman accused of kidnapping sisters met mom through Facebook group for expecting mothers",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FMBJRCYWK3VGTTH5Y2XFB7HUPCE.jpeg?auth=93c2ccbf6e11b658b32b4fcd11e2b8f0a5de3c952313a712986655506309dab7&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/woman-accused-kidnapping-sisters-met-mother-through-facebook-group-expecting-moms/7LCL2G7ZFZEXPLNBREWLJYZ5TE/",
-     "score": 0
-    },
-    {
-     "title": "LIVE: Stockbridge mayor accused of misspending, misconduct appears in court",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQBKCN7EHXNHTZKTTV523GRQRZQ.jpeg?auth=c021a15ec91e65c3058a9044fd1cd80fbb313b4119c152096894885a69cc54af&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/stockbridge-mayor-accused-misspending-misconduct-appears-court/4V2F7Q4PRFHWXDCRR3QRQCAHXI/",
-     "score": 0
+     "url": "https://www.11alive.com/article/news/local/days-after-deadly-shooting-in-smyrna-home-investigators-say-burglar-targeted-empty-house-connected-him-to-greg-biffle-case/85-3a7fe1d4-166c-4b9b-bbf7-c94eafaac88c",
+     "score": 93
     },
     {
      "title": "Metro Atlanta home shot dozens of times, narrowly missing 2-month-old",
@@ -62,16 +53,34 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNTLG5U5EQRHV7ADAY673U52YL4.jpeg?auth=60bdeb61786ac907a3b26637a277d32131a6b8c3cd2dd89a6291bf679a540dda&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/south-fulton-county/metro-atlanta-home-shot-dozens-times-narrowly-missing-2-month-old/CIONBZYX2FAFZC5T2IFRVB5D4A/",
-     "score": 0
+     "score": 90
     },
     {
-     "title": "Elon Musk calls for Derek Chauvin\u2019s release; former officer files petition to overturn murder conviction",
+     "title": "Man charged with murder after allegedly starting a house fire that killed his mother",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/3XG7RP7ZKRB25ACOMHT4NXEVQI.png?auth=e06642524bc5d7a8c673098d682d15e469eaf70ec5d5ac8c0e8978902aeda721&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/20/elon-musk-calls-derek-chauvins-release-former-officer-files-petition-overturn-murder-conviction/",
-     "score": 0
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/VACPBNBZSNE6JGPJYQ7MSVANRM.png?auth=ef23e7184dee591a161c4cf092d1b0bbcd01ba02d52070700efa0d46457aca10&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/19/man-charged-with-murder-after-allegedly-starting-house-fire-that-killed-his-mother/",
+     "score": 89
+    },
+    {
+     "title": "Talking Rock gunfire leads to high-speed chase, K-9 capture",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/75912cf4-untitled-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/talking-rock-gunfire-leads-high-speed-chase-k-9-capture",
+     "score": 85
+    },
+    {
+     "title": "Montana boy killed after being flung from carnival ride operating with missing restraints, lawsuit alleges",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/carnival.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/montana-boy-killed-after-being-flung-from-carnival-ride-operating-missing-restraints-lawsuit-alleges",
+     "score": 81
     },
     {
      "title": "Manhunt expands for armed woman after Massachusetts police officer found dead",
@@ -80,25 +89,16 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/screenshot-2026-08-19-144801.png?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/massachusetts-police-officer-found-dead-home-armed-suspect-remains-run",
-     "score": 0
+     "score": 81
     },
     {
-     "title": "Man wanted in Tennessee attempted murder, burglary case arrested in Georgia, deputies say",
+     "title": "Former Falcons player says he\u2019s grateful for support after mother\u2019s murder",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/crime/man-wanted-tennessee-attempted-murder-case-arrested-georgia-fulton-county/85-4923287a-5ed2-40bf-a101-abfadbeb6456",
-     "score": 0
-    },
-    {
-     "title": "Homeowner accused of shooting and killing man in house with estranged wife, 2 children",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/OA66WTE23BF3LCKFX7QM3N6BCE.png?auth=ab841c8a0fe2659fef1c2f5b8f3a4319fa07cc7e5b9ec4c36372ad91314dd91e&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/19/homeowner-accused-shooting-killing-man-house-with-estranged-wife-2-children/",
-     "score": 0
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUTDPXM6TO5E6BPJAXC7OHROYZY.jpg?auth=bac8606c55584b48a11399a4df2324afe819e36493eb06d665f96ac7fa708e93&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/former-falcons-player-says-hes-grateful-support-after-mothers-murder/W32HGUQXO5GHRONTWP4YYMLQFA/",
+     "score": 76
     }
    ]
   },
@@ -107,49 +107,31 @@
    "title": "Crime Watch",
    "items": [
     {
-     "title": "'You gotta get to them': Atlanta officers describe moments of rescuing kidnapped sisters, arresting babysitter",
+     "title": "Lithonia man sentenced in deadly gas station shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/man-sentenced-gas-station-murder",
+     "score": 93
+    },
+    {
+     "title": "Victim in deadly Atlanta apartment shooting identified",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYDDXEJTP65BTVJ3E2MHW6FW43A.png?auth=af103c9d6df803f27ffdc3d39a11c5591edfc719f7b7706d91b028ae9f5c2c21&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/victim-deadly-atlanta-apartment-shooting-identified/W4E6TD62MZHGZLEBKAJYKY5KEU/",
+     "score": 93
+    },
+    {
+     "title": "Days after deadly shooting in Smyrna home, investigators say burglar targeted empty house \u2014 then connected him to Greg Biffle case",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/local/atlanta-police-officers-describe-moments-of-rescuing-kidnaped-sisters/85-15456658-55e3-434a-abc9-63aa3e9eb434",
-     "score": 0
-    },
-    {
-     "title": "Bodycam video shows Atlanta officers rescuing kidnapped sisters from sweltering trailer",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZAXEQTWVENGMFOMWHDJM4JAESE.jpeg?auth=4263cd6fe948a762f958c529c0ab82e0a344b2e7bc6ca58680ff37fecdba8d0b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/bodycam-video-shows-atlanta-officers-rescuing-kidnapped-sisters-sweltering-trailer/WIUUZZ7RHJFQPDB4KWBV65WBUM/",
-     "score": 0
-    },
-    {
-     "title": "Woman accused of kidnapping 2 girls faked her own pregnancy, sheriff says",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGEGXECZUWNAIDJBGZVXU5AVBIY.jpg?auth=9c8c9d8cb1135dd2a857aa1c7eb7b73dea17e376e0df48ab8ed5b443b5f6eb53&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/woman-accused-kidnapping-2-girls-faked-her-own-pregnancy-sheriff-says/HJ363DSPCFFZTBDOO23MJZ2IXY/",
-     "score": 0
-    },
-    {
-     "title": "Woman accused of kidnapping sisters met mom through Facebook group for expecting mothers",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FMBJRCYWK3VGTTH5Y2XFB7HUPCE.jpeg?auth=93c2ccbf6e11b658b32b4fcd11e2b8f0a5de3c952313a712986655506309dab7&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/woman-accused-kidnapping-sisters-met-mother-through-facebook-group-expecting-moms/7LCL2G7ZFZEXPLNBREWLJYZ5TE/",
-     "score": 0
-    },
-    {
-     "title": "LIVE: Stockbridge mayor accused of misspending, misconduct appears in court",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQBKCN7EHXNHTZKTTV523GRQRZQ.jpeg?auth=c021a15ec91e65c3058a9044fd1cd80fbb313b4119c152096894885a69cc54af&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/stockbridge-mayor-accused-misspending-misconduct-appears-court/4V2F7Q4PRFHWXDCRR3QRQCAHXI/",
-     "score": 0
+     "url": "https://www.11alive.com/article/news/local/days-after-deadly-shooting-in-smyrna-home-investigators-say-burglar-targeted-empty-house-connected-him-to-greg-biffle-case/85-3a7fe1d4-166c-4b9b-bbf7-c94eafaac88c",
+     "score": 93
     },
     {
      "title": "Metro Atlanta home shot dozens of times, narrowly missing 2-month-old",
@@ -158,16 +140,34 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNTLG5U5EQRHV7ADAY673U52YL4.jpeg?auth=60bdeb61786ac907a3b26637a277d32131a6b8c3cd2dd89a6291bf679a540dda&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/south-fulton-county/metro-atlanta-home-shot-dozens-times-narrowly-missing-2-month-old/CIONBZYX2FAFZC5T2IFRVB5D4A/",
-     "score": 0
+     "score": 90
     },
     {
-     "title": "Elon Musk calls for Derek Chauvin\u2019s release; former officer files petition to overturn murder conviction",
+     "title": "Man charged with murder after allegedly starting a house fire that killed his mother",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/3XG7RP7ZKRB25ACOMHT4NXEVQI.png?auth=e06642524bc5d7a8c673098d682d15e469eaf70ec5d5ac8c0e8978902aeda721&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/20/elon-musk-calls-derek-chauvins-release-former-officer-files-petition-overturn-murder-conviction/",
-     "score": 0
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/VACPBNBZSNE6JGPJYQ7MSVANRM.png?auth=ef23e7184dee591a161c4cf092d1b0bbcd01ba02d52070700efa0d46457aca10&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/19/man-charged-with-murder-after-allegedly-starting-house-fire-that-killed-his-mother/",
+     "score": 89
+    },
+    {
+     "title": "Talking Rock gunfire leads to high-speed chase, K-9 capture",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/75912cf4-untitled-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/talking-rock-gunfire-leads-high-speed-chase-k-9-capture",
+     "score": 85
+    },
+    {
+     "title": "Montana boy killed after being flung from carnival ride operating with missing restraints, lawsuit alleges",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/carnival.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/montana-boy-killed-after-being-flung-from-carnival-ride-operating-missing-restraints-lawsuit-alleges",
+     "score": 81
     },
     {
      "title": "Manhunt expands for armed woman after Massachusetts police officer found dead",
@@ -176,25 +176,43 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/screenshot-2026-08-19-144801.png?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/massachusetts-police-officer-found-dead-home-armed-suspect-remains-run",
-     "score": 0
+     "score": 81
     },
     {
-     "title": "Man wanted in Tennessee attempted murder, burglary case arrested in Georgia, deputies say",
+     "title": "Former Falcons player says he\u2019s grateful for support after mother\u2019s murder",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUTDPXM6TO5E6BPJAXC7OHROYZY.jpg?auth=bac8606c55584b48a11399a4df2324afe819e36493eb06d665f96ac7fa708e93&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/former-falcons-player-says-hes-grateful-support-after-mothers-murder/W32HGUQXO5GHRONTWP4YYMLQFA/",
+     "score": 76
+    },
+    {
+     "title": "Louisiana deputy fired after using Flock cameras to search his former fianc\u00e9e's plate over 3,000 times",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/crime/man-wanted-tennessee-attempted-murder-case-arrested-georgia-fulton-county/85-4923287a-5ed2-40bf-a101-abfadbeb6456",
-     "score": 0
+     "url": "https://www.11alive.com/article/news/nation-world/deputy-fired-using-flock-search-plate-3000-times/507-b3950aed-4e0c-434a-81a0-5cf3cb144220",
+     "score": 68
     },
     {
-     "title": "Homeowner accused of shooting and killing man in house with estranged wife, 2 children",
+     "title": "Police shut down Nubia Caf\u00e9 after weekend shooting in Sandy Springs",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/OA66WTE23BF3LCKFX7QM3N6BCE.png?auth=ab841c8a0fe2659fef1c2f5b8f3a4319fa07cc7e5b9ec4c36372ad91314dd91e&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/19/homeowner-accused-shooting-killing-man-house-with-estranged-wife-2-children/",
-     "score": 0
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/778950310_1493108569524860_4455123630131223045_n-e1787190418870.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/police-shut-down-nubia-cafe-after-weekend-shooting-sandy-springs",
+     "score": 68
+    },
+    {
+     "title": "Sandy Springs illegal after-hours club shut down after fight inside leads to shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/local/sandy-springs-illegal-after-hours-club-shut-down-after-fight-inside-leads-to-shooting-outside/85-8a2deadc-efa8-4d7c-a560-5e86698bfe2f",
+     "score": 68
     }
    ]
   },
@@ -203,40 +221,22 @@
    "title": "Sports",
    "items": [
     {
-     "title": "Former UGA, NFL player says alleged scheme wiped out $500K savings",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/former-uga-nfl-player-says-alleged-scheme-wiped-out-500k-savings",
-     "score": 0
-    },
-    {
-     "title": "Former UGA linebacker says he lost life savings to scammer, asks for help",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/19/former-uga-linebacker-says-he-lost-life-savings-scammer-asks-help/",
-     "score": 0
-    },
-    {
-     "title": "UGA and Progressive announce new Sanford Stadium partnership, sponsorship",
+     "title": "Georgia women\u2019s soccer aims to break NCAA attendance record with match at Sanford Stadium",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
-     "url": "https://www.wsbtv.com/sports/college/university-of-georgia/uga-progressive-announce-new-sanford-stadium-partnership-sponsorship/O3XZJWBVTBEIDN2N6XN2IP2NLE/",
-     "score": 0
+     "url": "https://www.wsbtv.com/news/local/georgia-womens-soccer-aims-break-ncaa-attendance-record-sanford-stadium/QS65QJ6N2VGBFHS7BKSSSNNZ3I/",
+     "score": 48
     },
     {
-     "title": "Danny Hall: Hall of Fame Class of 2026",
+     "title": "Georgia Tech #ProJackets Report",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:sports:ramblinwreck.com",
      "img": "",
-     "url": "https://ramblinwreck.com/danny-hall-hall-of-fame-class-of-2026/",
-     "score": 0
+     "url": "https://ramblinwreck.com/georgia-tech-projackets-report-2/",
+     "score": 42
     },
     {
      "title": "Mercedes-Benz voted best NFL stadium in the country",
@@ -245,15 +245,51 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/local/mercedes-benz-voted-best-nfl-stadium-in-the-country/85-1286f196-812d-45bd-95c4-08f85fdb3030",
-     "score": 0
+     "score": 40
     },
     {
-     "title": "Georgia women\u2019s soccer aims to break NCAA attendance record with match at Sanford Stadium",
+     "title": "Former UGA, NFL player says alleged scheme wiped out $500K savings",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
+     "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/local/georgia-womens-soccer-aims-break-ncaa-attendance-record-sanford-stadium/QS65QJ6N2VGBFHS7BKSSSNNZ3I/",
+     "url": "https://www.fox5atlanta.com/news/former-uga-nfl-player-says-alleged-scheme-wiped-out-500k-savings",
+     "score": 40
+    },
+    {
+     "title": "Danny Hall: Hall of Fame Class of 2026",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:ramblinwreck.com",
+     "img": "",
+     "url": "https://ramblinwreck.com/danny-hall-hall-of-fame-class-of-2026/",
+     "score": 38
+    },
+    {
+     "title": "Georgia Tech Breaks Record for Student Season Tickets for Third-Straight Year",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:ramblinwreck.com",
+     "img": "",
+     "url": "https://ramblinwreck.com/georgia-tech-breaks-record-for-student-season-tickets-for-third-straight-year/",
+     "score": 32
+    },
+    {
+     "title": "2026-27 Georgia Tech Golf Schedule Unveiled",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:ramblinwreck.com",
+     "img": "",
+     "url": "https://ramblinwreck.com/2026-27-georgia-tech-golf-schedule-unveiled/",
+     "score": 32
+    },
+    {
+     "title": "Former UGA linebacker says he lost life savings to scammer, asks for help",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/19/former-uga-linebacker-says-he-lost-life-savings-scammer-asks-help/",
      "score": 0
     },
     {
@@ -284,12 +320,12 @@
      "score": 0
     },
     {
-     "title": "Brewers tie MLB record with 22-0 victory against Mariners",
+     "title": "UGA and Progressive announce new Sanford Stadium partnership, sponsorship",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/trending/brewers-tie-mlb-record-with-22-0-victory-against-mariners/QHJD2QRYU5HIDK7YWQKQVSIH2Y/",
+     "url": "https://www.wsbtv.com/sports/college/university-of-georgia/uga-progressive-announce-new-sanford-stadium-partnership-sponsorship/O3XZJWBVTBEIDN2N6XN2IP2NLE/",
      "score": 0
     }
    ]
@@ -299,93 +335,111 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Montana boy killed after being flung from carnival ride operating with missing restraints, lawsuit alleges",
+     "title": "Gunfire hits apartments, cars in southwest Atlanta",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/carnival.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/montana-boy-killed-after-being-flung-from-carnival-ride-operating-missing-restraints-lawsuit-alleges",
-     "score": 0
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/4hujpbvq70c3t2mi/1200/630/826ij1lzl68tblkp.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta",
+     "score": 97
     },
     {
-     "title": "Charles Hosch disappearance: Memorial planned for missing hiker",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/charles-hosch-disappearance-memorial-planned-missing-hiker",
-     "score": 0
-    },
-    {
-     "title": "Embattled Stockbridge mayor expected in court for emergency hearing",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/20/embattled-stockbridge-mayor-expected-court-emergency-hearing/",
-     "score": 0
-    },
-    {
-     "title": "City of Stockbridge reaches settlement with Mayor Jaden Williams",
+     "title": "Atlanta food truck owner asks for help after theft",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
-     "url": "https://www.fox5atlanta.com/news/city-stockbridge-reaches-settlement-mayor-jaden-williams",
-     "score": 0
+     "url": "https://www.fox5atlanta.com/news/atlanta-food-truck-owner-asks-help-after-theft",
+     "score": 54
     },
     {
-     "title": "Data center task force proposal goes back to Atlanta City Council committee, mayor's office works on data center strategy",
+     "title": "Start collecting your canned goods for the 44th annual 11Alive Holiday Can-A-Thon!",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/local/data-center-task-force-proposal-goes-back-to-atlanta-city-council-committee-mayors-office-works-data-center-strategy/85-78b5f26a-edfa-4efd-b7b5-a83b04a4bbcc",
-     "score": 0
+     "url": "https://www.11alive.com/article/news/local/outreach/can-a-thon/44th-annual-11alive-holiday-can-a-thon-start-collecting-cans-december-4-2026/85-03a1a789-d735-4604-a9f2-40cd33c4fbde",
+     "score": 46
     },
     {
-     "title": "Watch: Bodycam video shows when Covington officer was dragged",
+     "title": "19-year-old graduates from GSU with math degree in just 14 months",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/local/19-year-old-graduates-from-gsu-with-math-degree-in-just-14-months/85-aab27db8-c279-4992-aa09-645372b7a08e",
+     "score": 46
+    },
+    {
+     "title": "MARTA hosting job fair, offering signing bonus for certain positions",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/marta-hosting-job-fair-offering-signing-bonus-certain-positions/V6YLPKV3S5B2BI2VLA7BIXJKLE/",
+     "score": 40
+    },
+    {
+     "title": "SWAT respond to DeKalb apartment complex with someone barricaded inside",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/dekalb-county/swat-respond-dekalb-apartment-complex-with-someone-barricaded-inside/NHMALZMKIBD5LDRGZVFFL3SSOI/",
+     "score": 34
+    },
+    {
+     "title": "SWAT responds to barricaded man at DeKalb County apartments",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
-     "url": "https://www.fox5atlanta.com/news/watch-bodycam-video-shows-when-covington-officer-was-dragged",
+     "url": "https://www.fox5atlanta.com/news/swat-responds-barricaded-man-dekalb-county-apartments",
+     "score": 34
+    },
+    {
+     "title": "\u2018Unbearable\u2019 gravel road remains unfixed: \u2018MARTA Mobility got stuck, UPS got stuck\u2019",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/unbearable-gravel-road-remains-unfixed-marta-mobility-got-stuck-ups-got-stuck/OIRQAKYXDRHUDE6HVY5TQUANSI/",
      "score": 0
     },
     {
-     "title": "Former officer jailed after allegedly doing more than 350 Flock searches of same license plate",
+     "title": "Creator of custom, souped-up go-kart now selling builds",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/20/former-officer-jailed-after-allegedly-doing-more-than-350-flock-searches-same-license/",
+     "url": "https://www.atlantanewsfirst.com/2026/08/20/creator-custom-souped-up-go-kart-now-selling-builds/",
      "score": 0
     },
     {
-     "title": "Flock camera helps nab Florida corrections officers in LEGO heist: deputies",
+     "title": "MARTA riders call for return of service, security seen during World Cup",
      "desc": "",
      "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.fox5atlanta.com/news/flock-camera-helps-nab-florida-corrections-officers-lego-heist-deputies",
+     "url": "https://www.atlantanewsfirst.com/2026/08/20/marta-riders-call-return-service-security-seen-during-world-cup/",
      "score": 0
     },
     {
-     "title": "CBP officers seize $67 million in illegal drugs at San Diego border ports, DHS says",
+     "title": "Dog food recalled due to salmonella contamination; 3 illnesses reported",
      "desc": "",
      "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
+     "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.fox5atlanta.com/news/officers-seize-illegal-drugs-san-diego-border",
+     "url": "https://www.11alive.com/article/news/nation-world/dog-food-recall-salmonella-contamination-omas-pride-chicken-recipe/507-a27a37c5-50e4-488a-99f0-d414c6645b5f",
      "score": 0
     },
     {
-     "title": "Driver sought after DeKalb crash knocks down power lines",
+     "title": "2 Georgia deputies from same department die less than 24 hours apart",
      "desc": "",
      "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
+     "source": "atlanta:news:www.wsbtv.com",
      "img": "",
-     "url": "https://www.fox5atlanta.com/news/driver-sought-after-dekalb-crash-knocks-down-power-lines",
+     "url": "https://www.wsbtv.com/news/georgia/2-georgia-deputies-die-less-than-24-hours-apart/5IBEHJ2ONVF4LIUPUAYQS57AZQ/",
      "score": 0
     }
    ]
