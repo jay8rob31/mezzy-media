@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T10:37:13",
+ "updated": "2026-08-20T10:45:48",
  "hero": {
   "title": "Gunfire hits apartments, cars in southwest Atlanta",
   "desc": "",
@@ -24,7 +24,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
+     "img": "art/crime.jpg",
      "url": "https://www.fox5atlanta.com/news/man-sentenced-gas-station-murder",
      "score": 93
     },
@@ -42,7 +42,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/local/days-after-deadly-shooting-in-smyrna-home-investigators-say-burglar-targeted-empty-house-connected-him-to-greg-biffle-case/85-3a7fe1d4-166c-4b9b-bbf7-c94eafaac88c",
      "score": 93
     },
@@ -74,15 +74,6 @@
      "score": 85
     },
     {
-     "title": "Montana boy killed after being flung from carnival ride operating with missing restraints, lawsuit alleges",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/carnival.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/montana-boy-killed-after-being-flung-from-carnival-ride-operating-missing-restraints-lawsuit-alleges",
-     "score": 81
-    },
-    {
      "title": "Manhunt expands for armed woman after Massachusetts police officer found dead",
      "desc": "",
      "cat": "Crime",
@@ -99,6 +90,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUTDPXM6TO5E6BPJAXC7OHROYZY.jpg?auth=bac8606c55584b48a11399a4df2324afe819e36493eb06d665f96ac7fa708e93&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/former-falcons-player-says-hes-grateful-support-after-mothers-murder/W32HGUQXO5GHRONTWP4YYMLQFA/",
      "score": 76
+    },
+    {
+     "title": "Police shut down Nubia Caf\u00e9 after weekend shooting in Sandy Springs",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/778950310_1493108569524860_4455123630131223045_n-e1787190418870.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/police-shut-down-nubia-cafe-after-weekend-shooting-sandy-springs",
+     "score": 68
     }
    ]
   },
@@ -111,7 +111,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
+     "img": "art/crime.jpg",
      "url": "https://www.fox5atlanta.com/news/man-sentenced-gas-station-murder",
      "score": 93
     },
@@ -129,7 +129,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/local/days-after-deadly-shooting-in-smyrna-home-investigators-say-burglar-targeted-empty-house-connected-him-to-greg-biffle-case/85-3a7fe1d4-166c-4b9b-bbf7-c94eafaac88c",
      "score": 93
     },
@@ -161,15 +161,6 @@
      "score": 85
     },
     {
-     "title": "Montana boy killed after being flung from carnival ride operating with missing restraints, lawsuit alleges",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/carnival.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/montana-boy-killed-after-being-flung-from-carnival-ride-operating-missing-restraints-lawsuit-alleges",
-     "score": 81
-    },
-    {
      "title": "Manhunt expands for armed woman after Massachusetts police officer found dead",
      "desc": "",
      "cat": "Crime",
@@ -188,15 +179,6 @@
      "score": 76
     },
     {
-     "title": "Louisiana deputy fired after using Flock cameras to search his former fianc\u00e9e's plate over 3,000 times",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/deputy-fired-using-flock-search-plate-3000-times/507-b3950aed-4e0c-434a-81a0-5cf3cb144220",
-     "score": 68
-    },
-    {
      "title": "Police shut down Nubia Caf\u00e9 after weekend shooting in Sandy Springs",
      "desc": "",
      "cat": "Crime",
@@ -206,12 +188,30 @@
      "score": 68
     },
     {
-     "title": "Sandy Springs illegal after-hours club shut down after fight inside leads to shooting",
+     "title": "Person hospitalized after shooting at Tallapoosa home, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/wanf-lns-overnight-feed-8_19_26-wagame001_mxf_00.00.45.04.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/person-hospitalized-after-shooting-tallapoosa-home-police-say",
+     "score": 68
+    },
+    {
+     "title": "Police investigating after shooting at DeKalb County apartments",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/glen-hollow-apts-shooting-aerials-wagame001_mxf_00.02.36.32.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/police-investigating-after-shooting-dekalb-county-apartments",
+     "score": 68
+    },
+    {
+     "title": "'You gotta get to them': Atlanta officers describe moments of rescuing kidnapped sisters, arresting babysitter",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/local/sandy-springs-illegal-after-hours-club-shut-down-after-fight-inside-leads-to-shooting-outside/85-8a2deadc-efa8-4d7c-a560-5e86698bfe2f",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/local/atlanta-police-officers-describe-moments-of-rescuing-kidnaped-sisters/85-15456658-55e3-434a-abc9-63aa3e9eb434",
      "score": 68
     }
    ]
@@ -225,7 +225,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FH3VLNM435FGD3LBRT25ANWZ3MM.png?auth=c604e06c248f129f5028d1bffd6a9a9c53b7449cb29f21918ff5f664dc46fce1&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/georgia-womens-soccer-aims-break-ncaa-attendance-record-sanford-stadium/QS65QJ6N2VGBFHS7BKSSSNNZ3I/",
      "score": 48
     },
@@ -234,7 +234,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:sports:ramblinwreck.com",
-     "img": "",
+     "img": "https://ramblinwreck.com/imgproxy/DrfQ7blup3oWHxszsiiagGDC06a9rly56jwMNj0EMOs/fit/2500/2500/ce/0/aHR0cHM6Ly9yYW1ibGlud3JlY2suY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI2LzA4L2FtdC1lZmQzNDM5YjJjNTAwZTIzYjBkZTQ2ZjQ5ODhmYTQyMGJiMTk1ZTk4LXN0ZWVsbWFuUl9HZXR0eUltYWdlcy0yMjkwNzc1OTI5LmpwZw.jpg",
      "url": "https://ramblinwreck.com/georgia-tech-projackets-report-2/",
      "score": 42
     },
@@ -243,7 +243,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/sports.jpg",
      "url": "https://www.11alive.com/article/news/local/mercedes-benz-voted-best-nfl-stadium-in-the-country/85-1286f196-812d-45bd-95c4-08f85fdb3030",
      "score": 40
     },
@@ -311,21 +311,21 @@
      "score": 0
     },
     {
-     "title": "\u2018World-class\u2019 Mercedes-Benz Stadium voted best NFL stadium in USA Today poll",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/19/world-class-mercedes-benz-stadium-voted-best-nfl-stadium-usa-today-poll/",
-     "score": 0
-    },
-    {
      "title": "UGA and Progressive announce new Sanford Stadium partnership, sponsorship",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/sports/college/university-of-georgia/uga-progressive-announce-new-sanford-stadium-partnership-sponsorship/O3XZJWBVTBEIDN2N6XN2IP2NLE/",
+     "score": 0
+    },
+    {
+     "title": "Brewers tie MLB record with 22-0 victory against Mariners",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/brewers-tie-mlb-record-with-22-0-victory-against-mariners/QHJD2QRYU5HIDK7YWQKQVSIH2Y/",
      "score": 0
     }
    ]
@@ -348,7 +348,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/l0u0hpbhczba77lj/1200/630/q46pmtve8qcq2fpk.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/atlanta-food-truck-owner-asks-help-after-theft",
      "score": 54
     },
@@ -357,7 +357,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/culture.jpg",
      "url": "https://www.11alive.com/article/news/local/outreach/can-a-thon/44th-annual-11alive-holiday-can-a-thon-start-collecting-cans-december-4-2026/85-03a1a789-d735-4604-a9f2-40cd33c4fbde",
      "score": 46
     },
@@ -366,7 +366,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/culture.jpg",
      "url": "https://www.11alive.com/article/news/local/19-year-old-graduates-from-gsu-with-math-degree-in-just-14-months/85-aab27db8-c279-4992-aa09-645372b7a08e",
      "score": 46
     },
@@ -395,7 +395,7 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
      "url": "https://www.fox5atlanta.com/news/swat-responds-barricaded-man-dekalb-county-apartments",
-     "score": 34
+     "score": 0
     },
     {
      "title": "\u2018Unbearable\u2019 gravel road remains unfixed: \u2018MARTA Mobility got stuck, UPS got stuck\u2019",
