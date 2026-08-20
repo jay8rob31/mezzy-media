@@ -17,9 +17,10 @@ button,a{font:inherit;color:inherit}
 .avatar{width:30px;height:30px;border-radius:6px;background:linear-gradient(135deg,var(--gold2),#6e5316)}
 
 /* ===== WEATHER-REACTIVE HERO — logo IS the hero, like V6 ===== */
-.hero{position:relative;min-height:76svh;display:flex;align-items:flex-end;padding:0 clamp(18px,5vw,72px) 130px;overflow:hidden;background:#000}
-.hero-logo-bg{position:absolute;inset:0;z-index:0;background:#000 url('logo.jpg') center center/contain no-repeat}
-.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,var(--bg) 0%,rgba(8,8,8,.1) 26%,transparent 60%);z-index:1}
+.hero{position:relative;min-height:80svh;display:flex;align-items:flex-end;padding:0 clamp(18px,5vw,72px) 130px;overflow:hidden;background:#000}
+.hero-logo-bg{position:absolute;top:0;left:0;right:0;bottom:88px;z-index:0;background:#000 url('logo.jpg') center 30%/contain no-repeat}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,var(--bg) 0%,transparent 14%);z-index:1}
+.rail-section{scroll-margin-top:76px}
 .wx-effects{position:absolute;inset:0;z-index:2;pointer-events:none;overflow:hidden}
 .wx-rain{position:absolute;inset:0;opacity:0;transition:opacity .4s}
 .raining .wx-rain{opacity:.9}
@@ -45,7 +46,8 @@ button,a{font:inherit;color:inherit}
 .rail-head{display:flex;align-items:center;padding:0 clamp(18px,4vw,54px);margin-bottom:10px}
 .rail-head h2{font-size:clamp(19px,2vw,27px);margin:0;font-weight:850;letter-spacing:-.02em}
 .rail-head button{margin-left:auto;background:transparent;border:0;font-size:34px;line-height:1;color:#aaa;cursor:pointer}
-.rail{display:flex;gap:10px;overflow-x:auto;padding:5px clamp(18px,4vw,54px) 18px;scroll-snap-type:x proximity;scrollbar-width:none}
+.rail{display:flex;gap:10px;overflow-x:auto;padding:5px clamp(18px,4vw,54px) 18px;scroll-snap-type:x proximity;scroll-padding-left:clamp(18px,4vw,54px);scrollbar-width:none}
+#rail-trending{scroll-padding-left:calc(clamp(18px,4vw,54px) + 52px)}
 .rail::-webkit-scrollbar{display:none}
 .tile{position:relative;flex:0 0 clamp(260px,27vw,390px);aspect-ratio:16/9;border-radius:7px;overflow:visible;background:#171717;scroll-snap-align:start;cursor:pointer;transition:transform .24s;border:0;padding:0;text-align:left;color:#fff}
 .tile-art{position:absolute;inset:0;border-radius:7px;overflow:hidden;box-shadow:0 8px 22px rgba(0,0,0,.35);
@@ -57,8 +59,10 @@ button,a{font:inherit;color:inherit}
 .tile h3{margin:0;font-size:15px;line-height:1.15;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-shadow:0 2px 7px #000}
 .meta{font-size:10px;color:#bbb;margin-top:7px;display:flex;gap:6px}
 .tile:hover,.tile:focus-visible{transform:scale(1.045);z-index:10;outline:2px solid var(--gold2)}
-#rail-trending .tile{margin-left:44px}
-#rail-trending .rank{position:absolute;z-index:3;left:-38px;bottom:12px;font-size:clamp(86px,10vw,120px);line-height:.8;font-weight:1000;color:#080808;-webkit-text-stroke:1.5px rgba(212,175,55,.72);text-shadow:0 6px 16px #000;letter-spacing:-.1em}
+#rail-trending .tile{margin-left:52px;background:transparent}
+#rail-trending .tile-art{z-index:1}
+#rail-trending .tile-info{z-index:2}
+#rail-trending .rank{position:absolute;z-index:0;left:-63px;bottom:-9px;font-size:clamp(105px,11vw,160px);line-height:.8;font-weight:1000;color:#080808;-webkit-text-stroke:2px #707070;text-shadow:0 6px 18px #000;letter-spacing:-.1em}
 
 .modal{position:fixed;inset:0;z-index:100;background:rgba(0,0,0,.8);display:none;place-items:center;padding:20px}
 .modal.open{display:grid}
@@ -80,8 +84,8 @@ button,a{font:inherit;color:inherit}
   .hero-content{position:relative;z-index:2;padding:14px 18px 26px;background:linear-gradient(180deg,rgba(8,8,8,0),var(--bg) 30%)}
   .hero-story{font-size:24px}
   .tile{flex:0 0 78vw;max-width:340px}.tile:hover{transform:none}
-  #rail-trending .tile{margin-left:38px}#rail-trending .rank{left:-34px}
-  .bottom-nav{position:fixed;display:grid;grid-template-columns:repeat(4,1fr);left:0;right:0;bottom:0;height:64px;background:rgba(10,10,10,.96);border-top:1px solid #232323;z-index:80}
+  #rail-trending .tile{margin-left:42px}#rail-trending .rank{left:-35px;font-size:86px;bottom:12px;-webkit-text-stroke-width:1.5px}
+  .bottom-nav{position:fixed;display:grid;grid-template-columns:repeat(5,1fr);left:0;right:0;bottom:0;height:64px;background:rgba(10,10,10,.96);border-top:1px solid #232323;z-index:80}
   .bottom-nav a{display:grid;place-items:center;text-decoration:none;color:#9e9e9e;font-size:9px;padding:7px 1px}.bottom-nav b{font-size:18px}
 }
 @media(prefers-reduced-motion:reduce){.wx-drop{animation:none;display:none}}
@@ -91,7 +95,7 @@ button,a{font:inherit;color:inherit}
 <header class="topbar" id="topbar">
   <a class="brand" href="#">MEZZY<small>MEDIA</small></a>
   <nav class="desktop-nav">
-    <a href="#trending">Top 10</a><a href="#breaking">Breaking</a><a href="#culture">ATL Culture</a><a href="#sports">Sports</a>
+    <a href="#trending">New &amp; Popular</a><a href="#culture">ATL Culture</a><a href="#sports">Sports</a><a href="#juzmezzy">JuzMezzy</a><a href="#shows">Originals</a><a href="#blog">Blog</a>
   </nav>
   <div class="nav-actions"><div class="live-pill">● LIVE ATL</div><div class="avatar"></div></div>
 </header>
@@ -103,7 +107,7 @@ button,a{font:inherit;color:inherit}
     <div class="kicker"><span class="dot"></span><span class="m">◆</span> First. Uncut. Atlanta.</div>
     <div class="hero-story" id="heroStory">Loading the newsroom…</div>
     <p id="heroDesc"></p>
-    <div class="hero-actions"><a class="btn primary" id="heroCta" href="#trending">▶ Watch the feed</a><a class="btn secondary" href="#breaking">More info</a></div>
+    <div class="hero-actions"><a class="btn primary" id="heroCta" href="#trending">▶ Watch the feed</a><a class="btn secondary" href="#crime">More info</a></div>
   </div>
   <div class="wx-bar">
     <div class="wx-row"><span class="wx-live">● LIVE ATL WEATHER</span><span class="wx-symbol" id="wxSym">◐</span><span class="wx-temp" id="wxTemp">—°</span><span class="wx-condition" id="wxCond">Reading conditions…</span></div>
@@ -114,6 +118,25 @@ button,a{font:inherit;color:inherit}
 <main class="content" id="rails">
   <div style="padding:40px clamp(18px,4vw,54px);color:#666" id="feedLoading">Loading the latest from the Mezzy newsroom…</div>
 </main>
+
+<section class="rail-section" id="shows">
+  <div class="rail-head"><h2>Mezzy Originals</h2></div>
+  <div class="rail">
+    <button class="tile" data-title="Toxic Tuesday with Monica" data-desc="Monica pulls up every Tuesday with the messiest, most talked-about stories in entertainment — receipts first, always." data-url="#">
+      <div class="tile-art"></div><div class="tile-info"><div class="eyebrow">Weekly · Tue</div><h3>Toxic Tuesday with Monica</h3><div class="meta"><span>Mezzy Originals</span><span>•</span><span>MEZZY</span></div></div></button>
+    <button class="tile" data-title="Fboy Friday" data-desc="Every Friday: the hall of fame nobody wants to be in. Ranked, sourced, and messy." data-url="#">
+      <div class="tile-art"></div><div class="tile-info"><div class="eyebrow">Weekly · Fri</div><h3>Fboy Friday</h3><div class="meta"><span>JuzMezzy</span><span>•</span><span>MEZZY</span></div></div></button>
+    <button class="tile" data-title="The Dawg Walk" data-desc="Jamal and Matt on everything UGA — and why Tech fans should look away." data-url="#">
+      <div class="tile-art"></div><div class="tile-info"><div class="eyebrow">Gameday</div><h3>The Dawg Walk</h3><div class="meta"><span>Mezzy Sports</span><span>•</span><span>MEZZY</span></div></div></button>
+  </div>
+</section>
+
+<section class="rail-section" id="blog">
+  <div class="rail-head"><h2>The Mezzy Blog</h2></div>
+  <div style="padding:6px clamp(18px,4vw,54px) 26px;color:#9a9a9a;font-size:14px;line-height:1.6;max-width:720px">
+    Longer reads from the newsroom — how we cover the city, what we're seeing, and the stories behind the stories. First posts drop this week.
+  </div>
+</section>
 
 <section class="disclosure">
   <b>AI + affiliate disclosure.</b> Mezzy Media uses AI-assisted editorial personas to help produce and pace coverage; a human reviews before anything is published.
@@ -132,7 +155,7 @@ button,a{font:inherit;color:inherit}
 </div>
 
 <nav class="bottom-nav">
-  <a href="#trending"><b>▲</b>Top 10</a><a href="#breaking"><b>◆</b>Breaking</a><a href="#culture"><b>♫</b>Culture</a><a href="#sports"><b>●</b>Sports</a>
+  <a href="#" class="active"><b>⌂</b>Home</a><a href="#trending"><b>◉</b>News</a><a href="#culture"><b>✦</b>Culture</a><a href="#juzmezzy"><b>☕</b>Messy</a><a href="#shows"><b>▶</b>Shows</a>
 </nav>
 
 <script>
@@ -151,14 +174,22 @@ const DEFAULT_FEED = {
       {title:"Alpharetta tech corridor is quietly hiring — here's who", cat:"Tech", source:"Mezzy Media"},
       {title:"ATL Latin food crawl: five spots off Buford Highway", cat:"Culture", source:"Mezzy Media"}
     ]},
-    { id:"breaking", title:"Breaking in the A", items:[
-      {title:"Developing: APD responds downtown — what we know so far", cat:"Breaking", source:"Mezzy Media"},
-      {title:"City council vote could reshape the BeltLine timeline", cat:"City", source:"Mezzy Media"},
-      {title:"MARTA announces weekend service changes", cat:"City", source:"Mezzy Media"}
+    { id:"crime", title:"Crime Watch", items:[
+      {title:"Developing: APD responds downtown — what we know so far", cat:"Crime", source:"Mezzy Media"},
+      {title:"Court date set in Fulton County case everyone's watching", cat:"Courts", source:"Mezzy Media"},
+      {title:"GBI joins investigation — what we can confirm", cat:"Crime", source:"Mezzy Media"}
     ]},
     { id:"culture", title:"ATL Culture", items:[
       {title:"The Southern Belle guide to a perfect Atlanta fall weekend", cat:"Lifestyle", source:"Mezzy Media"},
       {title:"New mural in the Old Fourth Ward has the city talking", cat:"Arts", source:"Mezzy Media"}
+    ]},
+    { id:"sports", title:"Sports", items:[
+      {title:"Falcons injury report: who practices, who sits", cat:"Falcons", source:"Mezzy Sports"},
+      {title:"UGA opens as heavy favorite — the number, explained", cat:"UGA", source:"Mezzy Sports"}
+    ]},
+    { id:"juzmezzy", title:"JuzMezzy", items:[
+      {title:"Fboy Friday: this week's hall of fame inductee", cat:"Messy", source:"JuzMezzy"},
+      {title:"Toxic Tuesday: Monica's receipts are ready", cat:"Messy", source:"JuzMezzy"}
     ]}
   ]
 };
@@ -188,6 +219,14 @@ function renderRail(rail){
     <div class="rail" id="rail-${esc(rail.id)}">${tiles}</div></section>`;
 }
 
+const RAIL_SPEC = [
+  {id:'trending', title:'Top 10 in Atlanta'},
+  {id:'crime',    title:'Crime Watch'},
+  {id:'sports',   title:'Sports'},
+  {id:'culture',  title:'ATL Culture'},
+  {id:'juzmezzy', title:'JuzMezzy'},
+];
+
 function renderFeed(data){
     // Hero
     if(data.hero){
@@ -195,11 +234,16 @@ function renderFeed(data){
       document.getElementById('heroDesc').textContent = data.hero.desc || '';
       if(data.hero.url) document.getElementById('heroCta').href = data.hero.url;
     }
-    // Rails
-    const rails = (data.rails||[]).filter(x=>x.items && x.items.length);
-    document.getElementById('rails').innerHTML = rails.length
-      ? rails.map(renderRail).join('')
-      : `<div style="padding:40px clamp(18px,4vw,54px);color:#888">The feed is quiet right now — the newsroom will post the moment something breaks.</div>`;
+    // Rails: fixed V6 section set — a tab ALWAYS has a home, even on a quiet lane
+    const byId = {};
+    (data.rails||[]).forEach(r=>{ if(r && r.id) byId[r.id] = r; });
+    document.getElementById('rails').innerHTML = RAIL_SPEC.map(spec=>{
+      const src = byId[spec.id];
+      if(src && src.items && src.items.length) return renderRail({id:spec.id, title:spec.title, items:src.items});
+      return `<section class="rail-section" id="${spec.id}">
+        <div class="rail-head"><h2>${spec.title}</h2></div>
+        <div style="padding:6px clamp(18px,4vw,54px) 14px;color:#7d7d7d;font-size:13px">Quiet on this lane right now — the newsroom posts the moment it moves.</div></section>`;
+    }).join('');
     wireTiles();
 }
 
