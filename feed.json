@@ -1,0 +1,38 @@
+{
+  "updated": "2026-08-19T18:00:00-04:00",
+  "hero": {
+    "title": "Aaliyah Williams breaks it down: what actually happened at the APD scene tonight",
+    "desc": "The Mezzy newsroom's lead anchor with the first clean read on tonight's developing story — sourced, timestamped, and Atlanta-first.",
+    "url": "https://mezzymedia.com/story/apd-scene"
+  },
+  "rails": [
+    {
+      "id": "trending",
+      "title": "Top 10 in Atlanta",
+      "items": [
+        { "title": "Falcons camp: three names to watch before Week 1", "cat": "Falcons", "source": "The A", "img": "", "url": "#", "desc": "Jamal breaks down the camp battles that actually matter." },
+        { "title": "6 new Atlanta restaurant openings everyone's talking about", "cat": "Food", "source": "Mezzy Media", "img": "", "url": "#", "desc": "Ashley's running list of where the city is eating this week." },
+        { "title": "Clean Old-Fashioned Hate: the rivalry angle nobody's covering", "cat": "Sports", "source": "The A", "img": "", "url": "#", "desc": "Jamal (GT) and Matt (UGA) go at it before kickoff." },
+        { "title": "Alpharetta tech corridor is quietly hiring — here's who", "cat": "Tech", "source": "Mezzy Media", "img": "", "url": "#", "desc": "Priya maps the North Fulton hiring wave." },
+        { "title": "ATL Latin food crawl: five spots off Buford Highway", "cat": "Culture", "source": "Mezzy Media", "img": "", "url": "#", "desc": "Maria's route through the best of the corridor." }
+      ]
+    },
+    {
+      "id": "breaking",
+      "title": "Breaking in the A",
+      "items": [
+        { "title": "Developing: APD responds downtown — what we know so far", "cat": "Breaking", "source": "Mezzy Media", "img": "", "url": "#", "desc": "Live updates as the newsroom confirms details." },
+        { "title": "City council vote could reshape the BeltLine timeline", "cat": "City", "source": "Mezzy Media", "img": "", "url": "#" },
+        { "title": "MARTA announces weekend service changes", "cat": "City", "source": "Mezzy Media", "img": "", "url": "#" }
+      ]
+    },
+    {
+      "id": "culture",
+      "title": "ATL Culture",
+      "items": [
+        { "title": "The Southern Belle guide to a perfect Atlanta fall weekend", "cat": "Lifestyle", "source": "Mezzy Media", "img": "", "url": "#", "desc": "Ashley's picks for the season change." },
+        { "title": "New mural in the Old Fourth Ward has the city talking", "cat": "Arts", "source": "Mezzy Media", "img": "", "url": "#" }
+      ]
+    }
+  ]
+}
