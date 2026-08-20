@@ -95,7 +95,7 @@ button,a{font:inherit;color:inherit}
 <header class="topbar" id="topbar">
   <a class="brand" href="#">MEZZY<small>MEDIA</small></a>
   <nav class="desktop-nav">
-    <a href="#trending">New &amp; Popular</a><a href="#culture">ATL Culture</a><a href="#sports">Sports</a><a href="#juzmezzy">JuzMezzy</a><a href="#shows">Originals</a><a href="#blog">Blog</a>
+    <a href="index.html">New &amp; Popular</a><a href="section.html?id=crime">Crime Watch</a><a href="section.html?id=sports">Sports</a><a href="section.html?id=culture">ATL Culture</a><a href="section.html?id=juzmezzy">JuzMezzy</a><a href="section.html?id=shows">Originals</a><a href="section.html?id=blog">Blog</a>
   </nav>
   <div class="nav-actions"><div class="live-pill">● LIVE ATL</div><div class="avatar"></div></div>
 </header>
@@ -120,7 +120,7 @@ button,a{font:inherit;color:inherit}
 </main>
 
 <section class="rail-section" id="shows">
-  <div class="rail-head"><h2>Mezzy Originals</h2></div>
+  <div class="rail-head"><h2>Mezzy Originals</h2><a href="section.html?id=shows" style="margin-left:auto;color:#c9a227;text-decoration:none;font-size:13px;font-weight:800">See all ›</a></div>
   <div class="rail">
     <button class="tile" data-title="Toxic Tuesday with Monica" data-desc="Monica pulls up every Tuesday with the messiest, most talked-about stories in entertainment — receipts first, always." data-url="#">
       <div class="tile-art"></div><div class="tile-info"><div class="eyebrow">Weekly · Tue</div><h3>Toxic Tuesday with Monica</h3><div class="meta"><span>Mezzy Originals</span><span>•</span><span>MEZZY</span></div></div></button>
@@ -132,7 +132,7 @@ button,a{font:inherit;color:inherit}
 </section>
 
 <section class="rail-section" id="blog">
-  <div class="rail-head"><h2>The Mezzy Blog</h2></div>
+  <div class="rail-head"><h2>The Mezzy Blog</h2><a href="section.html?id=blog" style="margin-left:auto;color:#c9a227;text-decoration:none;font-size:13px;font-weight:800">See all ›</a></div>
   <div style="padding:6px clamp(18px,4vw,54px) 26px;color:#9a9a9a;font-size:14px;line-height:1.6;max-width:720px">
     Longer reads from the newsroom — how we cover the city, what we're seeing, and the stories behind the stories. First posts drop this week.
   </div>
@@ -215,7 +215,7 @@ function renderRail(rail){
   const tiles = rail.items.map((it,i)=>tileHTML(it, isTop ? i+1 : 0)).join('');
   return `<section class="rail-section" id="${esc(rail.id)}">
     <div class="rail-head"><h2>${esc(rail.title)}</h2>
-      <button onclick="scrollRail('${esc(rail.id)}',1)" aria-label="Scroll ${esc(rail.title)}">›</button></div>
+      <a href="section.html?id=${esc(rail.id)}" style="margin-left:auto;color:#c9a227;text-decoration:none;font-size:13px;font-weight:800">See all ›</a></div>
     <div class="rail" id="rail-${esc(rail.id)}">${tiles}</div></section>`;
 }
 

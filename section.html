@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Mezzy Media</title>
+<style>
+:root{--bg:#080808;--card:#151515;--gold:#d4af37;--gold2:#f5df8d;--white:#fff;--muted:#b3b3b3;--red:#e50914}
+*{box-sizing:border-box}html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:#fff;font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;overflow-x:hidden}
+button,a{font:inherit;color:inherit}
+.topbar{position:fixed;top:0;left:0;right:0;height:64px;z-index:60;display:flex;align-items:center;padding:0 clamp(16px,4vw,54px);gap:26px;background:#090909;box-shadow:0 1px 0 rgba(255,255,255,.06)}
+.brand{font-weight:1000;letter-spacing:.11em;font-size:22px;color:var(--gold2);white-space:nowrap;text-decoration:none}
+.brand small{display:block;font-size:8px;letter-spacing:.42em;color:#fff;margin-top:-3px;text-align:center}
+.desktop-nav{display:flex;gap:22px;font-size:14px;color:#ddd}.desktop-nav a{text-decoration:none}.desktop-nav a:hover{color:#fff}
+.desktop-nav a.on{color:var(--gold2);font-weight:800}
+.nav-actions{margin-left:auto;display:flex;align-items:center;gap:12px}
+.live-pill{background:var(--red);font-size:11px;font-weight:900;letter-spacing:.12em;padding:7px 10px;border-radius:4px}
+
+.page-head{padding:108px clamp(18px,4vw,54px) 8px}
+.page-head .crumb{font-size:11px;letter-spacing:.18em;font-weight:900;text-transform:uppercase;color:var(--gold2)}
+.page-head h1{margin:6px 0 4px;font-size:clamp(30px,4.5vw,52px);letter-spacing:-.02em}
+.page-head p{margin:0;color:#9a9a9a;font-size:14px;max-width:640px}
+
+.grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(min(300px,80vw),1fr));padding:22px clamp(18px,4vw,54px) 70px}
+.tile{position:relative;aspect-ratio:16/9;border-radius:7px;overflow:hidden;background:#171717;cursor:pointer;transition:transform .22s;border:0;padding:0;text-align:left;color:#fff}
+.tile-art{position:absolute;inset:0;background:linear-gradient(135deg,#241a05,#111 60%,#1a1120)}
+.tile-art img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.tile-art::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(8,8,10,.92) 0%,rgba(8,8,10,.05) 58%)}
+.tile-info{position:absolute;left:0;right:0;bottom:0;padding:44px 14px 12px;z-index:2}
+.eyebrow{font-size:10px;letter-spacing:.15em;font-weight:900;text-transform:uppercase;color:var(--gold2);margin-bottom:5px}
+.tile h3{margin:0;font-size:15px;line-height:1.15;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-shadow:0 2px 7px #000}
+.meta{font-size:10px;color:#bbb;margin-top:7px;display:flex;gap:6px}
+.tile:hover{transform:scale(1.03);outline:2px solid var(--gold2)}
+.empty{padding:30px clamp(18px,4vw,54px);color:#8a8a8a}
+
+.modal{position:fixed;inset:0;z-index:100;background:rgba(0,0,0,.8);display:none;place-items:center;padding:20px}
+.modal.open{display:grid}
+.modal-card{width:min(720px,96vw);background:#181818;border-radius:10px;overflow:hidden;box-shadow:0 30px 80px #000}
+.modal-hero{height:200px;background:linear-gradient(135deg,#2a1f05,#111 55%,#3b0f42);background-size:cover;background-position:center}
+.modal-copy{padding:22px}.modal-copy h3{font-size:28px;margin:0 0 10px}.modal-copy p{color:#bbb;line-height:1.55}
+.close{float:right;border:0;background:#333;border-radius:50%;width:34px;height:34px;font-size:20px;cursor:pointer}
+.btn{border:0;border-radius:5px;padding:12px 21px;font-weight:850;display:inline-flex;align-items:center;gap:9px;cursor:pointer;text-decoration:none}
+.btn.primary{background:#fff;color:#111}
+
+.disclosure{padding:26px clamp(18px,4vw,54px) 40px;color:#7a7a7a;font-size:11px;line-height:1.6;border-top:1px solid #1c1c1c}
+.disclosure b{color:#9a9a9a}
+
+.bottom-nav{display:none}
+@media(max-width:760px){
+  body{padding-bottom:64px}
+  .topbar{height:56px;padding:0 16px}.desktop-nav{display:none}
+  .page-head{padding-top:86px}
+  .bottom-nav{position:fixed;display:grid;grid-template-columns:repeat(5,1fr);left:0;right:0;bottom:0;height:64px;background:rgba(10,10,10,.96);border-top:1px solid #232323;z-index:80}
+  .bottom-nav a{display:grid;place-items:center;text-decoration:none;color:#9e9e9e;font-size:9px;padding:7px 1px}.bottom-nav b{font-size:18px}
+}
+</style></head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="index.html">MEZZY<small>MEDIA</small></a>
+  <nav class="desktop-nav" id="dnav">
+    <a href="index.html">New &amp; Popular</a><a href="section.html?id=crime" data-id="crime">Crime Watch</a><a href="section.html?id=sports" data-id="sports">Sports</a><a href="section.html?id=culture" data-id="culture">ATL Culture</a><a href="section.html?id=juzmezzy" data-id="juzmezzy">JuzMezzy</a><a href="section.html?id=shows" data-id="shows">Originals</a><a href="section.html?id=blog" data-id="blog">Blog</a>
+  </nav>
+  <div class="nav-actions"><div class="live-pill">● LIVE ATL</div></div>
+</header>
+
+<div class="page-head">
+  <div class="crumb">Mezzy Media · Atlanta</div>
+  <h1 id="pageTitle">Loading…</h1>
+  <p id="pageDesc"></p>
+</div>
+
+<div class="grid" id="grid"></div>
+<div class="empty" id="empty" style="display:none">Quiet on this lane right now — the newsroom posts the moment it moves.</div>
+
+<section class="disclosure">
+  <b>AI + affiliate disclosure.</b> Mezzy Media uses AI-assisted editorial personas to help produce and pace coverage; a human reviews before anything is published.
+  Some links are affiliate links (Amazon Associates, tag <b>mezzymedia-20</b>) — if you buy through them, Mezzy may earn a commission at no extra cost to you.
+  Atlanta-first, all of the city. © Mezzy Media.
+</section>
+
+<div class="modal" id="modal" onclick="if(event.target===this)closeModal()">
+  <div class="modal-card">
+    <div class="modal-hero" id="mHero"></div>
+    <div class="modal-copy"><button class="close" onclick="closeModal()" aria-label="Close">×</button>
+      <h3 id="mTitle"></h3><p id="mDesc"></p>
+      <p style="margin-top:16px"><a class="btn primary" id="mLink" href="#" target="_blank" rel="noopener">Read the full story ▶</a></p>
+    </div>
+  </div>
+</div>
+
+<nav class="bottom-nav">
+  <a href="index.html"><b>⌂</b>Home</a><a href="section.html?id=crime"><b>◉</b>News</a><a href="section.html?id=culture"><b>✦</b>Culture</a><a href="section.html?id=juzmezzy"><b>☕</b>Messy</a><a href="section.html?id=shows"><b>▶</b>Shows</a>
+</nav>
+
+<script>
+const PAGES = {
+  trending:{title:'Top 10 in Atlanta', desc:'The stories moving the city right now, ranked by the Mezzy newsroom.'},
+  crime:   {title:'Crime Watch', desc:'Verified crime and public-safety coverage across metro Atlanta. Facts first, always.'},
+  sports:  {title:'Sports', desc:'Falcons, Braves, Hawks, UGA, Georgia Tech, Atlanta United — the A\u2019s teams, covered like home.'},
+  culture: {title:'ATL Culture', desc:'Food, music, art, style, and everything that makes Atlanta Atlanta.'},
+  juzmezzy:{title:'JuzMezzy', desc:'The messy side. Celebrity, entertainment, and everything everybody\u2019s whispering about.'},
+  shows:   {title:'Mezzy Originals', desc:'Weekly shows from the Mezzy newsroom bench.'},
+  blog:    {title:'The Mezzy Blog', desc:'Longer reads from the newsroom — how we cover the city and the stories behind the stories.'}
+};
+const STATIC_RAILS = {
+  shows: [
+    {title:'Toxic Tuesday with Monica', desc:'Monica pulls up every Tuesday with the messiest, most talked-about stories in entertainment — receipts first, always.', cat:'Weekly · Tue', source:'Mezzy Originals'},
+    {title:'Fboy Friday', desc:'Every Friday: the hall of fame nobody wants to be in. Ranked, sourced, and messy.', cat:'Weekly · Fri', source:'JuzMezzy'},
+    {title:'The Dawg Walk', desc:'Jamal and Matt on everything UGA — and why Tech fans should look away.', cat:'Gameday', source:'Mezzy Sports'}
+  ],
+  blog: [
+    {title:'Why Atlanta deserves better breaking news', desc:'The Mezzy Blog is warming up — first posts drop this week.', cat:'Editorial', source:'Mezzy Media'}
+  ]
+};
+
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+const qid = new URLSearchParams(location.search).get('id') || 'crime';
+const page = PAGES[qid] || PAGES.crime;
+document.title = page.title + ' — Mezzy Media';
+document.getElementById('pageTitle').textContent = page.title;
+document.getElementById('pageDesc').textContent = page.desc;
+document.querySelectorAll('#dnav a').forEach(a=>{ if(a.dataset.id===qid) a.classList.add('on'); });
+
+function tileHTML(item){
+  const art = item.img
+    ? `<div class="tile-art"><img src="${esc(item.img)}" alt="" loading="lazy" onerror="this.remove()"></div>`
+    : `<div class="tile-art"></div>`;
+  return `<button class="tile" data-title="${esc(item.title)}" data-desc="${esc(item.desc||'')}" data-url="${esc(item.url||'#')}" data-img="${esc(item.img||'')}">
+      ${art}<div class="tile-info"><div class="eyebrow">${esc(item.cat||'Mezzy')}</div>
+      <h3>${esc(item.title)}</h3>
+      <div class="meta"><span>${esc(item.source||'Mezzy Media')}</span><span>•</span><span>MEZZY</span></div></div></button>`;
+}
+function render(items){
+  const g=document.getElementById('grid');
+  if(items && items.length){ g.innerHTML = items.map(tileHTML).join(''); }
+  else { g.innerHTML=''; document.getElementById('empty').style.display='block'; }
+  g.querySelectorAll('.tile').forEach(t=>t.addEventListener('click',()=>{
+    document.getElementById('mTitle').textContent=t.dataset.title;
+    document.getElementById('mDesc').textContent=t.dataset.desc||'Full coverage on the way from the Mezzy newsroom.';
+    document.getElementById('mLink').href=t.dataset.url||'#';
+    document.getElementById('mHero').style.backgroundImage=t.dataset.img?`url("${t.dataset.img}")`:'';
+    document.getElementById('modal').classList.add('open');
+  }));
+}
+function closeModal(){document.getElementById('modal').classList.remove('open')}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});
+
+(async function(){
+  if(STATIC_RAILS[qid]) return render(STATIC_RAILS[qid]);
+  try{
+    const r = await fetch('feed.json',{cache:'no-store'});
+    const data = await r.json();
+    const rail = (data.rails||[]).find(x=>x.id===qid);
+    render(rail ? rail.items : []);
+  }catch(e){ render([]); }
+})();
+</script>
+</body></html>
