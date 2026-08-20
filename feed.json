@@ -1,38 +1,202 @@
 {
-  "updated": "2026-08-19T18:00:00-04:00",
-  "hero": {
-    "title": "Aaliyah Williams breaks it down: what actually happened at the APD scene tonight",
-    "desc": "The Mezzy newsroom's lead anchor with the first clean read on tonight's developing story — sourced, timestamped, and Atlanta-first.",
-    "url": "https://mezzymedia.com/story/apd-scene"
-  },
-  "rails": [
+ "updated": "2026-08-20T09:04:07",
+ "hero": {
+  "title": "ICE accuses lawmakers of disrupting Georgia facility visit",
+  "desc": "",
+  "url": "https://www.fox5atlanta.com/news/ice-accuses-lawmakers-disrupting-georgia-facility-visit"
+ },
+ "rails": [
+  {
+   "id": "trending",
+   "title": "Top 10 in Atlanta",
+   "items": [
     {
-      "id": "trending",
-      "title": "Top 10 in Atlanta",
-      "items": [
-        { "title": "Falcons camp: three names to watch before Week 1", "cat": "Falcons", "source": "The A", "img": "", "url": "#", "desc": "Jamal breaks down the camp battles that actually matter." },
-        { "title": "6 new Atlanta restaurant openings everyone's talking about", "cat": "Food", "source": "Mezzy Media", "img": "", "url": "#", "desc": "Ashley's running list of where the city is eating this week." },
-        { "title": "Clean Old-Fashioned Hate: the rivalry angle nobody's covering", "cat": "Sports", "source": "The A", "img": "", "url": "#", "desc": "Jamal (GT) and Matt (UGA) go at it before kickoff." },
-        { "title": "Alpharetta tech corridor is quietly hiring — here's who", "cat": "Tech", "source": "Mezzy Media", "img": "", "url": "#", "desc": "Priya maps the North Fulton hiring wave." },
-        { "title": "ATL Latin food crawl: five spots off Buford Highway", "cat": "Culture", "source": "Mezzy Media", "img": "", "url": "#", "desc": "Maria's route through the best of the corridor." }
-      ]
+     "title": "ICE accuses lawmakers of disrupting Georgia facility visit",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "FOX 5",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/ice-accuses-lawmakers-disrupting-georgia-facility-visit",
+     "score": 0
     },
     {
-      "id": "breaking",
-      "title": "Breaking in the A",
-      "items": [
-        { "title": "Developing: APD responds downtown — what we know so far", "cat": "Breaking", "source": "Mezzy Media", "img": "", "url": "#", "desc": "Live updates as the newsroom confirms details." },
-        { "title": "City council vote could reshape the BeltLine timeline", "cat": "City", "source": "Mezzy Media", "img": "", "url": "#" },
-        { "title": "MARTA announces weekend service changes", "cat": "City", "source": "Mezzy Media", "img": "", "url": "#" }
-      ]
+     "title": "Costco to sell Medicare Advantage plans",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "WSB-TV",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/costco-sell-medicare-advantage-plans/BFFZA7RS3ZF4VP6MORSBB6ORTE/",
+     "score": 0
     },
     {
-      "id": "culture",
-      "title": "ATL Culture",
-      "items": [
-        { "title": "The Southern Belle guide to a perfect Atlanta fall weekend", "cat": "Lifestyle", "source": "Mezzy Media", "img": "", "url": "#", "desc": "Ashley's picks for the season change." },
-        { "title": "New mural in the Old Fourth Ward has the city talking", "cat": "Arts", "source": "Mezzy Media", "img": "", "url": "#" }
-      ]
+     "title": "Pokemon announces Polaroid collab, Pikachu-themed instant cameras",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/pokemon-polaroid-cameras-90s/507-e98626eb-d568-48e8-abb7-303c0b143982",
+     "score": 0
+    },
+    {
+     "title": "Warrants: Tennessee woman faces felony charges after leaving 1-year-old alone in hot car for multiple hours",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/regional/knoxville-woman-felony-charges-after-leaving-1-year-old-in-hot-car/51-d30ed80c-a9d3-4f14-84fd-426a3faf5767",
+     "score": 0
+    },
+    {
+     "title": "Cobb County man named as suspect in Greg Biffle home break-in investigation",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/crime/greg-biffle-burglary-home-break-in-case-update/275-9361ae90-15b4-47e5-a26c-e31114e99035",
+     "score": 0
+    },
+    {
+     "title": "Atlanta sisters kidnapping: 911 call from mother released",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "FOX 5",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/atlanta-sisters-kidnapping-911-call-from-mother-released",
+     "score": 0
+    },
+    {
+     "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/amazon-drone-package-delivery-expansion-500-united-states-cities/507-c855c3e8-7930-44e0-b03f-22840f00eb54",
+     "score": 0
+    },
+    {
+     "title": "Chiefs\u2019 offensive coordinator Eric Bieniemy says wife is \u2018on great road to recovery\u2019",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "WSB-TV",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/chiefs-offensive-coordinator-eric-bieniemy-says-wife-is-great-road-recovery/3MV5EWL44NCGRI643ZT7HS26UM/",
+     "score": 0
+    },
+    {
+     "title": "What a doll: Mattel\u2019s Marilyn Monroe Barbie marks 100th anniversary of actress\u2019 birth",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "WSB-TV",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/what-doll-mattels-marilyn-monroe-barbie-marks-100th-anniversary-actress-birth/2ZVIYBDPXZEV3FNFJHG5DDS4CQ/",
+     "score": 0
+    },
+    {
+     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
+     "score": 0
     }
-  ]
+   ]
+  },
+  {
+   "id": "breaking",
+   "title": "Breaking in the A",
+   "items": [
+    {
+     "title": "ICE accuses lawmakers of disrupting Georgia facility visit",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "FOX 5",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/ice-accuses-lawmakers-disrupting-georgia-facility-visit",
+     "score": 0
+    },
+    {
+     "title": "Costco to sell Medicare Advantage plans",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "WSB-TV",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/costco-sell-medicare-advantage-plans/BFFZA7RS3ZF4VP6MORSBB6ORTE/",
+     "score": 0
+    },
+    {
+     "title": "Pokemon announces Polaroid collab, Pikachu-themed instant cameras",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/pokemon-polaroid-cameras-90s/507-e98626eb-d568-48e8-abb7-303c0b143982",
+     "score": 0
+    },
+    {
+     "title": "Warrants: Tennessee woman faces felony charges after leaving 1-year-old alone in hot car for multiple hours",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/regional/knoxville-woman-felony-charges-after-leaving-1-year-old-in-hot-car/51-d30ed80c-a9d3-4f14-84fd-426a3faf5767",
+     "score": 0
+    },
+    {
+     "title": "Cobb County man named as suspect in Greg Biffle home break-in investigation",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/crime/greg-biffle-burglary-home-break-in-case-update/275-9361ae90-15b4-47e5-a26c-e31114e99035",
+     "score": 0
+    },
+    {
+     "title": "Atlanta sisters kidnapping: 911 call from mother released",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "FOX 5",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/atlanta-sisters-kidnapping-911-call-from-mother-released",
+     "score": 0
+    },
+    {
+     "title": "Amazon set to expand drone delivery of lightweight packages to 500 US cities",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/amazon-drone-package-delivery-expansion-500-united-states-cities/507-c855c3e8-7930-44e0-b03f-22840f00eb54",
+     "score": 0
+    },
+    {
+     "title": "Chiefs\u2019 offensive coordinator Eric Bieniemy says wife is \u2018on great road to recovery\u2019",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "WSB-TV",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/chiefs-offensive-coordinator-eric-bieniemy-says-wife-is-great-road-recovery/3MV5EWL44NCGRI643ZT7HS26UM/",
+     "score": 0
+    },
+    {
+     "title": "What a doll: Mattel\u2019s Marilyn Monroe Barbie marks 100th anniversary of actress\u2019 birth",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "WSB-TV",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/what-doll-mattels-marilyn-monroe-barbie-marks-100th-anniversary-actress-birth/2ZVIYBDPXZEV3FNFJHG5DDS4CQ/",
+     "score": 0
+    },
+    {
+     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
+     "desc": "",
+     "cat": "breaking_news",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
+     "score": 0
+    }
+   ]
+  }
+ ]
 }
