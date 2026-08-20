@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T10:45:48",
+ "updated": "2026-08-20T11:02:04",
  "hero": {
   "title": "Gunfire hits apartments, cars in southwest Atlanta",
   "desc": "",
@@ -13,7 +13,7 @@
     {
      "title": "Gunfire hits apartments, cars in southwest Atlanta",
      "desc": "",
-     "cat": "Culture",
+     "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/4hujpbvq70c3t2mi/1200/630/826ij1lzl68tblkp.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta",
@@ -106,6 +106,15 @@
    "id": "crime",
    "title": "Crime Watch",
    "items": [
+    {
+     "title": "Gunfire hits apartments, cars in southwest Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/4hujpbvq70c3t2mi/1200/630/826ij1lzl68tblkp.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta",
+     "score": 97
+    },
     {
      "title": "Lithonia man sentenced in deadly gas station shooting",
      "desc": "",
@@ -203,15 +212,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/glen-hollow-apts-shooting-aerials-wagame001_mxf_00.02.36.32.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/police-investigating-after-shooting-dekalb-county-apartments",
-     "score": 68
-    },
-    {
-     "title": "'You gotta get to them': Atlanta officers describe moments of rescuing kidnapped sisters, arresting babysitter",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/atlanta-police-officers-describe-moments-of-rescuing-kidnaped-sisters/85-15456658-55e3-434a-abc9-63aa3e9eb434",
      "score": 68
     }
    ]
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Gunfire hits apartments, cars in southwest Atlanta",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/4hujpbvq70c3t2mi/1200/630/826ij1lzl68tblkp.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta",
-     "score": 97
-    },
-    {
      "title": "Atlanta food truck owner asks for help after theft",
      "desc": "",
      "cat": "Culture",
@@ -353,76 +344,13 @@
      "score": 54
     },
     {
-     "title": "Start collecting your canned goods for the 44th annual 11Alive Holiday Can-A-Thon!",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/culture.jpg",
-     "url": "https://www.11alive.com/article/news/local/outreach/can-a-thon/44th-annual-11alive-holiday-can-a-thon-start-collecting-cans-december-4-2026/85-03a1a789-d735-4604-a9f2-40cd33c4fbde",
-     "score": 46
-    },
-    {
      "title": "19-year-old graduates from GSU with math degree in just 14 months",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/culture.jpg",
      "url": "https://www.11alive.com/article/news/local/19-year-old-graduates-from-gsu-with-math-degree-in-just-14-months/85-aab27db8-c279-4992-aa09-645372b7a08e",
-     "score": 46
-    },
-    {
-     "title": "MARTA hosting job fair, offering signing bonus for certain positions",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/marta-hosting-job-fair-offering-signing-bonus-certain-positions/V6YLPKV3S5B2BI2VLA7BIXJKLE/",
      "score": 40
-    },
-    {
-     "title": "SWAT respond to DeKalb apartment complex with someone barricaded inside",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/dekalb-county/swat-respond-dekalb-apartment-complex-with-someone-barricaded-inside/NHMALZMKIBD5LDRGZVFFL3SSOI/",
-     "score": 34
-    },
-    {
-     "title": "SWAT responds to barricaded man at DeKalb County apartments",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/swat-responds-barricaded-man-dekalb-county-apartments",
-     "score": 0
-    },
-    {
-     "title": "\u2018Unbearable\u2019 gravel road remains unfixed: \u2018MARTA Mobility got stuck, UPS got stuck\u2019",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/unbearable-gravel-road-remains-unfixed-marta-mobility-got-stuck-ups-got-stuck/OIRQAKYXDRHUDE6HVY5TQUANSI/",
-     "score": 0
-    },
-    {
-     "title": "Creator of custom, souped-up go-kart now selling builds",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/20/creator-custom-souped-up-go-kart-now-selling-builds/",
-     "score": 0
-    },
-    {
-     "title": "MARTA riders call for return of service, security seen during World Cup",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/20/marta-riders-call-return-service-security-seen-during-world-cup/",
-     "score": 0
     },
     {
      "title": "Dog food recalled due to salmonella contamination; 3 illnesses reported",
@@ -434,12 +362,39 @@
      "score": 0
     },
     {
-     "title": "2 Georgia deputies from same department die less than 24 hours apart",
+     "title": "National sandwich chain opening first Georgia locations",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/georgia/2-georgia-deputies-die-less-than-24-hours-apart/5IBEHJ2ONVF4LIUPUAYQS57AZQ/",
+     "url": "https://www.wsbtv.com/news/local/national-sandwich-chain-opening-first-georgia-locations/OOTI7RJEDNFEJDWW5RUWA5EWPE/",
+     "score": 0
+    },
+    {
+     "title": "Summer Shade Festival Returns to Atlanta",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/19/summer-shade-festival-returns-atlanta/",
+     "score": 0
+    },
+    {
+     "title": "Out on Film Festival Returns",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/19/out-film-festival-returns/",
+     "score": 0
+    },
+    {
+     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
+     "desc": "",
+     "cat": "Breaking News",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
      "score": 0
     }
    ]
