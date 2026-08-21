@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-20T11:02:04",
+ "updated": "2026-08-21T10:45:18",
  "hero": {
-  "title": "Gunfire hits apartments, cars in southwest Atlanta",
+  "title": "Man shot, killed at apartment complex where police investigated gunfire 24 hours earlier",
   "desc": "",
-  "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta"
+  "url": "https://www.wsbtv.com/news/local/man-shot-killed-apartment-complex-where-police-investigated-gunshots-24-hours-earlier/KUUHV5VUABGMVIWXPBJJYS4SEE/"
  },
  "rails": [
   {
@@ -11,13 +11,40 @@
    "title": "Top 10 in Atlanta",
    "items": [
     {
-     "title": "Gunfire hits apartments, cars in southwest Atlanta",
+     "title": "Man shot, killed at apartment complex where police investigated gunfire 24 hours earlier",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F3Q5RSLZ7Q5H23EPADJW3K2KS4M.jpeg?auth=7d0b5beb41c3f2175247a92546a1fd5fda35250e6412aac3c5e87614fffd548c&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/man-shot-killed-apartment-complex-where-police-investigated-gunshots-24-hours-earlier/KUUHV5VUABGMVIWXPBJJYS4SEE/",
+     "score": 156
+    },
+    {
+     "title": "Mother of 2-year-old found dead at home charged with murder",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
+     "score": 101
+    },
+    {
+     "title": "Suspect captured in Gwinnett townhome deadly shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FB3J5UNE5QNHJPOQT3GLBDFLEVQ.jpeg?auth=63085f81993fd05d58fea46c3e01890a58d14a15dab3a91705e65d89e4a2e7ec&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/suspect-captured-gwinnett-townhome-deadly-shooting/BW2PGLDSBBC6JGZADAYIY7M6W4/",
+     "score": 93
+    },
+    {
+     "title": "Man killed in Tucker townhome shooting identified; 1 arrested",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/4hujpbvq70c3t2mi/1200/630/826ij1lzl68tblkp.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta",
-     "score": 97
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/img_6037-scaled.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-killed-lawrenceville-highway-shooting-identified-1-arrested",
+     "score": 93
     },
     {
      "title": "Lithonia man sentenced in deadly gas station shooting",
@@ -26,24 +53,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "art/crime.jpg",
      "url": "https://www.fox5atlanta.com/news/man-sentenced-gas-station-murder",
-     "score": 93
-    },
-    {
-     "title": "Victim in deadly Atlanta apartment shooting identified",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYDDXEJTP65BTVJ3E2MHW6FW43A.png?auth=af103c9d6df803f27ffdc3d39a11c5591edfc719f7b7706d91b028ae9f5c2c21&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/victim-deadly-atlanta-apartment-shooting-identified/W4E6TD62MZHGZLEBKAJYKY5KEU/",
-     "score": 93
-    },
-    {
-     "title": "Days after deadly shooting in Smyrna home, investigators say burglar targeted empty house \u2014 then connected him to Greg Biffle case",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/days-after-deadly-shooting-in-smyrna-home-investigators-say-burglar-targeted-empty-house-connected-him-to-greg-biffle-case/85-3a7fe1d4-166c-4b9b-bbf7-c94eafaac88c",
      "score": 93
     },
     {
@@ -65,6 +74,15 @@
      "score": 89
     },
     {
+     "title": "Gunfire hits apartments, cars in southwest Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/4hujpbvq70c3t2mi/1200/630/826ij1lzl68tblkp.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta",
+     "score": 85
+    },
+    {
      "title": "Talking Rock gunfire leads to high-speed chase, K-9 capture",
      "desc": "",
      "cat": "Crime",
@@ -74,31 +92,13 @@
      "score": 85
     },
     {
-     "title": "Manhunt expands for armed woman after Massachusetts police officer found dead",
+     "title": "Body found in car after shooting at Atlanta apartment",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/screenshot-2026-08-19-144801.png?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/massachusetts-police-officer-found-dead-home-armed-suspect-remains-run",
-     "score": 81
-    },
-    {
-     "title": "Former Falcons player says he\u2019s grateful for support after mother\u2019s murder",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUTDPXM6TO5E6BPJAXC7OHROYZY.jpg?auth=bac8606c55584b48a11399a4df2324afe819e36493eb06d665f96ac7fa708e93&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/former-falcons-player-says-hes-grateful-support-after-mothers-murder/W32HGUQXO5GHRONTWP4YYMLQFA/",
-     "score": 76
-    },
-    {
-     "title": "Police shut down Nubia Caf\u00e9 after weekend shooting in Sandy Springs",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/778950310_1493108569524860_4455123630131223045_n-e1787190418870.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/police-shut-down-nubia-cafe-after-weekend-shooting-sandy-springs",
-     "score": 68
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/body-found-in-car-after-shooting-at-atlanta-apartment/85-fe597ec2-a816-4468-8c5f-f5bf43ab61ec",
+     "score": 80
     }
    ]
   },
@@ -107,13 +107,40 @@
    "title": "Crime Watch",
    "items": [
     {
-     "title": "Gunfire hits apartments, cars in southwest Atlanta",
+     "title": "Man shot, killed at apartment complex where police investigated gunfire 24 hours earlier",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F3Q5RSLZ7Q5H23EPADJW3K2KS4M.jpeg?auth=7d0b5beb41c3f2175247a92546a1fd5fda35250e6412aac3c5e87614fffd548c&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/man-shot-killed-apartment-complex-where-police-investigated-gunshots-24-hours-earlier/KUUHV5VUABGMVIWXPBJJYS4SEE/",
+     "score": 156
+    },
+    {
+     "title": "Mother of 2-year-old found dead at home charged with murder",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
+     "score": 101
+    },
+    {
+     "title": "Suspect captured in Gwinnett townhome deadly shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FB3J5UNE5QNHJPOQT3GLBDFLEVQ.jpeg?auth=63085f81993fd05d58fea46c3e01890a58d14a15dab3a91705e65d89e4a2e7ec&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/suspect-captured-gwinnett-townhome-deadly-shooting/BW2PGLDSBBC6JGZADAYIY7M6W4/",
+     "score": 93
+    },
+    {
+     "title": "Man killed in Tucker townhome shooting identified; 1 arrested",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/4hujpbvq70c3t2mi/1200/630/826ij1lzl68tblkp.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta",
-     "score": 97
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/img_6037-scaled.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-killed-lawrenceville-highway-shooting-identified-1-arrested",
+     "score": 93
     },
     {
      "title": "Lithonia man sentenced in deadly gas station shooting",
@@ -122,24 +149,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "art/crime.jpg",
      "url": "https://www.fox5atlanta.com/news/man-sentenced-gas-station-murder",
-     "score": 93
-    },
-    {
-     "title": "Victim in deadly Atlanta apartment shooting identified",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYDDXEJTP65BTVJ3E2MHW6FW43A.png?auth=af103c9d6df803f27ffdc3d39a11c5591edfc719f7b7706d91b028ae9f5c2c21&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/victim-deadly-atlanta-apartment-shooting-identified/W4E6TD62MZHGZLEBKAJYKY5KEU/",
-     "score": 93
-    },
-    {
-     "title": "Days after deadly shooting in Smyrna home, investigators say burglar targeted empty house \u2014 then connected him to Greg Biffle case",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/days-after-deadly-shooting-in-smyrna-home-investigators-say-burglar-targeted-empty-house-connected-him-to-greg-biffle-case/85-3a7fe1d4-166c-4b9b-bbf7-c94eafaac88c",
      "score": 93
     },
     {
@@ -161,6 +170,15 @@
      "score": 89
     },
     {
+     "title": "Gunfire hits apartments, cars in southwest Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/4hujpbvq70c3t2mi/1200/630/826ij1lzl68tblkp.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/gunfire-hits-apartments-cars-southwest-atlanta",
+     "score": 85
+    },
+    {
      "title": "Talking Rock gunfire leads to high-speed chase, K-9 capture",
      "desc": "",
      "cat": "Crime",
@@ -170,49 +188,31 @@
      "score": 85
     },
     {
-     "title": "Manhunt expands for armed woman after Massachusetts police officer found dead",
+     "title": "Body found in car after shooting at Atlanta apartment",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/screenshot-2026-08-19-144801.png?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/massachusetts-police-officer-found-dead-home-armed-suspect-remains-run",
-     "score": 81
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/body-found-in-car-after-shooting-at-atlanta-apartment/85-fe597ec2-a816-4468-8c5f-f5bf43ab61ec",
+     "score": 80
     },
     {
-     "title": "Former Falcons player says he\u2019s grateful for support after mother\u2019s murder",
+     "title": "21-year-old Wisconsin woman charged with stabbing mom at least 10 times in Chick-fil-A parking lot in Cherokee County",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUTDPXM6TO5E6BPJAXC7OHROYZY.jpg?auth=bac8606c55584b48a11399a4df2324afe819e36493eb06d665f96ac7fa708e93&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/former-falcons-player-says-hes-grateful-support-after-mothers-murder/W32HGUQXO5GHRONTWP4YYMLQFA/",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/cherokee-county-chick-fil-a-parking-lot-stabbing-update-woman-charged/85-b8117efe-c1c3-4d4e-96ba-8afd741920cd",
      "score": 76
     },
     {
-     "title": "Police shut down Nubia Caf\u00e9 after weekend shooting in Sandy Springs",
+     "title": "39-year-old man shot multiple times in NW Atlanta, police say",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/778950310_1493108569524860_4455123630131223045_n-e1787190418870.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/police-shut-down-nubia-cafe-after-weekend-shooting-sandy-springs",
-     "score": 68
-    },
-    {
-     "title": "Person hospitalized after shooting at Tallapoosa home, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/wanf-lns-overnight-feed-8_19_26-wagame001_mxf_00.00.45.04.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/person-hospitalized-after-shooting-tallapoosa-home-police-say",
-     "score": 68
-    },
-    {
-     "title": "Police investigating after shooting at DeKalb County apartments",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/glen-hollow-apts-shooting-aerials-wagame001_mxf_00.02.36.32.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/police-investigating-after-shooting-dekalb-county-apartments",
-     "score": 68
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/99297c4a-video-24.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/39-year-old-man-shot-multiple-times-nw-atlanta-police-say",
+     "score": 74
     }
    ]
   },
@@ -221,49 +221,40 @@
    "title": "Sports",
    "items": [
     {
-     "title": "Georgia women\u2019s soccer aims to break NCAA attendance record with match at Sanford Stadium",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FH3VLNM435FGD3LBRT25ANWZ3MM.png?auth=c604e06c248f129f5028d1bffd6a9a9c53b7449cb29f21918ff5f664dc46fce1&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/georgia-womens-soccer-aims-break-ncaa-attendance-record-sanford-stadium/QS65QJ6N2VGBFHS7BKSSSNNZ3I/",
-     "score": 48
-    },
-    {
-     "title": "Georgia Tech #ProJackets Report",
+     "title": "Georgia Tech Athletics Unveils 100 Improvements for Football Gamedays",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:sports:ramblinwreck.com",
-     "img": "https://ramblinwreck.com/imgproxy/DrfQ7blup3oWHxszsiiagGDC06a9rly56jwMNj0EMOs/fit/2500/2500/ce/0/aHR0cHM6Ly9yYW1ibGlud3JlY2suY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI2LzA4L2FtdC1lZmQzNDM5YjJjNTAwZTIzYjBkZTQ2ZjQ5ODhmYTQyMGJiMTk1ZTk4LXN0ZWVsbWFuUl9HZXR0eUltYWdlcy0yMjkwNzc1OTI5LmpwZw.jpg",
-     "url": "https://ramblinwreck.com/georgia-tech-projackets-report-2/",
-     "score": 42
+     "img": "https://ramblinwreck.com/imgproxy/yoEmMmlqAUBYBeTzIBLG6PD0F4H8wNRws95JKnQ5pL0/fit/2500/2500/ce/0/aHR0cHM6Ly9yYW1ibGlud3JlY2suY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI2LzA4L2FtdC1lOGM2YmYyMjRlYzQ2ZGRlN2M4YjQzZDEwNjlmOGZmNjllMzJhYzc2LVBpdHRfMTEyMjI1X0RLLTEyNjAuanBn.jpg",
+     "url": "https://ramblinwreck.com/georgia-tech-athletics-unveils-100-improvements-for-football-gamedays/",
+     "score": 64
     },
     {
-     "title": "Mercedes-Benz voted best NFL stadium in the country",
+     "title": "Georgia women\u2019s soccer team sets new NCAA attendance record",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FA7ULZBXQDZGZFN52PID7HLQS7U.jpeg?auth=41c73504683d30a27d221f7dc05e57462c7cddec4cf8a0b8fdb8289f07a0ed0e&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/georgia-womens-soccer-team-sets-new-ncaa-attendance-record/7NPOGBDXO5E47J4TRQYJCIHU4U/",
+     "score": 54
+    },
+    {
+     "title": "Blue Springs Youth Soccer still going strong 30 years after '96 Olympics",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/sports.jpg",
-     "url": "https://www.11alive.com/article/news/local/mercedes-benz-voted-best-nfl-stadium-in-the-country/85-1286f196-812d-45bd-95c4-08f85fdb3030",
-     "score": 40
+     "url": "https://www.11alive.com/article/news/local/blue-springs-youth-soccer-walton-county-organization-1996-olympics/85-b7a3e757-cfa8-45ec-9dc9-6e10c702f7aa",
+     "score": 46
     },
     {
-     "title": "Former UGA, NFL player says alleged scheme wiped out $500K savings",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/former-uga-nfl-player-says-alleged-scheme-wiped-out-500k-savings",
-     "score": 40
-    },
-    {
-     "title": "Danny Hall: Hall of Fame Class of 2026",
+     "title": "Georgia Tech\u2019s Jones Receives 247Sports\u2019 30 Under 30 Recognition",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:sports:ramblinwreck.com",
      "img": "",
-     "url": "https://ramblinwreck.com/danny-hall-hall-of-fame-class-of-2026/",
-     "score": 38
+     "url": "https://ramblinwreck.com/georgia-techs-jones-receives-247sports-30-under-30-recognition/",
+     "score": 32
     },
     {
      "title": "Georgia Tech Breaks Record for Student Season Tickets for Third-Straight Year",
@@ -284,48 +275,57 @@
      "score": 32
     },
     {
-     "title": "Former UGA linebacker says he lost life savings to scammer, asks for help",
+     "title": "Take the Stairs with Colby Garland",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:ramblinwreck.com",
+     "img": "",
+     "url": "https://ramblinwreck.com/take-the-stairs-with-colby-garland/",
+     "score": 0
+    },
+    {
+     "title": "Haynes Named to 2026 Comeback Player of the Year Award Watch List",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:ramblinwreck.com",
+     "img": "",
+     "url": "https://ramblinwreck.com/haynes-named-to-2026-comeback-player-of-the-year-award-watch-list/",
+     "score": 0
+    },
+    {
+     "title": "Football Fest & Free Day",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/19/former-uga-linebacker-says-he-lost-life-savings-scammer-asks-help/",
+     "url": "https://www.atlantanewsfirst.com/2026/08/20/football-fest-free-day/",
      "score": 0
     },
     {
-     "title": "Get to Know: Antonia Bates",
+     "title": "Haynes, Lightsey Among Senior Bowl Top 300",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:sports:ramblinwreck.com",
      "img": "",
-     "url": "https://ramblinwreck.com/get-to-know-antonia-bates/",
+     "url": "https://ramblinwreck.com/haynes-lightsey-among-senior-bowl-top-300/",
      "score": 0
     },
     {
-     "title": "Video: 2026 Fall Camp \u2013 Practice #14",
+     "title": "Video: 2026 Fall Camp \u2013 Practice #15",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:sports:ramblinwreck.com",
      "img": "",
-     "url": "https://ramblinwreck.com/video-2026-fall-camp-practice-14/",
+     "url": "https://ramblinwreck.com/video-2026-fall-camp-practice-15/",
      "score": 0
     },
     {
-     "title": "UGA and Progressive announce new Sanford Stadium partnership, sponsorship",
+     "title": "Danny Hall: Hall of Fame Class of 2026",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
+     "source": "atlanta:sports:ramblinwreck.com",
      "img": "",
-     "url": "https://www.wsbtv.com/sports/college/university-of-georgia/uga-progressive-announce-new-sanford-stadium-partnership-sponsorship/O3XZJWBVTBEIDN2N6XN2IP2NLE/",
-     "score": 0
-    },
-    {
-     "title": "Brewers tie MLB record with 22-0 victory against Mariners",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/brewers-tie-mlb-record-with-22-0-victory-against-mariners/QHJD2QRYU5HIDK7YWQKQVSIH2Y/",
+     "url": "https://ramblinwreck.com/danny-hall-hall-of-fame-class-of-2026/",
      "score": 0
     }
    ]
@@ -341,42 +341,87 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/l0u0hpbhczba77lj/1200/630/q46pmtve8qcq2fpk.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/atlanta-food-truck-owner-asks-help-after-theft",
-     "score": 54
+     "score": 42
+    },
+    {
+     "title": "$50,000 winning Powerball ticket sold at Tallapoosa Citgo Food Mart",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FINWBCTKSRBO6JQTBKMPL5Q7UBU.jpg?auth=0560e8d4e89721efe386dae745cfb121e982c6f938c99fff2fce7b8563b9dae6&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/50000-winning-powerball-ticket-sold-tallapoosa-citgo-food-mart/5FHIMCNKYFCMXOJX463ATFDQAY/",
+     "score": 40
+    },
+    {
+     "title": "Premier League returns: Opening weekend schedule, new teams and rule changes",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2026/08/1200/630/gettyimages-2289709822-scaled.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/premier-league-returns-weekend-new-rules-var-time-wasting-more",
+     "score": 40
+    },
+    {
+     "title": "Owner of Sandy Springs cafe cited for illegal after-hours club",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/778950310_1493108569524860_4455123630131223045_n-e1787190418870.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/owner-sandy-springs-cafe-cited-illegal-after-hours-club",
+     "score": 40
+    },
+    {
+     "title": "Severe Weather Team 2 Chief Meteorologist Emeritus Glenn Burns going into Atlanta Press Club HOF",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/severe-weather-team-2-chief-meteorologist-emeritus-glenn-burns-going-into-atlanta-press-club-hof/QTKV7FUJTRCFXC4AVYTFPMXH7E/",
+     "score": 34
+    },
+    {
+     "title": "Restaurant Report Card: American Deli fails with 55; Marlow\u2019s Tavern earns 100",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/21/restaurant-report-card-american-deli-fails-with-55-marlows-tavern-earns-100/",
+     "score": 0
+    },
+    {
+     "title": "Atlanta Bites: Restaurant, dining news in metro Atlanta for August 2026",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/atlanta-bites-restaurant-dining-news-metro-atlanta-august-2026",
+     "score": 0
     },
     {
      "title": "19-year-old graduates from GSU with math degree in just 14 months",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/culture.jpg",
+     "img": "",
      "url": "https://www.11alive.com/article/news/local/19-year-old-graduates-from-gsu-with-math-degree-in-just-14-months/85-aab27db8-c279-4992-aa09-645372b7a08e",
-     "score": 40
-    },
-    {
-     "title": "Dog food recalled due to salmonella contamination; 3 illnesses reported",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/dog-food-recall-salmonella-contamination-omas-pride-chicken-recipe/507-a27a37c5-50e4-488a-99f0-d414c6645b5f",
      "score": 0
     },
     {
-     "title": "National sandwich chain opening first Georgia locations",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/national-sandwich-chain-opening-first-georgia-locations/OOTI7RJEDNFEJDWW5RUWA5EWPE/",
-     "score": 0
-    },
-    {
-     "title": "Summer Shade Festival Returns to Atlanta",
+     "title": "The end of a music era. Columbia House mail-order club is going out of business",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/19/summer-shade-festival-returns-atlanta/",
+     "url": "https://www.atlantanewsfirst.com/2026/08/20/end-music-era-columbia-house-mail-order-club-is-going-out-business/",
+     "score": 0
+    },
+    {
+     "title": "Dog food linked to potential vision loss of nearly 200 pets prompts massive recall",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/20/dog-food-linked-potential-vision-loss-nearly-200-pets-prompts-massive-recall/",
      "score": 0
     },
     {
