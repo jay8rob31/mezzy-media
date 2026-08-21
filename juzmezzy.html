@@ -67,29 +67,29 @@ a{color:var(--pink2)}
 <script src="https://platform.twitter.com/widgets.js" charset="utf-8" async></script>
 <script>
 const CANDIDATES = [
+  { id:'future', name:'Future', rank:'The Toxic King',
+    blurb:'The self-proclaimed TOXIC KING. This ATL legend turned heartbreak into a whole genre and made "petty" an art form. Ciara ended their engagement in 2014 over infidelity and went on to marry Super Bowl QB Russell Wilson. 8+ kids, 8+ mothers, and a catalog fans have dubbed the blueprint of toxic. The mess, or the blueprint the mess came from?',
+    embed:'', fallback:'Public record: Ciara ended their engagement in Aug 2014 citing infidelity (People, US Weekly).' },
   { id:'klay', name:'Klay Thompson', rank:'The Accused',
-    blurb:'Megan Thee Stallion publicly said he had her "playing house" with his family, then got "cold feet" — accusing him of cheating during the NBA season. He later resurfaced on IG Live: "God, it feels good to be back."',
-    embed:`<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/PopBase/status/1915700000000000000"></a></blockquote>`,
-    fallback:'Source: @PopBase on X, Apr 25 2026 — Megan Thee Stallion\u2019s Instagram statement.' },
+    blurb:'Megan Thee Stallion publicly said he had her playing house with his whole family, then got cold feet and could not commit to monogamy, all while she carried him through the worst statistical season of his career. She walked off with her peace. Did Klay dodge a bullet, or fumble the Hottie of the century?',
+    embed:`<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/PopBase/status/2048117747746521212"></a></blockquote>`,
+    fallback:'Source: PopBase on X, Apr 25 2026 - Megan Thee Stallion Instagram statement.' },
   { id:'tristan', name:'Tristan Thompson', rank:'Hall of Fame',
-    blurb:'The undisputed benchmark. Cheated on Khloé Kardashian more than once — including with Jordyn Woods — all extensively documented and admitted over the years. Needs no introduction.',
-    embed:'', fallback:'Long-established public record — the GOAT of the genre.' },
-  { id:'offset', name:'Offset', rank:'Repeat Offender',
-    blurb:'Has been caught cheating on Cardi B multiple times over the years — and keeps getting caught. The definition of a repeat offender.',
-    embed:'', fallback:'Long-established public record.' },
-  { id:'travis', name:'Travis Clark', rank:'Admitted It',
-    blurb:'The "Bringing Up Bates" star confessed on his own Instagram in Jan 2026: "I was unfaithful to my wife. I had an affair and repeatedly broke her trust. There is no excuse for what I did."',
-    embed:'', fallback:'Source: Travis Clark\u2019s own Instagram statement, Jan 17 2026.' },
-  { id:'writein', name:'Write-In 👀', rank:'Your Pick',
-    blurb:'Got somebody messier? This is the people\u2019s slot. Vote here, then drop the name in the comments — next week\u2019s nominee could be your call.',
-    embed:'', fallback:'#WhoCheatin — nominate anyone.' },
+    blurb:'Cheated on Khloe Kardashian while she was literally in labor, then ran it back with Jordyn Woods - Kylie best friend - and set the whole Kardashian family on fire. The GOAT of the genre. But the real debate: his fault for doing it, or hers for letting him back every single time?',
+    embed:'', fallback:'Long-established public record - the benchmark of the genre.' },
+  { id:'offset', name:'Offset', rank:'The Audacity',
+    blurb:'The 2017 hotel video? My iCloud got hacked. Crashed Cardi Rolling Loud set begging her back on live TV. Finally admitted it himself on Keke Palmer podcast: I made bad decisions as a man, stepping out. The plot twist? The man who cheated is now asking Cardi to pay HIM spousal support, claiming I built her brand. The audacity. He never had HITS like her - if you built her, why aint you build you higher first?',
+    embed:'', fallback:'Public record: 2017 iCloud claim; 2018 Rolling Loud apology; Keke Palmer podcast admission; spousal support filings (Billboard, Essence, TMZ).' },
+  { id:'writein', name:'Write-In', rank:'Your Pick',
+    blurb:'Got somebody messier? This is the people slot. Vote here, then drop the name in the comments - next week nominee could be your call. #WhoCheatin',
+    embed:'', fallback:'#WhoCheatin - nominate anyone.' },
 ];
 
 const KEY = 'fboy_year_2026';
 function loadVotes(){ try{return JSON.parse(localStorage.getItem(KEY))||{}}catch(e){return {}} }
 // seed so the bars never look dead on first load
 let votes = loadVotes();
-if(!votes._seed){ votes = {klay:34,tristan:41,offset:22,travis:12,writein:9,_seed:1}; }
+if(!votes._seed){ votes = {future:31,klay:24,tristan:22,offset:15,writein:8,_seed:1}; }
 let myVote = localStorage.getItem(KEY+'_me') || null;
 
 function totals(){ return CANDIDATES.reduce((s,c)=>s+(votes[c.id]||0),0)||1; }
