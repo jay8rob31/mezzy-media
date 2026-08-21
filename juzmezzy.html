@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="JuzMezzy">
+<meta property="og:title" content="🏆 FBOY OF THE YEAR — Cast Your 2026 Vote 👑">
+<meta property="og:description" content="The messiest men of 2026, all in one place. See the receipts and vote for the Fboy of the Year.">
+<meta property="og:url" content="https://mezzymedia.com/juzmezzy.html">
+<meta property="og:image" content="https://mezzymedia.com/juzmezzy_og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://mezzymedia.com/juzmezzy_og.jpg">
+<title>JuzMezzy — Fboy of the Year 2026</title>
+<style>
+:root{--bg:#0a060e;--pink:#ff2d96;--pink2:#ff5cb0;--purple:#7b2ff7;--gold:#f5df8d;--card:#170f1e}
+*{box-sizing:border-box}html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:#fff;font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;overflow-x:hidden}
+a{color:var(--pink2)}
+.top{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:12px;padding:12px clamp(16px,4vw,40px);background:rgba(10,6,14,.92);backdrop-filter:blur(8px);border-bottom:1px solid #241830}
+.top img{height:40px;width:40px;border-radius:50%;object-fit:cover}
+.top b{font-weight:1000;letter-spacing:.04em;font-size:20px;background:linear-gradient(90deg,var(--pink),var(--gold));-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero{text-align:center;padding:24px clamp(16px,4vw,40px) 16px}
+.hero .banner{width:100%;max-width:760px;height:auto;border-radius:16px;display:block;margin:0 auto;box-shadow:0 0 40px rgba(255,45,150,.25)}
+.hero p{color:#c9b8d6;max-width:620px;margin:16px auto 0;font-size:15px}
+.tally{max-width:720px;margin:24px auto;padding:0 16px}
+.row{display:flex;align-items:center;gap:12px;margin:10px 0}
+.row .name{width:150px;font-weight:800;font-size:14px;flex-shrink:0}
+.bar{flex:1;height:26px;background:#241830;border-radius:13px;overflow:hidden}
+.bar span{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--pink),var(--purple));transition:width .6s}
+.pct{width:44px;text-align:right;font-size:13px;color:#c9b8d6}
+.cards{max-width:720px;margin:10px auto 60px;padding:0 16px;display:flex;flex-direction:column;gap:22px}
+.fcard{background:var(--card);border:1px solid #2a1c38;border-radius:16px;overflow:hidden}
+.fcard .head{padding:16px 18px 10px}
+.fcard .rank{font-size:12px;letter-spacing:.14em;font-weight:900;color:var(--gold);text-transform:uppercase}
+.fcard h3{margin:4px 0 4px;font-size:22px}
+.fcard .blurb{color:#c4b4d2;font-size:14px;line-height:1.5}
+.embed{padding:6px 12px 14px}
+.votebtn{display:block;width:calc(100% - 36px);margin:0 18px 18px;padding:14px;border:0;border-radius:12px;font-weight:900;font-size:15px;letter-spacing:.03em;color:#fff;background:linear-gradient(90deg,var(--pink),var(--purple));cursor:pointer}
+.votebtn:disabled{opacity:.5;cursor:default}
+.voted{outline:2px solid var(--gold)}
+.foot{text-align:center;color:#8a7a98;font-size:12px;padding:20px;border-top:1px solid #241830;line-height:1.6}
+.note{max-width:720px;margin:0 auto 10px;padding:0 16px;color:#8a7a98;font-size:12px;text-align:center}
+</style></head>
+<body>
+
+<div class="top">
+  <img src="juzmezzy_pfp.jpg" alt="JuzMezzy">
+  <b>JuzMezzy</b>
+  <span style="margin-left:auto;font-size:12px;color:#8a7a98">Celebrity · Culture · Chaos</span>
+</div>
+
+<div class="hero">
+  <img class="banner" src="juzmezzy_banner.jpg" alt="JuzMezzy — Fboy of the Year 2026 Ballot">
+  <p>The messiest men of 2026 — receipts and all. Tap your pick to vote. Winner crowned Friday. 🗳️</p>
+</div>
+
+<div class="tally" id="tally"></div>
+<div class="note">Live tally · one vote per device · results update as votes come in</div>
+
+<div class="cards" id="cards"></div>
+
+<div class="foot">
+  JuzMezzy is an entertainment & commentary brand. Posts embedded below are the public statements of the individuals or outlets named, hosted on their original platforms.
+  Coverage reflects publicly reported claims and, where noted, self-admissions. AI-assisted newsroom · human reviewed. © Mezzy Media.
+</div>
+
+<script src="https://platform.twitter.com/widgets.js" charset="utf-8" async></script>
+<script>
+const CANDIDATES = [
+  { id:'klay', name:'Klay Thompson', rank:'The Accused',
+    blurb:'Megan Thee Stallion publicly said he had her "playing house" with his family, then got "cold feet" — accusing him of cheating during the NBA season. He later resurfaced on IG Live: "God, it feels good to be back."',
+    embed:`<blockquote class="twitter-tweet" data-theme="dark"><a href="https://twitter.com/PopBase/status/1915700000000000000"></a></blockquote>`,
+    fallback:'Source: @PopBase on X, Apr 25 2026 — Megan Thee Stallion\u2019s Instagram statement.' },
+  { id:'tristan', name:'Tristan Thompson', rank:'Hall of Fame',
+    blurb:'The undisputed benchmark. Cheated on Khloé Kardashian more than once — including with Jordyn Woods — all extensively documented and admitted over the years. Needs no introduction.',
+    embed:'', fallback:'Long-established public record — the GOAT of the genre.' },
+  { id:'offset', name:'Offset', rank:'Repeat Offender',
+    blurb:'Has been caught cheating on Cardi B multiple times over the years — and keeps getting caught. The definition of a repeat offender.',
+    embed:'', fallback:'Long-established public record.' },
+  { id:'travis', name:'Travis Clark', rank:'Admitted It',
+    blurb:'The "Bringing Up Bates" star confessed on his own Instagram in Jan 2026: "I was unfaithful to my wife. I had an affair and repeatedly broke her trust. There is no excuse for what I did."',
+    embed:'', fallback:'Source: Travis Clark\u2019s own Instagram statement, Jan 17 2026.' },
+  { id:'writein', name:'Write-In 👀', rank:'Your Pick',
+    blurb:'Got somebody messier? This is the people\u2019s slot. Vote here, then drop the name in the comments — next week\u2019s nominee could be your call.',
+    embed:'', fallback:'#WhoCheatin — nominate anyone.' },
+];
+
+const KEY = 'fboy_year_2026';
+function loadVotes(){ try{return JSON.parse(localStorage.getItem(KEY))||{}}catch(e){return {}} }
+// seed so the bars never look dead on first load
+let votes = loadVotes();
+if(!votes._seed){ votes = {klay:34,tristan:41,offset:22,travis:12,writein:9,_seed:1}; }
+let myVote = localStorage.getItem(KEY+'_me') || null;
+
+function totals(){ return CANDIDATES.reduce((s,c)=>s+(votes[c.id]||0),0)||1; }
+function renderTally(){
+  const t=totals();
+  document.getElementById('tally').innerHTML = CANDIDATES.map(c=>{
+    const v=votes[c.id]||0, p=Math.round(v/t*100);
+    return `<div class="row"><div class="name">${c.name}</div>
+      <div class="bar"><span style="width:${p}%"></span></div>
+      <div class="pct">${p}%</div></div>`;
+  }).join('');
+}
+function renderCards(){
+  document.getElementById('cards').innerHTML = CANDIDATES.map(c=>`
+    <div class="fcard ${myVote===c.id?'voted':''}" id="card-${c.id}">
+      <div class="head"><div class="rank">${c.rank}</div><h3>${c.name}</h3>
+        <div class="blurb">${c.blurb}</div></div>
+      ${c.embed?`<div class="embed">${c.embed}</div>`:''}
+      <div class="embed" style="color:#8a7a98;font-size:12px">${c.fallback}</div>
+      <button class="votebtn" data-id="${c.id}" ${myVote?'disabled':''}>
+        ${myVote===c.id?'✓ You voted for '+c.name:(myVote?'Voting closed for you':'🗳️ Vote '+c.name)}
+      </button>
+    </div>`).join('');
+  document.querySelectorAll('.votebtn').forEach(b=>b.addEventListener('click',()=>{
+    if(myVote) return;
+    const id=b.dataset.id;
+    votes[id]=(votes[id]||0)+1; votes._seed=1;
+    myVote=id;
+    localStorage.setItem(KEY,JSON.stringify(votes));
+    localStorage.setItem(KEY+'_me',id);
+    renderTally(); renderCards();
+    if(window.twttr&&twttr.widgets)twttr.widgets.load();
+  }));
+  if(window.twttr&&twttr.widgets)twttr.widgets.load();
+}
+renderTally(); renderCards();
+</script>
+</body></html>

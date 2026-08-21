@@ -1,5 +1,15 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Mezzy Media">
+<meta property="og:title" content="Mezzy Media — Atlanta Uncut">
+<meta property="og:description" content="Breaking news, Crime Watch, Sports, and ATL Culture — first with the story, Atlanta-first, all of the city.">
+<meta property="og:url" content="https://mezzymedia.com/">
+<meta property="og:image" content="https://mezzymedia.com/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://mezzymedia.com/og.jpg">
 <title>Mezzy Media — Atlanta Uncut</title>
 <meta name="description" content="Atlanta breaking news and culture, first and uncut. Mezzy Media.">
 <style>
@@ -15,8 +25,6 @@ button,a{font:inherit;color:inherit}
 .nav-actions{margin-left:auto;display:flex;align-items:center;gap:12px}
 .live-pill{background:var(--red);font-size:11px;font-weight:900;letter-spacing:.12em;padding:7px 10px;border-radius:4px}
 .avatar{width:30px;height:30px;border-radius:6px;background:linear-gradient(135deg,var(--gold2),#6e5316)}
-
-/* ===== WEATHER-REACTIVE HERO — logo IS the hero, like V6 ===== */
 .hero{position:relative;min-height:80svh;display:flex;align-items:flex-end;padding:0 clamp(18px,5vw,72px) 130px;overflow:hidden;background:#000}
 .hero-logo-bg{position:absolute;top:0;left:0;right:0;bottom:88px;z-index:0;background:#000 url('logo.jpg') center 30%/contain no-repeat}
 .hero::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,var(--bg) 0%,transparent 14%);z-index:1}
@@ -39,19 +47,14 @@ button,a{font:inherit;color:inherit}
 .wx-live{color:var(--gold2);font-size:10px;font-weight:1000;letter-spacing:.17em}
 .wx-symbol{font-size:21px}.wx-temp{font-size:27px}.wx-condition{font-size:13px;color:#eee;overflow:hidden;text-overflow:ellipsis}
 .wx-status{margin-top:6px;color:#555;font-size:8px;font-weight:800;letter-spacing:.07em}
-
-/* ===== RAILS ===== */
 .content{position:relative;z-index:5;padding-bottom:90px}
 .rail-section{margin:0 0 30px}
 .rail-head{display:flex;align-items:center;padding:0 clamp(18px,4vw,54px);margin-bottom:10px}
 .rail-head h2{font-size:clamp(19px,2vw,27px);margin:0;font-weight:850;letter-spacing:-.02em}
-.rail-head button{margin-left:auto;background:transparent;border:0;font-size:34px;line-height:1;color:#aaa;cursor:pointer}
 .rail{display:flex;gap:10px;overflow-x:auto;padding:5px clamp(18px,4vw,54px) 18px;scroll-snap-type:x proximity;scroll-padding-left:clamp(18px,4vw,54px);scrollbar-width:none}
-#rail-trending{scroll-padding-left:calc(clamp(18px,4vw,54px) + 52px)}
 .rail::-webkit-scrollbar{display:none}
 .tile{position:relative;flex:0 0 clamp(260px,27vw,390px);aspect-ratio:16/9;border-radius:7px;overflow:visible;background:#171717;scroll-snap-align:start;cursor:pointer;transition:transform .24s;border:0;padding:0;text-align:left;color:#fff}
-.tile-art{position:absolute;inset:0;border-radius:7px;overflow:hidden;box-shadow:0 8px 22px rgba(0,0,0,.35);
-  background:linear-gradient(135deg,#241a05,#111 60%,#1a1120)}
+.tile-art{position:absolute;inset:0;border-radius:7px;overflow:hidden;box-shadow:0 8px 22px rgba(0,0,0,.35);background:linear-gradient(135deg,#241a05,#111 60%,#1a1120)}
 .tile-art img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .tile-art::after{content:"";position:absolute;inset:0;border-radius:7px;background:linear-gradient(0deg,rgba(8,8,10,.92) 0%,rgba(8,8,10,.05) 58%)}
 .tile-info{position:absolute;left:0;right:0;bottom:0;padding:44px 14px 12px;z-index:2}
@@ -59,21 +62,19 @@ button,a{font:inherit;color:inherit}
 .tile h3{margin:0;font-size:15px;line-height:1.15;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;text-shadow:0 2px 7px #000}
 .meta{font-size:10px;color:#bbb;margin-top:7px;display:flex;gap:6px}
 .tile:hover,.tile:focus-visible{transform:scale(1.045);z-index:10;outline:2px solid var(--gold2)}
-#rail-trending .tile{margin-left:52px;background:transparent}
-#rail-trending .tile-art{z-index:1}
-#rail-trending .tile-info{z-index:2}
-#rail-trending .rank{position:absolute;z-index:0;left:-63px;bottom:-9px;font-size:clamp(105px,11vw,160px);line-height:.8;font-weight:1000;color:#080808;-webkit-text-stroke:2px #707070;text-shadow:0 6px 18px #000;letter-spacing:-.1em}
-
+#rail-latest{scroll-padding-left:calc(clamp(18px,4vw,54px) + 52px)}
+#rail-latest .tile{margin-left:52px;background:transparent}
+#rail-latest .tile-art{z-index:1}
+#rail-latest .tile-info{z-index:2}
+#rail-latest .rank{position:absolute;z-index:0;left:-63px;bottom:-9px;font-size:clamp(105px,11vw,160px);line-height:.8;font-weight:1000;color:#080808;-webkit-text-stroke:2px #707070;text-shadow:0 6px 18px #000;letter-spacing:-.1em}
 .modal{position:fixed;inset:0;z-index:100;background:rgba(0,0,0,.8);display:none;place-items:center;padding:20px}
 .modal.open{display:grid}
 .modal-card{width:min(720px,96vw);background:#181818;border-radius:10px;overflow:hidden;box-shadow:0 30px 80px #000}
 .modal-hero{height:200px;background:linear-gradient(135deg,#2a1f05,#111 55%,#3b0f42)}
 .modal-copy{padding:22px}.modal-copy h3{font-size:28px;margin:0 0 10px}.modal-copy p{color:#bbb;line-height:1.55}
 .close{float:right;border:0;background:#333;border-radius:50%;width:34px;height:34px;font-size:20px;cursor:pointer}
-
 .disclosure{padding:26px clamp(18px,4vw,54px) 40px;color:#7a7a7a;font-size:11px;line-height:1.6;border-top:1px solid #1c1c1c}
 .disclosure b{color:#9a9a9a}
-
 .bottom-nav{display:none}
 @media(max-width:760px){
   body{padding-bottom:64px}
@@ -84,14 +85,13 @@ button,a{font:inherit;color:inherit}
   .hero-content{position:relative;z-index:2;padding:14px 18px 26px;background:linear-gradient(180deg,rgba(8,8,8,0),var(--bg) 30%)}
   .hero-story{font-size:24px}
   .tile{flex:0 0 78vw;max-width:340px}.tile:hover{transform:none}
-  #rail-trending .tile{margin-left:42px}#rail-trending .rank{left:-35px;font-size:86px;bottom:12px;-webkit-text-stroke-width:1.5px}
+  #rail-latest .tile{margin-left:42px}#rail-latest .rank{left:-35px;font-size:86px;bottom:12px;-webkit-text-stroke-width:1.5px}
   .bottom-nav{position:fixed;display:grid;grid-template-columns:repeat(5,1fr);left:0;right:0;bottom:0;height:64px;background:rgba(10,10,10,.96);border-top:1px solid #232323;z-index:80}
   .bottom-nav a{display:grid;place-items:center;text-decoration:none;color:#9e9e9e;font-size:9px;padding:7px 1px}.bottom-nav b{font-size:18px}
 }
 @media(prefers-reduced-motion:reduce){.wx-drop{animation:none;display:none}}
 </style></head>
 <body>
-
 <header class="topbar" id="topbar">
   <a class="brand" href="#">MEZZY<small>MEDIA</small></a>
   <nav class="desktop-nav">
@@ -99,7 +99,6 @@ button,a{font:inherit;color:inherit}
   </nav>
   <div class="nav-actions"><div class="live-pill">● LIVE ATL</div><div class="avatar"></div></div>
 </header>
-
 <section class="hero" id="hero">
   <div class="hero-logo-bg" aria-label="Mezzy Media" role="img"></div>
   <div class="wx-effects"><div class="wx-rain" id="wxRain"></div></div>
@@ -107,43 +106,38 @@ button,a{font:inherit;color:inherit}
     <div class="kicker"><span class="dot"></span><span class="m">◆</span> First. Uncut. Atlanta.</div>
     <div class="hero-story" id="heroStory">Loading the newsroom…</div>
     <p id="heroDesc"></p>
-    <div class="hero-actions"><a class="btn primary" id="heroCta" href="#trending">▶ Watch the feed</a><a class="btn secondary" href="#crime">More info</a></div>
+    <div class="hero-actions"><a class="btn primary" id="heroCta" href="#latest">▶ Watch the feed</a><a class="btn secondary" href="#crime">More info</a></div>
   </div>
   <div class="wx-bar">
     <div class="wx-row"><span class="wx-live">● LIVE ATL WEATHER</span><span class="wx-symbol" id="wxSym">◐</span><span class="wx-temp" id="wxTemp">—°</span><span class="wx-condition" id="wxCond">Reading conditions…</span></div>
     <div class="wx-status" id="wxStatus">Powered by Open-Meteo · Atlanta, GA</div>
   </div>
 </section>
-
 <main class="content" id="rails">
   <div style="padding:40px clamp(18px,4vw,54px);color:#666" id="feedLoading">Loading the latest from the Mezzy newsroom…</div>
 </main>
-
 <section class="rail-section" id="shows">
   <div class="rail-head"><h2>Mezzy Originals</h2><a href="section.html?id=shows" style="margin-left:auto;color:#c9a227;text-decoration:none;font-size:13px;font-weight:800">See all ›</a></div>
   <div class="rail">
     <button class="tile" data-title="Toxic Tuesday with Monica" data-desc="Monica pulls up every Tuesday with the messiest, most talked-about stories in entertainment — receipts first, always." data-url="#">
       <div class="tile-art"></div><div class="tile-info"><div class="eyebrow">Weekly · Tue</div><h3>Toxic Tuesday with Monica</h3><div class="meta"><span>Mezzy Originals</span><span>•</span><span>MEZZY</span></div></div></button>
-    <button class="tile" data-title="Fboy Friday" data-desc="Every Friday: the hall of fame nobody wants to be in. Ranked, sourced, and messy." data-url="#">
+    <button class="tile" data-title="Fboy Friday" data-desc="Every Friday: the hall of fame nobody wants to be in. Ranked, sourced, and messy." data-url="juzmezzy.html">
       <div class="tile-art"></div><div class="tile-info"><div class="eyebrow">Weekly · Fri</div><h3>Fboy Friday</h3><div class="meta"><span>JuzMezzy</span><span>•</span><span>MEZZY</span></div></div></button>
     <button class="tile" data-title="The Dawg Walk" data-desc="Jamal and Matt on everything UGA — and why Tech fans should look away." data-url="#">
       <div class="tile-art"></div><div class="tile-info"><div class="eyebrow">Gameday</div><h3>The Dawg Walk</h3><div class="meta"><span>Mezzy Sports</span><span>•</span><span>MEZZY</span></div></div></button>
   </div>
 </section>
-
 <section class="rail-section" id="blog">
   <div class="rail-head"><h2>The Mezzy Blog</h2><a href="section.html?id=blog" style="margin-left:auto;color:#c9a227;text-decoration:none;font-size:13px;font-weight:800">See all ›</a></div>
   <div style="padding:6px clamp(18px,4vw,54px) 26px;color:#9a9a9a;font-size:14px;line-height:1.6;max-width:720px">
     Longer reads from the newsroom — how we cover the city, what we're seeing, and the stories behind the stories. First posts drop this week.
   </div>
 </section>
-
 <section class="disclosure">
   <b>AI + affiliate disclosure.</b> Mezzy Media uses AI-assisted editorial personas to help produce and pace coverage; a human reviews before anything is published.
   Some links are affiliate links (Amazon Associates, tag <b>mezzymedia-20</b>) — if you buy through them, Mezzy may earn a commission at no extra cost to you.
   Atlanta-first, all of the city. © Mezzy Media.
 </section>
-
 <div class="modal" id="modal" onclick="if(event.target===this)closeModal()">
   <div class="modal-card">
     <div class="modal-hero"></div>
@@ -153,151 +147,36 @@ button,a{font:inherit;color:inherit}
     </div>
   </div>
 </div>
-
 <nav class="bottom-nav">
-  <a href="#" class="active"><b>⌂</b>Home</a><a href="#trending"><b>◉</b>News</a><a href="#culture"><b>✦</b>Culture</a><a href="#juzmezzy"><b>☕</b>Messy</a><a href="#shows"><b>▶</b>Shows</a>
+  <a href="#" class="active"><b>⌂</b>Home</a><a href="#latest"><b>◉</b>News</a><a href="#culture"><b>✦</b>Culture</a><a href="#juzmezzy"><b>☕</b>Messy</a><a href="#shows"><b>▶</b>Shows</a>
 </nav>
-
 <script>
-/* ---------- 1. AUTO-FEED: pull all content from feed.json ---------- */
-const FEED_URL = 'feed.json'; // pipeline writes this next to index.html
-
-/* Built-in fallback so the page is NEVER empty, even opened alone.
-   The live feed.json (written by the pipeline) overrides this on load. */
-const DEFAULT_FEED = {
-  hero: { title: "Aaliyah Williams: the first clean read on tonight's developing story", desc: "Atlanta-first, sourced and timestamped by the Mezzy newsroom.", url: "#" },
-  rails: [
-    { id:"trending", title:"Top 10 in Atlanta", items:[
-      {title:"Falcons camp: three names to watch before Week 1", cat:"Falcons", source:"The A"},
-      {title:"6 new Atlanta restaurant openings everyone's talking about", cat:"Food", source:"Mezzy Media"},
-      {title:"Clean Old-Fashioned Hate: the rivalry angle nobody's covering", cat:"Sports", source:"The A"},
-      {title:"Alpharetta tech corridor is quietly hiring — here's who", cat:"Tech", source:"Mezzy Media"},
-      {title:"ATL Latin food crawl: five spots off Buford Highway", cat:"Culture", source:"Mezzy Media"}
-    ]},
-    { id:"crime", title:"Crime Watch", items:[
-      {title:"Developing: APD responds downtown — what we know so far", cat:"Crime", source:"Mezzy Media"},
-      {title:"Court date set in Fulton County case everyone's watching", cat:"Courts", source:"Mezzy Media"},
-      {title:"GBI joins investigation — what we can confirm", cat:"Crime", source:"Mezzy Media"}
-    ]},
-    { id:"culture", title:"ATL Culture", items:[
-      {title:"The Southern Belle guide to a perfect Atlanta fall weekend", cat:"Lifestyle", source:"Mezzy Media"},
-      {title:"New mural in the Old Fourth Ward has the city talking", cat:"Arts", source:"Mezzy Media"}
-    ]},
-    { id:"sports", title:"Sports", items:[
-      {title:"Falcons injury report: who practices, who sits", cat:"Falcons", source:"Mezzy Sports"},
-      {title:"UGA opens as heavy favorite — the number, explained", cat:"UGA", source:"Mezzy Sports"}
-    ]},
-    { id:"juzmezzy", title:"JuzMezzy", items:[
-      {title:"Fboy Friday: this week's hall of fame inductee", cat:"Messy", source:"JuzMezzy"},
-      {title:"Toxic Tuesday: Monica's receipts are ready", cat:"Messy", source:"JuzMezzy"}
-    ]}
-  ]
-};
-
+const FEED_URL='feed.json';
+const DEFAULT_FEED={hero:{title:"Aaliyah Williams: the first clean read on tonight's developing story",desc:"Atlanta-first, sourced and timestamped by the Mezzy newsroom.",url:"#"},rails:[{id:"crime",title:"Crime Watch",items:[{title:"Developing: APD responds downtown — what we know so far",cat:"Crime",source:"Mezzy Media"}]},{id:"sports",title:"Sports",items:[{title:"UGA opens as heavy favorite — the number, explained",cat:"UGA",source:"Mezzy Sports"}]},{id:"culture",title:"ATL Culture",items:[{title:"The Southern Belle guide to a perfect Atlanta fall weekend",cat:"Lifestyle",source:"Mezzy Media"}]},{id:"juzmezzy",title:"JuzMezzy",items:[{title:"Fboy of the Year: cast your 2026 ballot",cat:"Messy",source:"JuzMezzy",url:"juzmezzy.html"}]}]};
 function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
-
-function tileHTML(item, rank){
-  const art = item.img
-    ? `<div class="tile-art"><img src="${esc(item.img)}" alt="" loading="lazy" onerror="this.remove()"></div>`
-    : `<div class="tile-art"></div>`;
-  const rk = rank ? `<div class="rank">${rank}</div>` : '';
-  return `<button class="tile" ${rank?'':''}
-      data-title="${esc(item.title)}" data-desc="${esc(item.desc||'')}" data-url="${esc(item.url||'#')}">
-      ${rk}${art}
-      <div class="tile-info"><div class="eyebrow">${esc(item.cat||'Mezzy')}</div>
-        <h3>${esc(item.title)}</h3>
-        <div class="meta"><span>${esc(item.source||'Mezzy Media')}</span><span>•</span><span>MEZZY</span></div>
-      </div></button>`;
-}
-
-function renderRail(rail){
-  const isTop = rail.id === 'trending';
-  const tiles = rail.items.map((it,i)=>tileHTML(it, isTop ? i+1 : 0)).join('');
-  return `<section class="rail-section" id="${esc(rail.id)}">
-    <div class="rail-head"><h2>${esc(rail.title)}</h2>
-      <a href="section.html?id=${esc(rail.id)}" style="margin-left:auto;color:#c9a227;text-decoration:none;font-size:13px;font-weight:800">See all ›</a></div>
-    <div class="rail" id="rail-${esc(rail.id)}">${tiles}</div></section>`;
-}
-
-const RAIL_SPEC = [
-  {id:'trending', title:'Top 10 in Atlanta'},
-  {id:'crime',    title:'Crime Watch'},
-  {id:'sports',   title:'Sports'},
-  {id:'culture',  title:'ATL Culture'},
-  {id:'juzmezzy', title:'JuzMezzy'},
-];
-
+const LANE_ART={crime:'art/crime.jpg',sports:'art/sports.jpg',culture:'art/culture.jpg',juzmezzy:'art/juzmezzy.jpg',news:'art/news.jpg'};
+function laneArt(id){return LANE_ART[id]||'art/news.jpg';}
+function normTitle(t){return String(t||'').toLowerCase().replace(/[^a-z0-9 ]/g,'').replace(/\b(atlanta|police|say|says|report|update|breaking|metro|ga|georgia)\b/g,'').replace(/\s+/g,' ').trim().slice(0,60);}
+function dedup(items){const best={};(items||[]).forEach(it=>{const k=normTitle(it.title);if(!k)return;if(!best[k]||(it.score||0)>(best[k].score||0))best[k]=it;});return Object.values(best).sort((a,b)=>(b.score||0)-(a.score||0));}
+function tileHTML(item,rank,laneId){const fb=laneArt(laneId);const src=item.img?esc(item.img):fb;const art=`<div class="tile-art"><img src="${src}" alt="" loading="lazy" onerror="this.onerror=null;this.src='${fb}'"></div>`;const rk=rank?`<div class="rank">${rank}</div>`:'';return `<button class="tile" data-title="${esc(item.title)}" data-desc="${esc(item.desc||'')}" data-url="${esc(item.url||'#')}">${rk}${art}<div class="tile-info"><div class="eyebrow">${esc(item.cat||'Mezzy')}</div><h3>${esc(item.title)}</h3><div class="meta"><span>${esc(item.source||'Mezzy Media')}</span><span>•</span><span>MEZZY</span></div></div></button>`;}
+function renderRail(id,title,items,numbered){const tiles=items.map((it,i)=>tileHTML(it,numbered?i+1:0,id)).join('');return `<section class="rail-section" id="${esc(id)}"><div class="rail-head"><h2>${esc(title)}</h2>${id==='latest'?'':`<a href="section.html?id=${esc(id)}" style="margin-left:auto;color:#c9a227;text-decoration:none;font-size:13px;font-weight:800">See all ›</a>`}</div><div class="rail" id="rail-${esc(id)}">${tiles}</div></section>`;}
+const RAIL_SPEC=[{id:'crime',title:'Crime Watch'},{id:'sports',title:'Sports'},{id:'culture',title:'ATL Culture'},{id:'juzmezzy',title:'JuzMezzy'}];
 function renderFeed(data){
-    // Hero
-    if(data.hero){
-      document.getElementById('heroStory').textContent = data.hero.title || 'Atlanta, first and uncut.';
-      document.getElementById('heroDesc').textContent = data.hero.desc || '';
-      if(data.hero.url) document.getElementById('heroCta').href = data.hero.url;
-    }
-    // Rails: fixed V6 section set — a tab ALWAYS has a home, even on a quiet lane
-    const byId = {};
-    (data.rails||[]).forEach(r=>{ if(r && r.id) byId[r.id] = r; });
-    document.getElementById('rails').innerHTML = RAIL_SPEC.map(spec=>{
-      const src = byId[spec.id];
-      if(src && src.items && src.items.length) return renderRail({id:spec.id, title:spec.title, items:src.items});
-      return `<section class="rail-section" id="${spec.id}">
-        <div class="rail-head"><h2>${spec.title}</h2></div>
-        <div style="padding:6px clamp(18px,4vw,54px) 14px;color:#7d7d7d;font-size:13px">Quiet on this lane right now — the newsroom posts the moment it moves.</div></section>`;
-    }).join('');
-    wireTiles();
+  if(data.hero){document.getElementById('heroStory').textContent=data.hero.title||'Atlanta, first and uncut.';document.getElementById('heroDesc').textContent=data.hero.desc||'';if(data.hero.url)document.getElementById('heroCta').href=data.hero.url;}
+  const byId={};(data.rails||[]).forEach(r=>{if(r&&r.id)byId[r.id]=r;});
+  let html='';
+  const latest=[];
+  RAIL_SPEC.forEach(spec=>{const src=byId[spec.id];if(src&&src.items&&src.items.length){const top=dedup(src.items)[0];if(top)latest.push(top);}});
+  if(latest.length)html+=renderRail('latest','Latest in Atlanta',latest,true);
+  html+=RAIL_SPEC.map(spec=>{const src=byId[spec.id];if(src&&src.items&&src.items.length){return renderRail(spec.id,spec.title,dedup(src.items),false);}return `<section class="rail-section" id="${spec.id}"><div class="rail-head"><h2>${spec.title}</h2></div><div style="padding:6px clamp(18px,4vw,54px) 14px;color:#7d7d7d;font-size:13px">Quiet on this lane right now — the newsroom posts the moment it moves.</div></section>`;}).join('');
+  document.getElementById('rails').innerHTML=html;wireTiles();
 }
-
-async function loadFeed(){
-  renderFeed(DEFAULT_FEED);              // show something immediately
-  try{
-    const r = await fetch(FEED_URL, {cache:'no-store'});
-    if(!r.ok) throw new Error('feed http '+r.status);
-    renderFeed(await r.json());          // override with the live pipeline feed
-  }catch(e){ /* keep the built-in feed showing */ }
-}
-
-function wireTiles(){
-  document.querySelectorAll('.tile').forEach(t=>t.addEventListener('click',()=>{
-    document.getElementById('mTitle').textContent = t.dataset.title;
-    document.getElementById('mDesc').textContent = t.dataset.desc || 'More from the Mezzy Media newsroom.';
-    const link = document.getElementById('mLink');
-    if(t.dataset.url && t.dataset.url!=='#'){ link.style.display='inline-flex'; link.href=t.dataset.url; }
-    else { link.style.display='none'; }
-    document.getElementById('modal').classList.add('open');
-  }));
-}
-function scrollRail(id,dir){document.getElementById('rail-'+id)?.scrollBy({left:window.innerWidth*.7*dir,behavior:'smooth'})}
+async function loadFeed(){renderFeed(DEFAULT_FEED);try{const r=await fetch(FEED_URL,{cache:'no-store'});if(!r.ok)throw new Error('feed http '+r.status);renderFeed(await r.json());}catch(e){}}
+function wireTiles(){document.querySelectorAll('.tile').forEach(t=>t.addEventListener('click',()=>{const url=t.dataset.url;if(url&&url.endsWith('.html')){location.href=url;return;}document.getElementById('mTitle').textContent=t.dataset.title;document.getElementById('mDesc').textContent=t.dataset.desc||'More from the Mezzy Media newsroom.';const link=document.getElementById('mLink');if(url&&url!=='#'){link.style.display='inline-flex';link.href=url;}else{link.style.display='none';}document.getElementById('modal').classList.add('open');}));}
 function closeModal(){document.getElementById('modal').classList.remove('open')}
 addEventListener('scroll',()=>document.getElementById('topbar').classList.toggle('solid',scrollY>50));
-
-/* ---------- 2. LIVE WEATHER (no key, reacts on the hero) ---------- */
-async function loadWeather(){
-  const status=document.getElementById('wxStatus');
-  try{
-    const url='https://api.open-meteo.com/v1/forecast?latitude=33.749&longitude=-84.388&current=temperature_2m,weather_code&temperature_unit=fahrenheit&timezone=America%2FNew_York';
-    const r=await fetch(url,{cache:'no-store'}); if(!r.ok) throw 0;
-    const d=await r.json(); const c=d.current;
-    const map={0:['☀','Clear'],1:['🌤','Mostly clear'],2:['⛅','Partly cloudy'],3:['☁','Overcast'],
-      45:['🌫','Fog'],48:['🌫','Fog'],51:['🌦','Drizzle'],53:['🌦','Drizzle'],55:['🌧','Drizzle'],
-      61:['🌧','Rain'],63:['🌧','Rain'],65:['🌧','Heavy rain'],71:['🌨','Snow'],80:['🌦','Showers'],
-      81:['🌧','Showers'],82:['⛈','Storms'],95:['⛈','Thunderstorms'],96:['⛈','Thunderstorms'],99:['⛈','Thunderstorms']};
-    const w=map[c.weather_code]||['◐','—'];
-    document.getElementById('wxSym').textContent=w[0];
-    document.getElementById('wxTemp').textContent=Math.round(c.temperature_2m)+'°';
-    document.getElementById('wxCond').textContent=w[1];
-    status.textContent='Live · Atlanta, GA · updates on load';
-    const raining=[51,53,55,61,63,65,80,81,82,95,96,99].includes(c.weather_code);
-    document.getElementById('hero').classList.toggle('raining',raining);
-    if(raining) seedRain();
-  }catch(e){ status.textContent='Weather unavailable · Atlanta, GA'; }
-}
-function seedRain(){
-  const layer=document.getElementById('wxRain'); if(layer.childElementCount) return;
-  for(let i=0;i<60;i++){const d=document.createElement('div');d.className='wx-drop';
-    d.style.left=(Math.random()*110-5)+'%';d.style.animationDuration=(.5+Math.random()*.5)+'s';
-    d.style.animationDelay=(-Math.random()*2)+'s';layer.appendChild(d);}
-}
-
-loadFeed(); loadWeather();
+async function loadWeather(){const status=document.getElementById('wxStatus');try{const url='https://api.open-meteo.com/v1/forecast?latitude=33.749&longitude=-84.388&current=temperature_2m,weather_code&temperature_unit=fahrenheit&timezone=America%2FNew_York';const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw 0;const d=await r.json();const c=d.current;const map={0:['☀','Clear'],1:['🌤','Mostly clear'],2:['⛅','Partly cloudy'],3:['☁','Overcast'],45:['🌫','Fog'],48:['🌫','Fog'],51:['🌦','Drizzle'],53:['🌦','Drizzle'],55:['🌧','Drizzle'],61:['🌧','Rain'],63:['🌧','Rain'],65:['🌧','Heavy rain'],71:['🌨','Snow'],80:['🌦','Showers'],81:['🌧','Showers'],82:['⛈','Storms'],95:['⛈','Thunderstorms'],96:['⛈','Thunderstorms'],99:['⛈','Thunderstorms']};const w=map[c.weather_code]||['◐','—'];document.getElementById('wxSym').textContent=w[0];document.getElementById('wxTemp').textContent=Math.round(c.temperature_2m)+'°';document.getElementById('wxCond').textContent=w[1];status.textContent='Live · Atlanta, GA · updates on load';const raining=[51,53,55,61,63,65,80,81,82,95,96,99].includes(c.weather_code);document.getElementById('hero').classList.toggle('raining',raining);if(raining)seedRain();}catch(e){status.textContent='Weather unavailable · Atlanta, GA';}}
+function seedRain(){const layer=document.getElementById('wxRain');if(layer.childElementCount)return;for(let i=0;i<60;i++){const d=document.createElement('div');d.className='wx-drop';d.style.left=(Math.random()*110-5)+'%';d.style.animationDuration=(.5+Math.random()*.5)+'s';d.style.animationDelay=(-Math.random()*2)+'s';layer.appendChild(d);}}
+loadFeed();loadWeather();
 </script>
 </body></html>
