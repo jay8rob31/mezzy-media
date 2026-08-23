@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T16:30:25",
+ "updated": "2026-08-23T16:35:24",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -83,6 +83,15 @@
      "score": 80
     },
     {
+     "title": "Stabbing reported near Atlanta Kroger, suspect detained",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5RSNBX2S35F2FF54R6XZC7IU3U.jpg?auth=3c398b8705a3872ba330b78bb3076ebd7905fb7e8f32a7c88134a7b801f075ce&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/stabbing-reported-near-atlanta-kroger-suspect-detained/PUIPZRQGKVGOVNISTKAF3QVV24/",
+     "score": 76
+    },
+    {
      "title": "Shooting that hurt man stemmed from argument, police say",
      "desc": "",
      "cat": "Crime",
@@ -90,15 +99,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FHP62LBL3YND7TNZA3U5XBHXU3A.png?auth=e54f5008b864b32d15badc9b2b3e189202b846ca030b11aa3a75028386f320d2&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/shooting-that-hurt-man-stemmed-argument-police-say/RWYFLT664BGE7DJBXB4WTYTX24/",
      "score": 74
-    },
-    {
-     "title": "Woman struck and killed on I-75 after exiting disabled car",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/01/1200/630/vlcsnap-2023-01-14-19h52m11s507.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/woman-struck-killed-i-75-after-exiting-disabled-car",
-     "score": 71
     }
    ]
   },
@@ -179,6 +179,15 @@
      "score": 80
     },
     {
+     "title": "Stabbing reported near Atlanta Kroger, suspect detained",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5RSNBX2S35F2FF54R6XZC7IU3U.jpg?auth=3c398b8705a3872ba330b78bb3076ebd7905fb7e8f32a7c88134a7b801f075ce&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/stabbing-reported-near-atlanta-kroger-suspect-detained/PUIPZRQGKVGOVNISTKAF3QVV24/",
+     "score": 76
+    },
+    {
      "title": "Shooting that hurt man stemmed from argument, police say",
      "desc": "",
      "cat": "Crime",
@@ -186,15 +195,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FHP62LBL3YND7TNZA3U5XBHXU3A.png?auth=e54f5008b864b32d15badc9b2b3e189202b846ca030b11aa3a75028386f320d2&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/shooting-that-hurt-man-stemmed-argument-police-say/RWYFLT664BGE7DJBXB4WTYTX24/",
      "score": 74
-    },
-    {
-     "title": "Woman struck and killed on I-75 after exiting disabled car",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/01/1200/630/vlcsnap-2023-01-14-19h52m11s507.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/woman-struck-killed-i-75-after-exiting-disabled-car",
-     "score": 71
     },
     {
      "title": "Man shot, killed in Clayton County neighborhood, police say",
