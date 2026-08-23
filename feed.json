@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T16:45:24",
+ "updated": "2026-08-23T16:50:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -38,15 +38,6 @@
      "score": 93
     },
     {
-     "title": "Police report overnight shooting on Candler Rd leaves one injured in DeKalb County",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/police-report-overnight-shooting-on-candler-rd-leaves-one-injured-in-dekalb-county/85-0d654167-c8cf-4eba-8418-12766d1995d2",
-     "score": 86
-    },
-    {
      "title": "Mother of 2-year-old found dead at home charged with murder",
      "desc": "",
      "cat": "Crime",
@@ -65,12 +56,12 @@
      "score": 80
     },
     {
-     "title": "Unknown gunman shoots man standing outside in NE Atlanta",
+     "title": "Police report overnight shooting on Candler Rd leaves one injured in DeKalb County",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/Atlanta-police-generic-2.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/unknown-gunman-shoots-man-standing-outside-ne-atlanta",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/police-report-overnight-shooting-on-candler-rd-leaves-one-injured-in-dekalb-county/85-0d654167-c8cf-4eba-8418-12766d1995d2",
      "score": 80
     },
     {
@@ -90,6 +81,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5RSNBX2S35F2FF54R6XZC7IU3U.jpg?auth=3c398b8705a3872ba330b78bb3076ebd7905fb7e8f32a7c88134a7b801f075ce&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/stabbing-reported-near-atlanta-kroger-suspect-detained/PUIPZRQGKVGOVNISTKAF3QVV24/",
      "score": 76
+    },
+    {
+     "title": "Unknown gunman shoots man standing outside in NE Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/Atlanta-police-generic-2.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/unknown-gunman-shoots-man-standing-outside-ne-atlanta",
+     "score": 74
     },
     {
      "title": "Shooting that hurt man stemmed from argument, police say",
@@ -134,15 +134,6 @@
      "score": 93
     },
     {
-     "title": "Police report overnight shooting on Candler Rd leaves one injured in DeKalb County",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/police-report-overnight-shooting-on-candler-rd-leaves-one-injured-in-dekalb-county/85-0d654167-c8cf-4eba-8418-12766d1995d2",
-     "score": 86
-    },
-    {
      "title": "Mother of 2-year-old found dead at home charged with murder",
      "desc": "",
      "cat": "Crime",
@@ -161,12 +152,12 @@
      "score": 80
     },
     {
-     "title": "Unknown gunman shoots man standing outside in NE Atlanta",
+     "title": "Police report overnight shooting on Candler Rd leaves one injured in DeKalb County",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/Atlanta-police-generic-2.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/unknown-gunman-shoots-man-standing-outside-ne-atlanta",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/police-report-overnight-shooting-on-candler-rd-leaves-one-injured-in-dekalb-county/85-0d654167-c8cf-4eba-8418-12766d1995d2",
      "score": 80
     },
     {
@@ -186,6 +177,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5RSNBX2S35F2FF54R6XZC7IU3U.jpg?auth=3c398b8705a3872ba330b78bb3076ebd7905fb7e8f32a7c88134a7b801f075ce&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/stabbing-reported-near-atlanta-kroger-suspect-detained/PUIPZRQGKVGOVNISTKAF3QVV24/",
      "score": 76
+    },
+    {
+     "title": "Unknown gunman shoots man standing outside in NE Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/Atlanta-police-generic-2.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/unknown-gunman-shoots-man-standing-outside-ne-atlanta",
+     "score": 74
     },
     {
      "title": "Shooting that hurt man stemmed from argument, police say",
