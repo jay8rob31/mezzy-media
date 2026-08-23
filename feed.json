@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T19:30:26",
+ "updated": "2026-08-23T19:35:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -335,6 +335,15 @@
    "title": "ATL Culture",
    "items": [
     {
+     "title": "Allen Stone and Nicotine Dolls to headline Blue Stone Arts & Music Festival",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FTQLXJXWZYVGRVAX3TSIRLYT6QE.webp?auth=39bfa8eb79ac261c6937db2dc17951222130d58c6d90c1a840f8e970700493b0&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/allen-stone-nicotine-dolls-headline-blue-stone-arts-music-festival/EHTAONSG2BFTXMYOPTPXUZPPII/",
+     "score": 60
+    },
+    {
      "title": "Gridlock Guy: Atlanta\u2019s many Peachtrees get proper comical musical treatment in viral song",
      "desc": "",
      "cat": "Culture",
@@ -342,15 +351,6 @@
      "img": "art/culture.jpg",
      "url": "https://www.11alive.com/article/traffic/gridlock-guy-atlanta-traffic-column-the-many-peachtree-streets-of-atlanta-gregory-brothers-71-peachtrees/85-720c9597-cbbe-4a3f-84e2-c2347c250081",
      "score": 46
-    },
-    {
-     "title": "No Bonnaroo Music and Arts Festival in 2027, says venue",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FP4P2ZNN3ENDP5PAXES75LZ555E.jpg?auth=6107290c41619ee383d6d99bfd63938e09eb0d8a3ab58f2a663738b949aeb321&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/no-bonnaroo-music-arts-festival-2027-says-venue/HJYS3OQECZGNZDGSJ5ZES55NTY/",
-     "score": 42
     },
     {
      "title": "Bonnaroo to take 2027 off as festival site recovers from back-to-back years of storms",
@@ -425,21 +425,21 @@
      "score": 0
     },
     {
+     "title": "Bonnaroo cancels its 2027 music festival. Here\u2019s why",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/21/bonnaroo-cancels-its-2027-music-festival-heres-why/",
+     "score": 0
+    },
+    {
      "title": "Here\u2019s when \u2018Tap to Pay\u2019 is coming to Walmart and Sam\u2019s Club locations",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/21/heres-when-tap-pay-is-coming-walmart-sams-club-locations/",
-     "score": 0
-    },
-    {
-     "title": "I Spy! Walter Wick\u2019s Hidden Wonders at The High Museum",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/21/i-spy-walter-wicks-hidden-wonders-high-museum/",
      "score": 0
     }
    ]
