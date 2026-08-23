@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T15:00:24",
+ "updated": "2026-08-23T15:05:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -65,6 +65,15 @@
      "score": 80
     },
     {
+     "title": "Unknown gunman shoots man standing outside in NE Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/Atlanta-police-generic-2.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/unknown-gunman-shoots-man-standing-outside-ne-atlanta",
+     "score": 80
+    },
+    {
      "title": "Atlanta police arrest suspect after Cheshire Bridge Road shooting",
      "desc": "",
      "cat": "Crime",
@@ -83,22 +92,13 @@
      "score": 74
     },
     {
-     "title": "Man shot, killed in Clayton County neighborhood, police say",
+     "title": "Woman struck and killed on I-75 after exiting disabled car",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/64IN46MSNVFPLCJJMF5RXEYQBI.png?auth=dd7736b899337cda82eaa03e2bb56cf6034be7875f00c7c3344cb134aecf3e93&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/22/man-shot-killed-clayton-county-neighborhood-police-say/",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/01/1200/630/vlcsnap-2023-01-14-19h52m11s507.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/woman-struck-killed-i-75-after-exiting-disabled-car",
      "score": 71
-    },
-    {
-     "title": "Metro Atlanta man sentenced to life after 2021 murder conviction",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPLVPN3UPN5EY7JOLOFUY7NNVHQ.png?auth=66006e7c91bafdf0f4168711e1bd8240b5770f11815766325f8a8d7fdbee581a&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/metro-atlanta-man-sentenced-life-after-2021-murder-conviction/7UUKFOIX3NHN5ELTDYQN5HZB4I/",
-     "score": 70
     }
    ]
   },
@@ -161,6 +161,15 @@
      "score": 80
     },
     {
+     "title": "Unknown gunman shoots man standing outside in NE Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/Atlanta-police-generic-2.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/unknown-gunman-shoots-man-standing-outside-ne-atlanta",
+     "score": 80
+    },
+    {
      "title": "Atlanta police arrest suspect after Cheshire Bridge Road shooting",
      "desc": "",
      "cat": "Crime",
@@ -179,6 +188,15 @@
      "score": 74
     },
     {
+     "title": "Woman struck and killed on I-75 after exiting disabled car",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/01/1200/630/vlcsnap-2023-01-14-19h52m11s507.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/woman-struck-killed-i-75-after-exiting-disabled-car",
+     "score": 71
+    },
+    {
      "title": "Man shot, killed in Clayton County neighborhood, police say",
      "desc": "",
      "cat": "Crime",
@@ -195,24 +213,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPLVPN3UPN5EY7JOLOFUY7NNVHQ.png?auth=66006e7c91bafdf0f4168711e1bd8240b5770f11815766325f8a8d7fdbee581a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/metro-atlanta-man-sentenced-life-after-2021-murder-conviction/7UUKFOIX3NHN5ELTDYQN5HZB4I/",
      "score": 70
-    },
-    {
-     "title": "The PWHL's Walter Cup championship trophy went missing while in transit to Alberta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/pwhls-walter-cup-championship-trophy-missing/507-e6527664-cddb-4117-aa4e-814f3733730b",
-     "score": 70
-    },
-    {
-     "title": "Firefighters battle mobile home blaze on Connally Street SE in Atlanta; no injuries reported",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/firefighters-battle-mobile-home-blaze-on-connally-street-se-in-atlanta-no-injuries-reported/85-c4c37787-ec0b-402d-a835-db0ab876b087",
-     "score": 68
     }
    ]
   },
@@ -227,7 +227,7 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FEZDTIFUPCBAXJLAHAGBXIEKYGA.jpg?auth=3fff8ea24fd6c398f5fb6f05498f7fd0181e375787e9f7259b619015a190a514&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
-     "score": 64
+     "score": 58
     },
     {
      "title": "Falcons dominate in preseason play against Indianapolis",
