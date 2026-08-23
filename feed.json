@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T08:40:25",
+ "updated": "2026-08-23T08:45:26",
  "hero": {
   "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
   "desc": "",
@@ -284,6 +284,15 @@
      "score": 30
     },
     {
+     "title": "17-year-old high school quarterback dies after football game injury",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/23/17-year-old-high-school-quarterback-dies-after-football-game-injury/",
+     "score": 0
+    },
+    {
      "title": "Teen collapses, dies at football practice on first day of school",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/sports/college/georgia-bulldogs/georgia-bulldogs-ap-top-25-preseason-poll/85-b572e970-ee2c-4c7b-bbd8-ef734350964f",
-     "score": 0
-    },
-    {
-     "title": "Devin Stanton Promoted to Associate Head Coach",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:ramblinwreck.com",
-     "img": "",
-     "url": "https://ramblinwreck.com/devin-stanton-promoted-to-associate-head-coach/",
      "score": 0
     }
    ]
