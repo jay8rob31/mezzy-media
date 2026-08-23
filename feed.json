@@ -1,15 +1,24 @@
 {
- "updated": "2026-08-23T12:20:24",
+ "updated": "2026-08-23T12:25:25",
  "hero": {
-  "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
+  "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
-  "url": "https://www.fox5atlanta.com/news/guard-shoots-23-year-old-who-shot-man-atlanta-adult-store-police-say"
+  "url": "https://www.11alive.com/article/news/crime/woman-killed-in-south-fulton-shooting-suspect-identified-as-domina-brown-charged-with-murder/85-07f6854b-1b28-4a18-9920-47a934124b00"
  },
  "rails": [
   {
    "id": "trending",
    "title": "Top 10 in Atlanta",
    "items": [
+    {
+     "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/woman-killed-in-south-fulton-shooting-suspect-identified-as-domina-brown-charged-with-murder/85-07f6854b-1b28-4a18-9920-47a934124b00",
+     "score": 141
+    },
     {
      "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
      "desc": "",
@@ -90,15 +99,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPLVPN3UPN5EY7JOLOFUY7NNVHQ.png?auth=66006e7c91bafdf0f4168711e1bd8240b5770f11815766325f8a8d7fdbee581a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/metro-atlanta-man-sentenced-life-after-2021-murder-conviction/7UUKFOIX3NHN5ELTDYQN5HZB4I/",
      "score": 70
-    },
-    {
-     "title": "The PWHL's Walter Cup championship trophy went missing while in transit to Alberta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/pwhls-walter-cup-championship-trophy-missing/507-e6527664-cddb-4117-aa4e-814f3733730b",
-     "score": 70
     }
    ]
   },
@@ -106,6 +106,15 @@
    "id": "crime",
    "title": "Crime Watch",
    "items": [
+    {
+     "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/woman-killed-in-south-fulton-shooting-suspect-identified-as-domina-brown-charged-with-murder/85-07f6854b-1b28-4a18-9920-47a934124b00",
+     "score": 141
+    },
     {
      "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
      "desc": "",
@@ -204,15 +213,6 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/03/1200/630/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-injured-after-verbal-dispute-leads-southwest-atlanta-shooting",
      "score": 68
-    },
-    {
-     "title": "Man hospitalized after overnight shooting in northwest Atlanta, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2019/08/1200/630/8a22a5b3-police-lights_1439742529655_107702_ver1.0_640_360_1510019795262_4478258_ver1.0.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-hospitalized-after-overnight-shooting-northwest-atlanta-police-say",
-     "score": 68
     }
    ]
   },
@@ -279,7 +279,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/LZT5CZ5CRNEITPXG3ANOTGYEPI.jpg?auth=5f5a0c5753bdd348751ccecf0afb8d42125b0dac9f1b54c2fdc273a51ae82386&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=2823%2C1352",
+     "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/21/sale-outdueled-by-misiorowski-braves-drop-opener-brewers/",
      "score": 30
     },
