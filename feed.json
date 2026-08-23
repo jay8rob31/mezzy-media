@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-21T19:36:08",
+ "updated": "2026-08-23T08:23:20",
  "hero": {
-  "title": "Man shot, killed at apartment complex where police investigated gunfire 24 hours earlier",
+  "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
   "desc": "",
-  "url": "https://www.wsbtv.com/news/local/man-shot-killed-apartment-complex-where-police-investigated-gunshots-24-hours-earlier/KUUHV5VUABGMVIWXPBJJYS4SEE/"
+  "url": "https://www.fox5atlanta.com/news/guard-shoots-23-year-old-who-shot-man-atlanta-adult-store-police-say"
  },
  "rails": [
   {
@@ -11,13 +11,22 @@
    "title": "Top 10 in Atlanta",
    "items": [
     {
-     "title": "Man shot, killed at apartment complex where police investigated gunfire 24 hours earlier",
+     "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F3Q5RSLZ7Q5H23EPADJW3K2KS4M.jpeg?auth=7d0b5beb41c3f2175247a92546a1fd5fda35250e6412aac3c5e87614fffd548c&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/man-shot-killed-apartment-complex-where-police-investigated-gunshots-24-hours-earlier/KUUHV5VUABGMVIWXPBJJYS4SEE/",
-     "score": 144
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/05/1200/630/2cddc7b0-0cf2cf80-sher6-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/guard-shoots-23-year-old-who-shot-man-atlanta-adult-store-police-say",
+     "score": 96
+    },
+    {
+     "title": "Man killed, person in custody after shooting in Riverdale, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-killed-person-custody-after-shooting-riverdale-police-say",
+     "score": 93
     },
     {
      "title": "Mother of 2-year-old found dead at home charged with murder",
@@ -26,78 +35,69 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
-     "score": 89
+     "score": 83
     },
     {
-     "title": "Teen shot in the face at Lilburn park over sneakers",
+     "title": "Atlanta police arrest suspect after Cheshire Bridge Road shooting",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-21-2026%2Ft_61167d587b2a40d88f15b833d45f7643_name_5PP_SHOOTING_BRYSON_PARK_LILBURN_PKG_frame_2230.jpeg?auth=4396f754c9944deb6c5b32d0ae2846ae8d7575d3902148f35b795a00ef1e96f4&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/gwinnett-county/teen-shot-face-lilburn-park-over-sneakers/IHZHGKZQHVBAVMYA4THIKHRKWY/",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FH63XRN22TFDKFMTPPKRJMWJKVA.jpeg?auth=0e7f37d76ec0f820a7901138657e8fe15d862833a4ec8633d9f18ebf194e5ef3&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta-police-arrest-suspect-after-cheshire-bridge-road-shooting/Q47MOZZDBNHHFO5UA27O73MX6E/",
      "score": 80
     },
     {
-     "title": "Police recruit shot, killed 1 week before graduating academy: \u2018Would\u2019ve made a great cop\u2019",
+     "title": "Shooting that hurt man stemmed from argument, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FHP62LBL3YND7TNZA3U5XBHXU3A.png?auth=e54f5008b864b32d15badc9b2b3e189202b846ca030b11aa3a75028386f320d2&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/shooting-that-hurt-man-stemmed-argument-police-say/RWYFLT664BGE7DJBXB4WTYTX24/",
+     "score": 74
+    },
+    {
+     "title": "Man shot, killed in Clayton County neighborhood, police say",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/5U7KKQWCD5CQTOAEYOWIA6ADZY.jpg?auth=e7c057bc4e7db7682d2ccbe824137030fed82b360767bb8196fc0cf995827b3b&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/20/police-recruit-shot-killed-1-week-before-graduating-academy-wouldve-made-great-cop/",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/64IN46MSNVFPLCJJMF5RXEYQBI.png?auth=dd7736b899337cda82eaa03e2bb56cf6034be7875f00c7c3344cb134aecf3e93&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/22/man-shot-killed-clayton-county-neighborhood-police-say/",
      "score": 71
     },
     {
-     "title": "\u2018She would\u2019ve died\u2019: Acworth officers recount saving stabbing victim at Chick-fil-A",
+     "title": "Metro Atlanta man sentenced to life after 2021 murder conviction",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FCGYJ53BQHVH5HBWFQJTGJJ3VKY.jpg?auth=2b8e461a6782add5fd01065a504707ad85220b1bf56493c6be1d5ded97acc484&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/she-wouldve-died-acworth-officers-recount-saving-stabbing-victim-chick-fil-a/VQ5I65NPVVCYNEHOSH3XPLMANQ/",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPLVPN3UPN5EY7JOLOFUY7NNVHQ.png?auth=66006e7c91bafdf0f4168711e1bd8240b5770f11815766325f8a8d7fdbee581a&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/metro-atlanta-man-sentenced-life-after-2021-murder-conviction/7UUKFOIX3NHN5ELTDYQN5HZB4I/",
      "score": 70
     },
     {
-     "title": "'Our hope is strong': Earth, Wind & Fire shares health update on drummer John Paris",
+     "title": "The PWHL's Walter Cup championship trophy went missing while in transit to Alberta",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/earth-wind-fire-drummer-john-paris-recovery/507-10911f62-1d32-4df6-a11d-2ad0380862ac",
+     "url": "https://www.11alive.com/article/news/nation-world/pwhls-walter-cup-championship-trophy-missing/507-e6527664-cddb-4117-aa4e-814f3733730b",
+     "score": 70
+    },
+    {
+     "title": "Man injured after verbal dispute leads to southwest Atlanta shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/03/1200/630/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-injured-after-verbal-dispute-leads-southwest-atlanta-shooting",
      "score": 68
     },
     {
-     "title": "Firefighter suffers heat exhaustion while battling house fire",
+     "title": "Man hospitalized after overnight shooting in northwest Atlanta, police say",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNOVM3PK4P5BJBF6GL7Q7UIFA3Y.jpeg?auth=3b50df86397be998aa80a77be7ec8a7751bd627be0c10125fe41d89e890cda56&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/firefighter-suffers-heat-exhaustion-while-battling-house-fire/NRJBAKBWWBESDKT5TGT454VA7M/",
-     "score": 68
-    },
-    {
-     "title": "Body found in car after shooting at Atlanta apartment",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/body-found-in-car-after-shooting-at-atlanta-apartment/85-fe597ec2-a816-4468-8c5f-f5bf43ab61ec",
-     "score": 68
-    },
-    {
-     "title": "APD on scene of shooting that left 1 person hurt",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/shooting-atlanta-joseph-e-boone-blvd/85-eb1ce59d-a664-4d57-a2d5-1845aa96b6b0",
-     "score": 68
-    },
-    {
-     "title": "Suspect denied bond in Sandy Springs shooting case full of surprises",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F447M5XQDRVAERF6RI7OOJM6C64.jpg?auth=7a1b15d2c519933cfd1135f33cc3b09799ba938c443796b2db2d965102f1622b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/north-fulton-county/suspect-denied-bond-sandy-springs-shooting-case-full-surprises/DXFW62O6WREDJJMXNENAN3YBUY/",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2019/08/1200/630/8a22a5b3-police-lights_1439742529655_107702_ver1.0_640_360_1510019795262_4478258_ver1.0.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-hospitalized-after-overnight-shooting-northwest-atlanta-police-say",
      "score": 68
     }
    ]
@@ -107,13 +107,22 @@
    "title": "Crime Watch",
    "items": [
     {
-     "title": "Man shot, killed at apartment complex where police investigated gunfire 24 hours earlier",
+     "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F3Q5RSLZ7Q5H23EPADJW3K2KS4M.jpeg?auth=7d0b5beb41c3f2175247a92546a1fd5fda35250e6412aac3c5e87614fffd548c&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/man-shot-killed-apartment-complex-where-police-investigated-gunshots-24-hours-earlier/KUUHV5VUABGMVIWXPBJJYS4SEE/",
-     "score": 144
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/05/1200/630/2cddc7b0-0cf2cf80-sher6-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/guard-shoots-23-year-old-who-shot-man-atlanta-adult-store-police-say",
+     "score": 96
+    },
+    {
+     "title": "Man killed, person in custody after shooting in Riverdale, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-killed-person-custody-after-shooting-riverdale-police-say",
+     "score": 93
     },
     {
      "title": "Mother of 2-year-old found dead at home charged with murder",
@@ -122,97 +131,88 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
-     "score": 89
+     "score": 83
     },
     {
-     "title": "Teen shot in the face at Lilburn park over sneakers",
+     "title": "Atlanta police arrest suspect after Cheshire Bridge Road shooting",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-21-2026%2Ft_61167d587b2a40d88f15b833d45f7643_name_5PP_SHOOTING_BRYSON_PARK_LILBURN_PKG_frame_2230.jpeg?auth=4396f754c9944deb6c5b32d0ae2846ae8d7575d3902148f35b795a00ef1e96f4&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/gwinnett-county/teen-shot-face-lilburn-park-over-sneakers/IHZHGKZQHVBAVMYA4THIKHRKWY/",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FH63XRN22TFDKFMTPPKRJMWJKVA.jpeg?auth=0e7f37d76ec0f820a7901138657e8fe15d862833a4ec8633d9f18ebf194e5ef3&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta-police-arrest-suspect-after-cheshire-bridge-road-shooting/Q47MOZZDBNHHFO5UA27O73MX6E/",
      "score": 80
     },
     {
-     "title": "Police recruit shot, killed 1 week before graduating academy: \u2018Would\u2019ve made a great cop\u2019",
+     "title": "Shooting that hurt man stemmed from argument, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FHP62LBL3YND7TNZA3U5XBHXU3A.png?auth=e54f5008b864b32d15badc9b2b3e189202b846ca030b11aa3a75028386f320d2&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/shooting-that-hurt-man-stemmed-argument-police-say/RWYFLT664BGE7DJBXB4WTYTX24/",
+     "score": 74
+    },
+    {
+     "title": "Man shot, killed in Clayton County neighborhood, police say",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/5U7KKQWCD5CQTOAEYOWIA6ADZY.jpg?auth=e7c057bc4e7db7682d2ccbe824137030fed82b360767bb8196fc0cf995827b3b&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/20/police-recruit-shot-killed-1-week-before-graduating-academy-wouldve-made-great-cop/",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/64IN46MSNVFPLCJJMF5RXEYQBI.png?auth=dd7736b899337cda82eaa03e2bb56cf6034be7875f00c7c3344cb134aecf3e93&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/22/man-shot-killed-clayton-county-neighborhood-police-say/",
      "score": 71
     },
     {
-     "title": "\u2018She would\u2019ve died\u2019: Acworth officers recount saving stabbing victim at Chick-fil-A",
+     "title": "Metro Atlanta man sentenced to life after 2021 murder conviction",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FCGYJ53BQHVH5HBWFQJTGJJ3VKY.jpg?auth=2b8e461a6782add5fd01065a504707ad85220b1bf56493c6be1d5ded97acc484&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/she-wouldve-died-acworth-officers-recount-saving-stabbing-victim-chick-fil-a/VQ5I65NPVVCYNEHOSH3XPLMANQ/",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPLVPN3UPN5EY7JOLOFUY7NNVHQ.png?auth=66006e7c91bafdf0f4168711e1bd8240b5770f11815766325f8a8d7fdbee581a&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/metro-atlanta-man-sentenced-life-after-2021-murder-conviction/7UUKFOIX3NHN5ELTDYQN5HZB4I/",
      "score": 70
     },
     {
-     "title": "'Our hope is strong': Earth, Wind & Fire shares health update on drummer John Paris",
+     "title": "The PWHL's Walter Cup championship trophy went missing while in transit to Alberta",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/earth-wind-fire-drummer-john-paris-recovery/507-10911f62-1d32-4df6-a11d-2ad0380862ac",
-     "score": 68
+     "url": "https://www.11alive.com/article/news/nation-world/pwhls-walter-cup-championship-trophy-missing/507-e6527664-cddb-4117-aa4e-814f3733730b",
+     "score": 70
     },
     {
-     "title": "Firefighter suffers heat exhaustion while battling house fire",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNOVM3PK4P5BJBF6GL7Q7UIFA3Y.jpeg?auth=3b50df86397be998aa80a77be7ec8a7751bd627be0c10125fe41d89e890cda56&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/firefighter-suffers-heat-exhaustion-while-battling-house-fire/NRJBAKBWWBESDKT5TGT454VA7M/",
-     "score": 68
-    },
-    {
-     "title": "Body found in car after shooting at Atlanta apartment",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/body-found-in-car-after-shooting-at-atlanta-apartment/85-fe597ec2-a816-4468-8c5f-f5bf43ab61ec",
-     "score": 68
-    },
-    {
-     "title": "APD on scene of shooting that left 1 person hurt",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/shooting-atlanta-joseph-e-boone-blvd/85-eb1ce59d-a664-4d57-a2d5-1845aa96b6b0",
-     "score": 68
-    },
-    {
-     "title": "Suspect denied bond in Sandy Springs shooting case full of surprises",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F447M5XQDRVAERF6RI7OOJM6C64.jpg?auth=7a1b15d2c519933cfd1135f33cc3b09799ba938c443796b2db2d965102f1622b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/north-fulton-county/suspect-denied-bond-sandy-springs-shooting-case-full-surprises/DXFW62O6WREDJJMXNENAN3YBUY/",
-     "score": 68
-    },
-    {
-     "title": "Husband charged with murder after claiming wife with postpartum depression killed herself, reports say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/VJTYXR6MQZB2FKFLM7L6AJ376A.png?auth=b20d73366c42b01c3760b3fc26e0224a2ba03047cc102334b2c6399daefe783e&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/20/husband-charged-with-murder-after-claiming-wife-with-postpartum-depression-killed-herself-reports-say/",
-     "score": 67
-    },
-    {
-     "title": "College soccer player allegedly killed by boyfriend who blamed 'demon;' his mom accused of cover-up",
+     "title": "Man injured after verbal dispute leads to southwest Atlanta shooting",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/police-car-lights-getty-scaled.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/college-soccer-player-allegedly-killed-boyfriend-who-blamed-demon-his-mom-accused-cover-up",
-     "score": 65
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/03/1200/630/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-injured-after-verbal-dispute-leads-southwest-atlanta-shooting",
+     "score": 68
+    },
+    {
+     "title": "Man hospitalized after overnight shooting in northwest Atlanta, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2019/08/1200/630/8a22a5b3-police-lights_1439742529655_107702_ver1.0_640_360_1510019795262_4478258_ver1.0.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-hospitalized-after-overnight-shooting-northwest-atlanta-police-say",
+     "score": 68
+    },
+    {
+     "title": "Victim dies in Riverdale shooting, suspect in custody",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FLSIV7UNYCBECHP2KXTCTT6574E.jpeg?auth=fdc13410a2a0f3a605bdbea2a813b4272278c2f9b899999d111e255d651f93a1&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/man-dies-riverdale-shooting-suspect-custody/6BAYJKPXGBAVTCVK4ZLGXJOHS4/",
+     "score": 68
+    },
+    {
+     "title": "Suspect charged with aggravated assault after Northeast Atlanta shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/suspect-charged-with-aggravated-assault-after-northeast-atlanta-shooting/85-b6ef2413-25c4-48a1-95d8-08a4451b7952",
+     "score": 68
     }
    ]
   },
@@ -221,13 +221,58 @@
    "title": "Sports",
    "items": [
     {
-     "title": "Georgia Tech Athletics Unveils 100 Improvements for Football Gamedays",
+     "title": "Falcons dominate in preseason play against Indianapolis",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:sports:ramblinwreck.com",
-     "img": "https://ramblinwreck.com/imgproxy/yoEmMmlqAUBYBeTzIBLG6PD0F4H8wNRws95JKnQ5pL0/fit/2500/2500/ce/0/aHR0cHM6Ly9yYW1ibGlud3JlY2suY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDI2LzA4L2FtdC1lOGM2YmYyMjRlYzQ2ZGRlN2M4YjQzZDEwNjlmOGZmNjllMzJhYzc2LVBpdHRfMTEyMjI1X0RLLTEyNjAuanBn.jpg",
-     "url": "https://ramblinwreck.com/georgia-tech-athletics-unveils-100-improvements-for-football-gamedays/",
-     "score": 64
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFDXRPOOPBZAIBIHJ733ZVWZFRY.jpg?auth=4df2d1e410ec8b25bf487107e2860b76701a4f0acc7b71ec40ef438148534164&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/falcons-dominate-preseason-play-against-indianapolis/2JRBCGEBZ5EY5KDAT76MJMIMW4/",
+     "score": 56
+    },
+    {
+     "title": "Former NFL Player Tae Crowder says he lost $500,000 in investment scheme",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/gettyimages-2278973308-scaled.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/former-nfl-player-tae-crowder-says-he-lost-500000-investment-scheme",
+     "score": 34
+    },
+    {
+     "title": "NASA taps Georgia Tech to lead statewide effort to expand aerospace workforce",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YQ4YLUBWVVAHRN5RSDY6LQAV3Q.jpg?auth=77ae04814583adc64ca43c2900d580a38c9061e10b62ad02e3dba9a63ed2253a&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/22/nasa-taps-georgia-tech-lead-statewide-effort-expand-aerospace-workforce/",
+     "score": 32
+    },
+    {
+     "title": "Falcons\u2019 Michael Penix Jr. cleared to return to 11-on-11 drills",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/WHM6QSAJB5DKNOVNAU3XHI3LIE.jpg?auth=0e0eeacfcb6859f7ba7e5bfc363efaea26823cb3030337bc2427821e376993c8&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=1720%2C1028",
+     "url": "https://www.atlantanewsfirst.com/2026/08/22/falcons-michael-penix-jr-cleared-return-11-on-11-drills/",
+     "score": 30
+    },
+    {
+     "title": "Braves lose again vs. Brewers, have now lost 7 of their last 9",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/WOQ7OZFR5VGLVDU3BZQEQ5BIOM.jpg?auth=92bfb695b529f265a5dee50126938a7965ec3a384cf3919c482d687a75f80040&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=1285%2C758",
+     "url": "https://www.atlantanewsfirst.com/2026/08/22/braves-lose-again-vs-brewers-have-now-lost-7-their-last-9/",
+     "score": 30
+    },
+    {
+     "title": "Former Bulldog Cash Jones scores in Falcons\u2019 trouncing of Colts",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/5KYL6A4A7RECHP5YX5VVJUTPK4.jpg?auth=625f9204ab57e3ce15cd4286e3db8bf0f1eda7b38fb0c67aa12856f2c8fa3fae&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=4040%2C1860",
+     "url": "https://www.atlantanewsfirst.com/2026/08/22/former-bulldog-cash-jones-scores-falcons-trouncing-colts/",
+     "score": 30
     },
     {
      "title": "Sale outdueled by Misiorowski as Braves drop opener to Brewers",
@@ -236,96 +281,51 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/LZT5CZ5CRNEITPXG3ANOTGYEPI.jpg?auth=5f5a0c5753bdd348751ccecf0afb8d42125b0dac9f1b54c2fdc273a51ae82386&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=2823%2C1352",
      "url": "https://www.atlantanewsfirst.com/2026/08/21/sale-outdueled-by-misiorowski-braves-drop-opener-brewers/",
-     "score": 48
+     "score": 30
     },
     {
-     "title": "Georgia women\u2019s soccer team sets new NCAA attendance record",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FA7ULZBXQDZGZFN52PID7HLQS7U.jpeg?auth=41c73504683d30a27d221f7dc05e57462c7cddec4cf8a0b8fdb8289f07a0ed0e&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/georgia-womens-soccer-team-sets-new-ncaa-attendance-record/7NPOGBDXO5E47J4TRQYJCIHU4U/",
-     "score": 42
-    },
-    {
-     "title": "UGA researchers develop way to estimate shark age using DNA analysis",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FD4K3VFISVRBRPH3RNPY77OYISA.webp?auth=57b00f7aa57bf876c5d9ebb470a5ee792110e203fd773f399b558efe077480af&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/uga-researchers-develop-way-estimate-shark-age-using-dna-analysis/JVRGXSBJ4ZAXDHVXWDQ6INMHN4/",
-     "score": 40
-    },
-    {
-     "title": "Mercedes-Benz Stadium named best NFL stadium, food by USA Today",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/mercedes-benz-stadium-named-best-nfl-stadium-food-usa-today",
-     "score": 34
-    },
-    {
-     "title": "Blue Springs Youth Soccer still going strong 30 years after '96 Olympics",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/local/blue-springs-youth-soccer-walton-county-organization-1996-olympics/85-b7a3e757-cfa8-45ec-9dc9-6e10c702f7aa",
-     "score": 34
-    },
-    {
-     "title": "Georgia Tech\u2019s Jones Receives 247Sports\u2019 30 Under 30 Recognition",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:ramblinwreck.com",
-     "img": "",
-     "url": "https://ramblinwreck.com/georgia-techs-jones-receives-247sports-30-under-30-recognition/",
-     "score": 32
-    },
-    {
-     "title": "Take the Stairs with Colby Garland",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:ramblinwreck.com",
-     "img": "",
-     "url": "https://ramblinwreck.com/take-the-stairs-with-colby-garland/",
-     "score": 0
-    },
-    {
-     "title": "Haynes Named to 2026 Comeback Player of the Year Award Watch List",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:ramblinwreck.com",
-     "img": "",
-     "url": "https://ramblinwreck.com/haynes-named-to-2026-comeback-player-of-the-year-award-watch-list/",
-     "score": 0
-    },
-    {
-     "title": "Football Fest & Free Day",
+     "title": "Teen collapses, dies at football practice on first day of school",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/20/football-fest-free-day/",
+     "url": "https://www.atlantanewsfirst.com/2026/08/23/teen-collapses-dies-football-practice-first-day-school/",
      "score": 0
     },
     {
-     "title": "Haynes, Lightsey Among Senior Bowl Top 300",
+     "title": "Za'Darius Smith signs with Falcons following defensive losses",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/zadarius-smith-signs-falcons-following-defensive-losses",
+     "score": 0
+    },
+    {
+     "title": "Atlanta United reportedly closing in on $18 million deal for Swiss striker Breel Embolo",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/sports/soccer/atlanta-united-breel-embolo-18-million-deal-report/85-ae39d46b-1139-4c76-a7f5-3ae93c21941e",
+     "score": 0
+    },
+    {
+     "title": "Here's where the Georgia Bulldogs ranked in AP top-25 preseason poll",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/sports/college/georgia-bulldogs/georgia-bulldogs-ap-top-25-preseason-poll/85-b572e970-ee2c-4c7b-bbd8-ef734350964f",
+     "score": 0
+    },
+    {
+     "title": "Devin Stanton Promoted to Associate Head Coach",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:sports:ramblinwreck.com",
      "img": "",
-     "url": "https://ramblinwreck.com/haynes-lightsey-among-senior-bowl-top-300/",
-     "score": 0
-    },
-    {
-     "title": "Video: 2026 Fall Camp \u2013 Practice #15",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:ramblinwreck.com",
-     "img": "",
-     "url": "https://ramblinwreck.com/video-2026-fall-camp-practice-15/",
+     "url": "https://ramblinwreck.com/devin-stanton-promoted-to-associate-head-coach/",
      "score": 0
     }
    ]
@@ -335,13 +335,22 @@
    "title": "ATL Culture",
    "items": [
     {
+     "title": "Gridlock Guy: Atlanta\u2019s many Peachtrees get proper comical musical treatment in viral song",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/culture.jpg",
+     "url": "https://www.11alive.com/article/traffic/gridlock-guy-atlanta-traffic-column-the-many-peachtree-streets-of-atlanta-gregory-brothers-71-peachtrees/85-720c9597-cbbe-4a3f-84e2-c2347c250081",
+     "score": 46
+    },
+    {
      "title": "No Bonnaroo Music and Arts Festival in 2027, says venue",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FP4P2ZNN3ENDP5PAXES75LZ555E.jpg?auth=6107290c41619ee383d6d99bfd63938e09eb0d8a3ab58f2a663738b949aeb321&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/no-bonnaroo-music-arts-festival-2027-says-venue/HJYS3OQECZGNZDGSJ5ZES55NTY/",
-     "score": 54
+     "score": 42
     },
     {
      "title": "Bonnaroo to take 2027 off as festival site recovers from back-to-back years of storms",
@@ -350,16 +359,61 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/culture.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/no-bonnaroo-2027-music-festival/507-bf92b41e-470e-4f35-8eba-74183fb5bad6",
-     "score": 48
+     "score": 42
     },
     {
-     "title": "Co-founder of Atlanta music record label hospitalized",
+     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
+     "desc": "",
+     "cat": "Breaking News",
+     "source": "11Alive",
+     "img": "art/culture.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
+     "score": 0
+    },
+    {
+     "title": "Georgia's fall concert season starts now. Here are shows to watch - Georgia Public Broadcasting",
      "desc": "",
      "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/gettyimages-2178479196-scaled.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/co-founder-atlanta-music-record-label-hospitalized",
-     "score": 40
+     "source": "south_atlanta",
+     "img": "",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVZjLVdlRWZMTGlMdnRMRW1HRHFGVmc0UXdjSkoyOUh6RXZJZ1cweXVlbFU3a1dfV2R0eHZXWnIwSUkwOFJFeTNsSE9DeTd2ZHFBcFplV1VvRDd6Q044TDRDNWRPeEdDYllrTmk4N0VaNlNVX3E0d2FxRVJpRE9QdUJaUWxCYksyWDNWYXBCUjBKRHZxNHJneWswOTM?oc=5",
+     "score": 0
+    },
+    {
+     "title": "Thousands of dog food cans under recall over possible metal contamination",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/22/thousands-dog-food-cans-under-recall-over-possible-metal-contamination/",
+     "score": 0
+    },
+    {
+     "title": "Baby born at 12.5 ounces graduates NICU after 375 days in the hospital",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/22/baby-born-125-ounces-graduates-nicu-after-375-days-hospital/",
+     "score": 0
+    },
+    {
+     "title": "Music teacher at nonprofit organization charged with raping student",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/22/music-teacher-nonprofit-organization-charged-with-raping-student/",
+     "score": 0
+    },
+    {
+     "title": "Co-founder of Atlanta-based music label hospitalized",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/21/co-founder-atlanta-based-music-label-hospitalized/",
+     "score": 0
     },
     {
      "title": "Gluten Freedom Festival",
@@ -368,43 +422,16 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/21/gluten-freedom-festival/",
-     "score": 38
+     "score": 0
     },
     {
-     "title": "Walmart, Sam's Club rolling out tap-to-pay options",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/walmart-sams-club-adding-tap-to-pay/507-e196e19b-90ef-40a2-bbf1-354c2f12fae3",
-     "score": 34
-    },
-    {
-     "title": "Hip-hop musical 'Hamilton' returning to Fox Theatre for electrifying shows",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/local/hip-hop-musical-hamilton-returning-to-fox-theatre-for-electrifying-shows/85-e05b0962-d26d-492f-87ad-30cffbbccb4a",
-     "score": 34
-    },
-    {
-     "title": "$50,000 winning Powerball ticket sold at Tallapoosa Citgo Food Mart",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/50000-winning-powerball-ticket-sold-tallapoosa-citgo-food-mart/5FHIMCNKYFCMXOJX463ATFDQAY/",
-     "score": 34
-    },
-    {
-     "title": "Bronzelens Film Festival",
+     "title": "Here\u2019s when \u2018Tap to Pay\u2019 is coming to Walmart and Sam\u2019s Club locations",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/21/bronzelens-film-festival/",
-     "score": 32
+     "url": "https://www.atlantanewsfirst.com/2026/08/21/heres-when-tap-pay-is-coming-walmart-sams-club-locations/",
+     "score": 0
     },
     {
      "title": "I Spy! Walter Wick\u2019s Hidden Wonders at The High Museum",
@@ -413,33 +440,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/21/i-spy-walter-wicks-hidden-wonders-high-museum/",
-     "score": 0
-    },
-    {
-     "title": "Premier League returns: Opening weekend schedule, new teams and rule changes",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/premier-league-returns-weekend-new-rules-var-time-wasting-more",
-     "score": 0
-    },
-    {
-     "title": "Owner of Sandy Springs cafe cited for illegal after-hours club",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/owner-sandy-springs-cafe-cited-illegal-after-hours-club",
-     "score": 0
-    },
-    {
-     "title": "Severe Weather Team 2 Chief Meteorologist Emeritus Glenn Burns going into Atlanta Press Club HOF",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/severe-weather-team-2-chief-meteorologist-emeritus-glenn-burns-going-into-atlanta-press-club-hof/QTKV7FUJTRCFXC4AVYTFPMXH7E/",
      "score": 0
     }
    ]
@@ -455,7 +455,16 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FL2Z4P5M73RGY5PZEARYTBOCLMU.png?auth=67652d4ff3e72dbdc9b09ba74d1c5c8b1dc19561e3bd350258142b3208e1f24f&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/son-former-rhoa-star-falcons-player-charged-with-sexual-battery/6OTPG3X3QFEHRILZLZFBP5ISGU/",
-     "score": 58
+     "score": 46
+    },
+    {
+     "title": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
+     "desc": "",
+     "cat": "Juzmezzy",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/celebrity-deaths-2026-list",
+     "score": 0
     },
     {
      "title": "Celebrity Fashion Designer Miguel Wilson Talks Men\u2019s Fashion",
