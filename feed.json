@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T13:15:24",
+ "updated": "2026-08-23T13:20:24",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -221,6 +221,15 @@
    "title": "Sports",
    "items": [
     {
+     "title": "Atlanta United signs former World Cup star in 4-year contract",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FEZDTIFUPCBAXJLAHAGBXIEKYGA.jpg?auth=3fff8ea24fd6c398f5fb6f05498f7fd0181e375787e9f7259b619015a190a514&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
+     "score": 64
+    },
+    {
      "title": "Falcons dominate in preseason play against Indianapolis",
      "desc": "",
      "cat": "Sports",
@@ -261,7 +270,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/WOQ7OZFR5VGLVDU3BZQEQ5BIOM.jpg?auth=92bfb695b529f265a5dee50126938a7965ec3a384cf3919c482d687a75f80040&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=1285%2C758",
+     "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/22/braves-lose-again-vs-brewers-have-now-lost-7-their-last-9/",
      "score": 30
     },
@@ -299,15 +308,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/23/former-nfl-wide-receiver-barry-pearson-dies-76-reports-say/",
-     "score": 0
-    },
-    {
-     "title": "Atlanta United signs former World Cup star in 4-year contract",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
      "score": 0
     },
     {
