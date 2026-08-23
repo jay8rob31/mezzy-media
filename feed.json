@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T10:35:25",
+ "updated": "2026-08-23T10:40:26",
  "hero": {
   "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
   "desc": "",
@@ -65,15 +65,6 @@
      "score": 71
     },
     {
-     "title": "Police investigating shooting at DeKalb County hotel",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/XBGML72IBNE6TGXQWXFGQOSYR4.jpg?auth=c1e10f94f66123e9335270aa242a147e47166a2e037d6e35d5606a52b3506907&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/23/police-investigating-shooting-dekalb-county-hotel/",
-     "score": 70
-    },
-    {
      "title": "Metro Atlanta man sentenced to life after 2021 murder conviction",
      "desc": "",
      "cat": "Crime",
@@ -98,6 +89,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/03/1200/630/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-injured-after-verbal-dispute-leads-southwest-atlanta-shooting",
+     "score": 68
+    },
+    {
+     "title": "Man hospitalized after overnight shooting in northwest Atlanta, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2019/08/1200/630/8a22a5b3-police-lights_1439742529655_107702_ver1.0_640_360_1510019795262_4478258_ver1.0.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-hospitalized-after-overnight-shooting-northwest-atlanta-police-say",
      "score": 68
     }
    ]
@@ -161,15 +161,6 @@
      "score": 71
     },
     {
-     "title": "Police investigating shooting at DeKalb County hotel",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/XBGML72IBNE6TGXQWXFGQOSYR4.jpg?auth=c1e10f94f66123e9335270aa242a147e47166a2e037d6e35d5606a52b3506907&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/23/police-investigating-shooting-dekalb-county-hotel/",
-     "score": 70
-    },
-    {
      "title": "Metro Atlanta man sentenced to life after 2021 murder conviction",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +204,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FLSIV7UNYCBECHP2KXTCTT6574E.jpeg?auth=fdc13410a2a0f3a605bdbea2a813b4272278c2f9b899999d111e255d651f93a1&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/man-dies-riverdale-shooting-suspect-custody/6BAYJKPXGBAVTCVK4ZLGXJOHS4/",
      "score": 68
+    },
+    {
+     "title": "Suspect charged with aggravated assault after Northeast Atlanta shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/suspect-charged-with-aggravated-assault-after-northeast-atlanta-shooting/85-b6ef2413-25c4-48a1-95d8-08a4451b7952",
+     "score": 68
     }
    ]
   },
@@ -246,15 +246,6 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YQ4YLUBWVVAHRN5RSDY6LQAV3Q.jpg?auth=77ae04814583adc64ca43c2900d580a38c9061e10b62ad02e3dba9a63ed2253a&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/22/nasa-taps-georgia-tech-lead-statewide-effort-expand-aerospace-workforce/",
      "score": 32
-    },
-    {
-     "title": "17-year-old high school quarterback dies after football game injury",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/RM5YCVWVY5EBBBOJHCNFCY3JU4.jpg?auth=3e4d97460e4f8de552514ec3940486a9a603f4d227d40d69888e9a4851d4b04d&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/23/17-year-old-high-school-quarterback-dies-after-football-game-injury/",
-     "score": 30
     },
     {
      "title": "Former NFL wide receiver Barry Pearson dies at 76, reports say",
@@ -300,6 +291,15 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/LZT5CZ5CRNEITPXG3ANOTGYEPI.jpg?auth=5f5a0c5753bdd348751ccecf0afb8d42125b0dac9f1b54c2fdc273a51ae82386&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=2823%2C1352",
      "url": "https://www.atlantanewsfirst.com/2026/08/21/sale-outdueled-by-misiorowski-braves-drop-opener-brewers/",
      "score": 30
+    },
+    {
+     "title": "17-year-old high school quarterback dies after football game injury",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/23/17-year-old-high-school-quarterback-dies-after-football-game-injury/",
+     "score": 0
     },
     {
      "title": "Teen collapses, dies at football practice on first day of school",
