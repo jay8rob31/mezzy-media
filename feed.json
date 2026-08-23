@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T14:50:25",
+ "updated": "2026-08-23T14:55:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -36,6 +36,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-killed-person-custody-after-shooting-riverdale-police-say",
      "score": 93
+    },
+    {
+     "title": "Police report overnight shooting on Candler Rd leaves one injured in DeKalb County",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/police-report-overnight-shooting-on-candler-rd-leaves-one-injured-in-dekalb-county/85-0d654167-c8cf-4eba-8418-12766d1995d2",
+     "score": 86
     },
     {
      "title": "Mother of 2-year-old found dead at home charged with murder",
@@ -90,15 +99,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPLVPN3UPN5EY7JOLOFUY7NNVHQ.png?auth=66006e7c91bafdf0f4168711e1bd8240b5770f11815766325f8a8d7fdbee581a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/metro-atlanta-man-sentenced-life-after-2021-murder-conviction/7UUKFOIX3NHN5ELTDYQN5HZB4I/",
      "score": 70
-    },
-    {
-     "title": "The PWHL's Walter Cup championship trophy went missing while in transit to Alberta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/pwhls-walter-cup-championship-trophy-missing/507-e6527664-cddb-4117-aa4e-814f3733730b",
-     "score": 70
     }
    ]
   },
@@ -132,6 +132,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-killed-person-custody-after-shooting-riverdale-police-say",
      "score": 93
+    },
+    {
+     "title": "Police report overnight shooting on Candler Rd leaves one injured in DeKalb County",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/police-report-overnight-shooting-on-candler-rd-leaves-one-injured-in-dekalb-county/85-0d654167-c8cf-4eba-8418-12766d1995d2",
+     "score": 86
     },
     {
      "title": "Mother of 2-year-old found dead at home charged with murder",
@@ -203,15 +212,6 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/local/firefighters-battle-mobile-home-blaze-on-connally-street-se-in-atlanta-no-injuries-reported/85-c4c37787-ec0b-402d-a835-db0ab876b087",
-     "score": 68
-    },
-    {
-     "title": "Mobile home catches fire in Atlanta, residents, neighbors evacuated",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FDUP3FT6IYBDONAQ2AR4S2BZGRQ.jpg?auth=a403bd45f75e126c064b32f2b06322f4a548d4425d4431e888a677ae6bd8052e&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/mobile-home-catches-fire-atlanta-residents-neighbors-evacuated/TXZVOVXSEVEYRNLDKILBYKRCRE/",
      "score": 68
     }
    ]
