@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T17:40:24",
+ "updated": "2026-08-23T17:45:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Wet dog food recalled over metal contamination risk",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/culture.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/fromm-wet-dog-food-recalled-metal-contamination-risk/507-5c6b84c7-cd70-458b-b1c2-05fcf584eb94",
-     "score": 46
-    },
-    {
      "title": "Gridlock Guy: Atlanta\u2019s many Peachtrees get proper comical musical treatment in viral song",
      "desc": "",
      "cat": "Culture",
@@ -369,6 +360,15 @@
      "img": "art/culture.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/no-bonnaroo-2027-music-festival/507-bf92b41e-470e-4f35-8eba-74183fb5bad6",
      "score": 42
+    },
+    {
+     "title": "Wet dog food recalled over metal contamination risk",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/fromm-wet-dog-food-recalled-metal-contamination-risk/507-5c6b84c7-cd70-458b-b1c2-05fcf584eb94",
+     "score": 40
     },
     {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
