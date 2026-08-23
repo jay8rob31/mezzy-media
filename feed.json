@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T14:05:25",
+ "updated": "2026-08-23T14:10:24",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -38,15 +38,6 @@
      "score": 93
     },
     {
-     "title": "Man injured in northeast Atlanta shooting, police investigate",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northeast-atlanta-shooting-police-investigate/85-46f191be-a3f7-4693-b6be-fc7ab2e5d346",
-     "score": 86
-    },
-    {
      "title": "Mother of 2-year-old found dead at home charged with murder",
      "desc": "",
      "cat": "Crime",
@@ -54,6 +45,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
      "score": 83
+    },
+    {
+     "title": "Man injured in northeast Atlanta shooting, police investigate",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northeast-atlanta-shooting-police-investigate/85-46f191be-a3f7-4693-b6be-fc7ab2e5d346",
+     "score": 80
     },
     {
      "title": "Atlanta police arrest suspect after Cheshire Bridge Road shooting",
@@ -134,15 +134,6 @@
      "score": 93
     },
     {
-     "title": "Man injured in northeast Atlanta shooting, police investigate",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northeast-atlanta-shooting-police-investigate/85-46f191be-a3f7-4693-b6be-fc7ab2e5d346",
-     "score": 86
-    },
-    {
      "title": "Mother of 2-year-old found dead at home charged with murder",
      "desc": "",
      "cat": "Crime",
@@ -150,6 +141,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
      "score": 83
+    },
+    {
+     "title": "Man injured in northeast Atlanta shooting, police investigate",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northeast-atlanta-shooting-police-investigate/85-46f191be-a3f7-4693-b6be-fc7ab2e5d346",
+     "score": 80
     },
     {
      "title": "Atlanta police arrest suspect after Cheshire Bridge Road shooting",
