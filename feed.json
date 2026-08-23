@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T14:30:24",
+ "updated": "2026-08-23T14:35:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -197,21 +197,21 @@
      "score": 70
     },
     {
-     "title": "\u2018I just saw the smoke:\u2019 Passengers injured on flight from Atlanta to Dallas from laptop fire",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-23-2026%2Ft_f932b9abaadc464e97d91def899641fb_name_file_1920x1080_5400_v4_.jpg?auth=24d6ccfcbf8d3e10a6164c6ca65cd3164d1f49a23437531b172b674a9116bb16&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/i-just-saw-smoke-passengers-injured-flight-atlanta-dallas-laptop-fire/VJCSQ5YI7FBSDEYZZEJBYKPBII/",
-     "score": 68
-    },
-    {
      "title": "Firefighters battle mobile home blaze on Connally Street SE in Atlanta; no injuries reported",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/local/firefighters-battle-mobile-home-blaze-on-connally-street-se-in-atlanta-no-injuries-reported/85-c4c37787-ec0b-402d-a835-db0ab876b087",
+     "score": 68
+    },
+    {
+     "title": "Mobile home catches fire in Atlanta, residents, neighbors evacuated",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FDUP3FT6IYBDONAQ2AR4S2BZGRQ.jpg?auth=a403bd45f75e126c064b32f2b06322f4a548d4425d4431e888a677ae6bd8052e&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/mobile-home-catches-fire-atlanta-residents-neighbors-evacuated/TXZVOVXSEVEYRNLDKILBYKRCRE/",
      "score": 68
     }
    ]
