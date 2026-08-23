@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T18:05:25",
+ "updated": "2026-08-23T18:10:24",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -56,15 +56,6 @@
      "score": 83
     },
     {
-     "title": "Man injured in northeast Atlanta shooting, police investigate",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northeast-atlanta-shooting-police-investigate/85-46f191be-a3f7-4693-b6be-fc7ab2e5d346",
-     "score": 80
-    },
-    {
      "title": "Police report overnight shooting on Candler Rd leaves one injured in DeKalb County",
      "desc": "",
      "cat": "Crime",
@@ -90,6 +81,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5RSNBX2S35F2FF54R6XZC7IU3U.jpg?auth=3c398b8705a3872ba330b78bb3076ebd7905fb7e8f32a7c88134a7b801f075ce&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/stabbing-reported-near-atlanta-kroger-suspect-detained/PUIPZRQGKVGOVNISTKAF3QVV24/",
      "score": 76
+    },
+    {
+     "title": "Man injured in northeast Atlanta shooting, police investigate",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northeast-atlanta-shooting-police-investigate/85-46f191be-a3f7-4693-b6be-fc7ab2e5d346",
+     "score": 74
     },
     {
      "title": "Unknown gunman shoots man standing outside in NE Atlanta",
@@ -152,15 +152,6 @@
      "score": 83
     },
     {
-     "title": "Man injured in northeast Atlanta shooting, police investigate",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northeast-atlanta-shooting-police-investigate/85-46f191be-a3f7-4693-b6be-fc7ab2e5d346",
-     "score": 80
-    },
-    {
      "title": "Police report overnight shooting on Candler Rd leaves one injured in DeKalb County",
      "desc": "",
      "cat": "Crime",
@@ -186,6 +177,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5RSNBX2S35F2FF54R6XZC7IU3U.jpg?auth=3c398b8705a3872ba330b78bb3076ebd7905fb7e8f32a7c88134a7b801f075ce&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/stabbing-reported-near-atlanta-kroger-suspect-detained/PUIPZRQGKVGOVNISTKAF3QVV24/",
      "score": 76
+    },
+    {
+     "title": "Man injured in northeast Atlanta shooting, police investigate",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northeast-atlanta-shooting-police-investigate/85-46f191be-a3f7-4693-b6be-fc7ab2e5d346",
+     "score": 74
     },
     {
      "title": "Unknown gunman shoots man standing outside in NE Atlanta",
