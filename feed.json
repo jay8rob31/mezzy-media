@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T17:40:25",
+ "updated": "2026-08-24T17:45:26",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -248,15 +248,6 @@
      "score": 46
     },
     {
-     "title": "UGA study finds medical cannabis users take fewer sick days",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/atlanta/uga-study-finds-medical-cannabis-users-take-fewer-sick-days/4TMBP7JP5RBTNC4FE4I7OZHS7Q/",
-     "score": 40
-    },
-    {
      "title": "Shelley Fabares, 'Johnny Angel' singer and actor in \u2018The Donna Reed Show\u2019 and \u2018Coach,\u2019 dies at 82",
      "desc": "",
      "cat": "Sports",
@@ -264,6 +255,15 @@
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/shelley-fabares-singer-and-actor-donna-reed-show-dies/507-d0b92ed6-49fa-44e5-bc7a-092d1dde858a",
      "score": 36
+    },
+    {
+     "title": "UGA study finds medical cannabis users take fewer sick days",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/atlanta/uga-study-finds-medical-cannabis-users-take-fewer-sick-days/4TMBP7JP5RBTNC4FE4I7OZHS7Q/",
+     "score": 34
     },
     {
      "title": "Former NFL Player Tae Crowder says he lost $500,000 in investment scheme",
