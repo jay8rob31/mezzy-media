@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T14:30:26",
+ "updated": "2026-08-24T14:35:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -27,6 +27,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FM7XEY4A6BFGSRM2INLBYFYIFTI.png?auth=ec34b2cb20b68b8e8e7c72c0c1ab7b7e802e3246153103b5cf5e54c1177eae7a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/mugshot-man-accused-stabbing-person-death-atlanta-beltline-released/NUGRRNPSQZBGNLH2B3HB45TYIY/",
      "score": 104
+    },
+    {
+     "title": "Missing sex trafficking victim recovered in East Point",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
+     "score": 99
     },
     {
      "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
@@ -63,15 +72,6 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/IEY5U22H7RAKRMOW5YMEBSM2GE.png?auth=a3e17f20ca1bcf4db6c89b886fbf1309d9a5cff4bf0de1f1ca05728fb36bd138&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/24/5-bodies-dead-animals-found-after-oregon-fire-investigated-quintuple-homicide/",
      "score": 89
-    },
-    {
-     "title": "Shooting reported outside an Avondale Estates collision shop",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/fy5gpn9aeuwh8s0r/1200/630/hjsuv8n8ea1mlxr8.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/shooting-reported-outside-avondale-estates-collision-shop",
-     "score": 86
     },
     {
      "title": "Shooter at large after early morning gunfire on Candler Road",
@@ -125,6 +125,15 @@
      "score": 104
     },
     {
+     "title": "Missing sex trafficking victim recovered in East Point",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
+     "score": 99
+    },
+    {
      "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
      "desc": "",
      "cat": "Crime",
@@ -159,15 +168,6 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/IEY5U22H7RAKRMOW5YMEBSM2GE.png?auth=a3e17f20ca1bcf4db6c89b886fbf1309d9a5cff4bf0de1f1ca05728fb36bd138&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/24/5-bodies-dead-animals-found-after-oregon-fire-investigated-quintuple-homicide/",
      "score": 89
-    },
-    {
-     "title": "Shooting reported outside an Avondale Estates collision shop",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/fy5gpn9aeuwh8s0r/1200/630/hjsuv8n8ea1mlxr8.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/shooting-reported-outside-avondale-estates-collision-shop",
-     "score": 86
     },
     {
      "title": "Shooter at large after early morning gunfire on Candler Road",
@@ -206,12 +206,12 @@
      "score": 80
     },
     {
-     "title": "Atlanta police arrest suspect after Cheshire Bridge Road shooting",
+     "title": "Shooting reported outside an Avondale Estates collision shop",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FH63XRN22TFDKFMTPPKRJMWJKVA.jpeg?auth=0e7f37d76ec0f820a7901138657e8fe15d862833a4ec8633d9f18ebf194e5ef3&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta-police-arrest-suspect-after-cheshire-bridge-road-shooting/Q47MOZZDBNHHFO5UA27O73MX6E/",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/fy5gpn9aeuwh8s0r/1200/630/hjsuv8n8ea1mlxr8.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/shooting-reported-outside-avondale-estates-collision-shop",
      "score": 80
     }
    ]
@@ -236,6 +236,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
+     "score": 46
+    },
+    {
+     "title": "Sexual battery of UGA student reported in downtown Athens",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/sexual-battery-uga-student-reported-downtown-athens/EOJYRMYHEJBKHDOEEQO65AKJTY/",
      "score": 46
     },
     {
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/21/sale-outdueled-by-misiorowski-braves-drop-opener-brewers/",
      "score": 30
-    },
-    {
-     "title": "17-year-old high school quarterback dies after football game injury",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/23/17-year-old-high-school-quarterback-dies-after-football-game-injury/",
-     "score": 0
     }
    ]
   },
