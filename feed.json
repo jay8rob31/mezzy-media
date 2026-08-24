@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T04:00:25",
+ "updated": "2026-08-24T04:05:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -221,15 +221,6 @@
    "title": "Sports",
    "items": [
     {
-     "title": "Inflight laptop fire reported on American flight from Atlanta",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/gettyimages-2207487019-scaled.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/inflight-laptop-fire-reported-american-flight-from-atlanta",
-     "score": 56
-    },
-    {
      "title": "Falcons dominate in preseason play against Indianapolis",
      "desc": "",
      "cat": "Sports",
@@ -237,6 +228,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFDXRPOOPBZAIBIHJ733ZVWZFRY.jpg?auth=4df2d1e410ec8b25bf487107e2860b76701a4f0acc7b71ec40ef438148534164&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/falcons-dominate-preseason-play-against-indianapolis/2JRBCGEBZ5EY5KDAT76MJMIMW4/",
      "score": 56
+    },
+    {
+     "title": "Inflight laptop fire reported on American flight from Atlanta",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/gettyimages-2207487019-scaled.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/inflight-laptop-fire-reported-american-flight-from-atlanta",
+     "score": 50
     },
     {
      "title": "Shelley Fabares, 'Johnny Angel' singer and actor in \u2018The Donna Reed Show\u2019 and \u2018Coach,\u2019 dies at 82",
