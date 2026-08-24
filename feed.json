@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T12:30:25",
+ "updated": "2026-08-24T12:35:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -65,6 +65,15 @@
      "score": 89
     },
     {
+     "title": "Shooting reported outside an Avondale Estates collision shop",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/fy5gpn9aeuwh8s0r/1200/630/hjsuv8n8ea1mlxr8.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/shooting-reported-outside-avondale-estates-collision-shop",
+     "score": 86
+    },
+    {
      "title": "Shooter at large after early morning gunfire on Candler Road",
      "desc": "",
      "cat": "Crime",
@@ -90,15 +99,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
      "score": 83
-    },
-    {
-     "title": "Police investigate shooting at metro Atlanta auto shop",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYR2STMOGJ5GVVFX5ML4CMTODN4.png?auth=31ded125bc07342328b62024cdc5d1d6aac2e8c98c97f02dd93eb4e93977748b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/dekalb-county/police-investigate-shooting-metro-atlanta-auto-shop/KDTO3IO4GZGJ7GG3XLTP64EI3U/",
-     "score": 80
     }
    ]
   },
@@ -161,6 +161,15 @@
      "score": 89
     },
     {
+     "title": "Shooting reported outside an Avondale Estates collision shop",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/fy5gpn9aeuwh8s0r/1200/630/hjsuv8n8ea1mlxr8.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/shooting-reported-outside-avondale-estates-collision-shop",
+     "score": 86
+    },
+    {
      "title": "Shooter at large after early morning gunfire on Candler Road",
      "desc": "",
      "cat": "Crime",
@@ -204,15 +213,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FH63XRN22TFDKFMTPPKRJMWJKVA.jpeg?auth=0e7f37d76ec0f820a7901138657e8fe15d862833a4ec8633d9f18ebf194e5ef3&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta-police-arrest-suspect-after-cheshire-bridge-road-shooting/Q47MOZZDBNHHFO5UA27O73MX6E/",
      "score": 80
-    },
-    {
-     "title": "Deadly stabbing renews safety concerns along Atlanta Beltline",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/ANDWTSYJQNC2BMBAN6K7PZCZWA.jpg?auth=9005b641656ff9997755658c4ae588f7fac4efe72057dadfcb09500d2505168f&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/24/deadly-stabbing-renews-safety-concerns-along-atlanta-beltline/",
-     "score": 79
     }
    ]
   },
