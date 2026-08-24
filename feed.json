@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T09:35:25",
+ "updated": "2026-08-24T09:40:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -252,7 +252,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/sports.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/shelley-fabares-singer-and-actor-donna-reed-show-dies/507-d0b92ed6-49fa-44e5-bc7a-092d1dde858a",
      "score": 42
     },
@@ -348,7 +348,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FTQLXJXWZYVGRVAX3TSIRLYT6QE.webp?auth=39bfa8eb79ac261c6937db2dc17951222130d58c6d90c1a840f8e970700493b0&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/allen-stone-nicotine-dolls-headline-blue-stone-arts-music-festival/EHTAONSG2BFTXMYOPTPXUZPPII/",
      "score": 42
     },
