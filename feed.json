@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T16:10:26",
+ "updated": "2026-08-24T16:15:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -197,21 +197,21 @@
      "score": 83
     },
     {
-     "title": "Police investigate shooting at metro Atlanta auto shop",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYR2STMOGJ5GVVFX5ML4CMTODN4.png?auth=31ded125bc07342328b62024cdc5d1d6aac2e8c98c97f02dd93eb4e93977748b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/dekalb-county/police-investigate-shooting-metro-atlanta-auto-shop/KDTO3IO4GZGJ7GG3XLTP64EI3U/",
-     "score": 80
-    },
-    {
      "title": "Shooting reported outside an Avondale Estates collision shop",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/fy5gpn9aeuwh8s0r/1200/630/hjsuv8n8ea1mlxr8.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/shooting-reported-outside-avondale-estates-collision-shop",
+     "score": 80
+    },
+    {
+     "title": "Atlanta police arrest suspect after Cheshire Bridge Road shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FH63XRN22TFDKFMTPPKRJMWJKVA.jpeg?auth=0e7f37d76ec0f820a7901138657e8fe15d862833a4ec8633d9f18ebf194e5ef3&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta-police-arrest-suspect-after-cheshire-bridge-road-shooting/Q47MOZZDBNHHFO5UA27O73MX6E/",
      "score": 80
     }
    ]
