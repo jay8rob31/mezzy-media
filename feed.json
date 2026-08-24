@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T07:30:25",
+ "updated": "2026-08-24T07:35:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -252,7 +252,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/sports.jpg",
+     "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/shelley-fabares-singer-and-actor-donna-reed-show-dies/507-d0b92ed6-49fa-44e5-bc7a-092d1dde858a",
      "score": 42
     },
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Allen Stone and Nicotine Dolls to headline Blue Stone Arts & Music Festival",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FTQLXJXWZYVGRVAX3TSIRLYT6QE.webp?auth=39bfa8eb79ac261c6937db2dc17951222130d58c6d90c1a840f8e970700493b0&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/allen-stone-nicotine-dolls-headline-blue-stone-arts-music-festival/EHTAONSG2BFTXMYOPTPXUZPPII/",
-     "score": 48
-    },
-    {
      "title": "Gridlock Guy: Atlanta\u2019s many Peachtrees get proper comical musical treatment in viral song",
      "desc": "",
      "cat": "Culture",
@@ -351,6 +342,15 @@
      "img": "art/culture.jpg",
      "url": "https://www.11alive.com/article/traffic/gridlock-guy-atlanta-traffic-column-the-many-peachtree-streets-of-atlanta-gregory-brothers-71-peachtrees/85-720c9597-cbbe-4a3f-84e2-c2347c250081",
      "score": 46
+    },
+    {
+     "title": "Allen Stone and Nicotine Dolls to headline Blue Stone Arts & Music Festival",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FTQLXJXWZYVGRVAX3TSIRLYT6QE.webp?auth=39bfa8eb79ac261c6937db2dc17951222130d58c6d90c1a840f8e970700493b0&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/allen-stone-nicotine-dolls-headline-blue-stone-arts-music-festival/EHTAONSG2BFTXMYOPTPXUZPPII/",
+     "score": 42
     },
     {
      "title": "Bonnaroo to take 2027 off as festival site recovers from back-to-back years of storms",
