@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T16:20:25",
+ "updated": "2026-08-24T16:25:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -29,15 +29,6 @@
      "score": 104
     },
     {
-     "title": "Missing sex trafficking victim recovered in East Point",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
-     "score": 99
-    },
-    {
      "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
      "desc": "",
      "cat": "Crime",
@@ -45,6 +36,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/05/1200/630/2cddc7b0-0cf2cf80-sher6-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/guard-shoots-23-year-old-who-shot-man-atlanta-adult-store-police-say",
      "score": 96
+    },
+    {
+     "title": "Missing sex trafficking victim recovered in East Point",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
+     "score": 93
     },
     {
      "title": "Man killed, person in custody after shooting in Riverdale, police say",
@@ -125,15 +125,6 @@
      "score": 104
     },
     {
-     "title": "Missing sex trafficking victim recovered in East Point",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
-     "score": 99
-    },
-    {
      "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
      "desc": "",
      "cat": "Crime",
@@ -141,6 +132,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/05/1200/630/2cddc7b0-0cf2cf80-sher6-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/guard-shoots-23-year-old-who-shot-man-atlanta-adult-store-police-say",
      "score": 96
+    },
+    {
+     "title": "Missing sex trafficking victim recovered in East Point",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
+     "score": 93
     },
     {
      "title": "Man killed, person in custody after shooting in Riverdale, police say",
