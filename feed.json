@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T18:00:25",
+ "updated": "2026-08-24T18:05:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -47,6 +47,15 @@
      "score": 96
     },
     {
+     "title": "\u2018Ride for Tyler\u2019 planned to honor Marietta motorcycle shop employee killed in road rage shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/NBSCBZWOTNGARIOY6DDKKTKLSU.jpg?auth=bad1bf202211a5859e6cae99d69ebb662d28c1ee1791e447603918af6fcda99b&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/ride-tyler-planned-honor-marietta-motorcycle-shop-employee-killed-road-rage-shooting/",
+     "score": 95
+    },
+    {
      "title": "Missing sex trafficking victim recovered in East Point",
      "desc": "",
      "cat": "Crime",
@@ -90,15 +99,6 @@
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/crime/arrest-made-bankhead-quadruple-shooting-investigation/85-b9e90345-1a20-4e6f-8409-d6450e62494f",
      "score": 86
-    },
-    {
-     "title": "Shooter at large after early morning gunfire on Candler Road",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/shooter-large-after-early-morning-gunfire-candler-road",
-     "score": 85
     }
    ]
   },
@@ -141,6 +141,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/05/1200/630/2cddc7b0-0cf2cf80-sher6-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/guard-shoots-23-year-old-who-shot-man-atlanta-adult-store-police-say",
      "score": 96
+    },
+    {
+     "title": "\u2018Ride for Tyler\u2019 planned to honor Marietta motorcycle shop employee killed in road rage shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/NBSCBZWOTNGARIOY6DDKKTKLSU.jpg?auth=bad1bf202211a5859e6cae99d69ebb662d28c1ee1791e447603918af6fcda99b&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/ride-tyler-planned-honor-marietta-motorcycle-shop-employee-killed-road-rage-shooting/",
+     "score": 95
     },
     {
      "title": "Missing sex trafficking victim recovered in East Point",
@@ -204,15 +213,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
      "score": 83
-    },
-    {
-     "title": "Shooting reported outside an Avondale Estates collision shop",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/fy5gpn9aeuwh8s0r/1200/630/hjsuv8n8ea1mlxr8.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/shooting-reported-outside-avondale-estates-collision-shop",
-     "score": 80
     }
    ]
   },
