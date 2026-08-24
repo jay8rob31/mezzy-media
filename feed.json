@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T12:10:25",
+ "updated": "2026-08-24T12:15:34",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -65,15 +65,6 @@
      "score": 89
     },
     {
-     "title": "Police investigate shooting at metro Atlanta auto shop",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYR2STMOGJ5GVVFX5ML4CMTODN4.png?auth=31ded125bc07342328b62024cdc5d1d6aac2e8c98c97f02dd93eb4e93977748b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/dekalb-county/police-investigate-shooting-metro-atlanta-auto-shop/KDTO3IO4GZGJ7GG3XLTP64EI3U/",
-     "score": 86
-    },
-    {
      "title": "Shooter at large after early morning gunfire on Candler Road",
      "desc": "",
      "cat": "Crime",
@@ -99,6 +90,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
      "score": 83
+    },
+    {
+     "title": "Police investigate shooting at metro Atlanta auto shop",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYR2STMOGJ5GVVFX5ML4CMTODN4.png?auth=31ded125bc07342328b62024cdc5d1d6aac2e8c98c97f02dd93eb4e93977748b&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/dekalb-county/police-investigate-shooting-metro-atlanta-auto-shop/KDTO3IO4GZGJ7GG3XLTP64EI3U/",
+     "score": 80
     }
    ]
   },
@@ -161,15 +161,6 @@
      "score": 89
     },
     {
-     "title": "Police investigate shooting at metro Atlanta auto shop",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYR2STMOGJ5GVVFX5ML4CMTODN4.png?auth=31ded125bc07342328b62024cdc5d1d6aac2e8c98c97f02dd93eb4e93977748b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/dekalb-county/police-investigate-shooting-metro-atlanta-auto-shop/KDTO3IO4GZGJ7GG3XLTP64EI3U/",
-     "score": 86
-    },
-    {
      "title": "Shooter at large after early morning gunfire on Candler Road",
      "desc": "",
      "cat": "Crime",
@@ -195,6 +186,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
      "score": 83
+    },
+    {
+     "title": "Police investigate shooting at metro Atlanta auto shop",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYR2STMOGJ5GVVFX5ML4CMTODN4.png?auth=31ded125bc07342328b62024cdc5d1d6aac2e8c98c97f02dd93eb4e93977748b&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/dekalb-county/police-investigate-shooting-metro-atlanta-auto-shop/KDTO3IO4GZGJ7GG3XLTP64EI3U/",
+     "score": 80
     },
     {
      "title": "Atlanta police arrest suspect after Cheshire Bridge Road shooting",
