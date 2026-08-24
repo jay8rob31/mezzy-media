@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T23:35:24",
+ "updated": "2026-08-23T23:40:24",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -38,15 +38,6 @@
      "score": 101
     },
     {
-     "title": "Shooter at large after early morning gunfire on Candler Road",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/shooter-large-after-early-morning-gunfire-candler-road",
-     "score": 97
-    },
-    {
      "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
      "desc": "",
      "cat": "Crime",
@@ -63,6 +54,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-killed-person-custody-after-shooting-riverdale-police-say",
      "score": 93
+    },
+    {
+     "title": "Shooter at large after early morning gunfire on Candler Road",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/shooter-large-after-early-morning-gunfire-candler-road",
+     "score": 91
     },
     {
      "title": "Mother of 2-year-old found dead at home charged with murder",
@@ -134,15 +134,6 @@
      "score": 101
     },
     {
-     "title": "Shooter at large after early morning gunfire on Candler Road",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/shooter-large-after-early-morning-gunfire-candler-road",
-     "score": 97
-    },
-    {
      "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
      "desc": "",
      "cat": "Crime",
@@ -159,6 +150,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-killed-person-custody-after-shooting-riverdale-police-say",
      "score": 93
+    },
+    {
+     "title": "Shooter at large after early morning gunfire on Candler Road",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/shooter-large-after-early-morning-gunfire-candler-road",
+     "score": 91
     },
     {
      "title": "Mother of 2-year-old found dead at home charged with murder",
