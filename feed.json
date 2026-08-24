@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T17:50:25",
+ "updated": "2026-08-24T17:55:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -20,6 +20,15 @@
      "score": 135
     },
     {
+     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
+     "score": 101
+    },
+    {
      "title": "Mugshot of man accused of stabbing person to death on Atlanta Beltline released",
      "desc": "",
      "cat": "Crime",
@@ -74,6 +83,15 @@
      "score": 89
     },
     {
+     "title": "Arrest made in Bankhead shooting that injured 4 people",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/arrest-made-bankhead-quadruple-shooting-investigation/85-b9e90345-1a20-4e6f-8409-d6450e62494f",
+     "score": 86
+    },
+    {
      "title": "Shooter at large after early morning gunfire on Candler Road",
      "desc": "",
      "cat": "Crime",
@@ -81,24 +99,6 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/shooter-large-after-early-morning-gunfire-candler-road",
      "score": 85
-    },
-    {
-     "title": "Deadly Beltline stabbing in broad daylight shocks witnesses",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQO3WTH6UNZBWVCY7TTHXI6G4SQ.png?auth=55968752ac19616c3bbd97911d06f80a46833f40877e780809721d45b4e40c2f&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/deadly-beltline-stabbing-broad-daylight-shocks-witnesses/6GC3GOAFHRD7RES5V5MOZYGISE/",
-     "score": 83
-    },
-    {
-     "title": "Mother of 2-year-old found dead at home charged with murder",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
-     "score": 83
     }
    ]
   },
@@ -116,6 +116,15 @@
      "score": 135
     },
     {
+     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
+     "score": 101
+    },
+    {
      "title": "Mugshot of man accused of stabbing person to death on Atlanta Beltline released",
      "desc": "",
      "cat": "Crime",
@@ -170,6 +179,15 @@
      "score": 89
     },
     {
+     "title": "Arrest made in Bankhead shooting that injured 4 people",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/arrest-made-bankhead-quadruple-shooting-investigation/85-b9e90345-1a20-4e6f-8409-d6450e62494f",
+     "score": 86
+    },
+    {
      "title": "Shooter at large after early morning gunfire on Candler Road",
      "desc": "",
      "cat": "Crime",
@@ -177,15 +195,6 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/shooter-large-after-early-morning-gunfire-candler-road",
      "score": 85
-    },
-    {
-     "title": "Deadly Beltline stabbing in broad daylight shocks witnesses",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQO3WTH6UNZBWVCY7TTHXI6G4SQ.png?auth=55968752ac19616c3bbd97911d06f80a46833f40877e780809721d45b4e40c2f&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/deadly-beltline-stabbing-broad-daylight-shocks-witnesses/6GC3GOAFHRD7RES5V5MOZYGISE/",
-     "score": 83
     },
     {
      "title": "Mother of 2-year-old found dead at home charged with murder",
@@ -203,15 +212,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/fy5gpn9aeuwh8s0r/1200/630/hjsuv8n8ea1mlxr8.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/shooting-reported-outside-avondale-estates-collision-shop",
-     "score": 80
-    },
-    {
-     "title": "Atlanta police arrest suspect after Cheshire Bridge Road shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FH63XRN22TFDKFMTPPKRJMWJKVA.jpeg?auth=0e7f37d76ec0f820a7901138657e8fe15d862833a4ec8633d9f18ebf194e5ef3&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta-police-arrest-suspect-after-cheshire-bridge-road-shooting/Q47MOZZDBNHHFO5UA27O73MX6E/",
      "score": 80
     }
    ]
