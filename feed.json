@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T13:50:25",
+ "updated": "2026-08-24T13:55:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -335,6 +335,15 @@
    "title": "ATL Culture",
    "items": [
     {
+     "title": "LIST: Here's all the food under recall in the US",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/food-under-recall-in-the-us-full-list/507-594e50a0-577d-4a25-b750-4e54c08850bd",
+     "score": 46
+    },
+    {
      "title": "Gridlock Guy: Atlanta\u2019s many Peachtrees get proper comical musical treatment in viral song",
      "desc": "",
      "cat": "Culture",
@@ -431,15 +440,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/21/bonnaroo-cancels-its-2027-music-festival-heres-why/",
-     "score": 0
-    },
-    {
-     "title": "Here\u2019s when \u2018Tap to Pay\u2019 is coming to Walmart and Sam\u2019s Club locations",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/21/heres-when-tap-pay-is-coming-walmart-sams-club-locations/",
      "score": 0
     }
    ]
