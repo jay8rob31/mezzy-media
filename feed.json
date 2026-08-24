@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T22:50:24",
+ "updated": "2026-08-23T22:55:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -20,6 +20,15 @@
      "score": 129
     },
     {
+     "title": "5 bodies, dead animals found after Oregon fire investigated as quintuple homicide",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/IEY5U22H7RAKRMOW5YMEBSM2GE.png?auth=a3e17f20ca1bcf4db6c89b886fbf1309d9a5cff4bf0de1f1ca05728fb36bd138&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/5-bodies-dead-animals-found-after-oregon-fire-investigated-quintuple-homicide/",
+     "score": 107
+    },
+    {
      "title": "Deadly Beltline stabbing in broad daylight shocks witnesses",
      "desc": "",
      "cat": "Crime",
@@ -89,15 +98,6 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/crime/police-report-overnight-shooting-on-candler-rd-leaves-one-injured-in-dekalb-county/85-0d654167-c8cf-4eba-8418-12766d1995d2",
-     "score": 74
-    },
-    {
-     "title": "Shooting that hurt man stemmed from argument, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FHP62LBL3YND7TNZA3U5XBHXU3A.png?auth=e54f5008b864b32d15badc9b2b3e189202b846ca030b11aa3a75028386f320d2&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/shooting-that-hurt-man-stemmed-argument-police-say/RWYFLT664BGE7DJBXB4WTYTX24/",
      "score": 74
     }
    ]
@@ -116,6 +116,15 @@
      "score": 129
     },
     {
+     "title": "5 bodies, dead animals found after Oregon fire investigated as quintuple homicide",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/IEY5U22H7RAKRMOW5YMEBSM2GE.png?auth=a3e17f20ca1bcf4db6c89b886fbf1309d9a5cff4bf0de1f1ca05728fb36bd138&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/5-bodies-dead-animals-found-after-oregon-fire-investigated-quintuple-homicide/",
+     "score": 107
+    },
+    {
      "title": "Deadly Beltline stabbing in broad daylight shocks witnesses",
      "desc": "",
      "cat": "Crime",
@@ -195,15 +204,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FHP62LBL3YND7TNZA3U5XBHXU3A.png?auth=e54f5008b864b32d15badc9b2b3e189202b846ca030b11aa3a75028386f320d2&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/shooting-that-hurt-man-stemmed-argument-police-say/RWYFLT664BGE7DJBXB4WTYTX24/",
      "score": 74
-    },
-    {
-     "title": "Suspect found dead after 5 people, multiple animals found dead in rural area outside Portland, Oregon",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/quintuple-homicide-forest-grove-oregon/507-2ff7b24f-55f5-4249-b35f-991c1c28dcbe",
-     "score": 71
     },
     {
      "title": "Man shot, killed in Clayton County neighborhood, police say",
