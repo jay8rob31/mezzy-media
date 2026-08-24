@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T21:50:24",
+ "updated": "2026-08-23T21:55:24",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -92,12 +92,12 @@
      "score": 74
     },
     {
-     "title": "Man shot, killed in Clayton County neighborhood, police say",
+     "title": "Suspect found dead after 5 people, multiple animals found dead in rural area outside Portland, Oregon",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/64IN46MSNVFPLCJJMF5RXEYQBI.png?auth=dd7736b899337cda82eaa03e2bb56cf6034be7875f00c7c3344cb134aecf3e93&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/22/man-shot-killed-clayton-county-neighborhood-police-say/",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/quintuple-homicide-forest-grove-oregon/507-2ff7b24f-55f5-4249-b35f-991c1c28dcbe",
      "score": 71
     }
    ]
@@ -188,6 +188,15 @@
      "score": 74
     },
     {
+     "title": "Suspect found dead after 5 people, multiple animals found dead in rural area outside Portland, Oregon",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/quintuple-homicide-forest-grove-oregon/507-2ff7b24f-55f5-4249-b35f-991c1c28dcbe",
+     "score": 71
+    },
+    {
      "title": "Man shot, killed in Clayton County neighborhood, police say",
      "desc": "",
      "cat": "Crime",
@@ -203,15 +212,6 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5RSNBX2S35F2FF54R6XZC7IU3U.jpg?auth=3c398b8705a3872ba330b78bb3076ebd7905fb7e8f32a7c88134a7b801f075ce&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/stabbing-reported-near-atlanta-kroger-suspect-detained/PUIPZRQGKVGOVNISTKAF3QVV24/",
-     "score": 70
-    },
-    {
-     "title": "Metro Atlanta man sentenced to life after 2021 murder conviction",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPLVPN3UPN5EY7JOLOFUY7NNVHQ.png?auth=66006e7c91bafdf0f4168711e1bd8240b5770f11815766325f8a8d7fdbee581a&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/metro-atlanta-man-sentenced-life-after-2021-murder-conviction/7UUKFOIX3NHN5ELTDYQN5HZB4I/",
      "score": 70
     }
    ]
