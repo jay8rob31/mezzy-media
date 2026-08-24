@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T16:30:25",
+ "updated": "2026-08-24T16:35:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -239,15 +239,6 @@
      "score": 46
     },
     {
-     "title": "Sexual battery of UGA student reported in downtown Athens",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/sexual-battery-uga-student-reported-downtown-athens/EOJYRMYHEJBKHDOEEQO65AKJTY/",
-     "score": 46
-    },
-    {
      "title": "UGA study finds medical cannabis users take fewer sick days",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/21/sale-outdueled-by-misiorowski-braves-drop-opener-brewers/",
      "score": 30
+    },
+    {
+     "title": "17-year-old high school quarterback dies after football game injury",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/23/17-year-old-high-school-quarterback-dies-after-football-game-injury/",
+     "score": 0
     }
    ]
   },
