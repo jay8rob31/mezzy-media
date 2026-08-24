@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T01:00:25",
+ "updated": "2026-08-24T01:05:24",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -239,15 +239,6 @@
      "score": 56
     },
     {
-     "title": "Atlanta United signs former World Cup star in 4-year contract",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FEZDTIFUPCBAXJLAHAGBXIEKYGA.jpg?auth=3fff8ea24fd6c398f5fb6f05498f7fd0181e375787e9f7259b619015a190a514&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
-     "score": 52
-    },
-    {
      "title": "Shelley Fabares, 'Johnny Angel' singer and actor in \u2018The Donna Reed Show\u2019 and \u2018Coach,\u2019 dies at 82",
      "desc": "",
      "cat": "Sports",
@@ -255,6 +246,15 @@
      "img": "art/sports.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/shelley-fabares-singer-and-actor-donna-reed-show-dies/507-d0b92ed6-49fa-44e5-bc7a-092d1dde858a",
      "score": 48
+    },
+    {
+     "title": "Atlanta United signs former World Cup star in 4-year contract",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FEZDTIFUPCBAXJLAHAGBXIEKYGA.jpg?auth=3fff8ea24fd6c398f5fb6f05498f7fd0181e375787e9f7259b619015a190a514&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
+     "score": 46
     },
     {
      "title": "Braves take down Brewers in Little League Classic",
