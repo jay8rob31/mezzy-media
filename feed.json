@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T22:20:24",
+ "updated": "2026-08-23T22:25:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -239,6 +239,15 @@
      "score": 56
     },
     {
+     "title": "Shelley Fabares, 'Johnny Angel' singer and actor in \u2018The Donna Reed Show\u2019 and \u2018Coach,\u2019 dies at 82",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/sports.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/shelley-fabares-singer-and-actor-donna-reed-show-dies/507-d0b92ed6-49fa-44e5-bc7a-092d1dde858a",
+     "score": 54
+    },
+    {
      "title": "Atlanta United signs former World Cup star in 4-year contract",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/23/former-nfl-wide-receiver-barry-pearson-dies-76-reports-say/",
-     "score": 0
-    },
-    {
-     "title": "Teen collapses, dies at football practice on first day of school",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/23/teen-collapses-dies-football-practice-first-day-school/",
      "score": 0
     }
    ]
