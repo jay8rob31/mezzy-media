@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T18:05:24",
+ "updated": "2026-08-25T18:10:24",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -83,21 +83,21 @@
      "score": 89
     },
     {
-     "title": "Shooter at large after early morning gunfire on Candler Road",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/shooter-large-after-early-morning-gunfire-candler-road",
-     "score": 85
-    },
-    {
      "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
+     "score": 83
+    },
+    {
+     "title": "Atlanta mayor demands action after deadly Beltline stabbing",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2025/02/1200/630/snapshot-2025-02-19t104144.853.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/atlanta-mayor-demands-action-after-deadly-beltline-stabbing",
      "score": 83
     }
    ]
@@ -179,15 +179,6 @@
      "score": 89
     },
     {
-     "title": "Shooter at large after early morning gunfire on Candler Road",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/shooter-large-after-early-morning-gunfire-candler-road",
-     "score": 85
-    },
-    {
      "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +204,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
      "score": 81
+    },
+    {
+     "title": "\u2018Ride for Tyler\u2019 planned to honor Marietta motorcycle shop employee killed in road rage shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/NBSCBZWOTNGARIOY6DDKKTKLSU.jpg?auth=bad1bf202211a5859e6cae99d69ebb662d28c1ee1791e447603918af6fcda99b&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/ride-tyler-planned-honor-marietta-motorcycle-shop-employee-killed-road-rage-shooting/",
+     "score": 77
     }
    ]
   },
