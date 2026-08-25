@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T04:55:25",
+ "updated": "2026-08-25T05:00:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -275,15 +275,6 @@
      "score": 36
     },
     {
-     "title": "UGA student reports sexual battery near Athens City Hall",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/uga-student-reports-sexual-battery-near-athens-city-hall",
-     "score": 34
-    },
-    {
      "title": "UGA student reports sex crime while she\u2019s out with friends downtown",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/22/falcons-michael-penix-jr-cleared-return-11-on-11-drills/",
+     "score": 30
+    },
+    {
+     "title": "Braves lose again vs. Brewers, have now lost 7 of their last 9",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/22/braves-lose-again-vs-brewers-have-now-lost-7-their-last-9/",
      "score": 30
     }
    ]
