@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T11:50:25",
+ "updated": "2026-08-25T11:55:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -230,13 +230,13 @@
      "score": 68
     },
     {
-     "title": "Put me in, coach: Toddler runs onto soccer pitch",
+     "title": "Disney, NFL team up for apparel collaboration",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FRGWETLAFFBAGHPRERWA4BZ3VH4.jpg?auth=d5309239ee9d2eb301a566dd7d5b569e778a40d05938f2776df591c0879abae8&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/trending/put-me-coach-toddler-runs-onto-soccer-pitch/FFLQ6BTZU5ANJOB5QF3SOSRN2M/",
-     "score": 54
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/sports.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/disney-nfl-apparel-collaboration/507-548b2320-0027-4d6b-9de0-460dcccda472",
+     "score": 58
     },
     {
      "title": "Inflight laptop fire reported on American flight from Atlanta",
@@ -246,6 +246,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/gettyimages-2207487019-scaled.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/inflight-laptop-fire-reported-american-flight-from-atlanta",
      "score": 50
+    },
+    {
+     "title": "Put me in, coach: Toddler runs onto soccer pitch",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FRGWETLAFFBAGHPRERWA4BZ3VH4.jpg?auth=d5309239ee9d2eb301a566dd7d5b569e778a40d05938f2776df591c0879abae8&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/trending/put-me-coach-toddler-runs-onto-soccer-pitch/FFLQ6BTZU5ANJOB5QF3SOSRN2M/",
+     "score": 48
     },
     {
      "title": "Atlanta United signs former World Cup star in 4-year contract",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/tommy-john-dies-mlb-yankees-baseball-elbow-surgery-obit/507-52518f16-f911-4974-89e6-7c0d0528137f",
      "score": 0
-    },
-    {
-     "title": "UGA study finds medical cannabis users take fewer sick days",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/atlanta/uga-study-finds-medical-cannabis-users-take-fewer-sick-days/4TMBP7JP5RBTNC4FE4I7OZHS7Q/",
-     "score": 0
     }
    ]
   },
@@ -339,7 +339,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FTQLXJXWZYVGRVAX3TSIRLYT6QE.webp?auth=39bfa8eb79ac261c6937db2dc17951222130d58c6d90c1a840f8e970700493b0&amp;width=1200&amp;height=630&amp;smart=true",
+     "img": "",
      "url": "https://www.wsbtv.com/news/local/allen-stone-nicotine-dolls-headline-blue-stone-arts-music-festival/EHTAONSG2BFTXMYOPTPXUZPPII/",
      "score": 42
     },
