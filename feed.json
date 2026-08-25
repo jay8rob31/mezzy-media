@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T19:50:24",
+ "updated": "2026-08-25T19:55:24",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -284,6 +284,15 @@
      "score": 46
     },
     {
+     "title": "Eminem reveals heartfelt note Dolly Parton wrote him for Rock & Roll Hall of Fame induction",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/25/eminem-reveals-heartfelt-note-dolly-parton-wrote-him-rock-roll-hall-fame-induction/",
+     "score": 44
+    },
+    {
      "title": "Put me in, coach: Toddler runs onto soccer pitch",
      "desc": "",
      "cat": "Sports",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/shelley-fabares-singer-and-actor-donna-reed-show-dies/507-d0b92ed6-49fa-44e5-bc7a-092d1dde858a",
      "score": 36
-    },
-    {
-     "title": "Angel Reese sets 2 WNBA rebounding records",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/angel-reese-sets-2-wnba-rebounding-records/CZKOSQFZIBFITODD2GBQTHG5VU/",
-     "score": 34
     }
    ]
   },
@@ -342,15 +342,6 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/MD326VB2EREEPCPOA7JVT425BA.png?auth=0994a25eb27a6e0da15820a0bf40cb0ea89df1953e9424aa22e231e605a8392d&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/country-music-legend-dolly-parton-dead-80/",
      "score": 49
-    },
-    {
-     "title": "From TV shows, concerts, and movies, Dolly Parton was no stranger to metro Atlanta",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/atlanta/tv-shows-concerts-movies-dolly-parton-was-no-stranger-metro-atlanta/WHGY6DQ2CFG2LHQEH2UBPLZGHU/",
-     "score": 46
     },
     {
      "title": "What happened to Dolly Parton? Iconic music and film star dies at 80",
@@ -377,6 +368,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-philanthropy-imagination-library-childrens-hospital/507-11fb7cd8-02ae-4d94-8541-83c15556deb4",
+     "score": 40
+    },
+    {
+     "title": "From TV shows, concerts, and movies, Dolly Parton was no stranger to metro Atlanta",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/atlanta/tv-shows-concerts-movies-dolly-parton-was-no-stranger-metro-atlanta/WHGY6DQ2CFG2LHQEH2UBPLZGHU/",
      "score": 40
     },
     {
