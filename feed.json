@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T15:15:25",
+ "updated": "2026-08-25T15:20:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -29,15 +29,6 @@
      "score": 111
     },
     {
-     "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/trials/gwinnett-county-cold-case-stabbing-murder-case/85-db5e0493-bedc-4b98-9d20-b574eee10a56",
-     "score": 100
-    },
-    {
      "title": "Atlanta Beltline deadly stabbing: Police release body camera footage of suspect arrest",
      "desc": "",
      "cat": "Crime",
@@ -45,6 +36,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
      "score": 95
+    },
+    {
+     "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/trials/gwinnett-county-cold-case-stabbing-murder-case/85-db5e0493-bedc-4b98-9d20-b574eee10a56",
+     "score": 94
     },
     {
      "title": "Reward offered for information in deadly Atlanta shooting",
@@ -125,15 +125,6 @@
      "score": 111
     },
     {
-     "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/trials/gwinnett-county-cold-case-stabbing-murder-case/85-db5e0493-bedc-4b98-9d20-b574eee10a56",
-     "score": 100
-    },
-    {
      "title": "Atlanta Beltline deadly stabbing: Police release body camera footage of suspect arrest",
      "desc": "",
      "cat": "Crime",
@@ -141,6 +132,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
      "score": 95
+    },
+    {
+     "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/trials/gwinnett-county-cold-case-stabbing-murder-case/85-db5e0493-bedc-4b98-9d20-b574eee10a56",
+     "score": 94
     },
     {
      "title": "Reward offered for information in deadly Atlanta shooting",
@@ -284,15 +284,6 @@
      "score": 46
     },
     {
-     "title": "Angel Reese sets 2 WNBA rebounding records",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/angel-reese-sets-2-wnba-rebounding-records/CZKOSQFZIBFITODD2GBQTHG5VU/",
-     "score": 40
-    },
-    {
      "title": "Shelley Fabares, 'Johnny Angel' singer and actor in \u2018The Donna Reed Show\u2019 and \u2018Coach,\u2019 dies at 82",
      "desc": "",
      "cat": "Sports",
@@ -300,6 +291,15 @@
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/shelley-fabares-singer-and-actor-donna-reed-show-dies/507-d0b92ed6-49fa-44e5-bc7a-092d1dde858a",
      "score": 36
+    },
+    {
+     "title": "Dream's Angel Reese breaks WNBA record with 26 rebounds against Sparks, sets single-season record as well",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/angel-reese-wnba-los-angeles-atlanta-dream/507-7c747d63-9792-42a9-bfdf-cafd53aa5454",
+     "score": 34
     },
     {
      "title": "Norwegian soccer star Erling Haaland cuts off ponytail before Premier League opener",
