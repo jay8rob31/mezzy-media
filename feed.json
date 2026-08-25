@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T08:15:28",
+ "updated": "2026-08-25T08:20:26",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -29,24 +29,6 @@
      "score": 99
     },
     {
-     "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/05/1200/630/2cddc7b0-0cf2cf80-sher6-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/guard-shoots-23-year-old-who-shot-man-atlanta-adult-store-police-say",
-     "score": 96
-    },
-    {
-     "title": "Man killed, person in custody after shooting in Riverdale, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-killed-person-custody-after-shooting-riverdale-police-say",
-     "score": 93
-    },
-    {
      "title": "Mugshot of man accused of stabbing person to death on Atlanta Beltline released",
      "desc": "",
      "cat": "Crime",
@@ -92,13 +74,31 @@
      "score": 83
     },
     {
-     "title": "Mother of 2-year-old found dead at home charged with murder",
+     "title": "Missing sex trafficking victim recovered in East Point",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
+     "score": 81
+    },
+    {
+     "title": "\u201cI\u2019m just praying for him.\u201d Auto body shop worker, shot multiple times outside business",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
-     "score": 83
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-25-2026%2Ft_829d735e9b9d414d9cf3e9222a26098f_name_Auto_body_shop_worker_shot_in_DeKalb.png?auth=fe16598384405b67c0239a18a5016cca4087da6f9a3e1886eaf0b34721001ee4&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/im-just-praying-him-auto-body-shop-worker-shot-multiple-times-outside-business/IEMUQ3ZVIFBWZJSJPWF5AQZPAY/",
+     "score": 80
+    },
+    {
+     "title": "\u2018Ride for Tyler\u2019 planned to honor Marietta motorcycle shop employee killed in road rage shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/NBSCBZWOTNGARIOY6DDKKTKLSU.jpg?auth=bad1bf202211a5859e6cae99d69ebb662d28c1ee1791e447603918af6fcda99b&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/ride-tyler-planned-honor-marietta-motorcycle-shop-employee-killed-road-rage-shooting/",
+     "score": 77
     }
    ]
   },
@@ -125,24 +125,6 @@
      "score": 99
     },
     {
-     "title": "Guard shoots 23-year-old who shot man at Atlanta adult store, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/05/1200/630/2cddc7b0-0cf2cf80-sher6-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/guard-shoots-23-year-old-who-shot-man-atlanta-adult-store-police-say",
-     "score": 96
-    },
-    {
-     "title": "Man killed, person in custody after shooting in Riverdale, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-killed-person-custody-after-shooting-riverdale-police-say",
-     "score": 93
-    },
-    {
      "title": "Mugshot of man accused of stabbing person to death on Atlanta Beltline released",
      "desc": "",
      "cat": "Crime",
@@ -188,15 +170,6 @@
      "score": 83
     },
     {
-     "title": "Mother of 2-year-old found dead at home charged with murder",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
-     "score": 83
-    },
-    {
      "title": "Missing sex trafficking victim recovered in East Point",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +186,33 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-25-2026%2Ft_829d735e9b9d414d9cf3e9222a26098f_name_Auto_body_shop_worker_shot_in_DeKalb.png?auth=fe16598384405b67c0239a18a5016cca4087da6f9a3e1886eaf0b34721001ee4&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/im-just-praying-him-auto-body-shop-worker-shot-multiple-times-outside-business/IEMUQ3ZVIFBWZJSJPWF5AQZPAY/",
      "score": 80
+    },
+    {
+     "title": "\u2018Ride for Tyler\u2019 planned to honor Marietta motorcycle shop employee killed in road rage shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/NBSCBZWOTNGARIOY6DDKKTKLSU.jpg?auth=bad1bf202211a5859e6cae99d69ebb662d28c1ee1791e447603918af6fcda99b&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/ride-tyler-planned-honor-marietta-motorcycle-shop-employee-killed-road-rage-shooting/",
+     "score": 77
+    },
+    {
+     "title": "Deadline for DeKalb parents, community to apply to serve on Community Advisory Teams",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2AUERL7PDJHXPGXNMQGUWCB3O4.jpeg?auth=89b9e31ca76c3af806a70af2dc4cc4229c97bf3832a5f3b69f0430aeca4e82de&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/deadline-dekalb-parents-community-apply-serve-community-advisory-teams/V4ZJQESZZBAIJDTXH6CWK7ACUA/",
+     "score": 71
+    },
+    {
+     "title": "Police: 13-year-old middle schooler arrested after stabbing student several times with scissors",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/police-13-year-old-middle-schooler-arrested-after-stabbing-student-several-times-with-scissors/85-44f21557-1b1c-4ec6-b79a-1a2fd8b1d061",
+     "score": 70
     }
    ]
   },
@@ -230,15 +230,6 @@
      "score": 74
     },
     {
-     "title": "Falcons dominate in preseason play against Indianapolis",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFDXRPOOPBZAIBIHJ733ZVWZFRY.jpg?auth=4df2d1e410ec8b25bf487107e2860b76701a4f0acc7b71ec40ef438148534164&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/falcons-dominate-preseason-play-against-indianapolis/2JRBCGEBZ5EY5KDAT76MJMIMW4/",
-     "score": 56
-    },
-    {
      "title": "Inflight laptop fire reported on American flight from Atlanta",
      "desc": "",
      "cat": "Sports",
@@ -252,7 +243,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FEZDTIFUPCBAXJLAHAGBXIEKYGA.jpg?auth=3fff8ea24fd6c398f5fb6f05498f7fd0181e375787e9f7259b619015a190a514&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
      "score": 46
     },
@@ -261,7 +252,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5HARMTSI6ZBY3EH42AVHSPFZM4.jpg?auth=7dee464bfdf502f59cd04342a336cfcfb1b2931808ce9e7d16d0a20039b56d0f&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/trending/norwegian-soccer-star-erling-haaland-cuts-off-ponytail-before-premier-league-opener/UVOCRBTZNBEDJH73MULXNJISMM/",
      "score": 46
     },
@@ -270,7 +261,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/sports.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/angel-reese-wnba-los-angeles-atlanta-dream/507-7c747d63-9792-42a9-bfdf-cafd53aa5454",
      "score": 40
     },
@@ -284,30 +275,12 @@
      "score": 36
     },
     {
-     "title": "Former NFL Player Tae Crowder says he lost $500,000 in investment scheme",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/former-nfl-player-tae-crowder-says-he-lost-500000-investment-scheme",
-     "score": 34
-    },
-    {
      "title": "Triathlon coach training for Ironman fights off alligator attack during practice swim",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/triathlon-coach-training-ironman-fights-off-alligator-attack-during-practice-swim/",
-     "score": 32
-    },
-    {
-     "title": "NASA taps Georgia Tech to lead statewide effort to expand aerospace workforce",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/22/nasa-taps-georgia-tech-lead-statewide-effort-expand-aerospace-workforce/",
      "score": 32
     },
     {
@@ -327,6 +300,33 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/24/braves-nl-east-lead-is-shrinking-here-come-red-hot-dodgers/",
      "score": 30
+    },
+    {
+     "title": "17-year-old high school quarterback dies after football game injury",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/23/17-year-old-high-school-quarterback-dies-after-football-game-injury/",
+     "score": 0
+    },
+    {
+     "title": "Former NFL wide receiver Barry Pearson dies at 76, reports say",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/23/former-nfl-wide-receiver-barry-pearson-dies-76-reports-say/",
+     "score": 0
+    },
+    {
+     "title": "Tommy John, four-time MLB All-Star and namesake of pivotal elbow surgery, has died",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/tommy-john-dies-mlb-yankees-baseball-elbow-surgery-obit/507-52518f16-f911-4974-89e6-7c0d0528137f",
+     "score": 0
     }
    ]
   },
@@ -335,49 +335,13 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Gridlock Guy: Atlanta\u2019s many Peachtrees get proper comical musical treatment in viral song",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/traffic/gridlock-guy-atlanta-traffic-column-the-many-peachtree-streets-of-atlanta-gregory-brothers-71-peachtrees/85-720c9597-cbbe-4a3f-84e2-c2347c250081",
-     "score": 46
-    },
-    {
      "title": "Allen Stone and Nicotine Dolls to headline Blue Stone Arts & Music Festival",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FTQLXJXWZYVGRVAX3TSIRLYT6QE.webp?auth=39bfa8eb79ac261c6937db2dc17951222130d58c6d90c1a840f8e970700493b0&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/allen-stone-nicotine-dolls-headline-blue-stone-arts-music-festival/EHTAONSG2BFTXMYOPTPXUZPPII/",
      "score": 42
-    },
-    {
-     "title": "Bonnaroo to take 2027 off as festival site recovers from back-to-back years of storms",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/no-bonnaroo-2027-music-festival/507-bf92b41e-470e-4f35-8eba-74183fb5bad6",
-     "score": 42
-    },
-    {
-     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
-     "desc": "",
-     "cat": "Breaking News",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
-     "score": 0
-    },
-    {
-     "title": "Hip-hop musical 'Hamilton' returning to Fox Theatre for electrifying shows",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/local/hip-hop-musical-hamilton-returning-to-fox-theatre-for-electrifying-shows/85-e05b0962-d26d-492f-87ad-30cffbbccb4a",
-     "score": 0
     },
     {
      "title": "Georgia's fall concert season starts now. Here are shows to watch - Georgia Public Broadcasting",
@@ -414,33 +378,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/24/atl-hip-hop-day-festival/",
      "score": 0
-    },
-    {
-     "title": "Baby born at 12.5 ounces graduates NICU after 375 days in the hospital",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/22/baby-born-125-ounces-graduates-nicu-after-375-days-hospital/",
-     "score": 0
-    },
-    {
-     "title": "Music teacher at nonprofit organization charged with raping student",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/22/music-teacher-nonprofit-organization-charged-with-raping-student/",
-     "score": 0
-    },
-    {
-     "title": "Co-founder of Atlanta-based music label hospitalized",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/21/co-founder-atlanta-based-music-label-hospitalized/",
-     "score": 0
     }
    ]
   },
@@ -449,20 +386,11 @@
    "title": "JuzMezzy",
    "items": [
     {
-     "title": "Son of former \u2018Real Housewives of Atlanta\u2019 star, Falcons player charged with sexual battery",
-     "desc": "",
-     "cat": "Juzmezzy",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/son-former-rhoa-star-falcons-player-charged-with-sexual-battery/6OTPG3X3QFEHRILZLZFBP5ISGU/",
-     "score": 46
-    },
-    {
      "title": "Reality TV personality Sidney Starr due in court Tuesday",
      "desc": "",
      "cat": "Juzmezzy",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/image-117.png?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/reality-tv-personality-sidney-starr-due-court-tuesday",
      "score": 40
     },
@@ -473,24 +401,6 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/health/mychart-scam-alert-common-drug-eye-risk-dating-app-burnout/507-f1b48bcd-1662-4bf8-9bf2-ba8af1644d29",
-     "score": 0
-    },
-    {
-     "title": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
-     "desc": "",
-     "cat": "Juzmezzy",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/celebrity-deaths-2026-list",
-     "score": 0
-    },
-    {
-     "title": "Celebrity Fashion Designer Miguel Wilson Talks Men\u2019s Fashion",
-     "desc": "",
-     "cat": "Juzmezzy",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/21/celebrity-fashion-designer-miguel-wilson-talks-mens-fashion/",
      "score": 0
     }
    ]
