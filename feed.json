@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T07:40:25",
+ "updated": "2026-08-25T07:45:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -449,15 +449,6 @@
    "title": "JuzMezzy",
    "items": [
     {
-     "title": "Reality TV personality Sidney Starr due in court Tuesday",
-     "desc": "",
-     "cat": "Juzmezzy",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/reality-tv-personality-sidney-starr-due-court-tuesday",
-     "score": 46
-    },
-    {
      "title": "Son of former \u2018Real Housewives of Atlanta\u2019 star, Falcons player charged with sexual battery",
      "desc": "",
      "cat": "Juzmezzy",
@@ -465,6 +456,15 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/son-former-rhoa-star-falcons-player-charged-with-sexual-battery/6OTPG3X3QFEHRILZLZFBP5ISGU/",
      "score": 46
+    },
+    {
+     "title": "Reality TV personality Sidney Starr due in court Tuesday",
+     "desc": "",
+     "cat": "Juzmezzy",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/reality-tv-personality-sidney-starr-due-court-tuesday",
+     "score": 40
     },
     {
      "title": "Daily Dose: MyChart scam alert, a common drug's eye risk, and dating app burnout",
