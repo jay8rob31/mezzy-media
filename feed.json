@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T20:20:29",
+ "updated": "2026-08-24T20:25:30",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -47,15 +47,6 @@
      "score": 95
     },
     {
-     "title": "Missing sex trafficking victim recovered in East Point",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
-     "score": 93
-    },
-    {
      "title": "Man killed, person in custody after shooting in Riverdale, police say",
      "desc": "",
      "cat": "Crime",
@@ -90,6 +81,15 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/NBSCBZWOTNGARIOY6DDKKTKLSU.jpg?auth=bad1bf202211a5859e6cae99d69ebb662d28c1ee1791e447603918af6fcda99b&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/24/ride-tyler-planned-honor-marietta-motorcycle-shop-employee-killed-road-rage-shooting/",
      "score": 89
+    },
+    {
+     "title": "Missing sex trafficking victim recovered in East Point",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
+     "score": 87
     },
     {
      "title": "Shooter at large after early morning gunfire on Candler Road",
@@ -143,15 +143,6 @@
      "score": 95
     },
     {
-     "title": "Missing sex trafficking victim recovered in East Point",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
-     "score": 93
-    },
-    {
      "title": "Man killed, person in custody after shooting in Riverdale, police say",
      "desc": "",
      "cat": "Crime",
@@ -186,6 +177,15 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/NBSCBZWOTNGARIOY6DDKKTKLSU.jpg?auth=bad1bf202211a5859e6cae99d69ebb662d28c1ee1791e447603918af6fcda99b&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/24/ride-tyler-planned-honor-marietta-motorcycle-shop-employee-killed-road-rage-shooting/",
      "score": 89
+    },
+    {
+     "title": "Missing sex trafficking victim recovered in East Point",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
+     "score": 87
     },
     {
      "title": "Shooter at large after early morning gunfire on Candler Road",
