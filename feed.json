@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T19:00:25",
+ "updated": "2026-08-25T19:05:24",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -92,13 +92,13 @@
      "score": 89
     },
     {
-     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
+     "title": "Second arrest made in Atlanta's Edgewood Avenue 2025 mass shooting | Where the case stands now",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
-     "score": 83
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/second-arrest-made-atlanta-edgewood-avenue-2025-mass-shooting/85-34563be6-4b9f-4778-9edd-39caa86a5989",
+     "score": 86
     }
    ]
   },
@@ -188,6 +188,15 @@
      "score": 89
     },
     {
+     "title": "Second arrest made in Atlanta's Edgewood Avenue 2025 mass shooting | Where the case stands now",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/second-arrest-made-atlanta-edgewood-avenue-2025-mass-shooting/85-34563be6-4b9f-4778-9edd-39caa86a5989",
+     "score": 86
+    },
+    {
      "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
      "desc": "",
      "cat": "Crime",
@@ -204,15 +213,6 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2025/02/1200/630/snapshot-2025-02-19t104144.853.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/atlanta-mayor-demands-action-after-deadly-beltline-stabbing",
      "score": 83
-    },
-    {
-     "title": "Missing sex trafficking victim recovered in East Point",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
-     "score": 81
     }
    ]
   },
@@ -227,7 +227,7 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FTNWD7N5HE5CU3FVPTSUQO5LMKM.jpg?auth=ced2b4ed5f3005738de132594e69ee73c8324f490af45824a0ffe86ce87c960a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/tour-championship-2026-what-know-about-playoff-finale-east-lake-golf-club/JMGYQHZM3NBWVKSCT5D7TJAWUQ/",
-     "score": 62
+     "score": 56
     },
     {
      "title": "Big Ten bars NFL players from returning to play amid NCAA eligibility chaos",
@@ -284,6 +284,15 @@
      "score": 42
     },
     {
+     "title": "Braves-Dodgers: Everything you need to know about Tuesday\u2019s game between Atlanta, Los Angeles",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/25/braves-dodgers-everything-you-need-know-about-tuesdays-game-between-atlanta-los-angeles/",
+     "score": 42
+    },
+    {
      "title": "Remembering Dolly Parton: Revisiting when she sang 'Rocky Top' as UGA played Tennessee in Knoxville",
      "desc": "",
      "cat": "Sports",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/trending/angel-reese-sets-2-wnba-rebounding-records/CZKOSQFZIBFITODD2GBQTHG5VU/",
      "score": 34
-    },
-    {
-     "title": "Braves\u2019 NL East lead is shrinking. Here come the red-hot Dodgers",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/24/braves-nl-east-lead-is-shrinking-here-come-red-hot-dodgers/",
-     "score": 30
     }
    ]
   },
@@ -389,15 +389,6 @@
      "score": 40
     },
     {
-     "title": "LIST: Here's all the food under recall in the US",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/food-under-recall-in-the-us-full-list/507-594e50a0-577d-4a25-b750-4e54c08850bd",
-     "score": 0
-    },
-    {
      "title": "ATL Hip Hop Day Festival",
      "desc": "",
      "cat": "Culture",
@@ -431,6 +422,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/look-back-dolly-partons-last-metro-atlanta-concert-was-2016/",
+     "score": 0
+    },
+    {
+     "title": "LIST: Here's all the food under recall in the US",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/food-under-recall-in-the-us-full-list/507-594e50a0-577d-4a25-b750-4e54c08850bd",
      "score": 0
     },
     {
