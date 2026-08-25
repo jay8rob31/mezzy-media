@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T14:15:26",
+ "updated": "2026-08-25T14:20:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -334,6 +334,15 @@
    "id": "culture",
    "title": "ATL Culture",
    "items": [
+    {
+     "title": "Country music legend Dolly Parton dead at 80",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/MD326VB2EREEPCPOA7JVT425BA.png?auth=0994a25eb27a6e0da15820a0bf40cb0ea89df1953e9424aa22e231e605a8392d&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/25/country-music-legend-dolly-parton-dead-80/",
+     "score": 55
+    },
     {
      "title": "Allen Stone and Nicotine Dolls to headline Blue Stone Arts & Music Festival",
      "desc": "",
