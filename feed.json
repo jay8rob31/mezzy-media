@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T07:20:27",
+ "updated": "2026-08-25T07:25:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -284,15 +284,6 @@
      "score": 36
     },
     {
-     "title": "UGA student reports sex crime while she\u2019s out with friends downtown",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/uga-student-reports-sex-crime-while-shes-out-with-friends-downtown/VSNWFW5SP5DUZAFLFHJD5PHPQU/",
-     "score": 34
-    },
-    {
      "title": "Former NFL Player Tae Crowder says he lost $500,000 in investment scheme",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/24/braves-take-down-brewers-little-league-classic/",
+     "score": 30
+    },
+    {
+     "title": "Falcons\u2019 Michael Penix Jr. cleared to return to 11-on-11 drills",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/22/falcons-michael-penix-jr-cleared-return-11-on-11-drills/",
      "score": 30
     }
    ]
