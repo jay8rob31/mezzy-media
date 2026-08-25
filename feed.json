@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T09:20:25",
+ "updated": "2026-08-25T09:25:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -18,6 +18,15 @@
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/crime/woman-killed-in-south-fulton-shooting-suspect-identified-as-domina-brown-charged-with-murder/85-07f6854b-1b28-4a18-9920-47a934124b00",
      "score": 123
+    },
+    {
+     "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/trials/gwinnett-county-cold-case-stabbing-murder-case/85-db5e0493-bedc-4b98-9d20-b574eee10a56",
+     "score": 106
     },
     {
      "title": "Reward offered for information in deadly Atlanta shooting",
@@ -90,15 +99,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-25-2026%2Ft_829d735e9b9d414d9cf3e9222a26098f_name_Auto_body_shop_worker_shot_in_DeKalb.png?auth=fe16598384405b67c0239a18a5016cca4087da6f9a3e1886eaf0b34721001ee4&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/im-just-praying-him-auto-body-shop-worker-shot-multiple-times-outside-business/IEMUQ3ZVIFBWZJSJPWF5AQZPAY/",
      "score": 80
-    },
-    {
-     "title": "\u2018Ride for Tyler\u2019 planned to honor Marietta motorcycle shop employee killed in road rage shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/NBSCBZWOTNGARIOY6DDKKTKLSU.jpg?auth=bad1bf202211a5859e6cae99d69ebb662d28c1ee1791e447603918af6fcda99b&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/24/ride-tyler-planned-honor-marietta-motorcycle-shop-employee-killed-road-rage-shooting/",
-     "score": 77
     }
    ]
   },
@@ -114,6 +114,15 @@
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/crime/woman-killed-in-south-fulton-shooting-suspect-identified-as-domina-brown-charged-with-murder/85-07f6854b-1b28-4a18-9920-47a934124b00",
      "score": 123
+    },
+    {
+     "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/trials/gwinnett-county-cold-case-stabbing-murder-case/85-db5e0493-bedc-4b98-9d20-b574eee10a56",
+     "score": 106
     },
     {
      "title": "Reward offered for information in deadly Atlanta shooting",
@@ -204,15 +213,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2AUERL7PDJHXPGXNMQGUWCB3O4.jpeg?auth=89b9e31ca76c3af806a70af2dc4cc4229c97bf3832a5f3b69f0430aeca4e82de&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/deadline-dekalb-parents-community-apply-serve-community-advisory-teams/V4ZJQESZZBAIJDTXH6CWK7ACUA/",
      "score": 71
-    },
-    {
-     "title": "Police: 13-year-old middle schooler arrested after stabbing student several times with scissors",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/police-13-year-old-middle-schooler-arrested-after-stabbing-student-several-times-with-scissors/85-44f21557-1b1c-4ec6-b79a-1a2fd8b1d061",
-     "score": 70
     }
    ]
   },
@@ -257,13 +257,13 @@
      "score": 46
     },
     {
-     "title": "Dream's Angel Reese breaks WNBA record with 26 rebounds against Sparks, sets single-season record as well",
+     "title": "Angel Reese sets 2 WNBA rebounding records",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/sports.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/angel-reese-wnba-los-angeles-atlanta-dream/507-7c747d63-9792-42a9-bfdf-cafd53aa5454",
-     "score": 40
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FA5Y7BNLVZZDGXN2ZMCRYMUN4YE.jpg?auth=404c846c2aad49edeed9f12ace992a24f4663d0fb52a48ae82da4396eda75833&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/trending/angel-reese-sets-2-wnba-rebounding-records/CZKOSQFZIBFITODD2GBQTHG5VU/",
+     "score": 46
     },
     {
      "title": "Shelley Fabares, 'Johnny Angel' singer and actor in \u2018The Donna Reed Show\u2019 and \u2018Coach,\u2019 dies at 82",
@@ -408,7 +408,7 @@
      "desc": "",
      "cat": "Juzmezzy",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/image-117.png?ve=1&amp;tl=1",
+     "img": "",
      "url": "https://www.fox5atlanta.com/news/reality-tv-personality-sidney-starr-due-court-tuesday",
      "score": 40
     },
