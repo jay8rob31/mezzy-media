@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-25T12:20:26",
+ "updated": "2026-08-25T12:25:25",
  "hero": {
-  "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
+  "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
-  "url": "https://www.11alive.com/article/news/crime/woman-killed-in-south-fulton-shooting-suspect-identified-as-domina-brown-charged-with-murder/85-07f6854b-1b28-4a18-9920-47a934124b00"
+  "url": "https://www.fox5atlanta.com/news/woman-killed-south-fulton-shooting-suspect-charged-murder"
  },
  "rails": [
   {
@@ -11,12 +11,12 @@
    "title": "Top 10 in Atlanta",
    "items": [
     {
-     "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
+     "title": "Woman killed in South Fulton shooting; suspect charged with murder",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/woman-killed-in-south-fulton-shooting-suspect-identified-as-domina-brown-charged-with-murder/85-07f6854b-1b28-4a18-9920-47a934124b00",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-14.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/woman-killed-south-fulton-shooting-suspect-charged-murder",
      "score": 123
     },
     {
@@ -107,12 +107,12 @@
    "title": "Crime Watch",
    "items": [
     {
-     "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
+     "title": "Woman killed in South Fulton shooting; suspect charged with murder",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/woman-killed-in-south-fulton-shooting-suspect-identified-as-domina-brown-charged-with-murder/85-07f6854b-1b28-4a18-9920-47a934124b00",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-14.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/woman-killed-south-fulton-shooting-suspect-charged-murder",
      "score": 123
     },
     {
