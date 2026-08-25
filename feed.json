@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T21:45:25",
+ "updated": "2026-08-24T21:50:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -230,15 +230,6 @@
      "score": 56
     },
     {
-     "title": "Braves\u2019 NL East lead is shrinking. Here come the red-hot Dodgers",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/24/braves-nl-east-lead-is-shrinking-here-come-red-hot-dodgers/",
-     "score": 48
-    },
-    {
      "title": "Atlanta United signs former World Cup star in 4-year contract",
      "desc": "",
      "cat": "Sports",
@@ -246,6 +237,15 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
      "score": 46
+    },
+    {
+     "title": "Braves\u2019 NL East lead is shrinking. Here come the red-hot Dodgers",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/braves-nl-east-lead-is-shrinking-here-come-red-hot-dodgers/",
+     "score": 42
     },
     {
      "title": "UGA student reports sexual battery near Athens City Hall",
