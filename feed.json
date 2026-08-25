@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T17:50:24",
+ "updated": "2026-08-25T17:55:24",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -29,15 +29,6 @@
      "score": 105
     },
     {
-     "title": "WATCH: Police handcuff suspect in deadly Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/watch-police-handcuff-suspect-in-deadly-beltline-stabbing/85-baa553df-0217-45dd-81ca-226624f3835e",
-     "score": 95
-    },
-    {
      "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
      "desc": "",
      "cat": "Crime",
@@ -63,6 +54,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FM7XEY4A6BFGSRM2INLBYFYIFTI.png?auth=ec34b2cb20b68b8e8e7c72c0c1ab7b7e802e3246153103b5cf5e54c1177eae7a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/mugshot-man-accused-stabbing-person-death-atlanta-beltline-released/NUGRRNPSQZBGNLH2B3HB45TYIY/",
      "score": 92
+    },
+    {
+     "title": "Atlanta Beltline deadly stabbing: Police release body camera footage of suspect arrest",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
+     "score": 89
     },
     {
      "title": "5 bodies, dead animals found after Oregon fire investigated as quintuple homicide",
@@ -125,15 +125,6 @@
      "score": 105
     },
     {
-     "title": "WATCH: Police handcuff suspect in deadly Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/watch-police-handcuff-suspect-in-deadly-beltline-stabbing/85-baa553df-0217-45dd-81ca-226624f3835e",
-     "score": 95
-    },
-    {
      "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
      "desc": "",
      "cat": "Crime",
@@ -159,6 +150,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FM7XEY4A6BFGSRM2INLBYFYIFTI.png?auth=ec34b2cb20b68b8e8e7c72c0c1ab7b7e802e3246153103b5cf5e54c1177eae7a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/mugshot-man-accused-stabbing-person-death-atlanta-beltline-released/NUGRRNPSQZBGNLH2B3HB45TYIY/",
      "score": 92
+    },
+    {
+     "title": "Atlanta Beltline deadly stabbing: Police release body camera footage of suspect arrest",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
+     "score": 89
     },
     {
      "title": "5 bodies, dead animals found after Oregon fire investigated as quintuple homicide",
