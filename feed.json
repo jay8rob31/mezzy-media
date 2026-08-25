@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T05:50:26",
+ "updated": "2026-08-25T05:55:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -92,12 +92,12 @@
      "score": 83
     },
     {
-     "title": "\u2018Ride for Tyler\u2019 planned to honor Marietta motorcycle shop employee killed in road rage shooting",
+     "title": "Mother of 2-year-old found dead at home charged with murder",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/NBSCBZWOTNGARIOY6DDKKTKLSU.jpg?auth=bad1bf202211a5859e6cae99d69ebb662d28c1ee1791e447603918af6fcda99b&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/24/ride-tyler-planned-honor-marietta-motorcycle-shop-employee-killed-road-rage-shooting/",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKWXHR3HEZZEZNKAILUMLSHQAQY.jpg?auth=e1c9123ff4d52d9addf6e79f981dc68e49273b2309566753d8fb7f844e2350b9&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/mother-2-year-old-found-dead-charged-with-murder/PFN4SKJF3NAQRJCEK5A7FOGZHE/",
      "score": 83
     }
    ]
@@ -188,15 +188,6 @@
      "score": 83
     },
     {
-     "title": "\u2018Ride for Tyler\u2019 planned to honor Marietta motorcycle shop employee killed in road rage shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/NBSCBZWOTNGARIOY6DDKKTKLSU.jpg?auth=bad1bf202211a5859e6cae99d69ebb662d28c1ee1791e447603918af6fcda99b&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/24/ride-tyler-planned-honor-marietta-motorcycle-shop-employee-killed-road-rage-shooting/",
-     "score": 83
-    },
-    {
      "title": "Mother of 2-year-old found dead at home charged with murder",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +204,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
      "score": 81
+    },
+    {
+     "title": "Atlanta police arrest suspect after Cheshire Bridge Road shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FH63XRN22TFDKFMTPPKRJMWJKVA.jpeg?auth=0e7f37d76ec0f820a7901138657e8fe15d862833a4ec8633d9f18ebf194e5ef3&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta-police-arrest-suspect-after-cheshire-bridge-road-shooting/Q47MOZZDBNHHFO5UA27O73MX6E/",
+     "score": 80
     }
    ]
   },
