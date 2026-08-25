@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T15:50:24",
+ "updated": "2026-08-25T15:55:24",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -257,15 +257,6 @@
      "score": 50
     },
     {
-     "title": "Put me in, coach: Toddler runs onto soccer pitch",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/put-me-coach-toddler-runs-onto-soccer-pitch/FFLQ6BTZU5ANJOB5QF3SOSRN2M/",
-     "score": 48
-    },
-    {
      "title": "Braves-Dodgers: Everything you need to know about Tuesday\u2019s game between Atlanta, Los Angeles",
      "desc": "",
      "cat": "Sports",
@@ -291,6 +282,15 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
      "score": 46
+    },
+    {
+     "title": "Put me in, coach: Toddler runs onto soccer pitch",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/put-me-coach-toddler-runs-onto-soccer-pitch/FFLQ6BTZU5ANJOB5QF3SOSRN2M/",
+     "score": 42
     },
     {
      "title": "Shelley Fabares, 'Johnny Angel' singer and actor in \u2018The Donna Reed Show\u2019 and \u2018Coach,\u2019 dies at 82",
@@ -378,15 +378,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/look-back-dolly-partons-last-metro-atlanta-concert-was-2016/",
      "score": 30
-    },
-    {
-     "title": "Wet dog food recalled over metal contamination risk",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/fromm-wet-dog-food-recalled-metal-contamination-risk/507-5c6b84c7-cd70-458b-b1c2-05fcf584eb94",
-     "score": 0
     },
     {
      "title": "LIST: Here's all the food under recall in the US",
