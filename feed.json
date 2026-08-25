@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T23:05:25",
+ "updated": "2026-08-24T23:10:27",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect charged with murder",
   "desc": "",
@@ -362,15 +362,6 @@
      "score": 42
     },
     {
-     "title": "ATL Hip Hop Day Festival",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/24/atl-hip-hop-day-festival/",
-     "score": 38
-    },
-    {
      "title": "LIST: Here's all the food under recall in the US",
      "desc": "",
      "cat": "Culture",
@@ -378,6 +369,15 @@
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/food-under-recall-in-the-us-full-list/507-594e50a0-577d-4a25-b750-4e54c08850bd",
      "score": 34
+    },
+    {
+     "title": "ATL Hip Hop Day Festival",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/atl-hip-hop-day-festival/",
+     "score": 32
     },
     {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
