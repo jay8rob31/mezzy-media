@@ -158,7 +158,7 @@ const LANE_ART={crime:'art/crime.jpg',sports:'art/sports.jpg',culture:'art/cultu
 function laneArt(id){return LANE_ART[id]||'art/news.jpg';}
 function normTitle(t){return String(t||'').toLowerCase().replace(/[^a-z0-9 ]/g,'').replace(/\b(atlanta|police|say|says|report|update|breaking|metro|ga|georgia)\b/g,'').replace(/\s+/g,' ').trim().slice(0,60);}
 function dedup(items){const best={};(items||[]).forEach(it=>{const k=normTitle(it.title);if(!k)return;if(!best[k]||(it.score||0)>(best[k].score||0))best[k]=it;});return Object.values(best).sort((a,b)=>(b.score||0)-(a.score||0));}
-function tileHTML(item,rank,laneId){const fb=laneArt(laneId);const src=item.img?esc(item.img):fb;const art=`<div class="tile-art"><img src="${src}" alt="" loading="lazy" onerror="this.onerror=null;this.src='${fb}'"></div>`;const rk=rank?`<div class="rank">${rank}</div>`:'';return `<button class="tile" data-title="${esc(item.title)}" data-desc="${esc(item.desc||'')}" data-url="${esc(item.url||'#')}">${rk}${art}<div class="tile-info"><div class="eyebrow">${esc(item.cat||'Mezzy')}</div><h3>${esc(item.title)}</h3><div class="meta"><span>${esc(item.source||'Mezzy Media')}</span><span>•</span><span>MEZZY</span></div></div></button>`;}
+function tileHTML(item,rank,laneId){const fb=laneArt(item._lane||laneId);const src=item.img?esc(item.img):fb;const art=`<div class="tile-art"><img src="${src}" alt="" loading="lazy" onerror="this.onerror=null;this.src='${fb}'"></div>`;const rk=rank?`<div class="rank">${rank}</div>`:'';return `<button class="tile" data-title="${esc(item.title)}" data-desc="${esc(item.desc||'')}" data-url="${esc(item.url||'#')}">${rk}${art}<div class="tile-info"><div class="eyebrow">${esc(item.cat||'Mezzy')}</div><h3>${esc(item.title)}</h3><div class="meta"><span>${esc(item.source||'Mezzy Media')}</span><span>•</span><span>MEZZY</span></div></div></button>`;}
 function renderRail(id,title,items,numbered){const tiles=items.map((it,i)=>tileHTML(it,numbered?i+1:0,id)).join('');return `<section class="rail-section" id="${esc(id)}"><div class="rail-head"><h2>${esc(title)}</h2>${id==='latest'?'':`<a href="section.html?id=${esc(id)}" style="margin-left:auto;color:#c9a227;text-decoration:none;font-size:13px;font-weight:800">See all ›</a>`}</div><div class="rail" id="rail-${esc(id)}">${tiles}</div></section>`;}
 const RAIL_SPEC=[{id:'crime',title:'Crime Watch'},{id:'sports',title:'Sports'},{id:'culture',title:'ATL Culture'},{id:'juzmezzy',title:'JuzMezzy'}];
 function renderFeed(data){
@@ -166,7 +166,7 @@ function renderFeed(data){
   const byId={};(data.rails||[]).forEach(r=>{if(r&&r.id)byId[r.id]=r;});
   let html='';
   const latest=[];
-  RAIL_SPEC.forEach(spec=>{const src=byId[spec.id];if(src&&src.items&&src.items.length){const top=dedup(src.items)[0];if(top)latest.push(top);}});
+  RAIL_SPEC.forEach(spec=>{const src=byId[spec.id];if(src&&src.items&&src.items.length){const top=dedup(src.items)[0];if(top)latest.push({...top,_lane:spec.id});}});
   if(latest.length)html+=renderRail('latest','Latest in Atlanta',latest,true);
   html+=RAIL_SPEC.map(spec=>{const src=byId[spec.id];if(src&&src.items&&src.items.length){return renderRail(spec.id,spec.title,dedup(src.items),false);}return `<section class="rail-section" id="${spec.id}"><div class="rail-head"><h2>${spec.title}</h2></div><div style="padding:6px clamp(18px,4vw,54px) 14px;color:#7d7d7d;font-size:13px">Quiet on this lane right now — the newsroom posts the moment it moves.</div></section>`;}).join('');
   document.getElementById('rails').innerHTML=html;wireTiles();
