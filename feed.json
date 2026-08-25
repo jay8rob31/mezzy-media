@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T08:20:26",
+ "updated": "2026-08-25T08:25:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -344,15 +344,6 @@
      "score": 42
     },
     {
-     "title": "Georgia's fall concert season starts now. Here are shows to watch - Georgia Public Broadcasting",
-     "desc": "",
-     "cat": "Culture",
-     "source": "south_atlanta",
-     "img": "",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVZjLVdlRWZMTGlMdnRMRW1HRHFGVmc0UXdjSkoyOUh6RXZJZ1cweXVlbFU3a1dfV2R0eHZXWnIwSUkwOFJFeTNsSE9DeTd2ZHFBcFplV1VvRDd6Q044TDRDNWRPeEdDYllrTmk4N0VaNlNVX3E0d2FxRVJpRE9QdUJaUWxCYksyWDNWYXBCUjBKRHZxNHJneWswOTM?oc=5",
-     "score": 0
-    },
-    {
      "title": "Wet dog food recalled over metal contamination risk",
      "desc": "",
      "cat": "Culture",
@@ -377,6 +368,24 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/24/atl-hip-hop-day-festival/",
+     "score": 0
+    },
+    {
+     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
+     "desc": "",
+     "cat": "Breaking News",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
+     "score": 0
+    },
+    {
+     "title": "Hip-hop musical 'Hamilton' returning to Fox Theatre for electrifying shows",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/local/hip-hop-musical-hamilton-returning-to-fox-theatre-for-electrifying-shows/85-e05b0962-d26d-492f-87ad-30cffbbccb4a",
      "score": 0
     }
    ]
