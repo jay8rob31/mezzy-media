@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T05:35:25",
+ "updated": "2026-08-25T05:40:27",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -65,15 +65,6 @@
      "score": 89
     },
     {
-     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
-     "score": 89
-    },
-    {
      "title": "Shooter at large after early morning gunfire on Candler Road",
      "desc": "",
      "cat": "Crime",
@@ -81,6 +72,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/shooter-large-after-early-morning-gunfire-candler-road",
      "score": 85
+    },
+    {
+     "title": "Deadly Beltline stabbing in broad daylight shocks witnesses",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQO3WTH6UNZBWVCY7TTHXI6G4SQ.png?auth=55968752ac19616c3bbd97911d06f80a46833f40877e780809721d45b4e40c2f&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/deadly-beltline-stabbing-broad-daylight-shocks-witnesses/6GC3GOAFHRD7RES5V5MOZYGISE/",
+     "score": 83
     },
     {
      "title": "Atlanta mayor demands action after deadly Beltline stabbing",
@@ -161,15 +161,6 @@
      "score": 89
     },
     {
-     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
-     "score": 89
-    },
-    {
      "title": "Shooter at large after early morning gunfire on Candler Road",
      "desc": "",
      "cat": "Crime",
@@ -177,6 +168,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/09/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/shooter-large-after-early-morning-gunfire-candler-road",
      "score": 85
+    },
+    {
+     "title": "Deadly Beltline stabbing in broad daylight shocks witnesses",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQO3WTH6UNZBWVCY7TTHXI6G4SQ.png?auth=55968752ac19616c3bbd97911d06f80a46833f40877e780809721d45b4e40c2f&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/deadly-beltline-stabbing-broad-daylight-shocks-witnesses/6GC3GOAFHRD7RES5V5MOZYGISE/",
+     "score": 83
     },
     {
      "title": "Atlanta mayor demands action after deadly Beltline stabbing",
