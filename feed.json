@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T09:40:26",
+ "updated": "2026-08-25T09:45:25",
  "hero": {
   "title": "Woman killed in South Fulton shooting; suspect identified as Domina Brown, charged with murder",
   "desc": "",
@@ -275,15 +275,6 @@
      "score": 36
     },
     {
-     "title": "Triathlon coach training for Ironman fights off alligator attack during practice swim",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/triathlon-coach-training-ironman-fights-off-alligator-attack-during-practice-swim/",
-     "score": 32
-    },
-    {
      "title": "Braves take down Brewers in Little League Classic",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/tommy-john-dies-mlb-yankees-baseball-elbow-surgery-obit/507-52518f16-f911-4974-89e6-7c0d0528137f",
+     "score": 0
+    },
+    {
+     "title": "UGA study finds medical cannabis users take fewer sick days",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/atlanta/uga-study-finds-medical-cannabis-users-take-fewer-sick-days/4TMBP7JP5RBTNC4FE4I7OZHS7Q/",
      "score": 0
     }
    ]
