@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T08:15:25",
+ "updated": "2026-08-26T08:20:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -221,6 +221,15 @@
    "title": "Sports",
    "items": [
     {
+     "title": "Eminem shares letter from Dolly Parton after induction into Rock & Roll Hall of Fame",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FDQWBNHK5NVFMJBY7S5RUHY45Z4.jpg?auth=9883fbb89f2c48b8f1d2fff46e5c75419b5ec9e36e6736b4a3eadecd515f478b&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/trending/eminem-shares-letter-dolly-parton-after-induction-into-rock-roll-hall-fame/RQLCT626DVHZTLFV4PZGW4O66M/",
+     "score": 60
+    },
+    {
      "title": "Braves win 4-3 to snap Dodgers\u2019 6-game winning streak",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/braves-injured-pitchers-face-shrinking-window-with-postseason-nearing/",
-     "score": 30
-    },
-    {
-     "title": "LIVE UPDATES: Braves welcome Shohei Ohtani, Dodgers to Truist Park in must-see NL showdown",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/live-updates-braves-welcome-shohei-ohtani-dodgers-truist-park-must-see-nl-showdown/",
      "score": 30
     }
    ]
