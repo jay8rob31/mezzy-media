@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T22:40:25",
+ "updated": "2026-08-25T22:45:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -320,12 +320,12 @@
      "score": 30
     },
     {
-     "title": "UGA student reports sexual battery near Athens City Hall",
+     "title": "Indian Flavors and Global Influence at Pataaka",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.fox5atlanta.com/news/uga-student-reports-sexual-battery-near-athens-city-hall",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/indian-flavors-global-influence-pataaka/",
      "score": 0
     }
    ]
@@ -380,15 +380,6 @@
      "score": 34
     },
     {
-     "title": "ATL Hip Hop Day Festival",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/24/atl-hip-hop-day-festival/",
-     "score": 0
-    },
-    {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
      "desc": "",
      "cat": "Breaking News",
@@ -413,6 +404,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/look-back-dolly-partons-last-metro-atlanta-concert-was-2016/",
+     "score": 0
+    },
+    {
+     "title": "ATL Hip Hop Day Festival",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/atl-hip-hop-day-festival/",
      "score": 0
     },
     {
