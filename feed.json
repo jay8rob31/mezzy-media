@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T13:30:25",
+ "updated": "2026-08-26T13:35:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -56,15 +56,6 @@
      "score": 93
     },
     {
-     "title": "Mugshot released of man accused of stabbing person to death on Atlanta Beltline",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FM7XEY4A6BFGSRM2INLBYFYIFTI.png?auth=ec34b2cb20b68b8e8e7c72c0c1ab7b7e802e3246153103b5cf5e54c1177eae7a&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/mugshot-released-man-accused-stabbing-person-death-atlanta-beltline/NUGRRNPSQZBGNLH2B3HB45TYIY/",
-     "score": 92
-    },
-    {
      "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
      "desc": "",
      "cat": "Crime",
@@ -98,6 +89,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
+     "score": 83
+    },
+    {
+     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
      "score": 83
     }
    ]
@@ -152,15 +152,6 @@
      "score": 93
     },
     {
-     "title": "Mugshot released of man accused of stabbing person to death on Atlanta Beltline",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FM7XEY4A6BFGSRM2INLBYFYIFTI.png?auth=ec34b2cb20b68b8e8e7c72c0c1ab7b7e802e3246153103b5cf5e54c1177eae7a&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/mugshot-released-man-accused-stabbing-person-death-atlanta-beltline/NUGRRNPSQZBGNLH2B3HB45TYIY/",
-     "score": 92
-    },
-    {
      "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +204,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
      "score": 81
+    },
+    {
+     "title": "Shooting reported at DeKalb County home",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FISD3ESQ36ZBGLHHKQ5O2K2UPOE.jpeg?auth=5763b2fa5402fa907b92e2b5450873634c2f5b012f791d504e55b0316090377c&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/shooting-reported-dekalb-county-home/SLCGEMDF3RC2VGM2QHWBFPQTII/",
+     "score": 80
     }
    ]
   },
@@ -339,7 +339,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FVDTPHB6VYFCB5IRXFX74QQMZJI.jpg?auth=82b18187848e3811a723c96bdf4e8f402bb5cc591ab2c2ed0e3647287f4ae639&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/dolly-partons-greatest-legacy-may-not-be-her-music-its-millions-books/X4MKJRNA65D6ZCWHEOXJ7I6K3Q/",
      "score": 46
     },
