@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T23:15:26",
+ "updated": "2026-08-25T23:20:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -248,11 +248,20 @@
      "score": 48
     },
     {
+     "title": "Albies drives in winning run in the 8th, Braves win 4-3 to snap Dodgers\u2019 6-game winning streak",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/2GASCVBTMNGUVF3YSN3PMI6W6M.jpg?auth=87a6cc5ec4989a524cdd63dbc74e6fab3fb27b118fd47a8b82e7542c282ce6c7&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/26/albies-drives-winning-run-8th-braves-win-4-3-snap-dodgers-6-game-winning-streak/",
+     "score": 48
+    },
+    {
      "title": "Disney, NFL team up for apparel collaboration",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/sports.jpg",
+     "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/disney-nfl-apparel-collaboration/507-548b2320-0027-4d6b-9de0-460dcccda472",
      "score": 46
     },
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.11alive.com/article/news/regional/remembering-dolly-parton-performing-rocky-top-georgia-tennessee-game-2023/85-f5ed2d5b-4062-4c03-90ae-9c3d635540ce",
      "score": 34
-    },
-    {
-     "title": "Braves\u2019 NL East lead is shrinking. Here come the red-hot Dodgers",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/24/braves-nl-east-lead-is-shrinking-here-come-red-hot-dodgers/",
-     "score": 30
     }
    ]
   },
@@ -342,15 +342,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/country-music-legend-dolly-parton-dead-80/",
      "score": 43
-    },
-    {
-     "title": "Dolly Parton's legacy went beyond music. Here's a look back at her philanthropy",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-philanthropy-imagination-library-childrens-hospital/507-11fb7cd8-02ae-4d94-8541-83c15556deb4",
-     "score": 40
     },
     {
      "title": "From TV shows, concerts, and movies, Dolly Parton was no stranger to metro Atlanta",
@@ -377,6 +368,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/full-statement-dolly-parton-family-announces-legend-death/507-1932a69f-aeae-46b4-8ade-3c317430d95c",
+     "score": 34
+    },
+    {
+     "title": "Dolly Parton's legacy went beyond music. Here's a look back at her philanthropy",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-philanthropy-imagination-library-childrens-hospital/507-11fb7cd8-02ae-4d94-8541-83c15556deb4",
      "score": 34
     },
     {
