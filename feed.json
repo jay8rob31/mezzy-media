@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T06:05:25",
+ "updated": "2026-08-26T06:10:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Dolly Parton remembered by Atlanta friends, fans, music scholars",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/dolly-parton-remembered-by-atlanta-friends-fans-music-scholars/JDFQWJ34S5ABTNBNRJBO4YUVGU/",
-     "score": 40
-    },
-    {
      "title": "Country music legend Dolly Parton dead at 80",
      "desc": "",
      "cat": "Culture",
@@ -351,6 +342,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/country-music-legend-dolly-parton-dead-80/",
      "score": 37
+    },
+    {
+     "title": "Dolly Parton remembered by Atlanta friends, fans, music scholars",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/dolly-parton-remembered-by-atlanta-friends-fans-music-scholars/JDFQWJ34S5ABTNBNRJBO4YUVGU/",
+     "score": 34
     },
     {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
