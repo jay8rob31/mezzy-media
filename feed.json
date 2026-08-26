@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T15:30:26",
+ "updated": "2026-08-26T15:35:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -248,15 +248,6 @@
      "score": 48
     },
     {
-     "title": "\u2018Out of nowhere, it hit me\u2019: Triathlon coach repels alligator attack in Savannah River",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGDI5UTIDCVHFXK5VPGHE6EL67M.jpg?auth=ab32e3d2b32acb4a68652c7175d7ada88de814dadac534adb5c47b7c94aff01d&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/trending/out-nowhere-it-hit-me-triathlon-coach-repels-alligator-attack-savannah-river/AEENALGUQRDHFCDOFX3PQTJIRY/",
-     "score": 48
-    },
-    {
      "title": "Atlanta Braves 7-game home series includes bobbleheads, free jerseys, unique food",
      "desc": "",
      "cat": "Sports",
@@ -281,6 +272,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/big-ten-ruling-college-football-eligibility/507-60946d53-faa3-416e-ac78-ee316e568e94",
+     "score": 42
+    },
+    {
+     "title": "\u2018Out of nowhere, it hit me\u2019: Triathlon coach repels alligator attack in Savannah River",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/out-nowhere-it-hit-me-triathlon-coach-repels-alligator-attack-savannah-river/AEENALGUQRDHFCDOFX3PQTJIRY/",
      "score": 42
     },
     {
