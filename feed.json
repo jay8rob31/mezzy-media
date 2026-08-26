@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T00:45:25",
+ "updated": "2026-08-26T00:50:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -230,15 +230,6 @@
      "score": 56
     },
     {
-     "title": "Atlanta Braves 7-game home series includes bobbleheads, free jerseys, unique food",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSL7XRDBH55FXNO552UXUO3WYFM.JPG?auth=96389e899270a439a0f2cfff9ef8e1c6d9f5978864b9ea25f5ff796e754de8b0&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta-braves-7-game-home-series-includes-bobbleheads-free-jerseys-unique-food/VFA3RAPTH5AT3NNOZXJDVMX6OI/",
-     "score": 52
-    },
-    {
      "title": "Big Ten bars NFL players from returning to play amid NCAA eligibility chaos",
      "desc": "",
      "cat": "Sports",
@@ -255,6 +246,15 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/2GASCVBTMNGUVF3YSN3PMI6W6M.jpg?auth=87a6cc5ec4989a524cdd63dbc74e6fab3fb27b118fd47a8b82e7542c282ce6c7&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/26/albies-drives-winning-run-8th-braves-win-4-3-snap-dodgers-6-game-winning-streak/",
      "score": 48
+    },
+    {
+     "title": "Atlanta Braves 7-game home series includes bobbleheads, free jerseys, unique food",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSL7XRDBH55FXNO552UXUO3WYFM.JPG?auth=96389e899270a439a0f2cfff9ef8e1c6d9f5978864b9ea25f5ff796e754de8b0&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta-braves-7-game-home-series-includes-bobbleheads-free-jerseys-unique-food/VFA3RAPTH5AT3NNOZXJDVMX6OI/",
+     "score": 46
     },
     {
      "title": "Disney, NFL partner for apparel collaboration",
