@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T04:45:24",
+ "updated": "2026-08-26T04:50:24",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -221,6 +221,15 @@
    "title": "Sports",
    "items": [
     {
+     "title": "Braves win 4-3 to snap Dodgers\u2019 6-game winning streak",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZ4CZTOLZRZBLTELH2XBLBIR2EI.jpg?auth=3e1d32ebf30e54bc59d037c529ec8cfd2aa07ece7515510627115310f7e0ebea&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/braves-win-4-3-snap-dodgers-6-game-winning-streak/LCWAJY5M7VF5NG3VKZSG6SXL2I/",
+     "score": 64
+    },
+    {
      "title": "TOUR Championship 2026: What to know about playoff finale at East Lake Golf Club",
      "desc": "",
      "cat": "Sports",
@@ -255,15 +264,6 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
      "score": 46
-    },
-    {
-     "title": "Albies drives in winning run in the 8th, Braves win 4-3 to snap Dodgers\u2019 6-game winning streak",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/26/albies-drives-winning-run-8th-braves-win-4-3-snap-dodgers-6-game-winning-streak/",
-     "score": 42
     },
     {
      "title": "Disney, NFL team up for apparel collaboration",
