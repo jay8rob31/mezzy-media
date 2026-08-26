@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T07:45:25",
+ "updated": "2026-08-26T07:50:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -293,15 +293,6 @@
      "score": 34
     },
     {
-     "title": "Eminem reveals heartfelt note Dolly Parton wrote him for Rock & Roll Hall of Fame induction",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/eminem-reveals-heartfelt-note-dolly-parton-wrote-him-rock-roll-hall-fame-induction/",
-     "score": 32
-    },
-    {
      "title": "Braves\u2019 NL East lead is shrinking. Here come the red-hot Dodgers",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/braves-injured-pitchers-face-shrinking-window-with-postseason-nearing/",
+     "score": 30
+    },
+    {
+     "title": "LIVE UPDATES: Braves welcome Shohei Ohtani, Dodgers to Truist Park in must-see NL showdown",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/25/live-updates-braves-welcome-shohei-ohtani-dodgers-truist-park-must-see-nl-showdown/",
      "score": 30
     }
    ]
