@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T06:45:25",
+ "updated": "2026-08-26T06:50:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -335,6 +335,15 @@
    "title": "ATL Culture",
    "items": [
     {
+     "title": "Dolly Parton: Singer\u2019s wit, humor was as sharp as her music",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/dolly-parton-singers-wit-humor-was-sharp-her-music/DJ7CKLVWWJEZVNIZZG27UT2W4Q/",
+     "score": 46
+    },
+    {
      "title": "Country music legend Dolly Parton dead at 80",
      "desc": "",
      "cat": "Culture",
@@ -422,15 +431,6 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/atlanta/tv-shows-concerts-movies-dolly-parton-was-no-stranger-metro-atlanta/WHGY6DQ2CFG2LHQEH2UBPLZGHU/",
-     "score": 0
-    },
-    {
-     "title": "Dolly Parton: Singer\u2019s wit, humor was as sharp as her music",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/dolly-parton-singers-wit-humor-was-sharp-her-music/DJ7CKLVWWJEZVNIZZG27UT2W4Q/",
      "score": 0
     },
     {
