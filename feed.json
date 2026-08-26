@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T20:05:25",
+ "updated": "2026-08-25T20:10:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -261,7 +261,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/FT4KLMMZVVDWXMVHAWAAIE35PU.jpg?auth=14d26f673317af40c1ac7819e068b9dfb43d0efaf7de72276804ae83076470f5&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=1321%2C616",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/live-updates-braves-welcome-shohei-ohtani-dodgers-truist-park-must-see-nl-showdown/",
      "score": 48
     },
@@ -339,9 +339,9 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/MD326VB2EREEPCPOA7JVT425BA.png?auth=0994a25eb27a6e0da15820a0bf40cb0ea89df1953e9424aa22e231e605a8392d&amp;width=1200&amp;height=600&amp;smart=true",
+     "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/country-music-legend-dolly-parton-dead-80/",
-     "score": 49
+     "score": 43
     },
     {
      "title": "What happened to Dolly Parton? Iconic music and film star dies at 80",
