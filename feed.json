@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T16:35:25",
+ "updated": "2026-08-26T16:40:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -230,15 +230,6 @@
      "score": 56
     },
     {
-     "title": "Braves win 4-3 to snap Dodgers\u2019 6-game winning streak",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZ4CZTOLZRZBLTELH2XBLBIR2EI.jpg?auth=3e1d32ebf30e54bc59d037c529ec8cfd2aa07ece7515510627115310f7e0ebea&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/braves-win-4-3-snap-dodgers-6-game-winning-streak/LCWAJY5M7VF5NG3VKZSG6SXL2I/",
-     "score": 52
-    },
-    {
      "title": "Eminem shares letter from Dolly Parton after induction into Rock & Roll Hall of Fame",
      "desc": "",
      "cat": "Sports",
@@ -254,6 +245,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSL7XRDBH55FXNO552UXUO3WYFM.JPG?auth=96389e899270a439a0f2cfff9ef8e1c6d9f5978864b9ea25f5ff796e754de8b0&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta-braves-7-game-home-series-includes-bobbleheads-free-jerseys-unique-food/VFA3RAPTH5AT3NNOZXJDVMX6OI/",
+     "score": 46
+    },
+    {
+     "title": "Braves win 4-3 to snap Dodgers\u2019 6-game winning streak",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZ4CZTOLZRZBLTELH2XBLBIR2EI.jpg?auth=3e1d32ebf30e54bc59d037c529ec8cfd2aa07ece7515510627115310f7e0ebea&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/braves-win-4-3-snap-dodgers-6-game-winning-streak/LCWAJY5M7VF5NG3VKZSG6SXL2I/",
      "score": 46
     },
     {
