@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T05:20:24",
+ "updated": "2026-08-26T05:25:24",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -83,21 +83,21 @@
      "score": 88
     },
     {
+     "title": "Sisters return home from school to find parents dead in murder-suicide, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/D37QJ55O3BDHHHOIYHNJRHEQAQ.jpg?auth=0a080d5594f74ee783a26347905a57c10c6895ca1769065e1d008f8a2fc0fa0e&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/26/sisters-return-home-school-find-parents-dead-murder-suicide-police-say/",
+     "score": 85
+    },
+    {
      "title": "Atlanta Beltline deadly stabbing: Police release body camera footage of suspect arrest",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
-     "score": 83
-    },
-    {
-     "title": "\u2018I can just picture her smile now\u2019: Community mourns 2 mothers killed in shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YFIOFGE3ZFFI3MP7FC4WTHG4FI.png?auth=c63eaf96179fabfebbc32da8357f327500cfa5f91545e0c39e8f56b909d95406&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/26/i-can-just-picture-her-smile-now-community-mourns-2-mothers-killed-shooting/",
      "score": 83
     }
    ]
@@ -179,6 +179,15 @@
      "score": 88
     },
     {
+     "title": "Sisters return home from school to find parents dead in murder-suicide, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/D37QJ55O3BDHHHOIYHNJRHEQAQ.jpg?auth=0a080d5594f74ee783a26347905a57c10c6895ca1769065e1d008f8a2fc0fa0e&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/26/sisters-return-home-school-find-parents-dead-murder-suicide-police-say/",
+     "score": 85
+    },
+    {
      "title": "Atlanta Beltline deadly stabbing: Police release body camera footage of suspect arrest",
      "desc": "",
      "cat": "Crime",
@@ -203,15 +212,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
-     "score": 83
-    },
-    {
-     "title": "Atlanta mayor demands action after deadly Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2025/02/1200/630/snapshot-2025-02-19t104144.853.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/atlanta-mayor-demands-action-after-deadly-beltline-stabbing",
      "score": 83
     }
    ]
@@ -252,7 +252,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FEZDTIFUPCBAXJLAHAGBXIEKYGA.jpg?auth=3fff8ea24fd6c398f5fb6f05498f7fd0181e375787e9f7259b619015a190a514&amp;width=1200&amp;height=630&amp;smart=true",
+     "img": "",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
      "score": 46
     },
@@ -272,15 +272,6 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/disney-nfl-apparel-collaboration/507-548b2320-0027-4d6b-9de0-460dcccda472",
-     "score": 40
-    },
-    {
-     "title": "Alarming results from a new CTE study on former NFL players",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/alarming-results-new-cte-study-former-nfl-players/V7YWADPK7VDTXMLUGAEXRLEEOU/",
      "score": 40
     },
     {
@@ -309,6 +300,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/live-updates-braves-welcome-shohei-ohtani-dodgers-truist-park-must-see-nl-showdown/",
      "score": 36
+    },
+    {
+     "title": "Alarming results from a new CTE study on former NFL players",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/alarming-results-new-cte-study-former-nfl-players/V7YWADPK7VDTXMLUGAEXRLEEOU/",
+     "score": 34
     },
     {
      "title": "Eminem reveals heartfelt note Dolly Parton wrote him for Rock & Roll Hall of Fame induction",
