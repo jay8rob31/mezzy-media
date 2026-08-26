@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T12:30:25",
+ "updated": "2026-08-26T12:35:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Will Miley Cyrus get Dolly Parton's music catalog? What we know about the star's estate",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/culture.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-estate/507-23ae0962-b24b-4ad3-9afa-9312e7c75369",
-     "score": 46
-    },
-    {
      "title": "Dolly Parton\u2019s greatest legacy may not be her music. It\u2019s millions of books",
      "desc": "",
      "cat": "Culture",
@@ -351,15 +342,6 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/atlanta/dolly-partons-greatest-legacy-may-not-be-her-music-its-millions-books/X4MKJRNA65D6ZCWHEOXJ7I6K3Q/",
      "score": 46
-    },
-    {
-     "title": "Dolly Parton: Singer\u2019s wit, humor was as sharp as her music",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/dolly-parton-singers-wit-humor-was-sharp-her-music/DJ7CKLVWWJEZVNIZZG27UT2W4Q/",
-     "score": 40
     },
     {
      "title": "Recall alert: Canned dog food recalled for metal contamination",
@@ -396,6 +378,24 @@
      "img": "",
      "url": "https://www.fox5atlanta.com/news/thieves-smash-front-door-midtown-atlanta-restaurant",
      "score": 40
+    },
+    {
+     "title": "Will Miley Cyrus get Dolly Parton's music catalog? What we know about the star's estate",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-estate/507-23ae0962-b24b-4ad3-9afa-9312e7c75369",
+     "score": 40
+    },
+    {
+     "title": "Dolly Parton: Singer\u2019s wit, humor was as sharp as her music",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/dolly-parton-singers-wit-humor-was-sharp-her-music/DJ7CKLVWWJEZVNIZZG27UT2W4Q/",
+     "score": 34
     },
     {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
