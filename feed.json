@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T03:35:25",
+ "updated": "2026-08-26T03:40:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -293,15 +293,6 @@
      "score": 36
     },
     {
-     "title": "Braves-Dodgers: Everything you need to know about Tuesday\u2019s game between Atlanta, Los Angeles",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/braves-dodgers-everything-you-need-know-about-tuesdays-game-between-atlanta-los-angeles/",
-     "score": 36
-    },
-    {
      "title": "Braves\u2019 injured pitchers face shrinking window with postseason nearing",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/eminem-reveals-heartfelt-note-dolly-parton-wrote-him-rock-roll-hall-fame-induction/",
      "score": 32
+    },
+    {
+     "title": "Braves\u2019 NL East lead is shrinking. Here come the red-hot Dodgers",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/braves-nl-east-lead-is-shrinking-here-come-red-hot-dodgers/",
+     "score": 30
     }
    ]
   },
