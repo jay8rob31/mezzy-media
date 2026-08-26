@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T08:30:25",
+ "updated": "2026-08-26T08:35:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -335,20 +335,11 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Dolly Parton: Singer\u2019s wit, humor was as sharp as her music",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FLQQ7JR72H5FDVLF7H4MQLV3P2E.jpg?auth=3ef0d9be6a88e1389b6975ed32c15c7b0336628ab41ef44e83a76610464ef86b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/trending/dolly-parton-singers-wit-humor-was-sharp-her-music/DJ7CKLVWWJEZVNIZZG27UT2W4Q/",
-     "score": 46
-    },
-    {
      "title": "Recall alert: Canned dog food recalled for metal contamination",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNV46Q3XDIVAQ5FIGNXXOVWUI5I.jpg?auth=fcec84222709ff11d3d916745e44629e4eb4616312da7c0fba32d8f64a5bad07&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/trending/recall-alert-canned-dog-food-recalled-metal-contamination/7JKU2C6ALZB5DOM6HY5XFEY47Y/",
      "score": 46
     },
@@ -369,6 +360,15 @@
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/siriusxm-launches-dolly-parton-tribute-channel/507-52405baf-f437-415c-a196-30b99efbfa20",
      "score": 46
+    },
+    {
+     "title": "Dolly Parton: Singer\u2019s wit, humor was as sharp as her music",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/dolly-parton-singers-wit-humor-was-sharp-her-music/DJ7CKLVWWJEZVNIZZG27UT2W4Q/",
+     "score": 40
     },
     {
      "title": "Dolly Parton remembered by Atlanta friends, fans, music scholars",
