@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T01:45:25",
+ "updated": "2026-08-26T01:50:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -275,15 +275,6 @@
      "score": 40
     },
     {
-     "title": "Eminem reveals heartfelt note Dolly Parton wrote him for Rock & Roll Hall of Fame induction",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/eminem-reveals-heartfelt-note-dolly-parton-wrote-him-rock-roll-hall-fame-induction/",
-     "score": 38
-    },
-    {
      "title": "Put me in, coach: Toddler runs onto soccer pitch",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.11alive.com/article/news/regional/remembering-dolly-parton-performing-rocky-top-georgia-tennessee-game-2023/85-f5ed2d5b-4062-4c03-90ae-9c3d635540ce",
      "score": 34
+    },
+    {
+     "title": "Eminem reveals heartfelt note Dolly Parton wrote him for Rock & Roll Hall of Fame induction",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/25/eminem-reveals-heartfelt-note-dolly-parton-wrote-him-rock-roll-hall-fame-induction/",
+     "score": 32
     }
    ]
   },
