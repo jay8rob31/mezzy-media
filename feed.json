@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T07:00:25",
+ "updated": "2026-08-26T07:05:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -284,15 +284,6 @@
      "score": 36
     },
     {
-     "title": "LIVE UPDATES: Braves welcome Shohei Ohtani, Dodgers to Truist Park in must-see NL showdown",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/live-updates-braves-welcome-shohei-ohtani-dodgers-truist-park-must-see-nl-showdown/",
-     "score": 36
-    },
-    {
      "title": "Alarming results from a new CTE study on former NFL players",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/braves-dodgers-everything-you-need-know-about-tuesdays-game-between-atlanta-los-angeles/",
+     "score": 30
+    },
+    {
+     "title": "Braves\u2019 injured pitchers face shrinking window with postseason nearing",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/25/braves-injured-pitchers-face-shrinking-window-with-postseason-nearing/",
      "score": 30
     }
    ]
