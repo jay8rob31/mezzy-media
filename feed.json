@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T07:55:25",
+ "updated": "2026-08-26T08:00:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -18,15 +18,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSTMQOWWKG5EUNJ5IH3CAX346HA.jpg?auth=d1266724cc8af30044d91d45e282b2edac68174925f00f10463841c644d39447&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/man-charged-with-murder-mass-shooting-that-killed-1-injured-10/63P5JLMBPVFUBPYKRGMTNB45PY/",
      "score": 123
-    },
-    {
-     "title": "Man convicted in deadly 2025 shooting in Cherokee County learns his fate",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/man-convicted-deadly-2025-shooting-cherokee-county-sentenced/85-f2fd808a-fcd8-4fca-8116-60ac9b76b0b7",
-     "score": 99
     },
     {
      "title": "Second arrest made in connection with deadly Sweet Auburn mass shooting",
@@ -62,6 +53,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FO6TSGTQNLJCCZDKVGAIY5VABAQ.png?auth=2626bb895bfda6691aa1980a4d609b2ea312d9a6cdddffb5318b464da5922a9e&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/georgia/georgia-teen-told-investigators-she-planned-school-shooting-instead-she-killed-her-mother/DD4OBBKEKFDNNFA4NK5AWTFUEI/",
+     "score": 93
+    },
+    {
+     "title": "Man convicted in deadly 2025 shooting in Cherokee County learns his fate",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/man-convicted-deadly-2025-shooting-cherokee-county-sentenced/85-f2fd808a-fcd8-4fca-8116-60ac9b76b0b7",
      "score": 93
     },
     {
@@ -116,15 +116,6 @@
      "score": 123
     },
     {
-     "title": "Man convicted in deadly 2025 shooting in Cherokee County learns his fate",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/man-convicted-deadly-2025-shooting-cherokee-county-sentenced/85-f2fd808a-fcd8-4fca-8116-60ac9b76b0b7",
-     "score": 99
-    },
-    {
      "title": "Second arrest made in connection with deadly Sweet Auburn mass shooting",
      "desc": "",
      "cat": "Crime",
@@ -158,6 +149,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FO6TSGTQNLJCCZDKVGAIY5VABAQ.png?auth=2626bb895bfda6691aa1980a4d609b2ea312d9a6cdddffb5318b464da5922a9e&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/georgia/georgia-teen-told-investigators-she-planned-school-shooting-instead-she-killed-her-mother/DD4OBBKEKFDNNFA4NK5AWTFUEI/",
+     "score": 93
+    },
+    {
+     "title": "Man convicted in deadly 2025 shooting in Cherokee County learns his fate",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/man-convicted-deadly-2025-shooting-cherokee-county-sentenced/85-f2fd808a-fcd8-4fca-8116-60ac9b76b0b7",
      "score": 93
     },
     {
