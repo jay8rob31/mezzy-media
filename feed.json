@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T10:20:25",
+ "updated": "2026-08-26T10:25:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -206,13 +206,13 @@
      "score": 83
     },
     {
-     "title": "Atlanta mayor demands action after deadly Beltline stabbing",
+     "title": "Missing sex trafficking victim recovered in East Point",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2025/02/1200/630/snapshot-2025-02-19t104144.853.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/atlanta-mayor-demands-action-after-deadly-beltline-stabbing",
-     "score": 83
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
+     "score": 81
     }
    ]
   },
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Thieves smash front door of Midtown Atlanta restaurant",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/thieves-smash-front-door-midtown-atlanta-restaurant",
-     "score": 46
-    },
-    {
      "title": "Dolly Parton: Singer\u2019s wit, humor was as sharp as her music",
      "desc": "",
      "cat": "Culture",
@@ -377,6 +368,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/siriusxm-launches-dolly-parton-tribute-channel/507-52405baf-f437-415c-a196-30b99efbfa20",
+     "score": 40
+    },
+    {
+     "title": "Thieves smash front door of Midtown Atlanta restaurant",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/thieves-smash-front-door-midtown-atlanta-restaurant",
      "score": 40
     },
     {
