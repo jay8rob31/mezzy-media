@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T16:30:25",
+ "updated": "2026-08-26T16:35:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -18,6 +18,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSTMQOWWKG5EUNJ5IH3CAX346HA.jpg?auth=d1266724cc8af30044d91d45e282b2edac68174925f00f10463841c644d39447&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/man-charged-with-murder-mass-shooting-that-killed-1-injured-10/63P5JLMBPVFUBPYKRGMTNB45PY/",
      "score": 123
+    },
+    {
+     "title": "160 killed in China-Nepal flash floods; hundreds missing, including 47 Americans",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/gettyimages-2291598755-china-nepal-missing.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/160-killed-china-nepal-flash-floods-hundreds-missing-including-47-americans",
+     "score": 99
     },
     {
      "title": "Georgia teen told investigators she planned a school shooting. Instead, she killed her mother",
@@ -63,15 +72,6 @@
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/crime/trials/gwinnett-county-cold-case-stabbing-murder-case/85-db5e0493-bedc-4b98-9d20-b574eee10a56",
      "score": 88
-    },
-    {
-     "title": "Americans among hundreds missing after avalanche triggers deadly flash floods in Nepal",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/americans-missing-avalanche-deadly-flash-floods-nepal/507-862bade7-e031-442e-a877-193f4ab9676c",
-     "score": 87
     },
     {
      "title": "Gruesome details in Newton County trial of woman accused in missing teen\u2019s murder",
@@ -116,6 +116,15 @@
      "score": 123
     },
     {
+     "title": "160 killed in China-Nepal flash floods; hundreds missing, including 47 Americans",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/gettyimages-2291598755-china-nepal-missing.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/160-killed-china-nepal-flash-floods-hundreds-missing-including-47-americans",
+     "score": 99
+    },
+    {
      "title": "Georgia teen told investigators she planned a school shooting. Instead, she killed her mother",
      "desc": "",
      "cat": "Crime",
@@ -159,15 +168,6 @@
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/crime/trials/gwinnett-county-cold-case-stabbing-murder-case/85-db5e0493-bedc-4b98-9d20-b574eee10a56",
      "score": 88
-    },
-    {
-     "title": "Americans among hundreds missing after avalanche triggers deadly flash floods in Nepal",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/americans-missing-avalanche-deadly-flash-floods-nepal/507-862bade7-e031-442e-a877-193f4ab9676c",
-     "score": 87
     },
     {
      "title": "Gruesome details in Newton County trial of woman accused in missing teen\u2019s murder",
@@ -284,12 +284,12 @@
      "score": 42
     },
     {
-     "title": "Disney, NFL team up for apparel collaboration",
+     "title": "Disney, NFL partner for apparel collaboration",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
+     "source": "atlanta:news:www.wsbtv.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/disney-nfl-apparel-collaboration/507-548b2320-0027-4d6b-9de0-460dcccda472",
+     "url": "https://www.wsbtv.com/news/trending/disney-nfl-partner-apparel-collaboration/R4U6R2JZTVEVXHUON2FGKQEAMQ/",
      "score": 40
     },
     {
@@ -335,13 +335,13 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Will Miley Cyrus get Dolly Parton's music catalog? What we know about the star's estate",
+     "title": "New investor, new name for local iconic music venue",
      "desc": "",
      "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
+     "source": "atlanta:news:www.wsbtv.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-estate/507-23ae0962-b24b-4ad3-9afa-9312e7c75369",
-     "score": 40
+     "url": "https://www.wsbtv.com/news/local/new-investor-new-name-local-iconic-music-venue/EXVXNM3CXBFPPNMKCCRXGMEH6Q/",
+     "score": 46
     },
     {
      "title": "Dolly Parton\u2019s greatest legacy may not be her music. It\u2019s millions of books",
@@ -350,6 +350,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/atlanta/dolly-partons-greatest-legacy-may-not-be-her-music-its-millions-books/X4MKJRNA65D6ZCWHEOXJ7I6K3Q/",
+     "score": 40
+    },
+    {
+     "title": "GLP-1 boom could reshape restaurant bars as diners cut back on alcohol",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/glp-1-boom-reshape-restaurant-bars-diners-cut-back-alcohol",
      "score": 40
     },
     {
@@ -398,6 +407,15 @@
      "score": 34
     },
     {
+     "title": "Will Miley Cyrus get Dolly Parton's music catalog? What we know about the star's estate",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-estate/507-23ae0962-b24b-4ad3-9afa-9312e7c75369",
+     "score": 34
+    },
+    {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
      "desc": "",
      "cat": "Breaking News",
@@ -422,24 +440,6 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/full-statement-dolly-parton-family-announces-legend-death/507-1932a69f-aeae-46b4-8ade-3c317430d95c",
-     "score": 0
-    },
-    {
-     "title": "Look back: Dolly Parton\u2019s last metro Atlanta concert was in 2016",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/look-back-dolly-partons-last-metro-atlanta-concert-was-2016/",
-     "score": 0
-    },
-    {
-     "title": "Dolly Parton's legacy went beyond music. Here's a look back at her philanthropy",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-philanthropy-imagination-library-childrens-hospital/507-11fb7cd8-02ae-4d94-8541-83c15556deb4",
      "score": 0
     }
    ]
