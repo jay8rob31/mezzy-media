@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T10:05:25",
+ "updated": "2026-08-26T10:10:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -221,12 +221,12 @@
    "title": "Sports",
    "items": [
     {
-     "title": "Eminem shares letter from Dolly Parton after induction into Rock & Roll Hall of Fame",
+     "title": "WATCH | Here\u2019s what Dolly Parton said and performed when she was inducted into the Rock and Roll Hall of Fame",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FDQWBNHK5NVFMJBY7S5RUHY45Z4.jpg?auth=9883fbb89f2c48b8f1d2fff46e5c75419b5ec9e36e6736b4a3eadecd515f478b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/trending/eminem-shares-letter-dolly-parton-after-induction-into-rock-roll-hall-fame/RQLCT626DVHZTLFV4PZGW4O66M/",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/sports.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-rock-and-roll-hall-of-fame-induction/507-d31a1806-0f30-4058-bb32-1c542d3df24e",
      "score": 60
     },
     {
