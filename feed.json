@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T11:50:25",
+ "updated": "2026-08-26T11:55:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -18,15 +18,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSTMQOWWKG5EUNJ5IH3CAX346HA.jpg?auth=d1266724cc8af30044d91d45e282b2edac68174925f00f10463841c644d39447&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/man-charged-with-murder-mass-shooting-that-killed-1-injured-10/63P5JLMBPVFUBPYKRGMTNB45PY/",
      "score": 123
-    },
-    {
-     "title": "Reward offered for information in deadly Atlanta shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/reward-offered-information-sought-atlanta-deadly-shooting/85-2bcdcc0e-8e57-438e-b2d9-fb4f6e8838e0",
-     "score": 93
     },
     {
      "title": "Georgia teen told investigators she planned a school shooting. Instead, she killed her mother",
@@ -62,6 +53,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/americans-missing-avalanche-deadly-flash-floods-nepal/507-862bade7-e031-442e-a877-193f4ab9676c",
+     "score": 93
+    },
+    {
+     "title": "Reward offered for information in deadly Atlanta shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/reward-offered-information-sought-atlanta-deadly-shooting/85-2bcdcc0e-8e57-438e-b2d9-fb4f6e8838e0",
      "score": 93
     },
     {
@@ -116,15 +116,6 @@
      "score": 123
     },
     {
-     "title": "Reward offered for information in deadly Atlanta shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/reward-offered-information-sought-atlanta-deadly-shooting/85-2bcdcc0e-8e57-438e-b2d9-fb4f6e8838e0",
-     "score": 93
-    },
-    {
      "title": "Georgia teen told investigators she planned a school shooting. Instead, she killed her mother",
      "desc": "",
      "cat": "Crime",
@@ -158,6 +149,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/americans-missing-avalanche-deadly-flash-floods-nepal/507-862bade7-e031-442e-a877-193f4ab9676c",
+     "score": 93
+    },
+    {
+     "title": "Reward offered for information in deadly Atlanta shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/reward-offered-information-sought-atlanta-deadly-shooting/85-2bcdcc0e-8e57-438e-b2d9-fb4f6e8838e0",
      "score": 93
     },
     {
@@ -266,6 +266,15 @@
      "score": 46
     },
     {
+     "title": "LIVE FEED: Athens Indoor Football League team unveiling name, logo",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/athens-indoor-football-league-team-unveiling-name-logo/DVJ2D6PJUNB7HLV27E62SYHPKY/",
+     "score": 46
+    },
+    {
      "title": "Atlanta United signs former World Cup star in 4-year contract",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/braves-injured-pitchers-face-shrinking-window-with-postseason-nearing/",
-     "score": 30
-    },
-    {
-     "title": "LIVE UPDATES: Braves welcome Shohei Ohtani, Dodgers to Truist Park in must-see NL showdown",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/live-updates-braves-welcome-shohei-ohtani-dodgers-truist-park-must-see-nl-showdown/",
      "score": 30
     }
    ]
