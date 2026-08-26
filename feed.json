@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T02:40:25",
+ "updated": "2026-08-26T02:45:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -311,15 +311,6 @@
      "score": 36
     },
     {
-     "title": "Remembering Dolly Parton: Revisiting when she sang 'Rocky Top' as UGA played Tennessee in Knoxville",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/regional/remembering-dolly-parton-performing-rocky-top-georgia-tennessee-game-2023/85-f5ed2d5b-4062-4c03-90ae-9c3d635540ce",
-     "score": 34
-    },
-    {
      "title": "Eminem reveals heartfelt note Dolly Parton wrote him for Rock & Roll Hall of Fame induction",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/eminem-reveals-heartfelt-note-dolly-parton-wrote-him-rock-roll-hall-fame-induction/",
      "score": 32
+    },
+    {
+     "title": "Braves\u2019 NL East lead is shrinking. Here come the red-hot Dodgers",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/braves-nl-east-lead-is-shrinking-here-come-red-hot-dodgers/",
+     "score": 30
     }
    ]
   },
@@ -351,15 +351,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/country-music-legend-dolly-parton-dead-80/",
      "score": 37
-    },
-    {
-     "title": "What happened to Dolly Parton? Iconic music and film star dies at 80",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-death-what-happened/507-f201aa6b-9ccb-4fdc-8112-2adc16a28277",
-     "score": 34
     },
     {
      "title": "FULL STATEMENT: Dolly Parton's family announces music legend's death",
@@ -404,6 +395,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/local/hip-hop-musical-hamilton-returning-to-fox-theatre-for-electrifying-shows/85-e05b0962-d26d-492f-87ad-30cffbbccb4a",
+     "score": 0
+    },
+    {
+     "title": "What happened to Dolly Parton? Iconic music and film star dies at 80",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-death-what-happened/507-f201aa6b-9ccb-4fdc-8112-2adc16a28277",
      "score": 0
     },
     {
