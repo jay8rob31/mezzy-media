@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T03:20:24",
+ "updated": "2026-08-26T03:25:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -20,21 +20,21 @@
      "score": 129
     },
     {
-     "title": "Second arrest made in connection with deadly Sweet Auburn mass shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/williams-nasir-1.png?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/second-arrest-made-connection-deadly-sweet-auburn-mass-shooting",
-     "score": 105
-    },
-    {
      "title": "Man convicted in deadly 2025 shooting in Cherokee County learns his fate",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/crime/man-convicted-deadly-2025-shooting-cherokee-county-sentenced/85-f2fd808a-fcd8-4fca-8116-60ac9b76b0b7",
+     "score": 99
+    },
+    {
+     "title": "Second arrest made in connection with deadly Sweet Auburn mass shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/williams-nasir-1.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/second-arrest-made-connection-deadly-sweet-auburn-mass-shooting",
      "score": 99
     },
     {
@@ -116,21 +116,21 @@
      "score": 129
     },
     {
-     "title": "Second arrest made in connection with deadly Sweet Auburn mass shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/williams-nasir-1.png?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/second-arrest-made-connection-deadly-sweet-auburn-mass-shooting",
-     "score": 105
-    },
-    {
      "title": "Man convicted in deadly 2025 shooting in Cherokee County learns his fate",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/crime/man-convicted-deadly-2025-shooting-cherokee-county-sentenced/85-f2fd808a-fcd8-4fca-8116-60ac9b76b0b7",
+     "score": 99
+    },
+    {
+     "title": "Second arrest made in connection with deadly Sweet Auburn mass shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/williams-nasir-1.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/second-arrest-made-connection-deadly-sweet-auburn-mass-shooting",
      "score": 99
     },
     {
@@ -449,21 +449,21 @@
    "title": "JuzMezzy",
    "items": [
     {
-     "title": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
-     "desc": "",
-     "cat": "Juzmezzy",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/celebrity-deaths-2026-list",
-     "score": 34
-    },
-    {
      "title": "Reality TV personality Sidney Starr due in court Tuesday",
      "desc": "",
      "cat": "Juzmezzy",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
      "url": "https://www.fox5atlanta.com/news/reality-tv-personality-sidney-starr-due-court-tuesday",
+     "score": 0
+    },
+    {
+     "title": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
+     "desc": "",
+     "cat": "Juzmezzy",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/celebrity-deaths-2026-list",
      "score": 0
     }
    ]
