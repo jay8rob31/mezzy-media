@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T03:30:24",
+ "updated": "2026-08-26T03:35:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -74,15 +74,6 @@
      "score": 92
     },
     {
-     "title": "\u2018I can just picture her smile now\u2019: Community mourns 2 mothers killed in shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YFIOFGE3ZFFI3MP7FC4WTHG4FI.png?auth=c63eaf96179fabfebbc32da8357f327500cfa5f91545e0c39e8f56b909d95406&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/26/i-can-just-picture-her-smile-now-community-mourns-2-mothers-killed-shooting/",
-     "score": 89
-    },
-    {
      "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
      "desc": "",
      "cat": "Crime",
@@ -98,6 +89,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
+     "score": 83
+    },
+    {
+     "title": "\u2018I can just picture her smile now\u2019: Community mourns 2 mothers killed in shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YFIOFGE3ZFFI3MP7FC4WTHG4FI.png?auth=c63eaf96179fabfebbc32da8357f327500cfa5f91545e0c39e8f56b909d95406&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/26/i-can-just-picture-her-smile-now-community-mourns-2-mothers-killed-shooting/",
      "score": 83
     }
    ]
@@ -170,15 +170,6 @@
      "score": 92
     },
     {
-     "title": "\u2018I can just picture her smile now\u2019: Community mourns 2 mothers killed in shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YFIOFGE3ZFFI3MP7FC4WTHG4FI.png?auth=c63eaf96179fabfebbc32da8357f327500cfa5f91545e0c39e8f56b909d95406&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/26/i-can-just-picture-her-smile-now-community-mourns-2-mothers-killed-shooting/",
-     "score": 89
-    },
-    {
      "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
      "desc": "",
      "cat": "Crime",
@@ -194,6 +185,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
+     "score": 83
+    },
+    {
+     "title": "\u2018I can just picture her smile now\u2019: Community mourns 2 mothers killed in shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YFIOFGE3ZFFI3MP7FC4WTHG4FI.png?auth=c63eaf96179fabfebbc32da8357f327500cfa5f91545e0c39e8f56b909d95406&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/26/i-can-just-picture-her-smile-now-community-mourns-2-mothers-killed-shooting/",
      "score": 83
     },
     {
@@ -220,6 +220,15 @@
    "id": "sports",
    "title": "Sports",
    "items": [
+    {
+     "title": "TOUR Championship 2026: What to know about playoff finale at East Lake Golf Club",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FTNWD7N5HE5CU3FVPTSUQO5LMKM.jpg?auth=ced2b4ed5f3005738de132594e69ee73c8324f490af45824a0ffe86ce87c960a&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/tour-championship-2026-what-know-about-playoff-finale-east-lake-golf-club/JMGYQHZM3NBWVKSCT5D7TJAWUQ/",
+     "score": 56
+    },
     {
      "title": "Big Ten bars NFL players from returning to play amid NCAA eligibility chaos",
      "desc": "",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/25/eminem-reveals-heartfelt-note-dolly-parton-wrote-him-rock-roll-hall-fame-induction/",
      "score": 32
-    },
-    {
-     "title": "Braves\u2019 NL East lead is shrinking. Here come the red-hot Dodgers",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/24/braves-nl-east-lead-is-shrinking-here-come-red-hot-dodgers/",
-     "score": 30
     }
    ]
   },
