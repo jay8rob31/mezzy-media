@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T11:30:25",
+ "updated": "2026-08-26T11:35:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -239,15 +239,6 @@
      "score": 54
     },
     {
-     "title": "\u2018Out of nowhere, it hit me\u2019: Triathlon coach repels alligator attack in Savannah River",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGDI5UTIDCVHFXK5VPGHE6EL67M.jpg?auth=ab32e3d2b32acb4a68652c7175d7ada88de814dadac534adb5c47b7c94aff01d&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/trending/out-nowhere-it-hit-me-triathlon-coach-repels-alligator-attack-savannah-river/AEENALGUQRDHFCDOFX3PQTJIRY/",
-     "score": 54
-    },
-    {
      "title": "Braves win 4-3 to snap Dodgers\u2019 6-game winning streak",
      "desc": "",
      "cat": "Sports",
@@ -255,6 +246,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZ4CZTOLZRZBLTELH2XBLBIR2EI.jpg?auth=3e1d32ebf30e54bc59d037c529ec8cfd2aa07ece7515510627115310f7e0ebea&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/braves-win-4-3-snap-dodgers-6-game-winning-streak/LCWAJY5M7VF5NG3VKZSG6SXL2I/",
      "score": 52
+    },
+    {
+     "title": "\u2018Out of nowhere, it hit me\u2019: Triathlon coach repels alligator attack in Savannah River",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGDI5UTIDCVHFXK5VPGHE6EL67M.jpg?auth=ab32e3d2b32acb4a68652c7175d7ada88de814dadac534adb5c47b7c94aff01d&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/trending/out-nowhere-it-hit-me-triathlon-coach-repels-alligator-attack-savannah-river/AEENALGUQRDHFCDOFX3PQTJIRY/",
+     "score": 48
     },
     {
      "title": "Atlanta Braves 7-game home series includes bobbleheads, free jerseys, unique food",
