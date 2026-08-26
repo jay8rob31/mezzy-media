@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T23:50:25",
+ "updated": "2026-08-25T23:55:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -74,15 +74,6 @@
      "score": 92
     },
     {
-     "title": "WATCH: Police handcuff suspect in deadly Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/watch-police-handcuff-suspect-in-deadly-beltline-stabbing/85-baa553df-0217-45dd-81ca-226624f3835e",
-     "score": 89
-    },
-    {
      "title": "\u2018I can just picture her smile now\u2019: Community mourns 2 mothers killed in shooting",
      "desc": "",
      "cat": "Crime",
@@ -99,6 +90,15 @@
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/crime/trials/gwinnett-county-cold-case-stabbing-murder-case/85-db5e0493-bedc-4b98-9d20-b574eee10a56",
      "score": 88
+    },
+    {
+     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
+     "score": 83
     }
    ]
   },
@@ -170,15 +170,6 @@
      "score": 92
     },
     {
-     "title": "WATCH: Police handcuff suspect in deadly Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/watch-police-handcuff-suspect-in-deadly-beltline-stabbing/85-baa553df-0217-45dd-81ca-226624f3835e",
-     "score": 89
-    },
-    {
      "title": "\u2018I can just picture her smile now\u2019: Community mourns 2 mothers killed in shooting",
      "desc": "",
      "cat": "Crime",
@@ -203,6 +194,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
+     "score": 83
+    },
+    {
+     "title": "Atlanta Beltline deadly stabbing: Police release body camera footage of suspect arrest",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
      "score": 83
     },
     {
@@ -261,7 +261,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FII5RIQSWYVHAVMGSADMUPMUOIU.jpg?auth=ecbe6d89c1501c062fee34097d25fe2d9041d242c056775599c6761d0a809b73&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/trending/disney-nfl-partner-apparel-collaboration/R4U6R2JZTVEVXHUON2FGKQEAMQ/",
      "score": 46
     },
@@ -344,15 +344,6 @@
      "score": 43
     },
     {
-     "title": "From TV shows, concerts, and movies, Dolly Parton was no stranger to metro Atlanta",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/atlanta/tv-shows-concerts-movies-dolly-parton-was-no-stranger-metro-atlanta/WHGY6DQ2CFG2LHQEH2UBPLZGHU/",
-     "score": 40
-    },
-    {
      "title": "What happened to Dolly Parton? Iconic music and film star dies at 80",
      "desc": "",
      "cat": "Culture",
@@ -377,6 +368,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-philanthropy-imagination-library-childrens-hospital/507-11fb7cd8-02ae-4d94-8541-83c15556deb4",
+     "score": 34
+    },
+    {
+     "title": "From TV shows, concerts, and movies, Dolly Parton was no stranger to metro Atlanta",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/atlanta/tv-shows-concerts-movies-dolly-parton-was-no-stranger-metro-atlanta/WHGY6DQ2CFG2LHQEH2UBPLZGHU/",
      "score": 34
     },
     {
