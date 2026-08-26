@@ -167,7 +167,8 @@ function renderFeed(data){
   const byId={};(data.rails||[]).forEach(r=>{if(r&&r.id)byId[r.id]=r;});
   let html='';
   const latest=[];
-  RAIL_SPEC.forEach(spec=>{const src=byId[spec.id];if(src&&src.items&&src.items.length){const top=dedup(src.items)[0];if(top)latest.push({...top,_lane:spec.id});}});
+  const heroTitle=data.hero&&data.hero.title;
+  RAIL_SPEC.forEach(spec=>{const src=byId[spec.id];if(src&&src.items&&src.items.length){const ranked=dedup(src.items);const top=(heroTitle?ranked.find(it=>it.title!==heroTitle):null)||ranked[0];if(top)latest.push({...top,_lane:spec.id});}});
   if(latest.length)html+=renderRail('latest','Latest in Atlanta',latest,true);
   html+=RAIL_SPEC.map(spec=>{const src=byId[spec.id];if(src&&src.items&&src.items.length){return renderRail(spec.id,spec.title,dedup(src.items),false);}return `<section class="rail-section" id="${spec.id}"><div class="rail-head"><h2>${spec.title}</h2></div><div style="padding:6px clamp(18px,4vw,54px) 14px;color:#7d7d7d;font-size:13px">Quiet on this lane right now — the newsroom posts the moment it moves.</div></section>`;}).join('');
   document.getElementById('rails').innerHTML=html;wireTiles();
