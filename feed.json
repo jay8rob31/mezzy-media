@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T11:15:25",
+ "updated": "2026-08-26T11:20:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -92,13 +92,13 @@
      "score": 86
     },
     {
-     "title": "Atlanta Beltline deadly stabbing: Police release body camera footage of suspect arrest",
+     "title": "Shooting reported at DeKalb County home",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
-     "score": 83
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FISD3ESQ36ZBGLHHKQ5O2K2UPOE.jpeg?auth=5763b2fa5402fa907b92e2b5450873634c2f5b012f791d504e55b0316090377c&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/shooting-reported-dekalb-county-home/SLCGEMDF3RC2VGM2QHWBFPQTII/",
+     "score": 86
     }
    ]
   },
@@ -188,6 +188,15 @@
      "score": 86
     },
     {
+     "title": "Shooting reported at DeKalb County home",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FISD3ESQ36ZBGLHHKQ5O2K2UPOE.jpeg?auth=5763b2fa5402fa907b92e2b5450873634c2f5b012f791d504e55b0316090377c&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/shooting-reported-dekalb-county-home/SLCGEMDF3RC2VGM2QHWBFPQTII/",
+     "score": 86
+    },
+    {
      "title": "Atlanta Beltline deadly stabbing: Police release body camera footage of suspect arrest",
      "desc": "",
      "cat": "Crime",
@@ -204,15 +213,6 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
      "score": 83
-    },
-    {
-     "title": "Missing sex trafficking victim recovered in East Point",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/1200/630/police-lights-generic.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/missing-sex-trafficking-victim-recovered-east-point",
-     "score": 81
     }
    ]
   },
