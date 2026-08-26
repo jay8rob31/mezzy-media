@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T10:30:26",
+ "updated": "2026-08-26T10:35:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -335,6 +335,15 @@
    "title": "ATL Culture",
    "items": [
     {
+     "title": "Will Miley Cyrus get Dolly Parton's music catalog? What we know about the star's estate",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-estate/507-23ae0962-b24b-4ad3-9afa-9312e7c75369",
+     "score": 46
+    },
+    {
      "title": "Dolly Parton: Singer\u2019s wit, humor was as sharp as her music",
      "desc": "",
      "cat": "Culture",
@@ -395,15 +404,6 @@
      "source": "11Alive",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
-     "score": 0
-    },
-    {
-     "title": "Hip-hop musical 'Hamilton' returning to Fox Theatre for electrifying shows",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/local/hip-hop-musical-hamilton-returning-to-fox-theatre-for-electrifying-shows/85-e05b0962-d26d-492f-87ad-30cffbbccb4a",
      "score": 0
     },
     {
