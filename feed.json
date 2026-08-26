@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T12:40:25",
+ "updated": "2026-08-26T12:45:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -449,21 +449,21 @@
    "title": "JuzMezzy",
    "items": [
     {
-     "title": "Reality TV personality Sidney Starr due in court Tuesday",
-     "desc": "",
-     "cat": "Juzmezzy",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/reality-tv-personality-sidney-starr-due-court-tuesday",
-     "score": 0
-    },
-    {
      "title": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
      "desc": "",
      "cat": "Juzmezzy",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
      "url": "https://www.fox5atlanta.com/news/celebrity-deaths-2026-list",
+     "score": 0
+    },
+    {
+     "title": "Reality TV personality Sidney Starr due in court Tuesday",
+     "desc": "",
+     "cat": "Juzmezzy",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/reality-tv-personality-sidney-starr-due-court-tuesday",
      "score": 0
     }
    ]
