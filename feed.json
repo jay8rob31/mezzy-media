@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T13:45:25",
+ "updated": "2026-08-26T13:50:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -266,15 +266,6 @@
      "score": 46
     },
     {
-     "title": "LIVE FEED: Athens Indoor Football League team unveiling name, logo",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUQ36H7GNMJFQLEZQLE7UTTZGIE.jpeg?auth=c7d05a4606cf385142622928a63da521e9bf554918bac62f3dfb1265d25b6d2e&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/athens-indoor-football-league-team-unveiling-name-logo/DVJ2D6PJUNB7HLV27E62SYHPKY/",
-     "score": 46
-    },
-    {
      "title": "Atlanta United signs former World Cup star in 4-year contract",
      "desc": "",
      "cat": "Sports",
@@ -299,6 +290,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/disney-nfl-apparel-collaboration/507-548b2320-0027-4d6b-9de0-460dcccda472",
+     "score": 40
+    },
+    {
+     "title": "LIVE FEED: Athens Indoor Football League team unveiling name, logo",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/athens-indoor-football-league-team-unveiling-name-logo/DVJ2D6PJUNB7HLV27E62SYHPKY/",
      "score": 40
     },
     {
