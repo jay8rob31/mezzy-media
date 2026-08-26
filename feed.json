@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T09:05:25",
+ "updated": "2026-08-26T09:10:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -29,15 +29,6 @@
      "score": 99
     },
     {
-     "title": "Americans among hundreds missing after avalanche triggers deadly flash floods in Nepal",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/americans-missing-avalanche-deadly-flash-floods-nepal/507-862bade7-e031-442e-a877-193f4ab9676c",
-     "score": 99
-    },
-    {
      "title": "Reward offered for information in deadly Atlanta shooting",
      "desc": "",
      "cat": "Crime",
@@ -62,6 +53,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/crime/man-convicted-deadly-2025-shooting-cherokee-county-sentenced/85-f2fd808a-fcd8-4fca-8116-60ac9b76b0b7",
+     "score": 93
+    },
+    {
+     "title": "Americans among hundreds missing after avalanche triggers deadly flash floods in Nepal",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/americans-missing-avalanche-deadly-flash-floods-nepal/507-862bade7-e031-442e-a877-193f4ab9676c",
      "score": 93
     },
     {
@@ -125,15 +125,6 @@
      "score": 99
     },
     {
-     "title": "Americans among hundreds missing after avalanche triggers deadly flash floods in Nepal",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/americans-missing-avalanche-deadly-flash-floods-nepal/507-862bade7-e031-442e-a877-193f4ab9676c",
-     "score": 99
-    },
-    {
      "title": "Reward offered for information in deadly Atlanta shooting",
      "desc": "",
      "cat": "Crime",
@@ -158,6 +149,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
      "url": "https://www.11alive.com/article/news/crime/man-convicted-deadly-2025-shooting-cherokee-county-sentenced/85-f2fd808a-fcd8-4fca-8116-60ac9b76b0b7",
+     "score": 93
+    },
+    {
+     "title": "Americans among hundreds missing after avalanche triggers deadly flash floods in Nepal",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/americans-missing-avalanche-deadly-flash-floods-nepal/507-862bade7-e031-442e-a877-193f4ab9676c",
      "score": 93
     },
     {
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Recall alert: Canned dog food recalled for metal contamination",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNV46Q3XDIVAQ5FIGNXXOVWUI5I.jpg?auth=fcec84222709ff11d3d916745e44629e4eb4616312da7c0fba32d8f64a5bad07&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/trending/recall-alert-canned-dog-food-recalled-metal-contamination/7JKU2C6ALZB5DOM6HY5XFEY47Y/",
-     "score": 46
-    },
-    {
      "title": "Dolly Parton: Here are 5 memorable movie performances",
      "desc": "",
      "cat": "Culture",
@@ -377,6 +368,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/trending/dolly-parton-singers-wit-humor-was-sharp-her-music/DJ7CKLVWWJEZVNIZZG27UT2W4Q/",
+     "score": 40
+    },
+    {
+     "title": "Recall alert: Canned dog food recalled for metal contamination",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/recall-alert-canned-dog-food-recalled-metal-contamination/7JKU2C6ALZB5DOM6HY5XFEY47Y/",
      "score": 40
     },
     {
