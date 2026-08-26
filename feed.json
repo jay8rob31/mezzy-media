@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T01:20:25",
+ "updated": "2026-08-26T01:25:26",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -92,12 +92,12 @@
      "score": 88
     },
     {
-     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
+     "title": "Atlanta Beltline deadly stabbing: Police release body camera footage of suspect arrest",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
      "score": 83
     }
    ]
@@ -188,21 +188,21 @@
      "score": 88
     },
     {
-     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
-     "score": 83
-    },
-    {
      "title": "Atlanta Beltline deadly stabbing: Police release body camera footage of suspect arrest",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOYDP3LI2ENG5VERMPIHLIIB7QU.png?auth=6b0e2b4cfff8416c187f8ac0f6a92552d486d15b7afa0abb588b22cf0dbae64d&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta-beltline-deadly-stabbing-police-release-body-camera-footage-suspect-arrest/5TJ6MU6SKZBMBJHWG5MRFL3SC4/",
+     "score": 83
+    },
+    {
+     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
      "score": 83
     },
     {
@@ -257,15 +257,6 @@
      "score": 46
     },
     {
-     "title": "Alarming results from a new CTE study on former NFL players",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/alarming-results-new-cte-study-former-nfl-players/V7YWADPK7VDTXMLUGAEXRLEEOU/",
-     "score": 46
-    },
-    {
      "title": "Atlanta United signs former World Cup star in 4-year contract",
      "desc": "",
      "cat": "Sports",
@@ -282,6 +273,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/26/albies-drives-winning-run-8th-braves-win-4-3-snap-dodgers-6-game-winning-streak/",
      "score": 42
+    },
+    {
+     "title": "Alarming results from a new CTE study on former NFL players",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/alarming-results-new-cte-study-former-nfl-players/V7YWADPK7VDTXMLUGAEXRLEEOU/",
+     "score": 40
     },
     {
      "title": "Eminem reveals heartfelt note Dolly Parton wrote him for Rock & Roll Hall of Fame induction",
