@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T21:35:25",
+ "updated": "2026-08-25T21:40:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -284,15 +284,6 @@
      "score": 42
     },
     {
-     "title": "Braves-Dodgers: Everything you need to know about Tuesday\u2019s game between Atlanta, Los Angeles",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/braves-dodgers-everything-you-need-know-about-tuesdays-game-between-atlanta-los-angeles/",
-     "score": 42
-    },
-    {
      "title": "Braves\u2019 injured pitchers face shrinking window with postseason nearing",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.11alive.com/article/news/regional/remembering-dolly-parton-performing-rocky-top-georgia-tennessee-game-2023/85-f5ed2d5b-4062-4c03-90ae-9c3d635540ce",
      "score": 34
+    },
+    {
+     "title": "Braves\u2019 NL East lead is shrinking. Here come the red-hot Dodgers",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/24/braves-nl-east-lead-is-shrinking-here-come-red-hot-dodgers/",
+     "score": 30
     }
    ]
   },
