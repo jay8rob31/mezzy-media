@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T22:20:25",
+ "updated": "2026-08-25T22:25:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -302,15 +302,6 @@
      "score": 36
     },
     {
-     "title": "Shelley Fabares, 'Johnny Angel' singer and actor in \u2018The Donna Reed Show\u2019 and \u2018Coach,\u2019 dies at 82",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/shelley-fabares-singer-and-actor-donna-reed-show-dies/507-d0b92ed6-49fa-44e5-bc7a-092d1dde858a",
-     "score": 36
-    },
-    {
      "title": "Remembering Dolly Parton: Revisiting when she sang 'Rocky Top' as UGA played Tennessee in Knoxville",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/24/braves-nl-east-lead-is-shrinking-here-come-red-hot-dodgers/",
+     "score": 30
+    },
+    {
+     "title": "SEC prohibits players with pro football, basketball contracts from returning to college teams",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/26/sec-prohibits-players-with-pro-football-basketball-contracts-returning-college-teams/",
      "score": 30
     }
    ]
