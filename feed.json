@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T04:50:24",
+ "updated": "2026-08-26T04:55:25",
  "hero": {
   "title": "Man charged with murder in mass shooting that killed 1, injured 10",
   "desc": "",
@@ -239,15 +239,6 @@
      "score": 56
     },
     {
-     "title": "Big Ten bars NFL players from returning to play amid NCAA eligibility chaos",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/sports.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/big-ten-ruling-college-football-eligibility/507-60946d53-faa3-416e-ac78-ee316e568e94",
-     "score": 48
-    },
-    {
      "title": "Atlanta Braves 7-game home series includes bobbleheads, free jerseys, unique food",
      "desc": "",
      "cat": "Sports",
@@ -264,6 +255,15 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
      "score": 46
+    },
+    {
+     "title": "Big Ten bars NFL players from returning to play amid NCAA eligibility chaos",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/big-ten-ruling-college-football-eligibility/507-60946d53-faa3-416e-ac78-ee316e568e94",
+     "score": 42
     },
     {
      "title": "Disney, NFL team up for apparel collaboration",
