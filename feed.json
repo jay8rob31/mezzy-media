@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T14:40:25",
+ "updated": "2026-08-28T14:45:25",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Kehlani cancels concerts, tells fans she\u2019s \u2018in so much pain\u2019",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNGQ6IHDAAVFFRO6NTWANTZLRYU.jpg?auth=f902d8ad455794f49fd34e81d1031b6572437d16ee8ce06a083f131c27af1f87&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/trending/kehlani-cancels-concerts-tells-fans-shes-so-much-pain/U6V53FTZTVCE3CXPWXD67HE6YM/",
-     "score": 46
-    },
-    {
      "title": "Popular international fashion retailer to open first store in Georgia",
      "desc": "",
      "cat": "Culture",
@@ -351,6 +342,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FRU6O7DSEKJG47GPCIC5ORNMBXE.jpg?auth=e5ace8a7ec6b5b7a1c1f9982245d1e7cbc4c006979515be67d6144f288a875ec&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/popular-international-fashion-retailer-open-first-store-georgia/55YEN7KQ7ZE5BHGYJ3MVD4VWWM/",
      "score": 46
+    },
+    {
+     "title": "Kehlani cancels concerts, tells fans she\u2019s \u2018in so much pain\u2019",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/kehlani-cancels-concerts-tells-fans-shes-so-much-pain/U6V53FTZTVCE3CXPWXD67HE6YM/",
+     "score": 40
     },
     {
      "title": "Gladys Knight cutting back on concerts after concerns on tour",
