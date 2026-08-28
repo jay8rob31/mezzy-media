@@ -1,24 +1,15 @@
 {
- "updated": "2026-08-28T19:15:26",
+ "updated": "2026-08-28T19:20:26",
  "hero": {
-  "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
+  "title": "Trial opens in deadly Villa Rica home invasion shooting",
   "desc": "",
-  "url": "https://www.11alive.com/article/news/nation-world/loved-ones-remember-5-killed-forest-grove-homicides-mass-shooting/283-f81ffc7c-72c4-4852-a7a2-8887b10fd2c3"
+  "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting"
  },
  "rails": [
   {
    "id": "trending",
    "title": "Top 10 in Atlanta",
    "items": [
-    {
-     "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/loved-ones-remember-5-killed-forest-grove-homicides-mass-shooting/283-f81ffc7c-72c4-4852-a7a2-8887b10fd2c3",
-     "score": 111
-    },
     {
      "title": "Trial opens in deadly Villa Rica home invasion shooting",
      "desc": "",
@@ -27,6 +18,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/17a8a0eb-video.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting",
      "score": 111
+    },
+    {
+     "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_3.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/loved-ones-remember-5-killed-forest-grove-homicides-mass-shooting/283-f81ffc7c-72c4-4852-a7a2-8887b10fd2c3",
+     "score": 105
     },
     {
      "title": "Multiple explosions heard in massive Paulding County house fire that leaves 1 man dead",
@@ -107,15 +107,6 @@
    "title": "Crime Watch",
    "items": [
     {
-     "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/loved-ones-remember-5-killed-forest-grove-homicides-mass-shooting/283-f81ffc7c-72c4-4852-a7a2-8887b10fd2c3",
-     "score": 111
-    },
-    {
      "title": "Trial opens in deadly Villa Rica home invasion shooting",
      "desc": "",
      "cat": "Crime",
@@ -123,6 +114,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/17a8a0eb-video.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting",
      "score": 111
+    },
+    {
+     "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_3.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/loved-ones-remember-5-killed-forest-grove-homicides-mass-shooting/283-f81ffc7c-72c4-4852-a7a2-8887b10fd2c3",
+     "score": 105
     },
     {
      "title": "Multiple explosions heard in massive Paulding County house fire that leaves 1 man dead",
@@ -261,7 +261,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXBHTU4DGDJA6BNLWKUG6GFGRXY.png?auth=f31b89f76103d5d316d4cbb6e6c3367d90daab77ed2fe061ec04afb9239ede7a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/rockdale-county/high-school-football-game-canceled-after-teams-get-into-fight/6PGVA5UB6RHA5FXLSDXN5B2YHM/",
      "score": 46
     },
