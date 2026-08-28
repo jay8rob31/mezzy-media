@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T15:05:25",
+ "updated": "2026-08-28T15:10:25",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -56,15 +56,6 @@
      "score": 92
     },
     {
-     "title": "8th grader shot, killed while making TikTok videos, authorities say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/SACI6LAN35D2BIFVWDGH5H6PQQ.png?auth=7a04bd426bdfc1548ebcaa2b9cf8479a454b314719519c3dda767c00a1a0f3d2&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/8th-grader-shot-killed-while-making-tiktok-videos-authorities-say/",
-     "score": 89
-    },
-    {
      "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
      "desc": "",
      "cat": "Crime",
@@ -81,6 +72,15 @@
      "img": "art/crime_3.jpg",
      "url": "https://www.11alive.com/article/news/crime/dj-music-producer-shot-killed-in-atlantas-castleberry-hill-neighborhood/85-a1e379a4-9bc5-4cdd-a1ba-a4f281b1a314",
      "score": 87
+    },
+    {
+     "title": "8th grader shot, killed while making TikTok videos, authorities say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/SACI6LAN35D2BIFVWDGH5H6PQQ.png?auth=7a04bd426bdfc1548ebcaa2b9cf8479a454b314719519c3dda767c00a1a0f3d2&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/8th-grader-shot-killed-while-making-tiktok-videos-authorities-say/",
+     "score": 83
     },
     {
      "title": "Hundreds dead, more than 1,300 missing in Nepal and Tibet after catastrophic floods caused by glacier collapse",
@@ -152,15 +152,6 @@
      "score": 92
     },
     {
-     "title": "8th grader shot, killed while making TikTok videos, authorities say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/SACI6LAN35D2BIFVWDGH5H6PQQ.png?auth=7a04bd426bdfc1548ebcaa2b9cf8479a454b314719519c3dda767c00a1a0f3d2&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/8th-grader-shot-killed-while-making-tiktok-videos-authorities-say/",
-     "score": 89
-    },
-    {
      "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
      "desc": "",
      "cat": "Crime",
@@ -177,6 +168,15 @@
      "img": "art/crime_3.jpg",
      "url": "https://www.11alive.com/article/news/crime/dj-music-producer-shot-killed-in-atlantas-castleberry-hill-neighborhood/85-a1e379a4-9bc5-4cdd-a1ba-a4f281b1a314",
      "score": 87
+    },
+    {
+     "title": "8th grader shot, killed while making TikTok videos, authorities say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/SACI6LAN35D2BIFVWDGH5H6PQQ.png?auth=7a04bd426bdfc1548ebcaa2b9cf8479a454b314719519c3dda767c00a1a0f3d2&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/8th-grader-shot-killed-while-making-tiktok-videos-authorities-say/",
+     "score": 83
     },
     {
      "title": "Hundreds dead, more than 1,300 missing in Nepal and Tibet after catastrophic floods caused by glacier collapse",
@@ -335,21 +335,21 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Popular international fashion retailer to open first store in Georgia",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FRU6O7DSEKJG47GPCIC5ORNMBXE.jpg?auth=e5ace8a7ec6b5b7a1c1f9982245d1e7cbc4c006979515be67d6144f288a875ec&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/popular-international-fashion-retailer-open-first-store-georgia/55YEN7KQ7ZE5BHGYJ3MVD4VWWM/",
-     "score": 46
-    },
-    {
      "title": "Kehlani cancels concerts, tells fans she\u2019s \u2018in so much pain\u2019",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/trending/kehlani-cancels-concerts-tells-fans-shes-so-much-pain/U6V53FTZTVCE3CXPWXD67HE6YM/",
+     "score": 40
+    },
+    {
+     "title": "Popular international fashion retailer to open first store in Georgia",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/popular-international-fashion-retailer-open-first-store-georgia/55YEN7KQ7ZE5BHGYJ3MVD4VWWM/",
      "score": 40
     },
     {
