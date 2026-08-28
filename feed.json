@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T19:30:25",
+ "updated": "2026-08-28T19:35:25",
  "hero": {
   "title": "Trial opens in deadly Villa Rica home invasion shooting",
   "desc": "",
@@ -270,7 +270,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5QZJXRNN3FHQVFUBUS7FJQ637Q.jpg?auth=4ab3108ec9d922797c7353344ab4340d8ec0ab5d69f9d262fed6fb3aa252f5c7&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/braves-beat-dodgers-6-5-walk-off-single-by-pinch-hitter-ha-seong-kim/S4GU3SZ3LVF7FK76G424RO37L4/",
      "score": 46
     },
@@ -339,9 +339,9 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSZTLITZOMBH5ZFAB2CN5YCVXNQ.jpeg?auth=bfc0d4145112c361fb161d90b61657c6747fe46967f67befc89038e374525c2d&amp;width=1200&amp;height=630&amp;smart=true",
+     "img": "",
      "url": "https://www.wsbtv.com/news/local/atf-k-9-teams-sweep-east-lake-golf-club-keep-pga-tournament-spectators-safe/NIBO7X54LJD5XO7STQ3JC72SCY/",
-     "score": 46
+     "score": 40
     },
     {
      "title": "South Atlanta High School opens food pantry for students and families",
@@ -425,21 +425,21 @@
      "score": 0
     },
     {
+     "title": "Gladys Knight cutting back on concerts after concerns on tour",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/gladys-knight-cutting-back-concerts-after-concerns-tour",
+     "score": 0
+    },
+    {
      "title": "Fall Fashion Deals with Statemint Marietta",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/28/fall-fashion-deals-with-statemint-marietta/",
-     "score": 0
-    },
-    {
-     "title": "Teaching Kids Positive Life Lessons Through Music",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/teaching-kids-positive-life-lessons-through-music/",
      "score": 0
     }
    ]
