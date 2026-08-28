@@ -1,24 +1,15 @@
 {
- "updated": "2026-08-28T16:35:26",
+ "updated": "2026-08-28T16:40:25",
  "hero": {
-  "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
+  "title": "Multiple explosions heard in massive Paulding County house fire that leaves 1 man dead",
   "desc": "",
-  "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d"
+  "url": "https://www.11alive.com/article/news/local/multiple-explosions-heard-massive-paulding-county-house-fire-leaves-1-man-dead/85-2bbdfb59-c3ef-412a-91d1-049a51605c4d"
  },
  "rails": [
   {
    "id": "trending",
    "title": "Top 10 in Atlanta",
    "items": [
-    {
-     "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_6.jpg",
-     "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
-     "score": 104
-    },
     {
      "title": "Multiple explosions heard in massive Paulding County house fire that leaves 1 man dead",
      "desc": "",
@@ -27,6 +18,15 @@
      "img": "art/crime_16.jpg",
      "url": "https://www.11alive.com/article/news/local/multiple-explosions-heard-massive-paulding-county-house-fire-leaves-1-man-dead/85-2bbdfb59-c3ef-412a-91d1-049a51605c4d",
      "score": 101
+    },
+    {
+     "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_6.jpg",
+     "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
+     "score": 98
     },
     {
      "title": "3 facing charges in Mitchell County shooting that killed McDonough man",
@@ -107,15 +107,6 @@
    "title": "Crime Watch",
    "items": [
     {
-     "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_6.jpg",
-     "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
-     "score": 104
-    },
-    {
      "title": "Multiple explosions heard in massive Paulding County house fire that leaves 1 man dead",
      "desc": "",
      "cat": "Crime",
@@ -123,6 +114,15 @@
      "img": "art/crime_16.jpg",
      "url": "https://www.11alive.com/article/news/local/multiple-explosions-heard-massive-paulding-county-house-fire-leaves-1-man-dead/85-2bbdfb59-c3ef-412a-91d1-049a51605c4d",
      "score": 101
+    },
+    {
+     "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_6.jpg",
+     "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
+     "score": 98
     },
     {
      "title": "3 facing charges in Mitchell County shooting that killed McDonough man",
