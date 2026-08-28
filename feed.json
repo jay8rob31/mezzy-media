@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T14:00:25",
+ "updated": "2026-08-28T14:05:25",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -15,7 +15,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_6.jpg",
      "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
      "score": 104
     },
@@ -24,7 +24,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_16.jpg",
      "url": "https://www.11alive.com/article/news/local/multiple-explosions-heard-massive-paulding-county-house-fire-leaves-1-man-dead/85-2bbdfb59-c3ef-412a-91d1-049a51605c4d",
      "score": 101
     },
@@ -33,7 +33,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_19.jpg",
      "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
      "score": 93
     },
@@ -42,7 +42,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 93
     },
@@ -69,7 +69,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_15.jpg",
      "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
      "score": 88
     },
@@ -78,7 +78,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_3.jpg",
      "url": "https://www.11alive.com/article/news/crime/dj-music-producer-shot-killed-in-atlantas-castleberry-hill-neighborhood/85-a1e379a4-9bc5-4cdd-a1ba-a4f281b1a314",
      "score": 87
     },
@@ -87,7 +87,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_10.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
      "score": 81
     },
@@ -96,7 +96,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/dozens-american-tourists-missing-deadly-flooding-nepal/507-43c450c3-d8f8-4caf-902f-637a407c4633",
      "score": 81
     }
@@ -111,7 +111,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_6.jpg",
      "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
      "score": 104
     },
@@ -120,7 +120,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_16.jpg",
      "url": "https://www.11alive.com/article/news/local/multiple-explosions-heard-massive-paulding-county-house-fire-leaves-1-man-dead/85-2bbdfb59-c3ef-412a-91d1-049a51605c4d",
      "score": 101
     },
@@ -129,7 +129,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_19.jpg",
      "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
      "score": 93
     },
@@ -138,7 +138,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 93
     },
@@ -165,7 +165,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_15.jpg",
      "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
      "score": 88
     },
@@ -174,7 +174,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_3.jpg",
      "url": "https://www.11alive.com/article/news/crime/dj-music-producer-shot-killed-in-atlantas-castleberry-hill-neighborhood/85-a1e379a4-9bc5-4cdd-a1ba-a4f281b1a314",
      "score": 87
     },
@@ -183,7 +183,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_10.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
      "score": 81
     },
@@ -192,7 +192,7 @@
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
+     "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/dozens-american-tourists-missing-deadly-flooding-nepal/507-43c450c3-d8f8-4caf-902f-637a407c4633",
      "score": 81
     },
@@ -380,15 +380,6 @@
      "score": 30
     },
     {
-     "title": "Last Bahama Breeze restaurant in Georgia closing: \u2018Really going to miss it\u2019",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/last-bahama-breeze-restaurant-georgia-closing-really-going-miss-it/ZTGNK2XA4ZGTFKFNGU36YX4YTQ/",
-     "score": 0
-    },
-    {
      "title": "Film editor remembers Dolly Parton's energy on 2022 Christmas movie set",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/27/tony-winning-musical-parade-set-open-mariettas-historic-strand-theatre/",
+     "score": 0
+    },
+    {
+     "title": "\u2018Peace lives here along with a common love\u2019: New mural conveys message of unity and hope",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/dekalb-county/peace-lives-here-along-with-common-love-new-mural-conveys-message-unity-hope/TUPICY6HB5GWTIXP6ZQJ2C44WE/",
      "score": 0
     }
    ]
