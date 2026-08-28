@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T18:55:25",
+ "updated": "2026-08-28T19:00:25",
  "hero": {
   "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
   "desc": "",
@@ -83,15 +83,6 @@
      "score": 86
     },
     {
-     "title": "Monroe Police search for 'armed and dangerous' shooting suspect",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/crime/monroe-police-search-armed-and-dangerous-shooting-suspect/85-050a7708-10e3-4492-a7e5-a2244bb36575",
-     "score": 86
-    },
-    {
      "title": "8th grader shot, killed while making TikTok videos, authorities say",
      "desc": "",
      "cat": "Crime",
@@ -99,6 +90,15 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/SACI6LAN35D2BIFVWDGH5H6PQQ.png?auth=7a04bd426bdfc1548ebcaa2b9cf8479a454b314719519c3dda767c00a1a0f3d2&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/28/8th-grader-shot-killed-while-making-tiktok-videos-authorities-say/",
      "score": 83
+    },
+    {
+     "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_15.jpg",
+     "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
+     "score": 82
     }
    ]
   },
@@ -179,15 +179,6 @@
      "score": 86
     },
     {
-     "title": "Monroe Police search for 'armed and dangerous' shooting suspect",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/crime/monroe-police-search-armed-and-dangerous-shooting-suspect/85-050a7708-10e3-4492-a7e5-a2244bb36575",
-     "score": 86
-    },
-    {
      "title": "8th grader shot, killed while making TikTok videos, authorities say",
      "desc": "",
      "cat": "Crime",
@@ -212,6 +203,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/dozens-american-tourists-missing-deadly-flooding-nepal/507-43c450c3-d8f8-4caf-902f-637a407c4633",
+     "score": 81
+    },
+    {
+     "title": "Hundreds dead, more than 1,300 missing in Nepal and Tibet after catastrophic floods caused by glacier collapse",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_10.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
      "score": 81
     }
    ]
