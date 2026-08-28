@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T16:40:25",
+ "updated": "2026-08-28T16:45:25",
  "hero": {
   "title": "Multiple explosions heard in massive Paulding County house fire that leaves 1 man dead",
   "desc": "",
@@ -293,15 +293,6 @@
      "score": 30
     },
     {
-     "title": "Atlanta United reportedly closing in on $18 million deal for Swiss striker Breel Embolo",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/sports/soccer/atlanta-united-breel-embolo-18-million-deal-report/85-ae39d46b-1139-4c76-a7f5-3ae93c21941e",
-     "score": 0
-    },
-    {
      "title": "NFL scraps Pro Bowl game, but players will still be honored",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/tommy-john-dies-mlb-yankees-baseball-elbow-surgery-obit/507-52518f16-f911-4974-89e6-7c0d0528137f",
+     "score": 0
+    },
+    {
+     "title": "Here's where the Georgia Bulldogs ranked in AP top-25 preseason poll",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/sports/college/georgia-bulldogs/georgia-bulldogs-ap-top-25-preseason-poll/85-b572e970-ee2c-4c7b-bbd8-ef734350964f",
      "score": 0
     }
    ]
