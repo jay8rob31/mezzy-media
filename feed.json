@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T16:15:28",
+ "updated": "2026-08-28T16:20:25",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -83,21 +83,21 @@
      "score": 82
     },
     {
+     "title": "Georgia Tech unveils 100 changes fans will notice at Bobby Dodd Stadium",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FR6ZFRZWTNBC35IBPKGWAEWYIRU.jpeg?auth=04efea4f19d0d8cbe6ba7cb9cd7204e35a287673275fd6e66cb631229d6f5332&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/georgia-tech-unveils-100-changes-fans-will-notice-bobby-dodd-stadium/MWQW6GKO4RCSDOM6P2D7JBFFZA/",
+     "score": 82
+    },
+    {
      "title": "Hundreds dead, more than 1,300 missing in Nepal and Tibet after catastrophic floods caused by glacier collapse",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime_10.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
-     "score": 81
-    },
-    {
-     "title": "At least 65 American tourists missing after deadly flooding crashes into towns in the Himalayan mountains",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_9.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/dozens-american-tourists-missing-deadly-flooding-nepal/507-43c450c3-d8f8-4caf-902f-637a407c4633",
      "score": 81
     }
    ]
@@ -221,6 +221,15 @@
    "title": "Sports",
    "items": [
     {
+     "title": "Georgia Tech unveils 100 changes fans will notice at Bobby Dodd Stadium",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FR6ZFRZWTNBC35IBPKGWAEWYIRU.jpeg?auth=04efea4f19d0d8cbe6ba7cb9cd7204e35a287673275fd6e66cb631229d6f5332&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/georgia-tech-unveils-100-changes-fans-will-notice-bobby-dodd-stadium/MWQW6GKO4RCSDOM6P2D7JBFFZA/",
+     "score": 82
+    },
+    {
      "title": "Chris Sale caps 1st complete game since 2019, Braves shut out Dodgers for sweep",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/college-baseball-legend-skip-bertman-dies-lsu/507-ed62cd23-5358-44a9-9bde-688ddece5535",
-     "score": 0
-    },
-    {
-     "title": "Tommy John, four-time MLB All-Star and namesake of pivotal elbow surgery, has died",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/tommy-john-dies-mlb-yankees-baseball-elbow-surgery-obit/507-52518f16-f911-4974-89e6-7c0d0528137f",
      "score": 0
     }
    ]
