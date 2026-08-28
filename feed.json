@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T14:30:25",
+ "updated": "2026-08-28T14:35:25",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -275,15 +275,6 @@
      "score": 30
     },
     {
-     "title": "\u2018What\u2019s next?\u2019: Referee loses leg after high school football scrimmage injury",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/whats-next-referee-loses-leg-after-high-school-football-scrimmage-injury/",
-     "score": 30
-    },
-    {
      "title": "NFL officially eliminates Pro Bowl game; players to still be honored as Pro Bowlers",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/tommy-john-dies-mlb-yankees-baseball-elbow-surgery-obit/507-52518f16-f911-4974-89e6-7c0d0528137f",
+     "score": 0
+    },
+    {
+     "title": "Here's where the Georgia Bulldogs ranked in AP top-25 preseason poll",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/sports/college/georgia-bulldogs/georgia-bulldogs-ap-top-25-preseason-poll/85-b572e970-ee2c-4c7b-bbd8-ef734350964f",
      "score": 0
     }
    ]
