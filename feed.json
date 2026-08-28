@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-26T17:00:25",
+ "updated": "2026-08-28T13:45:26",
  "hero": {
-  "title": "Man charged with murder in mass shooting that killed 1, injured 10",
+  "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
-  "url": "https://www.wsbtv.com/news/local/atlanta/man-charged-with-murder-mass-shooting-that-killed-1-injured-10/63P5JLMBPVFUBPYKRGMTNB45PY/"
+  "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d"
  },
  "rails": [
   {
@@ -11,94 +11,94 @@
    "title": "Top 10 in Atlanta",
    "items": [
     {
-     "title": "Man charged with murder in mass shooting that killed 1, injured 10",
+     "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
+     "score": 104
+    },
+    {
+     "title": "Multiple explosions heard in massive Paulding County house fire that leaves 1 man dead",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/local/multiple-explosions-heard-massive-paulding-county-house-fire-leaves-1-man-dead/85-2bbdfb59-c3ef-412a-91d1-049a51605c4d",
+     "score": 101
+    },
+    {
+     "title": "3 facing charges in Mitchell County shooting that killed McDonough man",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
+     "score": 93
+    },
+    {
+     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
+     "score": 93
+    },
+    {
+     "title": "Murder suspect claims she was too afraid to reveal where missing woman\u2019s remains were",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSTMQOWWKG5EUNJ5IH3CAX346HA.jpg?auth=d1266724cc8af30044d91d45e282b2edac68174925f00f10463841c644d39447&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/man-charged-with-murder-mass-shooting-that-killed-1-injured-10/63P5JLMBPVFUBPYKRGMTNB45PY/",
-     "score": 123
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F66K56HBXVVGAHEOYGA5LS5BS5Q.jpg?auth=fe45f3ad7ac93e89fc2513c88df9fc68589e63450ebce21b0d4b6d103ac632b5&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/murder-suspect-claims-she-was-too-afraid-reveal-where-missing-womans-remains-were/EDLQWIEU6JDNZF2JF45APIFPJM/",
+     "score": 92
     },
     {
-     "title": "160 killed in China-Nepal flash floods; hundreds missing, including 47 Americans",
+     "title": "8th grader shot, killed while making TikTok videos, authorities say",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/gettyimages-2291598755-china-nepal-missing.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/160-killed-china-nepal-flash-floods-hundreds-missing-including-47-americans",
-     "score": 99
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/SACI6LAN35D2BIFVWDGH5H6PQQ.png?auth=7a04bd426bdfc1548ebcaa2b9cf8479a454b314719519c3dda767c00a1a0f3d2&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/8th-grader-shot-killed-while-making-tiktok-videos-authorities-say/",
+     "score": 89
     },
     {
-     "title": "Georgia teen told investigators she planned a school shooting. Instead, she killed her mother",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FO6TSGTQNLJCCZDKVGAIY5VABAQ.png?auth=2626bb895bfda6691aa1980a4d609b2ea312d9a6cdddffb5318b464da5922a9e&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/georgia/georgia-teen-told-investigators-she-planned-school-shooting-instead-she-killed-her-mother/DD4OBBKEKFDNNFA4NK5AWTFUEI/",
-     "score": 93
-    },
-    {
-     "title": "Man convicted in deadly 2025 shooting in Cherokee County learns his fate",
+     "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/man-convicted-deadly-2025-shooting-cherokee-county-sentenced/85-f2fd808a-fcd8-4fca-8116-60ac9b76b0b7",
-     "score": 93
-    },
-    {
-     "title": "Second arrest made in connection with deadly Sweet Auburn mass shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/williams-nasir-1.png?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/second-arrest-made-connection-deadly-sweet-auburn-mass-shooting",
-     "score": 93
-    },
-    {
-     "title": "Reward offered for information in deadly Atlanta shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/reward-offered-information-sought-atlanta-deadly-shooting/85-2bcdcc0e-8e57-438e-b2d9-fb4f6e8838e0",
-     "score": 93
-    },
-    {
-     "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/trials/gwinnett-county-cold-case-stabbing-murder-case/85-db5e0493-bedc-4b98-9d20-b574eee10a56",
+     "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
      "score": 88
     },
     {
-     "title": "Gruesome details in Newton County trial of woman accused in missing teen\u2019s murder",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-25-2026%2Ft_7aed38c2656045b0a7f883b8ea9029a4_name_5MISSING_BAUER_frame_0.jpeg?auth=f60ef689f4f65296b37bc4866f344dcef4d252e2382d87aab10da8cac34fd6d0&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/gruesome-details-newton-county-trial-woman-accused-missing-teens-murder/S2D6UBBEENFHVG46AU6WTKAVS4/",
-     "score": 86
-    },
-    {
-     "title": "WATCH: Police handcuff suspect in deadly Beltline stabbing",
+     "title": "DJ, music producer shot and killed in Atlanta's Castleberry Hill neighborhood",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/watch-police-handcuff-suspect-in-deadly-beltline-stabbing/85-baa553df-0217-45dd-81ca-226624f3835e",
-     "score": 83
+     "url": "https://www.11alive.com/article/news/crime/dj-music-producer-shot-killed-in-atlantas-castleberry-hill-neighborhood/85-a1e379a4-9bc5-4cdd-a1ba-a4f281b1a314",
+     "score": 87
     },
     {
-     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
+     "title": "Hundreds dead, more than 1,300 missing in Nepal and Tibet after catastrophic floods caused by glacier collapse",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
-     "score": 83
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
+     "score": 81
+    },
+    {
+     "title": "At least 65 American tourists missing after deadly flooding crashes into towns in the Himalayan mountains",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/dozens-american-tourists-missing-deadly-flooding-nepal/507-43c450c3-d8f8-4caf-902f-637a407c4633",
+     "score": 81
     }
    ]
   },
@@ -107,111 +107,111 @@
    "title": "Crime Watch",
    "items": [
     {
-     "title": "Man charged with murder in mass shooting that killed 1, injured 10",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSTMQOWWKG5EUNJ5IH3CAX346HA.jpg?auth=d1266724cc8af30044d91d45e282b2edac68174925f00f10463841c644d39447&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/man-charged-with-murder-mass-shooting-that-killed-1-injured-10/63P5JLMBPVFUBPYKRGMTNB45PY/",
-     "score": 123
-    },
-    {
-     "title": "160 killed in China-Nepal flash floods; hundreds missing, including 47 Americans",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/1200/630/gettyimages-2291598755-china-nepal-missing.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/160-killed-china-nepal-flash-floods-hundreds-missing-including-47-americans",
-     "score": 99
-    },
-    {
-     "title": "Georgia teen told investigators she planned a school shooting. Instead, she killed her mother",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FO6TSGTQNLJCCZDKVGAIY5VABAQ.png?auth=2626bb895bfda6691aa1980a4d609b2ea312d9a6cdddffb5318b464da5922a9e&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/georgia/georgia-teen-told-investigators-she-planned-school-shooting-instead-she-killed-her-mother/DD4OBBKEKFDNNFA4NK5AWTFUEI/",
-     "score": 93
-    },
-    {
-     "title": "Man convicted in deadly 2025 shooting in Cherokee County learns his fate",
+     "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/man-convicted-deadly-2025-shooting-cherokee-county-sentenced/85-f2fd808a-fcd8-4fca-8116-60ac9b76b0b7",
-     "score": 93
+     "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
+     "score": 104
     },
     {
-     "title": "Second arrest made in connection with deadly Sweet Auburn mass shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/williams-nasir-1.png?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/second-arrest-made-connection-deadly-sweet-auburn-mass-shooting",
-     "score": 93
-    },
-    {
-     "title": "Reward offered for information in deadly Atlanta shooting",
+     "title": "Multiple explosions heard in massive Paulding County house fire that leaves 1 man dead",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/reward-offered-information-sought-atlanta-deadly-shooting/85-2bcdcc0e-8e57-438e-b2d9-fb4f6e8838e0",
-     "score": 93
+     "url": "https://www.11alive.com/article/news/local/multiple-explosions-heard-massive-paulding-county-house-fire-leaves-1-man-dead/85-2bbdfb59-c3ef-412a-91d1-049a51605c4d",
+     "score": 101
     },
     {
-     "title": "'You didn't get away with this murder': Woman found guilty in 2019 Gwinnett stabbing cold case",
+     "title": "3 facing charges in Mitchell County shooting that killed McDonough man",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/crime/trials/gwinnett-county-cold-case-stabbing-murder-case/85-db5e0493-bedc-4b98-9d20-b574eee10a56",
-     "score": 88
+     "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
+     "score": 93
     },
     {
-     "title": "Gruesome details in Newton County trial of woman accused in missing teen\u2019s murder",
+     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
+     "score": 93
+    },
+    {
+     "title": "Murder suspect claims she was too afraid to reveal where missing woman\u2019s remains were",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-25-2026%2Ft_7aed38c2656045b0a7f883b8ea9029a4_name_5MISSING_BAUER_frame_0.jpeg?auth=f60ef689f4f65296b37bc4866f344dcef4d252e2382d87aab10da8cac34fd6d0&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/gruesome-details-newton-county-trial-woman-accused-missing-teens-murder/S2D6UBBEENFHVG46AU6WTKAVS4/",
-     "score": 86
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F66K56HBXVVGAHEOYGA5LS5BS5Q.jpg?auth=fe45f3ad7ac93e89fc2513c88df9fc68589e63450ebce21b0d4b6d103ac632b5&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/murder-suspect-claims-she-was-too-afraid-reveal-where-missing-womans-remains-were/EDLQWIEU6JDNZF2JF45APIFPJM/",
+     "score": 92
     },
     {
-     "title": "WATCH: Police handcuff suspect in deadly Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime.jpg",
-     "url": "https://www.11alive.com/article/news/local/watch-police-handcuff-suspect-in-deadly-beltline-stabbing/85-baa553df-0217-45dd-81ca-226624f3835e",
-     "score": 83
-    },
-    {
-     "title": "Witnesses describe chaotic scene during deadly Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/5f19285e-video-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/witnesses-describe-chaotic-scene-during-deadly-beltline-stabbing",
-     "score": 83
-    },
-    {
-     "title": "Shooting reported at DeKalb County home",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FISD3ESQ36ZBGLHHKQ5O2K2UPOE.jpeg?auth=5763b2fa5402fa907b92e2b5450873634c2f5b012f791d504e55b0316090377c&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/shooting-reported-dekalb-county-home/SLCGEMDF3RC2VGM2QHWBFPQTII/",
-     "score": 80
-    },
-    {
-     "title": "\u2018I can just picture her smile now\u2019: Community mourns 2 mothers killed in shooting",
+     "title": "8th grader shot, killed while making TikTok videos, authorities say",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YFIOFGE3ZFFI3MP7FC4WTHG4FI.png?auth=c63eaf96179fabfebbc32da8357f327500cfa5f91545e0c39e8f56b909d95406&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/26/i-can-just-picture-her-smile-now-community-mourns-2-mothers-killed-shooting/",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/SACI6LAN35D2BIFVWDGH5H6PQQ.png?auth=7a04bd426bdfc1548ebcaa2b9cf8479a454b314719519c3dda767c00a1a0f3d2&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/8th-grader-shot-killed-while-making-tiktok-videos-authorities-say/",
+     "score": 89
+    },
+    {
+     "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
+     "score": 88
+    },
+    {
+     "title": "DJ, music producer shot and killed in Atlanta's Castleberry Hill neighborhood",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/crime/dj-music-producer-shot-killed-in-atlantas-castleberry-hill-neighborhood/85-a1e379a4-9bc5-4cdd-a1ba-a4f281b1a314",
+     "score": 87
+    },
+    {
+     "title": "Hundreds dead, more than 1,300 missing in Nepal and Tibet after catastrophic floods caused by glacier collapse",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
+     "score": 81
+    },
+    {
+     "title": "At least 65 American tourists missing after deadly flooding crashes into towns in the Himalayan mountains",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/dozens-american-tourists-missing-deadly-flooding-nepal/507-43c450c3-d8f8-4caf-902f-637a407c4633",
+     "score": 81
+    },
+    {
+     "title": "Man trapped in home explosion found dead",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
+     "score": 79
+    },
+    {
+     "title": "FBI searching for 3rd suspect in deadly Atlanta mass shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YRXVD3QPRBBB5PDLBNB5P34ZIY.png?auth=9d8373ca3b91512c4d13d96bad9a297fca453d6b0585050fece0abe805386611&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/27/fbi-searching-3rd-suspect-deadly-atlanta-mass-shooting/",
      "score": 77
     }
    ]
@@ -221,112 +221,112 @@
    "title": "Sports",
    "items": [
     {
-     "title": "TOUR Championship 2026: What to know about playoff finale at East Lake Golf Club",
+     "title": "Chris Sale caps 1st complete game since 2019, Braves shut out Dodgers for sweep",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FTNWD7N5HE5CU3FVPTSUQO5LMKM.jpg?auth=ced2b4ed5f3005738de132594e69ee73c8324f490af45824a0ffe86ce87c960a&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/tour-championship-2026-what-know-about-playoff-finale-east-lake-golf-club/JMGYQHZM3NBWVKSCT5D7TJAWUQ/",
-     "score": 56
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F35GIWEGFSREO7PAQSWSXMEI42Q.jpg?auth=bdbe7f1759a54470c59c8218277f0baa2c89c64e7a5df6caf3cc5d6117c2237a&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/chris-sale-caps-1st-complete-game-since-2019-braves-shut-out-dodgers-sweep/AEKASLLAXVA5DNQMXQYB5LFU5M/",
+     "score": 52
     },
     {
-     "title": "Eminem shares letter from Dolly Parton after induction into Rock & Roll Hall of Fame",
+     "title": "Braves beat Dodgers 6-5 on walk-off single by pinch-hitter Ha-Seong Kim",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FDQWBNHK5NVFMJBY7S5RUHY45Z4.jpg?auth=9883fbb89f2c48b8f1d2fff46e5c75419b5ec9e36e6736b4a3eadecd515f478b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/trending/eminem-shares-letter-dolly-parton-after-induction-into-rock-roll-hall-fame/RQLCT626DVHZTLFV4PZGW4O66M/",
-     "score": 48
-    },
-    {
-     "title": "Atlanta Braves 7-game home series includes bobbleheads, free jerseys, unique food",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSL7XRDBH55FXNO552UXUO3WYFM.JPG?auth=96389e899270a439a0f2cfff9ef8e1c6d9f5978864b9ea25f5ff796e754de8b0&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta-braves-7-game-home-series-includes-bobbleheads-free-jerseys-unique-food/VFA3RAPTH5AT3NNOZXJDVMX6OI/",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5QZJXRNN3FHQVFUBUS7FJQ637Q.jpg?auth=4ab3108ec9d922797c7353344ab4340d8ec0ab5d69f9d262fed6fb3aa252f5c7&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/braves-beat-dodgers-6-5-walk-off-single-by-pinch-hitter-ha-seong-kim/S4GU3SZ3LVF7FK76G424RO37L4/",
      "score": 46
     },
     {
-     "title": "Braves win 4-3 to snap Dodgers\u2019 6-game winning streak",
+     "title": "Falcons player wasn\u2019t sure he would play again after losing his parents, grandmother",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZ4CZTOLZRZBLTELH2XBLBIR2EI.jpg?auth=3e1d32ebf30e54bc59d037c529ec8cfd2aa07ece7515510627115310f7e0ebea&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/braves-win-4-3-snap-dodgers-6-game-winning-streak/LCWAJY5M7VF5NG3VKZSG6SXL2I/",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FCDS64MISL5H35HR5BQPFYZSBEA.jpeg?auth=db72c710176c9ab5b4997d0fba371fda519d37bad8ceb64d77a136648ff3e650&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/falcons-player-wasnt-sure-he-would-play-again-after-losing-his-parents-grandmother/37UEYLK4ORBTBFBP5R3JCXNUUQ/",
      "score": 46
     },
     {
-     "title": "Atlanta United signs former World Cup star in 4-year contract",
+     "title": "4 Dawgs named AP preseason All-Americans",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/UJKCMTWLZRCIFB5YWLSMNNNQWI.jpg?auth=7cb5dfcee992298585bb722dc7540181ad5d64a3caef4aa0d9bd52cf1bd82207&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/27/4-dawgs-named-ap-preseason-all-americans/",
+     "score": 46
+    },
+    {
+     "title": "Falcons to rest Michael Penix Jr. in preseason finale; Za\u2019Darius Smith reflects on NFL return",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-united-signs-former-world-cup-star-4-year-contract/54P5A5CWHJAABB7TG4KTQZMSAI/",
-     "score": 46
+     "url": "https://www.atlantanewsfirst.com/2026/08/26/falcons-rest-penix-preseason-finale-zadarius-smith-reflects-nfl-return/",
+     "score": 40
     },
     {
-     "title": "Big Ten bars NFL players from returning to play amid NCAA eligibility chaos",
+     "title": "Atlanta United sends Stian Gregersen to Swedish club Malm\u00f6 FF for undisclosed fee",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/27/atlanta-united-sends-stian-gregersen-swedish-club-malm-ff-undisclosed-fee/",
+     "score": 30
+    },
+    {
+     "title": "\u2018What\u2019s next?\u2019: Referee loses leg after high school football scrimmage injury",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/whats-next-referee-loses-leg-after-high-school-football-scrimmage-injury/",
+     "score": 30
+    },
+    {
+     "title": "NFL to end Pro Bowl game",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/big-ten-ruling-college-football-eligibility/507-60946d53-faa3-416e-ac78-ee316e568e94",
-     "score": 42
+     "url": "https://www.11alive.com/article/news/nation-world/nfl-ending-pro-bowl-game-player-honors-remain/507-d15abcfe-a42d-4d15-be99-3f7f0b733dd5",
+     "score": 0
     },
     {
-     "title": "\u2018Out of nowhere, it hit me\u2019: Triathlon coach repels alligator attack in Savannah River",
+     "title": "Big 12 becomes latest conference to ban former NFL players while NFL reiterates its rules",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
+     "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/trending/out-nowhere-it-hit-me-triathlon-coach-repels-alligator-attack-savannah-river/AEENALGUQRDHFCDOFX3PQTJIRY/",
-     "score": 42
+     "url": "https://www.11alive.com/article/news/nation-world/big-12-ban-former-nfl-players/507-f1eba372-0f91-4720-9bf0-9a43cd757477",
+     "score": 0
     },
     {
-     "title": "Disney, NFL partner for apparel collaboration",
+     "title": "Atlanta United reportedly closing in on $18 million deal for Swiss striker Breel Embolo",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
+     "source": "atlanta:sports:www.11alive.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/trending/disney-nfl-partner-apparel-collaboration/R4U6R2JZTVEVXHUON2FGKQEAMQ/",
-     "score": 40
+     "url": "https://www.11alive.com/article/sports/soccer/atlanta-united-breel-embolo-18-million-deal-report/85-ae39d46b-1139-4c76-a7f5-3ae93c21941e",
+     "score": 0
     },
     {
-     "title": "LIVE FEED: Athens Indoor Football League team unveiling name, logo",
+     "title": "College baseball legend Skip Bertman dies at 88",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
+     "source": "atlanta:sports:www.11alive.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/local/athens-indoor-football-league-team-unveiling-name-logo/DVJ2D6PJUNB7HLV27E62SYHPKY/",
-     "score": 40
+     "url": "https://www.11alive.com/article/news/nation-world/college-baseball-legend-skip-bertman-dies-lsu/507-ed62cd23-5358-44a9-9bde-688ddece5535",
+     "score": 0
     },
     {
-     "title": "Put me in, coach: Toddler runs onto soccer pitch",
+     "title": "Tommy John, four-time MLB All-Star and namesake of pivotal elbow surgery, has died",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
+     "source": "atlanta:sports:www.11alive.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/trending/put-me-coach-toddler-runs-onto-soccer-pitch/FFLQ6BTZU5ANJOB5QF3SOSRN2M/",
-     "score": 36
-    },
-    {
-     "title": "Braves\u2019 injured pitchers face shrinking window with postseason nearing",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/braves-injured-pitchers-face-shrinking-window-with-postseason-nearing/",
-     "score": 30
-    },
-    {
-     "title": "LIVE UPDATES: Braves welcome Shohei Ohtani, Dodgers to Truist Park in must-see NL showdown",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/live-updates-braves-welcome-shohei-ohtani-dodgers-truist-park-must-see-nl-showdown/",
-     "score": 30
+     "url": "https://www.11alive.com/article/news/nation-world/tommy-john-dies-mlb-yankees-baseball-elbow-surgery-obit/507-52518f16-f911-4974-89e6-7c0d0528137f",
+     "score": 0
     }
    ]
   },
@@ -335,85 +335,76 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "New investor, new name for local iconic music venue",
+     "title": "Kehlani cancels concerts, tells fans she\u2019s \u2018in so much pain\u2019",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/new-investor-new-name-local-iconic-music-venue/EXVXNM3CXBFPPNMKCCRXGMEH6Q/",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNGQ6IHDAAVFFRO6NTWANTZLRYU.jpg?auth=f902d8ad455794f49fd34e81d1031b6572437d16ee8ce06a083f131c27af1f87&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/trending/kehlani-cancels-concerts-tells-fans-shes-so-much-pain/U6V53FTZTVCE3CXPWXD67HE6YM/",
      "score": 46
     },
     {
-     "title": "Dolly Parton\u2019s greatest legacy may not be her music. It\u2019s millions of books",
+     "title": "Popular international fashion retailer to open first store in Georgia",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/atlanta/dolly-partons-greatest-legacy-may-not-be-her-music-its-millions-books/X4MKJRNA65D6ZCWHEOXJ7I6K3Q/",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FRU6O7DSEKJG47GPCIC5ORNMBXE.jpg?auth=e5ace8a7ec6b5b7a1c1f9982245d1e7cbc4c006979515be67d6144f288a875ec&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/popular-international-fashion-retailer-open-first-store-georgia/55YEN7KQ7ZE5BHGYJ3MVD4VWWM/",
+     "score": 46
+    },
+    {
+     "title": "South Atlanta High School opens food pantry for students and families",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-28-2026%2Ft_2020f01c84554137b8fd258bf7494f77_name_Kroger_food_pantry_at_South_Atlanta_High_School.png?auth=42304cd0b8b89976aa319b65df0007122f4edc4e501350974d1ad1a2e8fcc8a8&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/south-atlanta-high-school-opens-food-pantry-students-families/UJMWMUZERJFQPEYSTXZSPOCJXM/",
      "score": 40
     },
     {
-     "title": "GLP-1 boom could reshape restaurant bars as diners cut back on alcohol",
+     "title": "Gladys Knight cutting back on concerts after concerns on tour",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
-     "url": "https://www.fox5atlanta.com/news/glp-1-boom-reshape-restaurant-bars-diners-cut-back-alcohol",
-     "score": 40
+     "url": "https://www.fox5atlanta.com/news/gladys-knight-cutting-back-concerts-after-concerns-tour",
+     "score": 34
     },
     {
-     "title": "Country music legend Dolly Parton dead at 80",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/25/country-music-legend-dolly-parton-dead-80/",
-     "score": 37
-    },
-    {
-     "title": "Dolly Parton: Singer\u2019s wit, humor was as sharp as her music",
+     "title": "Last Bahama Breeze restaurant in Georgia closing: \u2018Really going to miss it\u2019",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/trending/dolly-parton-singers-wit-humor-was-sharp-her-music/DJ7CKLVWWJEZVNIZZG27UT2W4Q/",
-     "score": 34
+     "url": "https://www.wsbtv.com/news/local/last-bahama-breeze-restaurant-georgia-closing-really-going-miss-it/ZTGNK2XA4ZGTFKFNGU36YX4YTQ/",
+     "score": 0
     },
     {
-     "title": "Recall alert: Canned dog food recalled for metal contamination",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/recall-alert-canned-dog-food-recalled-metal-contamination/7JKU2C6ALZB5DOM6HY5XFEY47Y/",
-     "score": 34
-    },
-    {
-     "title": "Dolly Parton: Here are 5 memorable movie performances",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/dolly-parton-here-are-5-memorable-movie-performances/O7EDO2KVGVAQNDYMZZOL6AVUEE/",
-     "score": 34
-    },
-    {
-     "title": "Thieves smash front door of Midtown Atlanta restaurant",
+     "title": "Film editor remembers Dolly Parton's energy on 2022 Christmas movie set",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
-     "url": "https://www.fox5atlanta.com/news/thieves-smash-front-door-midtown-atlanta-restaurant",
-     "score": 34
+     "url": "https://www.fox5atlanta.com/news/film-editor-remembers-dolly-partons-energy-2022-christmas-movie-set",
+     "score": 0
     },
     {
-     "title": "Will Miley Cyrus get Dolly Parton's music catalog? What we know about the star's estate",
+     "title": "Woman sentenced after nearly $10M Amazon scam funds luxury lifestyle",
      "desc": "",
      "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
+     "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-estate/507-23ae0962-b24b-4ad3-9afa-9312e7c75369",
-     "score": 34
+     "url": "https://www.fox5atlanta.com/news/woman-sentenced-after-10m-amazon-scam-funds-luxury-lifestyle",
+     "score": 0
+    },
+    {
+     "title": "Dolly Parton: Country music star locked unreleased song in time capsule",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/dolly-parton-country-music-star-locked-unreleased-song-time-capsule/KSCRK3QQ2JBBPCUPEBONCOU4EQ/",
+     "score": 0
     },
     {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
@@ -425,45 +416,30 @@
      "score": 0
     },
     {
-     "title": "What happened to Dolly Parton? Iconic music and film star dies at 80",
+     "title": "Walmart, Sam\u2019s Club roll out tap-to-pay",
      "desc": "",
      "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
+     "source": "atlanta:news:www.wsbtv.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-death-what-happened/507-f201aa6b-9ccb-4fdc-8112-2adc16a28277",
+     "url": "https://www.wsbtv.com/news/trending/walmart-sams-club-roll-out-tap-to-pay/ZKPYMOHFPFBNPJS55CRMOJNQEU/",
      "score": 0
     },
     {
-     "title": "FULL STATEMENT: Dolly Parton's family announces music legend's death",
+     "title": "Tony-Winning Musical \u2018Parade\u2019 Set to Open at Marietta\u2019s Historic Strand Theatre",
      "desc": "",
      "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/full-statement-dolly-parton-family-announces-legend-death/507-1932a69f-aeae-46b4-8ade-3c317430d95c",
-     "score": 0
-    }
-   ]
-  },
-  {
-   "id": "juzmezzy",
-   "title": "JuzMezzy",
-   "items": [
-    {
-     "title": "Celebrity deaths of 2026: The entertainers and artists we lost this year",
-     "desc": "",
-     "cat": "Juzmezzy",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/celebrity-deaths-2026-list",
+     "url": "https://www.atlantanewsfirst.com/2026/08/27/tony-winning-musical-parade-set-open-mariettas-historic-strand-theatre/",
      "score": 0
     },
     {
-     "title": "Reality TV personality Sidney Starr due in court Tuesday",
+     "title": "\u2018Peace lives here along with a common love\u2019: New mural conveys message of unity and hope",
      "desc": "",
-     "cat": "Juzmezzy",
-     "source": "atlanta:news:www.fox5atlanta.com",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
      "img": "",
-     "url": "https://www.fox5atlanta.com/news/reality-tv-personality-sidney-starr-due-court-tuesday",
+     "url": "https://www.wsbtv.com/news/local/dekalb-county/peace-lives-here-along-with-common-love-new-mural-conveys-message-unity-hope/TUPICY6HB5GWTIXP6ZQJ2C44WE/",
      "score": 0
     }
    ]
