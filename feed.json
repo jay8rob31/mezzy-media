@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T00:20:25",
+ "updated": "2026-08-29T00:25:25",
  "hero": {
   "title": "Trial opens in deadly Villa Rica home invasion shooting",
   "desc": "",
@@ -248,15 +248,6 @@
      "score": 46
     },
     {
-     "title": "High school football game in Rockdale County canceled due to pre-game altercation on the field",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "art/sports_8.jpg",
-     "url": "https://www.11alive.com/article/sports/high-school/hs-football/high-school-football-game-canceled-fight-rockdale-county/85-209441de-3f45-4889-9d53-ed7b846711a2",
-     "score": 46
-    },
-    {
      "title": "Falcons player wasn\u2019t sure he would play again after losing his parents, grandmother",
      "desc": "",
      "cat": "Sports",
@@ -275,12 +266,30 @@
      "score": 46
     },
     {
+     "title": "Fight between teams cancels high school football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXBHTU4DGDJA6BNLWKUG6GFGRXY.png?auth=f31b89f76103d5d316d4cbb6e6c3367d90daab77ed2fe061ec04afb9239ede7a&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/rockdale-county/high-school-football-game-canceled-after-teams-get-into-fight/6PGVA5UB6RHA5FXLSDXN5B2YHM/",
+     "score": 40
+    },
+    {
      "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
+     "score": 40
+    },
+    {
+     "title": "Pregame fight halts Rockdale County football game as district investigates",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/pregame-fight-halts-rockdale-county-football-game-district-investigates",
      "score": 40
     },
     {
@@ -317,15 +326,6 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/disney-nfl-apparel-collaboration/507-548b2320-0027-4d6b-9de0-460dcccda472",
-     "score": 0
-    },
-    {
-     "title": "\u2018What\u2019s next?\u2019: Referee loses leg after high school football scrimmage injury",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/whats-next-referee-loses-leg-after-high-school-football-scrimmage-injury/",
      "score": 0
     }
    ]
