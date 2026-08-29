@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T08:25:25",
+ "updated": "2026-08-29T08:30:25",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
-     "desc": "",
-     "cat": "Breaking News",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
-     "score": 0
-    },
-    {
      "title": "Restaurant Report Card: Auntie\u2019s House fails with 56; Max\u2019s earns 100",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/28/brunch-with-snooze-eatery/",
+     "score": 0
+    },
+    {
+     "title": "\u2018Peace lives here along with a common love\u2019: New mural conveys message of unity and hope",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/dekalb-county/peace-lives-here-along-with-common-love-new-mural-conveys-message-unity-hope/TUPICY6HB5GWTIXP6ZQJ2C44WE/",
      "score": 0
     }
    ]
