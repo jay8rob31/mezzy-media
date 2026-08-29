@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T00:05:24",
+ "updated": "2026-08-29T00:10:24",
  "hero": {
   "title": "Trial opens in deadly Villa Rica home invasion shooting",
   "desc": "",
@@ -248,12 +248,12 @@
      "score": 46
     },
     {
-     "title": "3 students in custody after fight at high school football game",
+     "title": "High school football game in Rockdale County canceled due to pre-game altercation on the field",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F4RWKFURWHVC3JARBY4LMQVZEUE.jpeg?auth=8096739a5a2c304c9cc3f8a4faaf3838712544255bc23c2c026739e4e92ef41c&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/coweta-county/3-students-custody-after-fight-high-school-football-game/CYDC622X4VALRBL3JYL2L3VNUY/",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "art/sports_8.jpg",
+     "url": "https://www.11alive.com/article/sports/high-school/hs-football/high-school-football-game-canceled-fight-rockdale-county/85-209441de-3f45-4889-9d53-ed7b846711a2",
      "score": 46
     },
     {
@@ -281,15 +281,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
-     "score": 40
-    },
-    {
-     "title": "Pregame fight halts Rockdale County football game as district investigates",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/pregame-fight-halts-rockdale-county-football-game-district-investigates",
      "score": 40
     },
     {
@@ -326,6 +317,15 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/disney-nfl-apparel-collaboration/507-548b2320-0027-4d6b-9de0-460dcccda472",
+     "score": 0
+    },
+    {
+     "title": "\u2018What\u2019s next?\u2019: Referee loses leg after high school football scrimmage injury",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/whats-next-referee-loses-leg-after-high-school-football-scrimmage-injury/",
      "score": 0
     }
    ]
