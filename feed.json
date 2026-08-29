@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T15:10:24",
+ "updated": "2026-08-29T15:15:26",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -65,15 +65,6 @@
      "score": 86
     },
     {
-     "title": "Man injured in northwest Atlanta shooting overnight, police recover shell casings",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_8.jpg",
-     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northwest-atlanta-shooting-overnight-police-recover-shell-casings/85-350e0609-ff88-42f0-a708-b35bd2debf06",
-     "score": 86
-    },
-    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -98,6 +89,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime_11.jpg",
      "url": "https://www.11alive.com/article/news/crime/police-investigating-shooting-in-washington-park-area-of-atlanta/85-d7234cdb-b5a3-4c87-b1bb-ca03d7374e99",
+     "score": 80
+    },
+    {
+     "title": "Man injured in northwest Atlanta shooting overnight, police recover shell casings",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_8.jpg",
+     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northwest-atlanta-shooting-overnight-police-recover-shell-casings/85-350e0609-ff88-42f0-a708-b35bd2debf06",
      "score": 80
     }
    ]
@@ -161,15 +161,6 @@
      "score": 86
     },
     {
-     "title": "Man injured in northwest Atlanta shooting overnight, police recover shell casings",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_8.jpg",
-     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northwest-atlanta-shooting-overnight-police-recover-shell-casings/85-350e0609-ff88-42f0-a708-b35bd2debf06",
-     "score": 86
-    },
-    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -194,6 +185,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime_11.jpg",
      "url": "https://www.11alive.com/article/news/crime/police-investigating-shooting-in-washington-park-area-of-atlanta/85-d7234cdb-b5a3-4c87-b1bb-ca03d7374e99",
+     "score": 80
+    },
+    {
+     "title": "Man injured in northwest Atlanta shooting overnight, police recover shell casings",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_8.jpg",
+     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northwest-atlanta-shooting-overnight-police-recover-shell-casings/85-350e0609-ff88-42f0-a708-b35bd2debf06",
      "score": 80
     },
     {
