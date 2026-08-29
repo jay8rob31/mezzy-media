@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T22:00:25",
+ "updated": "2026-08-28T22:05:25",
  "hero": {
   "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
   "desc": "",
@@ -227,7 +227,7 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FR6ZFRZWTNBC35IBPKGWAEWYIRU.jpeg?auth=04efea4f19d0d8cbe6ba7cb9cd7204e35a287673275fd6e66cb631229d6f5332&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/georgia-tech-unveils-100-changes-fans-will-notice-bobby-dodd-stadium/MWQW6GKO4RCSDOM6P2D7JBFFZA/",
-     "score": 76
+     "score": 70
     },
     {
      "title": "4 Dawgs named AP preseason All-Americans",
@@ -245,24 +245,6 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F35GIWEGFSREO7PAQSWSXMEI42Q.jpg?auth=bdbe7f1759a54470c59c8218277f0baa2c89c64e7a5df6caf3cc5d6117c2237a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/chris-sale-caps-1st-complete-game-since-2019-braves-shut-out-dodgers-sweep/AEKASLLAXVA5DNQMXQYB5LFU5M/",
-     "score": 46
-    },
-    {
-     "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/7ORACGEVCVFZ3BOI2RDPNVU2IE.png?auth=ce9e9fb56651e524e5934250ba91f08e87a7964eeb73dacc090c2b8d1ba6b2f4&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
-     "score": 46
-    },
-    {
-     "title": "Pregame fight halts Rockdale County football game as district investigates",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/rockdale-co-school-threats-wagame001_mxf_00.18.24.58.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/pregame-fight-halts-rockdale-county-football-game-district-investigates",
      "score": 46
     },
     {
@@ -290,6 +272,24 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/rockdale-county/high-school-football-game-canceled-after-teams-get-into-fight/6PGVA5UB6RHA5FXLSDXN5B2YHM/",
+     "score": 40
+    },
+    {
+     "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
+     "score": 40
+    },
+    {
+     "title": "Pregame fight halts Rockdale County football game as district investigates",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/pregame-fight-halts-rockdale-county-football-game-district-investigates",
      "score": 40
     },
     {
