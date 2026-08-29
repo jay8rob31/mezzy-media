@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T21:20:25",
+ "updated": "2026-08-28T21:25:25",
  "hero": {
   "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
   "desc": "",
@@ -29,15 +29,6 @@
      "score": 105
     },
     {
-     "title": "Multiple explosions heard in massive Paulding County house fire that leaves 1 man dead",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_16.jpg",
-     "url": "https://www.11alive.com/article/news/local/multiple-explosions-heard-massive-paulding-county-house-fire-leaves-1-man-dead/85-2bbdfb59-c3ef-412a-91d1-049a51605c4d",
-     "score": 101
-    },
-    {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
      "desc": "",
      "cat": "Crime",
@@ -65,15 +56,6 @@
      "score": 87
     },
     {
-     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_14.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
-     "score": 87
-    },
-    {
      "title": "Murder suspect claims she was too afraid to reveal where missing woman\u2019s remains were",
      "desc": "",
      "cat": "Crime",
@@ -92,13 +74,31 @@
      "score": 84
     },
     {
-     "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
+     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_15.jpg",
-     "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
-     "score": 82
+     "img": "art/crime_14.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
+     "score": 81
+    },
+    {
+     "title": "At least 65 American tourists missing after deadly flooding crashes into towns in the Himalayan mountains",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_9.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/dozens-american-tourists-missing-deadly-flooding-nepal/507-43c450c3-d8f8-4caf-902f-637a407c4633",
+     "score": 81
+    },
+    {
+     "title": "Hundreds dead, more than 1,300 missing in Nepal and Tibet after catastrophic floods caused by glacier collapse",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_10.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
+     "score": 81
     }
    ]
   },
@@ -125,15 +125,6 @@
      "score": 105
     },
     {
-     "title": "Multiple explosions heard in massive Paulding County house fire that leaves 1 man dead",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_16.jpg",
-     "url": "https://www.11alive.com/article/news/local/multiple-explosions-heard-massive-paulding-county-house-fire-leaves-1-man-dead/85-2bbdfb59-c3ef-412a-91d1-049a51605c4d",
-     "score": 101
-    },
-    {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
      "desc": "",
      "cat": "Crime",
@@ -161,15 +152,6 @@
      "score": 87
     },
     {
-     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_14.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
-     "score": 87
-    },
-    {
      "title": "Murder suspect claims she was too afraid to reveal where missing woman\u2019s remains were",
      "desc": "",
      "cat": "Crime",
@@ -188,13 +170,13 @@
      "score": 84
     },
     {
-     "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
+     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_15.jpg",
-     "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
-     "score": 82
+     "img": "art/crime_14.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
+     "score": 81
     },
     {
      "title": "At least 65 American tourists missing after deadly flooding crashes into towns in the Himalayan mountains",
@@ -213,6 +195,24 @@
      "img": "art/crime_10.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
      "score": 81
+    },
+    {
+     "title": "Monroe Police search for 'armed and dangerous' shooting suspect",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_3.jpg",
+     "url": "https://www.11alive.com/article/news/crime/monroe-police-search-armed-and-dangerous-shooting-suspect/85-050a7708-10e3-4492-a7e5-a2244bb36575",
+     "score": 80
+    },
+    {
+     "title": "Man trapped in home explosion found dead",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
+     "score": 79
     }
    ]
   },
@@ -279,7 +279,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5QZJXRNN3FHQVFUBUS7FJQ637Q.jpg?auth=4ab3108ec9d922797c7353344ab4340d8ec0ab5d69f9d262fed6fb3aa252f5c7&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/braves-beat-dodgers-6-5-walk-off-single-by-pinch-hitter-ha-seong-kim/S4GU3SZ3LVF7FK76G424RO37L4/",
      "score": 46
     },
@@ -311,21 +311,21 @@
      "score": 30
     },
     {
+     "title": "High school\u2019s entire football season canceled amid developing criminal investigation",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/29/high-schools-entire-football-season-canceled-amid-developing-criminal-investigation/",
+     "score": 30
+    },
+    {
      "title": "College baseball legend Skip Bertman dies at 88",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/college-baseball-legend-skip-bertman-dies-lsu/507-ed62cd23-5358-44a9-9bde-688ddece5535",
-     "score": 0
-    },
-    {
-     "title": "Tommy John, four-time MLB All-Star and namesake of pivotal elbow surgery, has died",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/tommy-john-dies-mlb-yankees-baseball-elbow-surgery-obit/507-52518f16-f911-4974-89e6-7c0d0528137f",
      "score": 0
     }
    ]
