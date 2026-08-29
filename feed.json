@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T17:20:25",
+ "updated": "2026-08-29T17:25:25",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -65,6 +65,15 @@
      "score": 86
     },
     {
+     "title": "GBI investigates officer-involved shooting near Hinesville bar",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPJRBCH7MDZFXJOMKJXWWUZA7RE.jpeg?auth=438e33f0a46bc5e8ad501ece974cd91bcec25de819dbbc0b353324a9b6e7fffe&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/gbi-investigates-officer-involved-shooting-near-hinesville-bar/ZNHZABALPNBJVAZAPSXY3VGB5U/",
+     "score": 86
+    },
+    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -81,15 +90,6 @@
      "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 81
-    },
-    {
-     "title": "Police investigating shooting in Washington Park area of Atlanta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_11.jpg",
-     "url": "https://www.11alive.com/article/news/crime/police-investigating-shooting-in-washington-park-area-of-atlanta/85-d7234cdb-b5a3-4c87-b1bb-ca03d7374e99",
-     "score": 80
     },
     {
      "title": "Man injured in northwest Atlanta shooting overnight, police recover shell casings",
@@ -161,6 +161,15 @@
      "score": 86
     },
     {
+     "title": "GBI investigates officer-involved shooting near Hinesville bar",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPJRBCH7MDZFXJOMKJXWWUZA7RE.jpeg?auth=438e33f0a46bc5e8ad501ece974cd91bcec25de819dbbc0b353324a9b6e7fffe&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/gbi-investigates-officer-involved-shooting-near-hinesville-bar/ZNHZABALPNBJVAZAPSXY3VGB5U/",
+     "score": 86
+    },
+    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -177,15 +186,6 @@
      "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 81
-    },
-    {
-     "title": "Police investigating shooting in Washington Park area of Atlanta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_11.jpg",
-     "url": "https://www.11alive.com/article/news/crime/police-investigating-shooting-in-washington-park-area-of-atlanta/85-d7234cdb-b5a3-4c87-b1bb-ca03d7374e99",
-     "score": 80
     },
     {
      "title": "Man injured in northwest Atlanta shooting overnight, police recover shell casings",
