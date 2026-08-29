@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T10:20:25",
+ "updated": "2026-08-29T10:25:25",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -257,15 +257,6 @@
      "score": 46
     },
     {
-     "title": "High school football game in Rockdale County canceled due to pre-game altercation on the field",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "art/sports_8.jpg",
-     "url": "https://www.11alive.com/article/sports/high-school/hs-football/high-school-football-game-canceled-fight-rockdale-county/85-209441de-3f45-4889-9d53-ed7b846711a2",
-     "score": 34
-    },
-    {
      "title": "Atlanta United sends Stian Gregersen to Swedish club Malm\u00f6 FF for undisclosed fee",
      "desc": "",
      "cat": "Sports",
@@ -293,6 +284,24 @@
      "score": 0
     },
     {
+     "title": "High school football player dies in farming accident; game canceled",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/high-school-football-player-dies-farming-accident-game-canceled/",
+     "score": 0
+    },
+    {
+     "title": "WATCH: High School Football: Sandy Creek, Douglas County collide in massive early-season matchup",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/watch-high-school-football-sandy-creek-douglas-county-collide-massive-early-season-matchup/",
+     "score": 0
+    },
+    {
      "title": "\u2018What\u2019s next?\u2019: Referee loses leg after high school football scrimmage injury",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
      "url": "https://www.fox5atlanta.com/news/giant-joro-spiders-ruining-georgias-ecosystem-new-uga-study",
-     "score": 0
-    },
-    {
-     "title": "NFL to end Pro Bowl game",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/nfl-ending-pro-bowl-game-player-honors-remain/507-d15abcfe-a42d-4d15-be99-3f7f0b733dd5",
      "score": 0
     }
    ]
