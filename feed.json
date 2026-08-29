@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T11:15:25",
+ "updated": "2026-08-29T11:20:24",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -335,6 +335,15 @@
    "title": "ATL Culture",
    "items": [
     {
+     "title": "Canada drops tariffs on US seafood and fish products, including lobster, amid trade tensions",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/culture.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/canada-drops-retaliatory-counter-tariffs-maine-lobster-seafood/507-4e9b7c7a-86ed-4460-a711-fdb2d6ac632f",
+     "score": 36
+    },
+    {
      "title": "Restaurant Report Card: Auntie\u2019s House fails with 56; Max\u2019s earns 100",
      "desc": "",
      "cat": "Culture",
@@ -431,15 +440,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/28/brunch-with-snooze-eatery/",
-     "score": 0
-    },
-    {
-     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
-     "desc": "",
-     "cat": "Breaking News",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
      "score": 0
     }
    ]
