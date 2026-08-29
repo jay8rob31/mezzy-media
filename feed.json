@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T14:50:24",
+ "updated": "2026-08-29T14:55:24",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -257,11 +257,20 @@
      "score": 46
     },
     {
+     "title": "Outkast marks 30 years of \u2018ATLiens\u2019 by giving back to Atlanta youth soccer",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FBETBQOZPOZC7VB5WKPBVFTSZNQ.png?auth=2938448b7ecda4aa282dd2fc1d55b8fe32e9a5c21b8ea4964f0642f352f89ef0&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/outkast-marks-30-years-atliens-by-giving-back-atlanta-youth-soccer/YYCXC4LKONBUTI6X36IUBUW3NY/",
+     "score": 46
+    },
+    {
      "title": "Atlanta United sends Stian Gregersen to Swedish club Malm\u00f6 FF for undisclosed fee",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/VY2STLXFFZE5VFY47FK4IG3NFQ.JPG?auth=8140cbf4303f7e8c7e2f049a5502c233ce859e5a56e670b66f32a7d5419a2881&amp;width=1200&amp;height=600&amp;smart=true",
+     "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/27/atlanta-united-sends-stian-gregersen-swedish-club-malm-ff-undisclosed-fee/",
      "score": 30
     },
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/nfl-ending-pro-bowl-game-player-honors-remain/507-d15abcfe-a42d-4d15-be99-3f7f0b733dd5",
      "score": 0
-    },
-    {
-     "title": "Keeping Kids Safe and Healthy During Football Season",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/keeping-kids-safe-healthy-during-football-season/",
-     "score": 0
     }
    ]
   },
@@ -341,7 +341,7 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/culture_4.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/prince-timeless-album/507-b4f9db5d-317c-4317-bb00-ca4aa9c1fd18",
-     "score": 46
+     "score": 40
     },
     {
      "title": "Canada drops tariffs on US seafood and fish products, including lobster, amid trade tensions",
