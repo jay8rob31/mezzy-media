@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T04:20:24",
+ "updated": "2026-08-29T04:25:24",
  "hero": {
   "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
   "desc": "",
@@ -266,13 +266,13 @@
      "score": 46
     },
     {
-     "title": "High school football game in Rockdale County canceled due to pre-game altercation on the field",
+     "title": "Fight between teams cancels high school football game",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "art/sports_8.jpg",
-     "url": "https://www.11alive.com/article/sports/high-school/hs-football/high-school-football-game-canceled-fight-rockdale-county/85-209441de-3f45-4889-9d53-ed7b846711a2",
-     "score": 40
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/rockdale-county/high-school-football-game-canceled-after-teams-get-into-fight/6PGVA5UB6RHA5FXLSDXN5B2YHM/",
+     "score": 34
     },
     {
      "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
@@ -281,6 +281,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
+     "score": 34
+    },
+    {
+     "title": "Pregame fight halts Rockdale County football game as district investigates",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/pregame-fight-halts-rockdale-county-football-game-district-investigates",
      "score": 34
     },
     {
@@ -311,21 +320,12 @@
      "score": 0
     },
     {
-     "title": "\u2018What\u2019s next?\u2019: Referee loses leg after high school football scrimmage injury",
+     "title": "WATCH: High School Football: Sandy Creek, Douglas County collide in massive early-season matchup",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/whats-next-referee-loses-leg-after-high-school-football-scrimmage-injury/",
-     "score": 0
-    },
-    {
-     "title": "SEC joins Big Ten in banning football, basketball pros from returning to college",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/big-ten-ruling-college-football-eligibility/507-60946d53-faa3-416e-ac78-ee316e568e94",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/watch-high-school-football-sandy-creek-douglas-county-collide-massive-early-season-matchup/",
      "score": 0
     }
    ]
