@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T03:35:25",
+ "updated": "2026-08-29T03:40:24",
  "hero": {
   "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
   "desc": "",
@@ -38,15 +38,6 @@
      "score": 98
     },
     {
-     "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
-     "score": 97
-    },
-    {
      "title": "3 facing charges in Mitchell County shooting that killed McDonough man",
      "desc": "",
      "cat": "Crime",
@@ -54,6 +45,15 @@
      "img": "art/crime_19.jpg",
      "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
      "score": 93
+    },
+    {
+     "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
+     "score": 91
     },
     {
      "title": "DJ, music producer shot and killed in Atlanta's Castleberry Hill neighborhood",
@@ -134,15 +134,6 @@
      "score": 98
     },
     {
-     "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
-     "score": 97
-    },
-    {
      "title": "3 facing charges in Mitchell County shooting that killed McDonough man",
      "desc": "",
      "cat": "Crime",
@@ -150,6 +141,15 @@
      "img": "art/crime_19.jpg",
      "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
      "score": 93
+    },
+    {
+     "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
+     "score": 91
     },
     {
      "title": "DJ, music producer shot and killed in Atlanta's Castleberry Hill neighborhood",
