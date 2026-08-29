@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T23:30:25",
+ "updated": "2026-08-28T23:35:24",
  "hero": {
   "title": "Trial opens in deadly Villa Rica home invasion shooting",
   "desc": "",
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "ATF K-9 teams sweep East Lake Golf Club to keep PGA tournament spectators safe",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSZTLITZOMBH5ZFAB2CN5YCVXNQ.jpeg?auth=bfc0d4145112c361fb161d90b61657c6747fe46967f67befc89038e374525c2d&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atf-k-9-teams-sweep-east-lake-golf-club-keep-pga-tournament-spectators-safe/NIBO7X54LJD5XO7STQ3JC72SCY/",
-     "score": 40
-    },
-    {
      "title": "Kehlani cancels concerts, tells fans she\u2019s \u2018in so much pain\u2019",
      "desc": "",
      "cat": "Culture",
@@ -359,6 +350,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/popular-international-fashion-retailer-open-first-store-georgia/55YEN7KQ7ZE5BHGYJ3MVD4VWWM/",
+     "score": 34
+    },
+    {
+     "title": "ATF K-9 teams sweep East Lake Golf Club to keep PGA tournament spectators safe",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/atf-k-9-teams-sweep-east-lake-golf-club-keep-pga-tournament-spectators-safe/NIBO7X54LJD5XO7STQ3JC72SCY/",
      "score": 34
     },
     {
