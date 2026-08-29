@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T07:55:24",
+ "updated": "2026-08-29T08:00:25",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -83,15 +83,6 @@
      "score": 81
     },
     {
-     "title": "At least 65 American tourists missing after deadly flooding crashes into towns in the Himalayan mountains",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_9.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/dozens-american-tourists-missing-deadly-flooding-nepal/507-43c450c3-d8f8-4caf-902f-637a407c4633",
-     "score": 81
-    },
-    {
      "title": "Man shot in Chamblee shopping plaza",
      "desc": "",
      "cat": "Crime",
@@ -99,6 +90,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5QOYHEECS5B7PMYP2HF4NTDDXE.png?auth=3b1031b716c2df2d6f8cd13d9cbcb6d02975be6e287b9523cbc6d7cd33322e10&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/man-shot-chamblee-shopping-plaza/TSOLDGG3UBD3HLUJ3YRNAYGEAI/",
      "score": 80
+    },
+    {
+     "title": "Man trapped in home explosion found dead",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
+     "score": 79
     }
    ]
   },
@@ -179,15 +179,6 @@
      "score": 81
     },
     {
-     "title": "At least 65 American tourists missing after deadly flooding crashes into towns in the Himalayan mountains",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_9.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/dozens-american-tourists-missing-deadly-flooding-nepal/507-43c450c3-d8f8-4caf-902f-637a407c4633",
-     "score": 81
-    },
-    {
      "title": "Man shot in Chamblee shopping plaza",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +204,15 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YRXVD3QPRBBB5PDLBNB5P34ZIY.png?auth=9d8373ca3b91512c4d13d96bad9a297fca453d6b0585050fece0abe805386611&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/27/fbi-searching-3rd-suspect-deadly-atlanta-mass-shooting/",
      "score": 77
+    },
+    {
+     "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_15.jpg",
+     "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
+     "score": 76
     }
    ]
   },
