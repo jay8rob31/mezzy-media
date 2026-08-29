@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T08:30:25",
+ "updated": "2026-08-29T08:35:25",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -257,15 +257,6 @@
      "score": 46
     },
     {
-     "title": "Braves beat Dodgers 6-5 on walk-off single by pinch-hitter Ha-Seong Kim",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5QZJXRNN3FHQVFUBUS7FJQ637Q.jpg?auth=4ab3108ec9d922797c7353344ab4340d8ec0ab5d69f9d262fed6fb3aa252f5c7&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/braves-beat-dodgers-6-5-walk-off-single-by-pinch-hitter-ha-seong-kim/S4GU3SZ3LVF7FK76G424RO37L4/",
-     "score": 46
-    },
-    {
      "title": "3 students in custody after fight at high school football game",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/big-ten-ruling-college-football-eligibility/507-60946d53-faa3-416e-ac78-ee316e568e94",
+     "score": 0
+    },
+    {
+     "title": "Are giant Joro Spiders ruining Georgia's ecosystem? A new UGA study",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/giant-joro-spiders-ruining-georgias-ecosystem-new-uga-study",
      "score": 0
     }
    ]
@@ -434,12 +434,12 @@
      "score": 0
     },
     {
-     "title": "\u2018Peace lives here along with a common love\u2019: New mural conveys message of unity and hope",
+     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
      "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
+     "cat": "Breaking News",
+     "source": "11Alive",
      "img": "",
-     "url": "https://www.wsbtv.com/news/local/dekalb-county/peace-lives-here-along-with-common-love-new-mural-conveys-message-unity-hope/TUPICY6HB5GWTIXP6ZQJ2C44WE/",
+     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
      "score": 0
     }
    ]
