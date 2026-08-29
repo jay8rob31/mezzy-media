@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T22:15:25",
+ "updated": "2026-08-28T22:20:24",
  "hero": {
   "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
   "desc": "",
@@ -27,6 +27,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/17a8a0eb-video.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting",
      "score": 105
+    },
+    {
+     "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
+     "score": 103
     },
     {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
@@ -90,15 +99,6 @@
      "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/dozens-american-tourists-missing-deadly-flooding-nepal/507-43c450c3-d8f8-4caf-902f-637a407c4633",
      "score": 81
-    },
-    {
-     "title": "Hundreds dead, more than 1,300 missing in Nepal and Tibet after catastrophic floods caused by glacier collapse",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_10.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
-     "score": 81
     }
    ]
   },
@@ -123,6 +123,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/17a8a0eb-video.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting",
      "score": 105
+    },
+    {
+     "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
+     "score": 103
     },
     {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
@@ -204,15 +213,6 @@
      "img": "art/crime_3.jpg",
      "url": "https://www.11alive.com/article/news/crime/monroe-police-search-armed-and-dangerous-shooting-suspect/85-050a7708-10e3-4492-a7e5-a2244bb36575",
      "score": 80
-    },
-    {
-     "title": "Man trapped in home explosion found dead",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
-     "score": 79
     }
    ]
   },
@@ -248,6 +248,15 @@
      "score": 46
     },
     {
+     "title": "3 students in custody after fight at high school football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F4RWKFURWHVC3JARBY4LMQVZEUE.jpeg?auth=8096739a5a2c304c9cc3f8a4faaf3838712544255bc23c2c026739e4e92ef41c&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/coweta-county/3-students-custody-after-fight-high-school-football-game/CYDC622X4VALRBL3JYL2L3VNUY/",
+     "score": 46
+    },
+    {
      "title": "Falcons player wasn\u2019t sure he would play again after losing his parents, grandmother",
      "desc": "",
      "cat": "Sports",
@@ -264,15 +273,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F5QZJXRNN3FHQVFUBUS7FJQ637Q.jpg?auth=4ab3108ec9d922797c7353344ab4340d8ec0ab5d69f9d262fed6fb3aa252f5c7&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/braves-beat-dodgers-6-5-walk-off-single-by-pinch-hitter-ha-seong-kim/S4GU3SZ3LVF7FK76G424RO37L4/",
      "score": 46
-    },
-    {
-     "title": "Fight between teams cancels high school football game",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/rockdale-county/high-school-football-game-canceled-after-teams-get-into-fight/6PGVA5UB6RHA5FXLSDXN5B2YHM/",
-     "score": 40
     },
     {
      "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
