@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T15:20:24",
+ "updated": "2026-08-29T15:25:24",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -248,15 +248,6 @@
      "score": 46
     },
     {
-     "title": "Superintendent speaks after fight cancels high school football game",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXBHTU4DGDJA6BNLWKUG6GFGRXY.png?auth=f31b89f76103d5d316d4cbb6e6c3367d90daab77ed2fe061ec04afb9239ede7a&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/rockdale-county/superintendent-speaks-after-fight-cancels-high-school-football-game/7JIZG7C4AVG2PIT5S5AXSTFEGY/",
-     "score": 46
-    },
-    {
      "title": "Outkast marks 30 years of \u2018ATLiens\u2019 by giving back to Atlanta youth soccer",
      "desc": "",
      "cat": "Sports",
@@ -264,6 +255,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FBETBQOZPOZC7VB5WKPBVFTSZNQ.png?auth=2938448b7ecda4aa282dd2fc1d55b8fe32e9a5c21b8ea4964f0642f352f89ef0&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/outkast-marks-30-years-atliens-by-giving-back-atlanta-youth-soccer/YYCXC4LKONBUTI6X36IUBUW3NY/",
      "score": 46
+    },
+    {
+     "title": "Superintendent speaks after fight cancels high school football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXBHTU4DGDJA6BNLWKUG6GFGRXY.png?auth=f31b89f76103d5d316d4cbb6e6c3367d90daab77ed2fe061ec04afb9239ede7a&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/rockdale-county/superintendent-speaks-after-fight-cancels-high-school-football-game/7JIZG7C4AVG2PIT5S5AXSTFEGY/",
+     "score": 40
     },
     {
      "title": "Atlanta United sends Stian Gregersen to Swedish club Malm\u00f6 FF for undisclosed fee",
