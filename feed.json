@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T06:10:24",
+ "updated": "2026-08-29T06:15:25",
  "hero": {
   "title": "Trial opens in deadly Villa Rica home invasion shooting",
   "desc": "",
@@ -92,13 +92,13 @@
      "score": 81
     },
     {
-     "title": "Hundreds dead, more than 1,300 missing in Nepal and Tibet after catastrophic floods caused by glacier collapse",
+     "title": "Man trapped in home explosion found dead",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_10.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
-     "score": 81
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
+     "score": 79
     }
    ]
   },
@@ -188,15 +188,6 @@
      "score": 81
     },
     {
-     "title": "Hundreds dead, more than 1,300 missing in Nepal and Tibet after catastrophic floods caused by glacier collapse",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_10.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
-     "score": 81
-    },
-    {
      "title": "Man trapped in home explosion found dead",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +204,15 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YRXVD3QPRBBB5PDLBNB5P34ZIY.png?auth=9d8373ca3b91512c4d13d96bad9a297fca453d6b0585050fece0abe805386611&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/27/fbi-searching-3rd-suspect-deadly-atlanta-mass-shooting/",
      "score": 77
+    },
+    {
+     "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_15.jpg",
+     "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
+     "score": 76
     }
    ]
   },
