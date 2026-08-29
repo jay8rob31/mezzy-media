@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T13:20:25",
+ "updated": "2026-08-29T13:25:25",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -65,15 +65,6 @@
      "score": 86
     },
     {
-     "title": "Police investigating shooting in Washington Park area of Atlanta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_11.jpg",
-     "url": "https://www.11alive.com/article/news/crime/police-investigating-shooting-in-washington-park-area-of-atlanta/85-d7234cdb-b5a3-4c87-b1bb-ca03d7374e99",
-     "score": 86
-    },
-    {
      "title": "Man injured in northwest Atlanta shooting overnight, police recover shell casings",
      "desc": "",
      "cat": "Crime",
@@ -99,6 +90,15 @@
      "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 81
+    },
+    {
+     "title": "Police investigating shooting in Washington Park area of Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_11.jpg",
+     "url": "https://www.11alive.com/article/news/crime/police-investigating-shooting-in-washington-park-area-of-atlanta/85-d7234cdb-b5a3-4c87-b1bb-ca03d7374e99",
+     "score": 80
     }
    ]
   },
@@ -161,15 +161,6 @@
      "score": 86
     },
     {
-     "title": "Police investigating shooting in Washington Park area of Atlanta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_11.jpg",
-     "url": "https://www.11alive.com/article/news/crime/police-investigating-shooting-in-washington-park-area-of-atlanta/85-d7234cdb-b5a3-4c87-b1bb-ca03d7374e99",
-     "score": 86
-    },
-    {
      "title": "Man injured in northwest Atlanta shooting overnight, police recover shell casings",
      "desc": "",
      "cat": "Crime",
@@ -195,6 +186,15 @@
      "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 81
+    },
+    {
+     "title": "Police investigating shooting in Washington Park area of Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_11.jpg",
+     "url": "https://www.11alive.com/article/news/crime/police-investigating-shooting-in-washington-park-area-of-atlanta/85-d7234cdb-b5a3-4c87-b1bb-ca03d7374e99",
+     "score": 80
     },
     {
      "title": "Man trapped in home explosion found dead",
@@ -248,6 +248,15 @@
      "score": 46
     },
     {
+     "title": "Superintendent speaks after fight cancels high school football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXBHTU4DGDJA6BNLWKUG6GFGRXY.png?auth=f31b89f76103d5d316d4cbb6e6c3367d90daab77ed2fe061ec04afb9239ede7a&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/rockdale-county/superintendent-speaks-after-fight-cancels-high-school-football-game/7JIZG7C4AVG2PIT5S5AXSTFEGY/",
+     "score": 46
+    },
+    {
      "title": "Atlanta United sends Stian Gregersen to Swedish club Malm\u00f6 FF for undisclosed fee",
      "desc": "",
      "cat": "Sports",
@@ -263,15 +272,6 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/disney-nfl-apparel-collaboration/507-548b2320-0027-4d6b-9de0-460dcccda472",
-     "score": 0
-    },
-    {
-     "title": "High school football player dies in farming accident; game canceled",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/high-school-football-player-dies-farming-accident-game-canceled/",
      "score": 0
     },
     {
@@ -348,7 +348,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/culture.jpg",
+     "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/canada-drops-retaliatory-counter-tariffs-maine-lobster-seafood/507-4e9b7c7a-86ed-4460-a711-fdb2d6ac632f",
      "score": 30
     },
