@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T21:50:25",
+ "updated": "2026-08-28T21:55:25",
  "hero": {
   "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
   "desc": "",
@@ -284,15 +284,6 @@
      "score": 46
     },
     {
-     "title": "Are giant Joro Spiders ruining Georgia's ecosystem? A new UGA study",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/giant-joro-spiders-ruining-georgias-ecosystem-new-uga-study",
-     "score": 40
-    },
-    {
      "title": "Fight between teams cancels high school football game",
      "desc": "",
      "cat": "Sports",
@@ -300,6 +291,15 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/rockdale-county/high-school-football-game-canceled-after-teams-get-into-fight/6PGVA5UB6RHA5FXLSDXN5B2YHM/",
      "score": 40
+    },
+    {
+     "title": "Are giant Joro Spiders ruining Georgia's ecosystem? A new UGA study",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/giant-joro-spiders-ruining-georgias-ecosystem-new-uga-study",
+     "score": 34
     },
     {
      "title": "Atlanta United sends Stian Gregersen to Swedish club Malm\u00f6 FF for undisclosed fee",
