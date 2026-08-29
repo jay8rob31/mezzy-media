@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28T23:20:24",
+ "updated": "2026-08-28T23:25:24",
  "hero": {
   "title": "Trial opens in deadly Villa Rica home invasion shooting",
   "desc": "",
@@ -74,6 +74,15 @@
      "score": 86
     },
     {
+     "title": "Explosion, grass fire and power outage in Social Circle caused by truck hauling excavator that hit power lines",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_13.jpg",
+     "url": "https://www.11alive.com/article/news/local/explosion-grass-fire-power-outage-social-circle-caused-by-truck/85-0b7296c3-11bc-4049-893e-fbb52c2c3750",
+     "score": 84
+    },
+    {
      "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
      "desc": "",
      "cat": "Crime",
@@ -89,15 +98,6 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/dozens-american-tourists-missing-deadly-flooding-nepal/507-43c450c3-d8f8-4caf-902f-637a407c4633",
-     "score": 81
-    },
-    {
-     "title": "Hundreds dead, more than 1,300 missing in Nepal and Tibet after catastrophic floods caused by glacier collapse",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_10.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-catastrophic-deadly-floods-glacier-collapse/507-d9bf3074-9362-4037-8824-537120fa170a",
      "score": 81
     }
    ]
@@ -170,6 +170,15 @@
      "score": 86
     },
     {
+     "title": "Explosion, grass fire and power outage in Social Circle caused by truck hauling excavator that hit power lines",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_13.jpg",
+     "url": "https://www.11alive.com/article/news/local/explosion-grass-fire-power-outage-social-circle-caused-by-truck/85-0b7296c3-11bc-4049-893e-fbb52c2c3750",
+     "score": 84
+    },
+    {
      "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
      "desc": "",
      "cat": "Crime",
@@ -204,15 +213,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
      "score": 79
-    },
-    {
-     "title": "Excavator on truck snags city\u2019s utility lines, causing fire, explosion and power outage",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSOL5K2IKHBFBFASCXAJ3AR37QI.jpg?auth=e729f23a71cd4a55495b62cbf021d710bd99d8ffe67b667bacf5d5ee118c5f5d&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/excavator-truck-snags-citys-utility-lines-causing-fire-explosion-power-outage/XRQTHX3E65BZHFESLQO5BFRENY/",
-     "score": 78
     }
    ]
   },
@@ -339,7 +339,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSZTLITZOMBH5ZFAB2CN5YCVXNQ.jpeg?auth=bfc0d4145112c361fb161d90b61657c6747fe46967f67befc89038e374525c2d&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atf-k-9-teams-sweep-east-lake-golf-club-keep-pga-tournament-spectators-safe/NIBO7X54LJD5XO7STQ3JC72SCY/",
      "score": 40
     },
