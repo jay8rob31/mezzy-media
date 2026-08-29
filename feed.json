@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T12:05:25",
+ "updated": "2026-08-29T12:10:24",
  "hero": {
   "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
   "desc": "",
@@ -83,15 +83,6 @@
      "score": 85
     },
     {
-     "title": "Suspect arrested in 1981 cold case murder of 23-year-old woman who was found dead after leaving bar",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/GLP3NA7RT5CC7P7SVRKZEOMWYA.png?auth=8777ec2da4df05d01e1ba8d237346a03afeed7cd3f0b2f84b37cb6c4b4167c3e&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/29/suspect-arrested-1981-cold-case-murder-23-year-old-woman-who-was-found-dead-after-leaving-bar/",
-     "score": 85
-    },
-    {
      "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
      "desc": "",
      "cat": "Crime",
@@ -99,6 +90,15 @@
      "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 81
+    },
+    {
+     "title": "Man trapped in home explosion found dead",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
+     "score": 79
     }
    ]
   },
@@ -179,15 +179,6 @@
      "score": 85
     },
     {
-     "title": "Suspect arrested in 1981 cold case murder of 23-year-old woman who was found dead after leaving bar",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/GLP3NA7RT5CC7P7SVRKZEOMWYA.png?auth=8777ec2da4df05d01e1ba8d237346a03afeed7cd3f0b2f84b37cb6c4b4167c3e&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/29/suspect-arrested-1981-cold-case-murder-23-year-old-woman-who-was-found-dead-after-leaving-bar/",
-     "score": 85
-    },
-    {
      "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
      "desc": "",
      "cat": "Crime",
@@ -203,6 +194,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
+     "score": 79
+    },
+    {
+     "title": "Suspect arrested in 1981 cold case murder of 23-year-old woman who was found dead after leaving bar",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/GLP3NA7RT5CC7P7SVRKZEOMWYA.png?auth=8777ec2da4df05d01e1ba8d237346a03afeed7cd3f0b2f84b37cb6c4b4167c3e&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/29/suspect-arrested-1981-cold-case-murder-23-year-old-woman-who-was-found-dead-after-leaving-bar/",
      "score": 79
     },
     {
