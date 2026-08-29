@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T05:30:24",
+ "updated": "2026-08-29T05:35:25",
  "hero": {
   "title": "Trial opens in deadly Villa Rica home invasion shooting",
   "desc": "",
@@ -270,7 +270,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXBHTU4DGDJA6BNLWKUG6GFGRXY.png?auth=f31b89f76103d5d316d4cbb6e6c3367d90daab77ed2fe061ec04afb9239ede7a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/rockdale-county/high-school-football-game-canceled-after-teams-get-into-fight/6PGVA5UB6RHA5FXLSDXN5B2YHM/",
      "score": 34
     },
@@ -334,15 +334,6 @@
    "id": "culture",
    "title": "ATL Culture",
    "items": [
-    {
-     "title": "ATF K-9 teams sweep East Lake Golf Club to keep PGA tournament spectators safe",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSZTLITZOMBH5ZFAB2CN5YCVXNQ.jpeg?auth=bfc0d4145112c361fb161d90b61657c6747fe46967f67befc89038e374525c2d&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atf-k-9-teams-sweep-east-lake-golf-club-keep-pga-tournament-spectators-safe/NIBO7X54LJD5XO7STQ3JC72SCY/",
-     "score": 34
-    },
     {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
      "desc": "",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/new-investor-new-name-local-iconic-music-venue/EXVXNM3CXBFPPNMKCCRXGMEH6Q/",
+     "score": 0
+    },
+    {
+     "title": "ATF K-9 teams sweep East Lake Golf Club to keep PGA tournament spectators safe",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/atf-k-9-teams-sweep-east-lake-golf-club-keep-pga-tournament-spectators-safe/NIBO7X54LJD5XO7STQ3JC72SCY/",
      "score": 0
     }
    ]
