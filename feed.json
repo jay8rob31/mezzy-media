@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T16:15:25",
+ "updated": "2026-08-30T16:20:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -221,15 +221,6 @@
    "title": "Sports",
    "items": [
     {
-     "title": "Georgia Tech unveils 100 changes fans will notice at Bobby Dodd Stadium",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FR6ZFRZWTNBC35IBPKGWAEWYIRU.jpeg?auth=04efea4f19d0d8cbe6ba7cb9cd7204e35a287673275fd6e66cb631229d6f5332&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/georgia-tech-unveils-100-changes-fans-will-notice-bobby-dodd-stadium/MWQW6GKO4RCSDOM6P2D7JBFFZA/",
-     "score": 64
-    },
-    {
      "title": "Chris Sale caps 1st complete game since 2019, Braves shut out Dodgers for sweep",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/sports/local-sports/lorenzo-bailey-wins-national-jr-nbajr-wnba-coach-of-the-year-honor/85-cde1b9bb-b1b3-44b1-8f37-3d59bb6189c9",
+     "score": 0
+    },
+    {
+     "title": "'I have no regrets': Former UGA star Nick Chubb announces retirement from NFL",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/sports/nfl/former-cleveland-browns-rb-nick-chubb-retirement-nfl/95-0979d559-fe83-4588-b7fe-051e609a3f68",
      "score": 0
     }
    ]
