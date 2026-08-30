@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T12:00:25",
+ "updated": "2026-08-30T12:05:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -74,15 +74,6 @@
      "score": 86
     },
     {
-     "title": "Police investigate shooting near Greyhound Bus Station in southwest Atlanta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/crime/police-investigate-shooting-near-greyhound-bus-station-in-southwest-atlanta/85-6bc548b0-3f56-49e9-a3d8-a0118158406d",
-     "score": 86
-    },
-    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -99,6 +90,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFCGYURER5JETTIFRPSUMNL6AIQ.jpeg?auth=7cff255ec0601364d157f4efb46138e06944e18392ecef2800d5d05fd1ada605&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-beltline-deadly-stabbing-family-friends-hold-vigil-29-year-old-victim-call-change/ATXQSOW24RCYLEFLPRWBJ7GNNI/",
      "score": 83
+    },
+    {
+     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_14.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
+     "score": 81
     }
    ]
   },
@@ -170,15 +170,6 @@
      "score": 86
     },
     {
-     "title": "Police investigate shooting near Greyhound Bus Station in southwest Atlanta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/crime/police-investigate-shooting-near-greyhound-bus-station-in-southwest-atlanta/85-6bc548b0-3f56-49e9-a3d8-a0118158406d",
-     "score": 86
-    },
-    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -204,6 +195,15 @@
      "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 81
+    },
+    {
+     "title": "Police investigate shooting near Greyhound Bus Station in southwest Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_3.jpg",
+     "url": "https://www.11alive.com/article/news/crime/police-investigate-shooting-near-greyhound-bus-station-in-southwest-atlanta/85-6bc548b0-3f56-49e9-a3d8-a0118158406d",
+     "score": 80
     },
     {
      "title": "Man trapped in home explosion found dead",
@@ -348,7 +348,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNGQ6IHDAAVFFRO6NTWANTZLRYU.jpg?auth=f902d8ad455794f49fd34e81d1031b6572437d16ee8ce06a083f131c27af1f87&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/trending/kehlani-cancels-concerts-tells-fans-shes-so-much-pain/U6V53FTZTVCE3CXPWXD67HE6YM/",
      "score": 0
     },
