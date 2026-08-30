@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T19:10:25",
+ "updated": "2026-08-30T19:15:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -20,15 +20,6 @@
      "score": 118
     },
     {
-     "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
-     "score": 101
-    },
-    {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
      "desc": "",
      "cat": "Crime",
@@ -45,6 +36,15 @@
      "img": "art/crime_6.jpg",
      "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
      "score": 98
+    },
+    {
+     "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
+     "score": 95
     },
     {
      "title": "Trial opens in deadly Villa Rica home invasion shooting",
@@ -116,15 +116,6 @@
      "score": 118
     },
     {
-     "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
-     "score": 101
-    },
-    {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
      "desc": "",
      "cat": "Crime",
@@ -141,6 +132,15 @@
      "img": "art/crime_6.jpg",
      "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
      "score": 98
+    },
+    {
+     "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
+     "score": 95
     },
     {
      "title": "Trial opens in deadly Villa Rica home invasion shooting",
