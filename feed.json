@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T01:00:25",
+ "updated": "2026-08-30T01:05:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -248,6 +248,15 @@
      "score": 42
     },
     {
+     "title": "College football running back dies after experiencing medical emergency during game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPJRBCH7MDZFXJOMKJXWWUZA7RE.jpeg?auth=438e33f0a46bc5e8ad501ece974cd91bcec25de819dbbc0b353324a9b6e7fffe&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/college-football-running-back-dies-after-experiencing-medical-emergency-during-game/VAFFYXH5HRCTBP257GPMPMDROY/",
+     "score": 40
+    },
+    {
      "title": "Superintendent speaks after fight cancels high school football game",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/28/keeping-kids-safe-healthy-during-football-season/",
-     "score": 0
-    },
-    {
-     "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
      "score": 0
     }
    ]
