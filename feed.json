@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T13:50:25",
+ "updated": "2026-08-30T13:55:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -353,15 +353,6 @@
      "score": 40
     },
     {
-     "title": "Fall Fashion Deals with Statemint Marietta",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/fall-fashion-deals-with-statemint-marietta/",
-     "score": 0
-    },
-    {
      "title": "Teaching Kids Positive Life Lessons Through Music",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/bahama-breeze-closes-good-after-running-out-food/TPJGEC3EEJEM3BBCQBFTMOQKEA/",
+     "score": 0
+    },
+    {
+     "title": "Northwest Naturals raw dog, cat food recalled due to risk of listeria, salmonella",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/northwest-naturals-dog-cat-food-recall-listeria-salmonella/507-48c9afaa-dfe5-46db-96f9-62fe290334ad",
      "score": 0
     }
    ]
