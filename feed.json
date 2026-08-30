@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T06:35:25",
+ "updated": "2026-08-30T06:40:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -230,6 +230,15 @@
      "score": 64
     },
     {
+     "title": "Chris Sale caps 1st complete game since 2019, Braves shut out Dodgers for sweep",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F35GIWEGFSREO7PAQSWSXMEI42Q.jpg?auth=bdbe7f1759a54470c59c8218277f0baa2c89c64e7a5df6caf3cc5d6117c2237a&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/chris-sale-caps-1st-complete-game-since-2019-braves-shut-out-dodgers-sweep/AEKASLLAXVA5DNQMXQYB5LFU5M/",
+     "score": 46
+    },
+    {
      "title": "Harris\u2019 clutch RBI double puts Braves past Rockies for 6th straight win",
      "desc": "",
      "cat": "Sports",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.fox5atlanta.com/news/pregame-fight-halts-rockdale-county-football-game-district-investigates",
      "score": 0
-    },
-    {
-     "title": "Bill Rasmussen, founder of ESPN, dies at 93",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/bill-rasmussen-espn-founder-dies/507-517405db-5d87-4870-88c0-c6605eb744e7",
-     "score": 0
     }
    ]
   },
@@ -366,7 +366,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-28-2026%2Ft_2020f01c84554137b8fd258bf7494f77_name_Kroger_food_pantry_at_South_Atlanta_High_School.png?auth=42304cd0b8b89976aa319b65df0007122f4edc4e501350974d1ad1a2e8fcc8a8&amp;width=1200&amp;height=630&amp;smart=true",
+     "img": "",
      "url": "https://www.wsbtv.com/news/local/south-atlanta-high-school-opens-food-pantry-students-families/UJMWMUZERJFQPEYSTXZSPOCJXM/",
      "score": 0
     },
