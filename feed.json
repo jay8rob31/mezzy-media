@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T15:00:25",
+ "updated": "2026-08-30T15:05:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -18,6 +18,15 @@
      "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/columbia-police-investigate-saturday-morning-shooting/101-897fdb38-a091-4e50-b569-f9749d0656fe",
      "score": 118
+    },
+    {
+     "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
+     "score": 105
     },
     {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
@@ -90,15 +99,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFCGYURER5JETTIFRPSUMNL6AIQ.jpeg?auth=7cff255ec0601364d157f4efb46138e06944e18392ecef2800d5d05fd1ada605&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-beltline-deadly-stabbing-family-friends-hold-vigil-29-year-old-victim-call-change/ATXQSOW24RCYLEFLPRWBJ7GNNI/",
      "score": 83
-    },
-    {
-     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_14.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
-     "score": 81
     }
    ]
   },
@@ -114,6 +114,15 @@
      "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/columbia-police-investigate-saturday-morning-shooting/101-897fdb38-a091-4e50-b569-f9749d0656fe",
      "score": 118
+    },
+    {
+     "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
+     "score": 105
     },
     {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
@@ -204,15 +213,6 @@
      "img": "art/crime_3.jpg",
      "url": "https://www.11alive.com/article/news/crime/police-investigate-shooting-near-greyhound-bus-station-in-southwest-atlanta/85-6bc548b0-3f56-49e9-a3d8-a0118158406d",
      "score": 80
-    },
-    {
-     "title": "Man trapped in home explosion found dead",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
-     "score": 79
     }
    ]
   },
@@ -245,6 +245,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/29/harris-clutch-rbi-double-puts-braves-past-rockies-6th-straight-win/",
+     "score": 30
+    },
+    {
+     "title": "Reese has 8th technical of the season rescinded by WNBA, avoiding 1-game suspension",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/30/reese-has-8th-technical-season-rescinded-by-wnba-avoiding-1-game-suspension/",
      "score": 30
     },
     {
@@ -317,15 +326,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/29/high-schools-entire-football-season-canceled-amid-developing-criminal-investigation/",
-     "score": 0
-    },
-    {
-     "title": "Bill Rasmussen, founder of ESPN, dies at 93",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/bill-rasmussen-espn-founder-dies/507-517405db-5d87-4870-88c0-c6605eb744e7",
      "score": 0
     }
    ]
