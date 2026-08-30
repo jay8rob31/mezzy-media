@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T17:45:25",
+ "updated": "2026-08-30T17:50:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -18,6 +18,15 @@
      "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/columbia-police-investigate-saturday-morning-shooting/101-897fdb38-a091-4e50-b569-f9749d0656fe",
      "score": 118
+    },
+    {
+     "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
+     "score": 101
     },
     {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
@@ -44,15 +53,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/17a8a0eb-video.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting",
-     "score": 93
-    },
-    {
-     "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/loved-ones-remember-5-killed-forest-grove-homicides-mass-shooting/283-f81ffc7c-72c4-4852-a7a2-8887b10fd2c3",
      "score": 93
     },
     {
@@ -116,6 +116,15 @@
      "score": 118
     },
     {
+     "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
+     "score": 101
+    },
+    {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
      "desc": "",
      "cat": "Crime",
@@ -140,15 +149,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/17a8a0eb-video.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting",
-     "score": 93
-    },
-    {
-     "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/loved-ones-remember-5-killed-forest-grove-homicides-mass-shooting/283-f81ffc7c-72c4-4852-a7a2-8887b10fd2c3",
      "score": 93
     },
     {
@@ -339,18 +339,18 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJNIJBQA4NBGTBCXYLT2MG56CAM.jpeg?auth=d202c0ad0d54885778bf73a13538b563e123e96bd38ad7d865f58e8bcb9352a0&amp;width=1200&amp;height=630&amp;smart=true",
+     "img": "",
      "url": "https://www.wsbtv.com/news/local/douglas-county/douglas-county-cancels-museum-lease-with-no-warning/JFVUEKPM3VDDZOX7ZQBH734VNE/",
-     "score": 40
+     "score": 34
     },
     {
      "title": "Douglas County Museum fate still up in air",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJNIJBQA4NBGTBCXYLT2MG56CAM.jpeg?auth=d202c0ad0d54885778bf73a13538b563e123e96bd38ad7d865f58e8bcb9352a0&amp;width=1200&amp;height=630&amp;smart=true",
+     "img": "",
      "url": "https://www.wsbtv.com/news/local/douglas-county/douglas-county-museum-fate-still-up-air/JFVUEKPM3VDDZOX7ZQBH734VNE/",
-     "score": 40
+     "score": 34
     },
     {
      "title": "\u2018Food safety is NOT red tape\u2019: Cattle group pushes back on Trump\u2019s processing proposal",
@@ -360,15 +360,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/30/food-safety-is-not-red-tape-cattle-group-pushes-back-trumps-processing-proposal/",
      "score": 30
-    },
-    {
-     "title": "ATF K-9 teams sweep East Lake Golf Club to keep PGA tournament spectators safe",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/atf-k-9-teams-sweep-east-lake-golf-club-keep-pga-tournament-spectators-safe/NIBO7X54LJD5XO7STQ3JC72SCY/",
-     "score": 0
     },
     {
      "title": "Brunch with Snooze Eatery",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/south-atlanta-high-school-opens-food-pantry-students-families/UJMWMUZERJFQPEYSTXZSPOCJXM/",
+     "score": 0
+    },
+    {
+     "title": "Kehlani cancels concerts, tells fans she\u2019s \u2018in so much pain\u2019",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/kehlani-cancels-concerts-tells-fans-shes-so-much-pain/U6V53FTZTVCE3CXPWXD67HE6YM/",
      "score": 0
     }
    ]
