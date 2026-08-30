@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T15:15:26",
+ "updated": "2026-08-30T15:20:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -83,6 +83,15 @@
      "score": 86
     },
     {
+     "title": "Armed and dangerous suspect on the run after shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F7T6FRQOGMZF4RAEN3EF2GJQNRI.jpg?auth=95d10bcbbe1deb90688bc18c3b1f3ebbbe86e291e7032b7630b65b1fc1fb5f65&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/armed-dangerous-suspect-run-after-shooting/Q5JCVR4A3BEUBEVXXUDZOEQG44/",
+     "score": 86
+    },
+    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -90,15 +99,6 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
      "score": 85
-    },
-    {
-     "title": "Atlanta Beltline deadly stabbing: Family, friends hold vigil for 29-year-old victim, call for change",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFCGYURER5JETTIFRPSUMNL6AIQ.jpeg?auth=7cff255ec0601364d157f4efb46138e06944e18392ecef2800d5d05fd1ada605&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-beltline-deadly-stabbing-family-friends-hold-vigil-29-year-old-victim-call-change/ATXQSOW24RCYLEFLPRWBJ7GNNI/",
-     "score": 83
     }
    ]
   },
@@ -179,6 +179,15 @@
      "score": 86
     },
     {
+     "title": "Armed and dangerous suspect on the run after shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F7T6FRQOGMZF4RAEN3EF2GJQNRI.jpg?auth=95d10bcbbe1deb90688bc18c3b1f3ebbbe86e291e7032b7630b65b1fc1fb5f65&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/armed-dangerous-suspect-run-after-shooting/Q5JCVR4A3BEUBEVXXUDZOEQG44/",
+     "score": 86
+    },
+    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -204,15 +213,6 @@
      "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 81
-    },
-    {
-     "title": "Police investigate shooting near Greyhound Bus Station in southwest Atlanta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/crime/police-investigate-shooting-near-greyhound-bus-station-in-southwest-atlanta/85-6bc548b0-3f56-49e9-a3d8-a0118158406d",
-     "score": 80
     }
    ]
   },
