@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T21:00:25",
+ "updated": "2026-08-29T21:05:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -252,7 +252,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXBHTU4DGDJA6BNLWKUG6GFGRXY.png?auth=f31b89f76103d5d316d4cbb6e6c3367d90daab77ed2fe061ec04afb9239ede7a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/rockdale-county/superintendent-speaks-after-fight-cancels-high-school-football-game/7JIZG7C4AVG2PIT5S5AXSTFEGY/",
      "score": 34
     },
@@ -344,15 +344,6 @@
      "score": 34
     },
     {
-     "title": "Movie theaters to screen special presentations of Dolly Parton films in her honor",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/movie-theaters-amc-regal-special-presentation-dolly-parton-films/507-fb13d8f8-da7a-4bbc-a9ee-48ffb2a727f8",
-     "score": 0
-    },
-    {
      "title": "Gladys Knight cutting back on concerts after concerns on tour",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "11Alive",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
+     "score": 0
+    },
+    {
+     "title": "Canada drops tariffs on US seafood and fish products, including lobster, amid trade tensions",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/canada-drops-retaliatory-counter-tariffs-maine-lobster-seafood/507-4e9b7c7a-86ed-4460-a711-fdb2d6ac632f",
      "score": 0
     }
    ]
