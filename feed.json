@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T08:20:25",
+ "updated": "2026-08-30T08:25:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -353,15 +353,6 @@
      "score": 34
     },
     {
-     "title": "South Atlanta High School opens food pantry for students and families",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-28-2026%2Ft_2020f01c84554137b8fd258bf7494f77_name_Kroger_food_pantry_at_South_Atlanta_High_School.png?auth=42304cd0b8b89976aa319b65df0007122f4edc4e501350974d1ad1a2e8fcc8a8&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/south-atlanta-high-school-opens-food-pantry-students-families/UJMWMUZERJFQPEYSTXZSPOCJXM/",
-     "score": 0
-    },
-    {
      "title": "Kehlani cancels concerts, tells fans she\u2019s \u2018in so much pain\u2019",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/canada-drops-retaliatory-counter-tariffs-maine-lobster-seafood/507-4e9b7c7a-86ed-4460-a711-fdb2d6ac632f",
+     "score": 0
+    },
+    {
+     "title": "Prince estate opens vault with 10-track album marking 10 years since his death",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/prince-timeless-album/507-b4f9db5d-317c-4317-bb00-ca4aa9c1fd18",
      "score": 0
     }
    ]
