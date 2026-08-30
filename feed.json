@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T00:30:25",
+ "updated": "2026-08-30T00:35:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -275,15 +275,6 @@
      "score": 34
     },
     {
-     "title": "Sanford Stadium hosts historic, record-breaking night for Georgia women\u2019s soccer",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/30/sanford-stadium-hosts-historic-record-breaking-night-georgia-womens-soccer/",
-     "score": 30
-    },
-    {
      "title": "WATCH: High School Football: Sandy Creek, Douglas County collide in massive early-season matchup",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/nfl-ending-pro-bowl-game-player-honors-remain/507-d15abcfe-a42d-4d15-be99-3f7f0b733dd5",
+     "score": 0
+    },
+    {
+     "title": "Keeping Kids Safe and Healthy During Football Season",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/keeping-kids-safe-healthy-during-football-season/",
      "score": 0
     }
    ]
