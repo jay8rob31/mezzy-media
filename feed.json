@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T22:15:25",
+ "updated": "2026-08-29T22:20:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -18,6 +18,15 @@
      "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/columbia-police-investigate-saturday-morning-shooting/101-897fdb38-a091-4e50-b569-f9749d0656fe",
      "score": 130
+    },
+    {
+     "title": "Atlanta Beltline deadly stabbing: Family, friends hold vigil for 29-year-old victim, call for change",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFCGYURER5JETTIFRPSUMNL6AIQ.jpeg?auth=7cff255ec0601364d157f4efb46138e06944e18392ecef2800d5d05fd1ada605&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-beltline-deadly-stabbing-family-friends-hold-vigil-29-year-old-victim-call-change/ATXQSOW24RCYLEFLPRWBJ7GNNI/",
+     "score": 101
     },
     {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
@@ -90,15 +99,6 @@
      "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 81
-    },
-    {
-     "title": "GBI investigates officer-involved shooting near Hinesville bar",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPJRBCH7MDZFXJOMKJXWWUZA7RE.jpeg?auth=438e33f0a46bc5e8ad501ece974cd91bcec25de819dbbc0b353324a9b6e7fffe&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/gbi-investigates-officer-involved-shooting-near-hinesville-bar/ZNHZABALPNBJVAZAPSXY3VGB5U/",
-     "score": 80
     }
    ]
   },
@@ -114,6 +114,15 @@
      "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/columbia-police-investigate-saturday-morning-shooting/101-897fdb38-a091-4e50-b569-f9749d0656fe",
      "score": 130
+    },
+    {
+     "title": "Atlanta Beltline deadly stabbing: Family, friends hold vigil for 29-year-old victim, call for change",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFCGYURER5JETTIFRPSUMNL6AIQ.jpeg?auth=7cff255ec0601364d157f4efb46138e06944e18392ecef2800d5d05fd1ada605&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-beltline-deadly-stabbing-family-friends-hold-vigil-29-year-old-victim-call-change/ATXQSOW24RCYLEFLPRWBJ7GNNI/",
+     "score": 101
     },
     {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
@@ -204,15 +213,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
      "score": 79
-    },
-    {
-     "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_15.jpg",
-     "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
-     "score": 76
     }
    ]
   },
