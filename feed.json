@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T09:00:25",
+ "updated": "2026-08-30T09:05:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Last Bahama Breeze in Georgia runs out of food, closes for good",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FV6I6THZWTJBBDD3BDQ7SVKFQGM.png?auth=aaf86140f117c2dd6cc10158a2d09b167f4b303f7998d940a63902fafaaab867&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/bahama-breeze-closes-good-after-running-out-food/TPJGEC3EEJEM3BBCQBFTMOQKEA/",
-     "score": 34
-    },
-    {
      "title": "Northwest Naturals raw dog, cat food recalled due to risk of listeria, salmonella",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/prince-timeless-album/507-b4f9db5d-317c-4317-bb00-ca4aa9c1fd18",
+     "score": 0
+    },
+    {
+     "title": "Movie theaters to screen special presentations of Dolly Parton films in her honor",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/movie-theaters-amc-regal-special-presentation-dolly-parton-films/507-fb13d8f8-da7a-4bbc-a9ee-48ffb2a727f8",
      "score": 0
     }
    ]
