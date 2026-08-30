@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T07:35:25",
+ "updated": "2026-08-30T07:40:24",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -239,15 +239,6 @@
      "score": 46
     },
     {
-     "title": "Harris\u2019 clutch RBI double puts Braves past Rockies for 6th straight win",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YWI4ZDNE4JAH7KHPJ6CMNA2DWE.jpg?auth=d46ec99ff033488d3c79a3d8afb29c03045cc429e4349aa254e966fb24a1c82a&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=2314%2C1060",
-     "url": "https://www.atlantanewsfirst.com/2026/08/29/harris-clutch-rbi-double-puts-braves-past-rockies-6th-straight-win/",
-     "score": 36
-    },
-    {
      "title": "College football running back dies after experiencing medical emergency during game",
      "desc": "",
      "cat": "Sports",
@@ -255,6 +246,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPJRBCH7MDZFXJOMKJXWWUZA7RE.jpeg?auth=438e33f0a46bc5e8ad501ece974cd91bcec25de819dbbc0b353324a9b6e7fffe&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/college-football-running-back-dies-after-experiencing-medical-emergency-during-game/VAFFYXH5HRCTBP257GPMPMDROY/",
      "score": 34
+    },
+    {
+     "title": "Harris\u2019 clutch RBI double puts Braves past Rockies for 6th straight win",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YWI4ZDNE4JAH7KHPJ6CMNA2DWE.jpg?auth=d46ec99ff033488d3c79a3d8afb29c03045cc429e4349aa254e966fb24a1c82a&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=2314%2C1060",
+     "url": "https://www.atlantanewsfirst.com/2026/08/29/harris-clutch-rbi-double-puts-braves-past-rockies-6th-straight-win/",
+     "score": 30
     },
     {
      "title": "WATCH: High School Football: Sandy Creek, Douglas County collide in massive early-season matchup",
