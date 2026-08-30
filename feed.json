@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T18:45:25",
+ "updated": "2026-08-30T18:50:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -239,6 +239,15 @@
      "score": 48
     },
     {
+     "title": "Atlanta Falcons announce 53-man roster for 2026 season",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/R4UBDTUUPVAGTNEW42J6YBEORI.jpg?auth=2624d42a960965b858aab1f3541c4f88b05d522a41b2dfb81a8fd70fc6108f35&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=3099%2C1197",
+     "url": "https://www.atlantanewsfirst.com/2026/08/30/atlanta-falcons-announce-53-man-roster-2026-season/",
+     "score": 48
+    },
+    {
      "title": "Chris Sale caps 1st complete game since 2019, Braves shut out Dodgers for sweep",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/sports/nfl/former-cleveland-browns-rb-nick-chubb-retirement-nfl/95-0979d559-fe83-4588-b7fe-051e609a3f68",
-     "score": 0
-    },
-    {
-     "title": "Outkast marks 30 years of \u2018ATLiens\u2019 by giving back to Atlanta youth soccer",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/outkast-marks-30-years-atliens-by-giving-back-atlanta-youth-soccer/YYCXC4LKONBUTI6X36IUBUW3NY/",
      "score": 0
     }
    ]
