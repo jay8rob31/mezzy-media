@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T17:00:25",
+ "updated": "2026-08-30T17:05:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -83,15 +83,6 @@
      "score": 86
     },
     {
-     "title": "Armed and dangerous suspect on the run after shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F7T6FRQOGMZF4RAEN3EF2GJQNRI.jpg?auth=95d10bcbbe1deb90688bc18c3b1f3ebbbe86e291e7032b7630b65b1fc1fb5f65&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/armed-dangerous-suspect-run-after-shooting/Q5JCVR4A3BEUBEVXXUDZOEQG44/",
-     "score": 86
-    },
-    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -99,6 +90,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
      "score": 85
+    },
+    {
+     "title": "Atlanta Beltline deadly stabbing: Family, friends hold vigil for 29-year-old victim, call for change",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFCGYURER5JETTIFRPSUMNL6AIQ.jpeg?auth=7cff255ec0601364d157f4efb46138e06944e18392ecef2800d5d05fd1ada605&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-beltline-deadly-stabbing-family-friends-hold-vigil-29-year-old-victim-call-change/ATXQSOW24RCYLEFLPRWBJ7GNNI/",
+     "score": 83
     }
    ]
   },
@@ -179,15 +179,6 @@
      "score": 86
     },
     {
-     "title": "Armed and dangerous suspect on the run after shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F7T6FRQOGMZF4RAEN3EF2GJQNRI.jpg?auth=95d10bcbbe1deb90688bc18c3b1f3ebbbe86e291e7032b7630b65b1fc1fb5f65&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/armed-dangerous-suspect-run-after-shooting/Q5JCVR4A3BEUBEVXXUDZOEQG44/",
-     "score": 86
-    },
-    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +204,15 @@
      "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 81
+    },
+    {
+     "title": "Armed and dangerous suspect on the run after shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F7T6FRQOGMZF4RAEN3EF2GJQNRI.jpg?auth=95d10bcbbe1deb90688bc18c3b1f3ebbbe86e291e7032b7630b65b1fc1fb5f65&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/armed-dangerous-suspect-run-after-shooting/Q5JCVR4A3BEUBEVXXUDZOEQG44/",
+     "score": 80
     }
    ]
   },
@@ -228,6 +228,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FR6ZFRZWTNBC35IBPKGWAEWYIRU.jpeg?auth=04efea4f19d0d8cbe6ba7cb9cd7204e35a287673275fd6e66cb631229d6f5332&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/georgia-tech-unveils-100-changes-fans-will-notice-bobby-dodd-stadium/MWQW6GKO4RCSDOM6P2D7JBFFZA/",
      "score": 64
+    },
+    {
+     "title": "Olson delivers walk-off single as Braves outlast Rockies for 7th consecutive win",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/6C5CXLI2EVCMTDI5USSFSVSTSM.jpg?auth=ea7b4be08ff077c68ebbd59ff4d85edf996be3b858d20d34f8513ab59fbc9025&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=1596%2C1141",
+     "url": "https://www.atlantanewsfirst.com/2026/08/30/olson-delivers-walk-off-single-braves-outlast-rockies-7th-consecutive-win/",
+     "score": 48
     },
     {
      "title": "Chris Sale caps 1st complete game since 2019, Braves shut out Dodgers for sweep",
@@ -317,15 +326,6 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/sports/local-sports/lorenzo-bailey-wins-national-jr-nbajr-wnba-coach-of-the-year-honor/85-cde1b9bb-b1b3-44b1-8f37-3d59bb6189c9",
-     "score": 0
-    },
-    {
-     "title": "'I have no regrets': Former UGA star Nick Chubb announces retirement from NFL",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/sports/nfl/former-cleveland-browns-rb-nick-chubb-retirement-nfl/95-0979d559-fe83-4588-b7fe-051e609a3f68",
      "score": 0
     }
    ]
