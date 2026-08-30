@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T22:55:25",
+ "updated": "2026-08-29T23:00:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -270,7 +270,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FBETBQOZPOZC7VB5WKPBVFTSZNQ.png?auth=2938448b7ecda4aa282dd2fc1d55b8fe32e9a5c21b8ea4964f0642f352f89ef0&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/outkast-marks-30-years-atliens-by-giving-back-atlanta-youth-soccer/YYCXC4LKONBUTI6X36IUBUW3NY/",
      "score": 34
     },
@@ -341,7 +341,7 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FV6I6THZWTJBBDD3BDQ7SVKFQGM.png?auth=aaf86140f117c2dd6cc10158a2d09b167f4b303f7998d940a63902fafaaab867&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/bahama-breeze-closes-good-after-running-out-food/TPJGEC3EEJEM3BBCQBFTMOQKEA/",
-     "score": 46
+     "score": 40
     },
     {
      "title": "Prince estate opens vault with 10-track album marking 10 years since his death",
