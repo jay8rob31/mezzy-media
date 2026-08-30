@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T05:25:25",
+ "updated": "2026-08-30T05:30:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -74,6 +74,15 @@
      "score": 87
     },
     {
+     "title": "Murder suspect claims she was too afraid to reveal where missing woman\u2019s remains were",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F66K56HBXVVGAHEOYGA5LS5BS5Q.jpg?auth=fe45f3ad7ac93e89fc2513c88df9fc68589e63450ebce21b0d4b6d103ac632b5&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/murder-suspect-claims-she-was-too-afraid-reveal-where-missing-womans-remains-were/EDLQWIEU6JDNZF2JF45APIFPJM/",
+     "score": 86
+    },
+    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -90,15 +99,6 @@
      "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 81
-    },
-    {
-     "title": "Man trapped in home explosion found dead",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
-     "score": 79
     }
    ]
   },
@@ -170,6 +170,15 @@
      "score": 87
     },
     {
+     "title": "Murder suspect claims she was too afraid to reveal where missing woman\u2019s remains were",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F66K56HBXVVGAHEOYGA5LS5BS5Q.jpg?auth=fe45f3ad7ac93e89fc2513c88df9fc68589e63450ebce21b0d4b6d103ac632b5&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/murder-suspect-claims-she-was-too-afraid-reveal-where-missing-womans-remains-were/EDLQWIEU6JDNZF2JF45APIFPJM/",
+     "score": 86
+    },
+    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -204,15 +213,6 @@
      "img": "art/crime_15.jpg",
      "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
      "score": 76
-    },
-    {
-     "title": "Man accused in fatal South Carolina cop shooting faced charges in Georgia",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/video-4.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-accused-fatal-south-carolina-cop-shooting-faced-charges-dekalb",
-     "score": 74
     }
    ]
   },
