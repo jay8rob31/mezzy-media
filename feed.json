@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T19:05:25",
+ "updated": "2026-08-30T19:10:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -371,15 +371,6 @@
      "score": 34
     },
     {
-     "title": "\u2018Food safety is NOT red tape\u2019: Cattle group pushes back on Trump\u2019s processing proposal",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/30/food-safety-is-not-red-tape-cattle-group-pushes-back-trumps-processing-proposal/",
-     "score": 30
-    },
-    {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
      "desc": "",
      "cat": "Breaking News",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/south-atlanta-high-school-opens-food-pantry-students-families/UJMWMUZERJFQPEYSTXZSPOCJXM/",
+     "score": 0
+    },
+    {
+     "title": "Kehlani cancels concerts, tells fans she\u2019s \u2018in so much pain\u2019",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/kehlani-cancels-concerts-tells-fans-shes-so-much-pain/U6V53FTZTVCE3CXPWXD67HE6YM/",
      "score": 0
     }
    ]
