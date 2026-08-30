@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T00:50:25",
+ "updated": "2026-08-30T00:55:24",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -83,15 +83,6 @@
      "score": 86
     },
     {
-     "title": "Man accused in fatal South Carolina cop shooting faced charges in Georgia",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/video-4.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-accused-fatal-south-carolina-cop-shooting-faced-charges-dekalb",
-     "score": 86
-    },
-    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -99,6 +90,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
      "score": 85
+    },
+    {
+     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_14.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
+     "score": 81
     }
    ]
   },
@@ -179,15 +179,6 @@
      "score": 86
     },
     {
-     "title": "Man accused in fatal South Carolina cop shooting faced charges in Georgia",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/video-4.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-accused-fatal-south-carolina-cop-shooting-faced-charges-dekalb",
-     "score": 86
-    },
-    {
      "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
      "desc": "",
      "cat": "Crime",
@@ -204,6 +195,15 @@
      "img": "art/crime_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
      "score": 81
+    },
+    {
+     "title": "Man accused in fatal South Carolina cop shooting faced charges in Georgia",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/video-4.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-accused-fatal-south-carolina-cop-shooting-faced-charges-dekalb",
+     "score": 80
     },
     {
      "title": "Man trapped in home explosion found dead",
@@ -236,15 +236,6 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F35GIWEGFSREO7PAQSWSXMEI42Q.jpg?auth=bdbe7f1759a54470c59c8218277f0baa2c89c64e7a5df6caf3cc5d6117c2237a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/chris-sale-caps-1st-complete-game-since-2019-braves-shut-out-dodgers-sweep/AEKASLLAXVA5DNQMXQYB5LFU5M/",
-     "score": 46
-    },
-    {
-     "title": "College football running back dies after experiencing medical emergency during game",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPJRBCH7MDZFXJOMKJXWWUZA7RE.jpeg?auth=438e33f0a46bc5e8ad501ece974cd91bcec25de819dbbc0b353324a9b6e7fffe&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/college-football-running-back-dies-after-experiencing-medical-emergency-during-game/VAFFYXH5HRCTBP257GPMPMDROY/",
      "score": 46
     },
     {
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/28/keeping-kids-safe-healthy-during-football-season/",
      "score": 0
+    },
+    {
+     "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
+     "score": 0
     }
    ]
   },
@@ -351,15 +351,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FV6I6THZWTJBBDD3BDQ7SVKFQGM.png?auth=aaf86140f117c2dd6cc10158a2d09b167f4b303f7998d940a63902fafaaab867&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/bahama-breeze-closes-good-after-running-out-food/TPJGEC3EEJEM3BBCQBFTMOQKEA/",
      "score": 40
-    },
-    {
-     "title": "Prince estate opens vault with 10-track album marking 10 years since his death",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/culture_4.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/prince-timeless-album/507-b4f9db5d-317c-4317-bb00-ca4aa9c1fd18",
-     "score": 34
     },
     {
      "title": "Gladys Knight cutting back on concerts after concerns on tour",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/28/brunch-with-snooze-eatery/",
+     "score": 0
+    },
+    {
+     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
+     "desc": "",
+     "cat": "Breaking News",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
      "score": 0
     }
    ]
