@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T18:55:25",
+ "updated": "2026-08-30T19:00:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -47,6 +47,15 @@
      "score": 98
     },
     {
+     "title": "Trial opens in deadly Villa Rica home invasion shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/17a8a0eb-video.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting",
+     "score": 93
+    },
+    {
      "title": "3 facing charges in Mitchell County shooting that killed McDonough man",
      "desc": "",
      "cat": "Crime",
@@ -90,15 +99,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFCGYURER5JETTIFRPSUMNL6AIQ.jpeg?auth=7cff255ec0601364d157f4efb46138e06944e18392ecef2800d5d05fd1ada605&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-beltline-deadly-stabbing-family-friends-hold-vigil-29-year-old-victim-call-change/ATXQSOW24RCYLEFLPRWBJ7GNNI/",
      "score": 83
-    },
-    {
-     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_14.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
-     "score": 81
     }
    ]
   },
@@ -141,6 +141,15 @@
      "img": "art/crime_6.jpg",
      "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
      "score": 98
+    },
+    {
+     "title": "Trial opens in deadly Villa Rica home invasion shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/17a8a0eb-video.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting",
+     "score": 93
     },
     {
      "title": "3 facing charges in Mitchell County shooting that killed McDonough man",
@@ -203,15 +212,6 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F7T6FRQOGMZF4RAEN3EF2GJQNRI.jpg?auth=95d10bcbbe1deb90688bc18c3b1f3ebbbe86e291e7032b7630b65b1fc1fb5f65&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/armed-dangerous-suspect-run-after-shooting/Q5JCVR4A3BEUBEVXXUDZOEQG44/",
-     "score": 80
-    },
-    {
-     "title": "\u2018He was my SON\u2019: Owner demands answers after beloved donkey is shot by police",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZVLPOR5QFRBXVOBFKBWI4CEJNU.webp?auth=e95300d7a218e7cf381d0a529d62d6a1c541ed9e063c47e68b907c0eec857a88&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/he-was-my-son-owner-demands-answers-after-beloved-donkey-is-shot-by-police/MAAKHS54SBDJFH7X275VRQZBNE/",
      "score": 80
     }
    ]
