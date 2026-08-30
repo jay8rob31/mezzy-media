@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T11:50:25",
+ "updated": "2026-08-30T11:55:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -335,11 +335,20 @@
    "title": "ATL Culture",
    "items": [
     {
+     "title": "Douglas County cancels museum lease \u2018with no warning\u2019",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJNIJBQA4NBGTBCXYLT2MG56CAM.jpeg?auth=d202c0ad0d54885778bf73a13538b563e123e96bd38ad7d865f58e8bcb9352a0&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/douglas-county/douglas-county-cancels-museum-lease-with-no-warning/JFVUEKPM3VDDZOX7ZQBH734VNE/",
+     "score": 46
+    },
+    {
      "title": "Kehlani cancels concerts, tells fans she\u2019s \u2018in so much pain\u2019",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FNGQ6IHDAAVFFRO6NTWANTZLRYU.jpg?auth=f902d8ad455794f49fd34e81d1031b6572437d16ee8ce06a083f131c27af1f87&amp;width=1200&amp;height=630&amp;smart=true",
+     "img": "",
      "url": "https://www.wsbtv.com/news/trending/kehlani-cancels-concerts-tells-fans-shes-so-much-pain/U6V53FTZTVCE3CXPWXD67HE6YM/",
      "score": 0
     },
@@ -431,15 +440,6 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/movie-theaters-amc-regal-special-presentation-dolly-parton-films/507-fb13d8f8-da7a-4bbc-a9ee-48ffb2a727f8",
-     "score": 0
-    },
-    {
-     "title": "Last Bahama Breeze in Georgia runs out of food, closes for good",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/bahama-breeze-closes-good-after-running-out-food/TPJGEC3EEJEM3BBCQBFTMOQKEA/",
      "score": 0
     }
    ]
