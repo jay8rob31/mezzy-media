@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T20:50:24",
+ "updated": "2026-08-29T20:55:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -29,15 +29,6 @@
      "score": 98
     },
     {
-     "title": "3 facing charges in Mitchell County shooting that killed McDonough man",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_19.jpg",
-     "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
-     "score": 93
-    },
-    {
      "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
      "desc": "",
      "cat": "Crime",
@@ -54,111 +45,6 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/17a8a0eb-video.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting",
      "score": 93
-    },
-    {
-     "title": "DJ, music producer shot and killed in Atlanta's Castleberry Hill neighborhood",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/crime/dj-music-producer-shot-killed-in-atlantas-castleberry-hill-neighborhood/85-a1e379a4-9bc5-4cdd-a1ba-a4f281b1a314",
-     "score": 87
-    },
-    {
-     "title": "Murder suspect claims she was too afraid to reveal where missing woman\u2019s remains were",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F66K56HBXVVGAHEOYGA5LS5BS5Q.jpg?auth=fe45f3ad7ac93e89fc2513c88df9fc68589e63450ebce21b0d4b6d103ac632b5&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/murder-suspect-claims-she-was-too-afraid-reveal-where-missing-womans-remains-were/EDLQWIEU6JDNZF2JF45APIFPJM/",
-     "score": 86
-    },
-    {
-     "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
-     "score": 85
-    },
-    {
-     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_14.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
-     "score": 81
-    },
-    {
-     "title": "Man hospitalized after shooting on Buford Highway, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2021/08/1200/630/e88ea6ce-police20generic20-20police20lights_1481861178011_2446745_ver1.0.png?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-hospitalized-after-shooting-buford-highway-police-say",
-     "score": 80
-    }
-   ]
-  },
-  {
-   "id": "crime",
-   "title": "Crime Watch",
-   "items": [
-    {
-     "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_9.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/columbia-police-investigate-saturday-morning-shooting/101-897fdb38-a091-4e50-b569-f9749d0656fe",
-     "score": 136
-    },
-    {
-     "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_6.jpg",
-     "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
-     "score": 98
-    },
-    {
-     "title": "3 facing charges in Mitchell County shooting that killed McDonough man",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_19.jpg",
-     "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
-     "score": 93
-    },
-    {
-     "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/loved-ones-remember-5-killed-forest-grove-homicides-mass-shooting/283-f81ffc7c-72c4-4852-a7a2-8887b10fd2c3",
-     "score": 93
-    },
-    {
-     "title": "Trial opens in deadly Villa Rica home invasion shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/17a8a0eb-video.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting",
-     "score": 93
-    },
-    {
-     "title": "DJ, music producer shot and killed in Atlanta's Castleberry Hill neighborhood",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/crime/dj-music-producer-shot-killed-in-atlantas-castleberry-hill-neighborhood/85-a1e379a4-9bc5-4cdd-a1ba-a4f281b1a314",
-     "score": 87
     },
     {
      "title": "Murder suspect claims she was too afraid to reveal where missing woman\u2019s remains were",
@@ -206,13 +92,127 @@
      "score": 80
     },
     {
-     "title": "Man trapped in home explosion found dead",
+     "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_15.jpg",
+     "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
+     "score": 76
+    }
+   ]
+  },
+  {
+   "id": "crime",
+   "title": "Crime Watch",
+   "items": [
+    {
+     "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_9.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/columbia-police-investigate-saturday-morning-shooting/101-897fdb38-a091-4e50-b569-f9749d0656fe",
+     "score": 136
+    },
+    {
+     "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_6.jpg",
+     "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
+     "score": 98
+    },
+    {
+     "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_3.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/loved-ones-remember-5-killed-forest-grove-homicides-mass-shooting/283-f81ffc7c-72c4-4852-a7a2-8887b10fd2c3",
+     "score": 93
+    },
+    {
+     "title": "Trial opens in deadly Villa Rica home invasion shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/17a8a0eb-video.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/trial-opens-deadly-villa-rica-home-invasion-shooting",
+     "score": 93
+    },
+    {
+     "title": "Murder suspect claims she was too afraid to reveal where missing woman\u2019s remains were",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXZMV45FVVJAJFHHVBX76CZUPAY.jpeg?auth=dfa93dbb9ee1a8e6d4ba6645204f3543ba317365641313bd4c10a499ea1d8675&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/paulding-county/man-trapped-home-explosion-found-dead/FA4VM6I7RBGE5FGSDPPBMXRMGU/",
-     "score": 79
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F66K56HBXVVGAHEOYGA5LS5BS5Q.jpg?auth=fe45f3ad7ac93e89fc2513c88df9fc68589e63450ebce21b0d4b6d103ac632b5&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/murder-suspect-claims-she-was-too-afraid-reveal-where-missing-womans-remains-were/EDLQWIEU6JDNZF2JF45APIFPJM/",
+     "score": 86
+    },
+    {
+     "title": "Family heartbroken after music producer, DJ killed in attempted robbery",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
+     "score": 85
+    },
+    {
+     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_14.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
+     "score": 81
+    },
+    {
+     "title": "Man hospitalized after shooting on Buford Highway, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2021/08/1200/630/e88ea6ce-police20generic20-20police20lights_1481861178011_2446745_ver1.0.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-hospitalized-after-shooting-buford-highway-police-say",
+     "score": 80
+    },
+    {
+     "title": "GBI investigates officer-involved shooting near Hinesville bar",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPJRBCH7MDZFXJOMKJXWWUZA7RE.jpeg?auth=438e33f0a46bc5e8ad501ece974cd91bcec25de819dbbc0b353324a9b6e7fffe&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/gbi-investigates-officer-involved-shooting-near-hinesville-bar/ZNHZABALPNBJVAZAPSXY3VGB5U/",
+     "score": 80
+    },
+    {
+     "title": "Atlanta teen kicks off TOUR Championship with HOPE Tee shot",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_15.jpg",
+     "url": "https://www.11alive.com/article/sports/jacob-smith-atlanta-teen-tour-championship-hope-tee-shot/85-2a42e9b4-e1d8-4857-bbe7-2dc5b52e0ae9",
+     "score": 76
+    },
+    {
+     "title": "Police investigating shooting in Washington Park area of Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_11.jpg",
+     "url": "https://www.11alive.com/article/news/crime/police-investigating-shooting-in-washington-park-area-of-atlanta/85-d7234cdb-b5a3-4c87-b1bb-ca03d7374e99",
+     "score": 74
+    },
+    {
+     "title": "Man injured in northwest Atlanta shooting overnight, police recover shell casings",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_8.jpg",
+     "url": "https://www.11alive.com/article/news/crime/man-injured-in-northwest-atlanta-shooting-overnight-police-recover-shell-casings/85-350e0609-ff88-42f0-a708-b35bd2debf06",
+     "score": 74
     }
    ]
   },
@@ -248,20 +248,11 @@
      "score": 46
     },
     {
-     "title": "4 Dawgs named AP preseason All-Americans",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/UJKCMTWLZRCIFB5YWLSMNNNQWI.jpg?auth=7cb5dfcee992298585bb722dc7540181ad5d64a3caef4aa0d9bd52cf1bd82207&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/27/4-dawgs-named-ap-preseason-all-americans/",
-     "score": 46
-    },
-    {
      "title": "Superintendent speaks after fight cancels high school football game",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXBHTU4DGDJA6BNLWKUG6GFGRXY.png?auth=f31b89f76103d5d316d4cbb6e6c3367d90daab77ed2fe061ec04afb9239ede7a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/rockdale-county/superintendent-speaks-after-fight-cancels-high-school-football-game/7JIZG7C4AVG2PIT5S5AXSTFEGY/",
      "score": 34
     },
@@ -270,27 +261,9 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FBETBQOZPOZC7VB5WKPBVFTSZNQ.png?auth=2938448b7ecda4aa282dd2fc1d55b8fe32e9a5c21b8ea4964f0642f352f89ef0&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/outkast-marks-30-years-atliens-by-giving-back-atlanta-youth-soccer/YYCXC4LKONBUTI6X36IUBUW3NY/",
      "score": 34
-    },
-    {
-     "title": "Atlanta United sends Stian Gregersen to Swedish club Malm\u00f6 FF for undisclosed fee",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/27/atlanta-united-sends-stian-gregersen-swedish-club-malm-ff-undisclosed-fee/",
-     "score": 30
-    },
-    {
-     "title": "Disney, NFL team up for apparel collaboration",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/disney-nfl-apparel-collaboration/507-548b2320-0027-4d6b-9de0-460dcccda472",
-     "score": 0
     },
     {
      "title": "WATCH: High School Football: Sandy Creek, Douglas County collide in massive early-season matchup",
@@ -327,6 +300,33 @@
      "img": "",
      "url": "https://www.fox5atlanta.com/news/giant-joro-spiders-ruining-georgias-ecosystem-new-uga-study",
      "score": 0
+    },
+    {
+     "title": "NFL to end Pro Bowl game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/nfl-ending-pro-bowl-game-player-honors-remain/507-d15abcfe-a42d-4d15-be99-3f7f0b733dd5",
+     "score": 0
+    },
+    {
+     "title": "Keeping Kids Safe and Healthy During Football Season",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/keeping-kids-safe-healthy-during-football-season/",
+     "score": 0
+    },
+    {
+     "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
+     "score": 0
     }
    ]
   },
@@ -339,7 +339,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/culture_4.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/prince-timeless-album/507-b4f9db5d-317c-4317-bb00-ca4aa9c1fd18",
      "score": 34
     },
@@ -348,7 +348,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/culture_14.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/movie-theaters-amc-regal-special-presentation-dolly-parton-films/507-fb13d8f8-da7a-4bbc-a9ee-48ffb2a727f8",
      "score": 0
     },
