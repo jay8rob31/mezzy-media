@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T17:10:25",
+ "updated": "2026-08-30T17:15:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -416,15 +416,6 @@
      "score": 0
     },
     {
-     "title": "Movie theaters to screen special presentations of Dolly Parton films in her honor",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/movie-theaters-amc-regal-special-presentation-dolly-parton-films/507-fb13d8f8-da7a-4bbc-a9ee-48ffb2a727f8",
-     "score": 0
-    },
-    {
      "title": "Last Bahama Breeze in Georgia runs out of food, closes for good",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/northwest-naturals-dog-cat-food-recall-listeria-salmonella/507-48c9afaa-dfe5-46db-96f9-62fe290334ad",
+     "score": 0
+    },
+    {
+     "title": "Gladys Knight cutting back on concerts after concerns on tour",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/gladys-knight-cutting-back-concerts-after-concerns-tour",
      "score": 0
     }
    ]
