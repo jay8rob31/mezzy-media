@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T16:00:25",
+ "updated": "2026-08-30T16:05:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -257,24 +257,6 @@
      "score": 30
     },
     {
-     "title": "SEC joins Big Ten in banning football, basketball pros from returning to college",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/big-ten-ruling-college-football-eligibility/507-60946d53-faa3-416e-ac78-ee316e568e94",
-     "score": 0
-    },
-    {
-     "title": "Are giant Joro Spiders ruining Georgia's ecosystem? A new UGA study",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/giant-joro-spiders-ruining-georgias-ecosystem-new-uga-study",
-     "score": 0
-    },
-    {
      "title": "NFL to end Pro Bowl game",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +308,24 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/29/high-schools-entire-football-season-canceled-amid-developing-criminal-investigation/",
+     "score": 0
+    },
+    {
+     "title": "Bill Rasmussen, founder of ESPN, dies at 93",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/bill-rasmussen-espn-founder-dies/507-517405db-5d87-4870-88c0-c6605eb744e7",
+     "score": 0
+    },
+    {
+     "title": "Jonesboro coach Lorenzo Bailey wins national Jr. NBA/Jr. WNBA Coach of the Year honor",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/sports/local-sports/lorenzo-bailey-wins-national-jr-nbajr-wnba-coach-of-the-year-honor/85-cde1b9bb-b1b3-44b1-8f37-3d59bb6189c9",
      "score": 0
     }
    ]
