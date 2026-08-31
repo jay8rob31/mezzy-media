@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T17:00:25",
+ "updated": "2026-08-31T17:05:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -266,15 +266,6 @@
      "score": 40
     },
     {
-     "title": "Angel Reese breaks WNBA double-double record",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/angel-reese-breaks-wnba-double-double-record/MHZ37QDKM5CTJP3HH6R262G7JY/",
-     "score": 34
-    },
-    {
      "title": "Harris\u2019 clutch RBI double puts Braves past Rockies for 6th straight win",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/nfl-ending-pro-bowl-game-player-honors-remain/507-d15abcfe-a42d-4d15-be99-3f7f0b733dd5",
+     "score": 0
+    },
+    {
+     "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
      "score": 0
     }
    ]
