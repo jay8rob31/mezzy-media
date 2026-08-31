@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T17:50:25",
+ "updated": "2026-08-31T17:55:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -263,7 +263,7 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/trending/lionel-messi-announces-retirement-international-football/SGMQ4TSQINBDFMNMUME5R32MQU/",
-     "score": 40
+     "score": 34
     },
     {
      "title": "Harris\u2019 clutch RBI double puts Braves past Rockies for 6th straight win",
@@ -311,21 +311,21 @@
      "score": 0
     },
     {
-     "title": "NFL to end Pro Bowl game",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/nfl-ending-pro-bowl-game-player-honors-remain/507-d15abcfe-a42d-4d15-be99-3f7f0b733dd5",
-     "score": 0
-    },
-    {
      "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
+     "score": 0
+    },
+    {
+     "title": "Pregame fight halts Rockdale County football game as district investigates",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/pregame-fight-halts-rockdale-county-football-game-district-investigates",
      "score": 0
     }
    ]
