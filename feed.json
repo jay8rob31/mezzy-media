@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T14:20:26",
+ "updated": "2026-08-31T14:25:28",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Metropolitan Museum of Art cancels planned Met Gala exhibit on fashion designer John Galliano",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/culture_18.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/john-galliano-met-gala-exhibit-canceled-controversial-statements/507-9cd198b1-f93d-40e5-84bd-8a8a385ba395",
-     "score": 46
-    },
-    {
      "title": "Scottie Scheffler wins TOUR Championship in Atlanta \u2014 here's how much money he'll take home",
      "desc": "",
      "cat": "Culture",
@@ -351,6 +342,15 @@
      "img": "",
      "url": "https://www.11alive.com/article/sports/golf/scottie-scheffler-wins-tour-championship-atlanta-how-much-money-he-will-take-home/85-01b22b7d-e7e2-466e-b1b1-50384b2d8a0e",
      "score": 42
+    },
+    {
+     "title": "Metropolitan Museum of Art cancels planned Met Gala exhibit on fashion designer John Galliano",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/john-galliano-met-gala-exhibit-canceled-controversial-statements/507-9cd198b1-f93d-40e5-84bd-8a8a385ba395",
+     "score": 40
     },
     {
      "title": "Last Bahama Breeze in Georgia runs out of food, closes for good",
