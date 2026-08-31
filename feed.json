@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T11:10:25",
+ "updated": "2026-08-31T11:15:27",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -344,15 +344,6 @@
      "score": 42
     },
     {
-     "title": "Canada drops tariffs on US seafood and fish products, including lobster, amid trade tensions",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/canada-drops-retaliatory-counter-tariffs-maine-lobster-seafood/507-4e9b7c7a-86ed-4460-a711-fdb2d6ac632f",
-     "score": 0
-    },
-    {
      "title": "Prince estate opens vault with 10-track album marking 10 years since his death",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/new-investor-new-name-local-iconic-music-venue/EXVXNM3CXBFPPNMKCCRXGMEH6Q/",
+     "score": 0
+    },
+    {
+     "title": "ATF K-9 teams sweep East Lake Golf Club to keep PGA tournament spectators safe",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/atf-k-9-teams-sweep-east-lake-golf-club-keep-pga-tournament-spectators-safe/NIBO7X54LJD5XO7STQ3JC72SCY/",
      "score": 0
     }
    ]
