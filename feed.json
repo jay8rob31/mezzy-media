@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T13:50:25",
+ "updated": "2026-08-31T13:55:27",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -239,15 +239,6 @@
      "score": 52
     },
     {
-     "title": "Lionel Messi announces retirement from international football",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFCB6HLZ4BRCYZIEBXD7X5E7A7U.jpg?auth=9d45633abdcb0c65657473acce7a21b640f93f70e05079b7a80164eeb2fa11c6&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/trending/lionel-messi-announces-retirement-international-football/SGMQ4TSQINBDFMNMUME5R32MQU/",
-     "score": 46
-    },
-    {
      "title": "Chris Sale caps 1st complete game since 2019, Braves shut out Dodgers for sweep",
      "desc": "",
      "cat": "Sports",
@@ -264,6 +255,15 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/scholarship-set-up-memory-legendary-georgia-high-school-football-coach/44VAMNBELZFCHPSNMDKTTYFJ2E/",
      "score": 42
+    },
+    {
+     "title": "Lionel Messi announces retirement from international football",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/lionel-messi-announces-retirement-international-football/SGMQ4TSQINBDFMNMUME5R32MQU/",
+     "score": 40
     },
     {
      "title": "Angel Reese breaks WNBA double-double record",
