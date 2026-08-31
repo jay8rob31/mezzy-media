@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T20:00:25",
+ "updated": "2026-08-30T20:05:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -266,21 +266,30 @@
      "score": 30
     },
     {
-     "title": "High school football game in Rockdale County canceled because of fight",
+     "title": "Pregame fight halts Rockdale County football game as district investigates",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/high-school-football-game-rockdale-county-canceled-because-fight/",
+     "url": "https://www.fox5atlanta.com/news/pregame-fight-halts-rockdale-county-football-game-district-investigates",
      "score": 0
     },
     {
-     "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
+     "title": "High school\u2019s entire football season canceled amid developing criminal investigation",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
+     "url": "https://www.atlantanewsfirst.com/2026/08/29/high-schools-entire-football-season-canceled-amid-developing-criminal-investigation/",
+     "score": 0
+    },
+    {
+     "title": "3 students in custody after fight at high school football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/coweta-county/3-students-custody-after-fight-high-school-football-game/CYDC622X4VALRBL3JYL2L3VNUY/",
      "score": 0
     },
     {
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/outkast-marks-30-years-atliens-by-giving-back-atlanta-youth-soccer/YYCXC4LKONBUTI6X36IUBUW3NY/",
      "score": 0
-    },
-    {
-     "title": "Sanford Stadium hosts historic, record-breaking night for Georgia women\u2019s soccer",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/30/sanford-stadium-hosts-historic-record-breaking-night-georgia-womens-soccer/",
-     "score": 0
     }
    ]
   },
@@ -341,7 +341,7 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "art/culture_7.jpg",
      "url": "https://www.11alive.com/article/sports/golf/scottie-scheffler-wins-tour-championship-atlanta-how-much-money-he-will-take-home/85-01b22b7d-e7e2-466e-b1b1-50384b2d8a0e",
-     "score": 60
+     "score": 54
     },
     {
      "title": "Scottie Scheffler captures another FedEx Cup and moves past Tiger Woods in PGA Tour career earnings",
