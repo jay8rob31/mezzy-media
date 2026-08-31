@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T13:00:29",
+ "updated": "2026-08-31T13:05:26",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -293,15 +293,6 @@
      "score": 30
     },
     {
-     "title": "Jonesboro coach Lorenzo Bailey wins national Jr. NBA/Jr. WNBA Coach of the Year honor",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/sports/local-sports/lorenzo-bailey-wins-national-jr-nbajr-wnba-coach-of-the-year-honor/85-cde1b9bb-b1b3-44b1-8f37-3d59bb6189c9",
-     "score": 0
-    },
-    {
      "title": "'I have no regrets': Former UGA star Nick Chubb announces retirement from NFL",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/30/sanford-stadium-hosts-historic-record-breaking-night-georgia-womens-soccer/",
+     "score": 0
+    },
+    {
+     "title": "Reese has 8th technical of the season rescinded by WNBA, avoiding 1-game suspension",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/30/reese-has-8th-technical-season-rescinded-by-wnba-avoiding-1-game-suspension/",
      "score": 0
     }
    ]
