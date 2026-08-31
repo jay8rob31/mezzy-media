@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T13:10:26",
+ "updated": "2026-08-31T13:15:26",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -293,15 +293,6 @@
      "score": 30
     },
     {
-     "title": "'I have no regrets': Former UGA star Nick Chubb announces retirement from NFL",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/sports/nfl/former-cleveland-browns-rb-nick-chubb-retirement-nfl/95-0979d559-fe83-4588-b7fe-051e609a3f68",
-     "score": 0
-    },
-    {
      "title": "Outkast marks 30 years of \u2018ATLiens\u2019 by giving back to Atlanta youth soccer",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/30/reese-has-8th-technical-season-rescinded-by-wnba-avoiding-1-game-suspension/",
      "score": 0
+    },
+    {
+     "title": "SEC joins Big Ten in banning football, basketball pros from returning to college",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/big-ten-ruling-college-football-eligibility/507-60946d53-faa3-416e-ac78-ee316e568e94",
+     "score": 0
     }
    ]
   },
@@ -339,7 +339,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/culture_18.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/john-galliano-met-gala-exhibit-canceled-controversial-statements/507-9cd198b1-f93d-40e5-84bd-8a8a385ba395",
      "score": 46
     },
