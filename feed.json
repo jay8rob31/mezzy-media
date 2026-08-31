@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T18:30:25",
+ "updated": "2026-08-31T18:35:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -29,6 +29,15 @@
      "score": 105
     },
     {
+     "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_7.jpg",
+     "url": "https://www.11alive.com/article/news/local/justice-4-heehaw-cedartown-farm-owner-mourning-loss-of-beloved-baby-donkey-shot-killed-by-officer/85-09a04bc2-6609-4c4e-bf0b-d3096ced03ca",
+     "score": 105
+    },
+    {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
      "desc": "",
      "cat": "Crime",
@@ -45,15 +54,6 @@
      "img": "art/crime_19.jpg",
      "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
      "score": 93
-    },
-    {
-     "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
-     "score": 87
     },
     {
      "title": "1 dead, several missing in Grand Canyon flooding",
@@ -125,6 +125,15 @@
      "score": 105
     },
     {
+     "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_7.jpg",
+     "url": "https://www.11alive.com/article/news/local/justice-4-heehaw-cedartown-farm-owner-mourning-loss-of-beloved-baby-donkey-shot-killed-by-officer/85-09a04bc2-6609-4c4e-bf0b-d3096ced03ca",
+     "score": 105
+    },
+    {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
      "desc": "",
      "cat": "Crime",
@@ -141,15 +150,6 @@
      "img": "art/crime_19.jpg",
      "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
      "score": 93
-    },
-    {
-     "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
-     "score": 87
     },
     {
      "title": "1 dead, several missing in Grand Canyon flooding",
