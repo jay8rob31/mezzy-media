@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T23:10:25",
+ "updated": "2026-08-30T23:15:26",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -38,21 +38,21 @@
      "score": 97
     },
     {
-     "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
-     "score": 95
-    },
-    {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
+     "score": 93
+    },
+    {
+     "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_3.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/loved-ones-remember-5-killed-forest-grove-homicides-mass-shooting/283-f81ffc7c-72c4-4852-a7a2-8887b10fd2c3",
      "score": 93
     },
     {
@@ -134,21 +134,21 @@
      "score": 97
     },
     {
-     "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
-     "score": 95
-    },
-    {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
+     "score": 93
+    },
+    {
+     "title": "'They showed up for each other': Loved ones remember 5 killed in Oregon shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_3.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/loved-ones-remember-5-killed-forest-grove-homicides-mass-shooting/283-f81ffc7c-72c4-4852-a7a2-8887b10fd2c3",
      "score": 93
     },
     {
