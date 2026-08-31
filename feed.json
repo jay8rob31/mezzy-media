@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T19:45:25",
+ "updated": "2026-08-31T19:50:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -20,15 +20,6 @@
      "score": 118
     },
     {
-     "title": "Teen arrested in deadly Sandy Springs apartment shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
-     "score": 105
-    },
-    {
      "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
      "desc": "",
      "cat": "Crime",
@@ -45,6 +36,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
      "score": 103
+    },
+    {
+     "title": "Teen arrested in deadly Sandy Springs apartment shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
+     "score": 99
     },
     {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
@@ -116,15 +116,6 @@
      "score": 118
     },
     {
-     "title": "Teen arrested in deadly Sandy Springs apartment shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
-     "score": 105
-    },
-    {
      "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
      "desc": "",
      "cat": "Crime",
@@ -141,6 +132,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
      "score": 103
+    },
+    {
+     "title": "Teen arrested in deadly Sandy Springs apartment shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
+     "score": 99
     },
     {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
