@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T22:25:25",
+ "updated": "2026-08-30T22:30:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -266,15 +266,6 @@
      "score": 30
     },
     {
-     "title": "High school football game in Rockdale County canceled due to pre-game altercation on the field",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/sports/high-school/hs-football/high-school-football-game-canceled-fight-rockdale-county/85-209441de-3f45-4889-9d53-ed7b846711a2",
-     "score": 0
-    },
-    {
      "title": "Bill Rasmussen, founder of ESPN, dies at 93",
      "desc": "",
      "cat": "Sports",
@@ -302,6 +293,15 @@
      "score": 0
     },
     {
+     "title": "Superintendent speaks after fight cancels high school football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/rockdale-county/superintendent-speaks-after-fight-cancels-high-school-football-game/7JIZG7C4AVG2PIT5S5AXSTFEGY/",
+     "score": 0
+    },
+    {
      "title": "Outkast marks 30 years of \u2018ATLiens\u2019 by giving back to Atlanta youth soccer",
      "desc": "",
      "cat": "Sports",
@@ -320,12 +320,12 @@
      "score": 0
     },
     {
-     "title": "\u2018What\u2019s next?\u2019: Referee loses leg after high school football scrimmage injury",
+     "title": "WATCH: High School Football: Sandy Creek, Douglas County collide in massive early-season matchup",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/whats-next-referee-loses-leg-after-high-school-football-scrimmage-injury/",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/watch-high-school-football-sandy-creek-douglas-county-collide-massive-early-season-matchup/",
      "score": 0
     }
    ]
