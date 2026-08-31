@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T12:20:26",
+ "updated": "2026-08-31T12:25:26",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -335,6 +335,15 @@
    "title": "ATL Culture",
    "items": [
     {
+     "title": "Metropolitan Museum of Art cancels planned Met Gala exhibit on fashion designer John Galliano",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/john-galliano-met-gala-exhibit-canceled-controversial-statements/507-9cd198b1-f93d-40e5-84bd-8a8a385ba395",
+     "score": 46
+    },
+    {
      "title": "Scottie Scheffler wins TOUR Championship in Atlanta \u2014 here's how much money he'll take home",
      "desc": "",
      "cat": "Culture",
@@ -386,15 +395,6 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/douglas-county/douglas-county-museum-fate-still-up-air/JFVUEKPM3VDDZOX7ZQBH734VNE/",
-     "score": 0
-    },
-    {
-     "title": "Fall Fashion Deals with Statemint Marietta",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/28/fall-fashion-deals-with-statemint-marietta/",
      "score": 0
     },
     {
