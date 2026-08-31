@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T12:50:25",
+ "updated": "2026-08-31T12:55:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -353,15 +353,6 @@
      "score": 42
     },
     {
-     "title": "Prince estate opens vault with 10-track album marking 10 years since his death",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/prince-timeless-album/507-b4f9db5d-317c-4317-bb00-ca4aa9c1fd18",
-     "score": 0
-    },
-    {
      "title": "Last Bahama Breeze in Georgia runs out of food, closes for good",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/scottie-scheffler-captures-another-fedex-cup-moves-past-tiger-woods-pga-tour-career-earnings/BDRPZWDCYRFQZPI3MJO7K5Q7C4/",
+     "score": 0
+    },
+    {
+     "title": "Brunch with Snooze Eatery",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/brunch-with-snooze-eatery/",
      "score": 0
     }
    ]
