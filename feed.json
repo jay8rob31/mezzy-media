@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T01:30:25",
+ "updated": "2026-08-31T01:35:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -27,15 +27,6 @@
      "img": "art/crime_6.jpg",
      "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
      "score": 98
-    },
-    {
-     "title": "\u2018Keep your head on a swivel\u2019: Gunfire reports rattle Beltline crowd near Ponce City Market",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-30-2026%2Ft_19ba7482e03e4933af894aee0e11694e_name_6PV_INCIDENT_755_NORTH_ATL_VO_frame_0.jpeg?auth=bc7f8252458f26ddefcc17fdb873f948a2eca803169e103d12c90dea5332849f&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/keep-your-head-swivel-gunfire-reports-rattle-beltline-crowd-near-ponce-city-market/JIQWOWJNRZG3JGQ6L5ADM5IE6Y/",
-     "score": 97
     },
     {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
@@ -72,6 +63,15 @@
      "img": "art/crime_19.jpg",
      "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
      "score": 93
+    },
+    {
+     "title": "\u2018Keep your head on a swivel\u2019: Gunfire reports rattle Beltline crowd near Ponce City Market",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-30-2026%2Ft_19ba7482e03e4933af894aee0e11694e_name_6PV_INCIDENT_755_NORTH_ATL_VO_frame_0.jpeg?auth=bc7f8252458f26ddefcc17fdb873f948a2eca803169e103d12c90dea5332849f&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/keep-your-head-swivel-gunfire-reports-rattle-beltline-crowd-near-ponce-city-market/JIQWOWJNRZG3JGQ6L5ADM5IE6Y/",
+     "score": 91
     },
     {
      "title": "DJ, music producer shot and killed in Atlanta's Castleberry Hill neighborhood",
@@ -125,15 +125,6 @@
      "score": 98
     },
     {
-     "title": "\u2018Keep your head on a swivel\u2019: Gunfire reports rattle Beltline crowd near Ponce City Market",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-30-2026%2Ft_19ba7482e03e4933af894aee0e11694e_name_6PV_INCIDENT_755_NORTH_ATL_VO_frame_0.jpeg?auth=bc7f8252458f26ddefcc17fdb873f948a2eca803169e103d12c90dea5332849f&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/keep-your-head-swivel-gunfire-reports-rattle-beltline-crowd-near-ponce-city-market/JIQWOWJNRZG3JGQ6L5ADM5IE6Y/",
-     "score": 97
-    },
-    {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
      "desc": "",
      "cat": "Crime",
@@ -168,6 +159,15 @@
      "img": "art/crime_19.jpg",
      "url": "https://www.11alive.com/article/news/crime/3-facing-charges-mitchell-county-shooting-that-killed-mcdonough-man/85-2ab2603e-bc6f-446b-9e15-cfdd5a2f5c27",
      "score": 93
+    },
+    {
+     "title": "\u2018Keep your head on a swivel\u2019: Gunfire reports rattle Beltline crowd near Ponce City Market",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-30-2026%2Ft_19ba7482e03e4933af894aee0e11694e_name_6PV_INCIDENT_755_NORTH_ATL_VO_frame_0.jpeg?auth=bc7f8252458f26ddefcc17fdb873f948a2eca803169e103d12c90dea5332849f&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/keep-your-head-swivel-gunfire-reports-rattle-beltline-crowd-near-ponce-city-market/JIQWOWJNRZG3JGQ6L5ADM5IE6Y/",
+     "score": 91
     },
     {
      "title": "DJ, music producer shot and killed in Atlanta's Castleberry Hill neighborhood",
