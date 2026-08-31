@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T20:35:25",
+ "updated": "2026-08-30T20:40:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -29,15 +29,6 @@
      "score": 103
     },
     {
-     "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
-     "score": 99
-    },
-    {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
      "desc": "",
      "cat": "Crime",
@@ -54,6 +45,15 @@
      "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
      "score": 95
+    },
+    {
+     "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
+     "score": 93
     },
     {
      "title": "Trial opens in deadly Villa Rica home invasion shooting",
@@ -125,15 +125,6 @@
      "score": 103
     },
     {
-     "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
-     "score": 99
-    },
-    {
      "title": "Man charged with murder after shooting older brother in DeKalb County, police say",
      "desc": "",
      "cat": "Crime",
@@ -150,6 +141,15 @@
      "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
      "score": 95
+    },
+    {
+     "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
+     "score": 93
     },
     {
      "title": "Trial opens in deadly Villa Rica home invasion shooting",
@@ -230,15 +230,6 @@
      "score": 64
     },
     {
-     "title": "Atlanta Falcons announce 53-man roster for 2026 season",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/R4UBDTUUPVAGTNEW42J6YBEORI.jpg?auth=2624d42a960965b858aab1f3541c4f88b05d522a41b2dfb81a8fd70fc6108f35&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=3099%2C1197",
-     "url": "https://www.atlantanewsfirst.com/2026/08/30/atlanta-falcons-announce-53-man-roster-2026-season/",
-     "score": 48
-    },
-    {
      "title": "Chris Sale caps 1st complete game since 2019, Braves shut out Dodgers for sweep",
      "desc": "",
      "cat": "Sports",
@@ -254,6 +245,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/6C5CXLI2EVCMTDI5USSFSVSTSM.jpg?auth=ea7b4be08ff077c68ebbd59ff4d85edf996be3b858d20d34f8513ab59fbc9025&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=1596%2C1141",
      "url": "https://www.atlantanewsfirst.com/2026/08/30/olson-delivers-walk-off-single-braves-outlast-rockies-7th-consecutive-win/",
+     "score": 42
+    },
+    {
+     "title": "Atlanta Falcons announce 53-man roster for 2026 season",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/R4UBDTUUPVAGTNEW42J6YBEORI.jpg?auth=2624d42a960965b858aab1f3541c4f88b05d522a41b2dfb81a8fd70fc6108f35&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=3099%2C1197",
+     "url": "https://www.atlantanewsfirst.com/2026/08/30/atlanta-falcons-announce-53-man-roster-2026-season/",
      "score": 42
     },
     {
