@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T15:10:25",
+ "updated": "2026-08-31T15:15:27",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -320,12 +320,12 @@
      "score": 0
     },
     {
-     "title": "Are giant Joro Spiders ruining Georgia's ecosystem? A new UGA study",
+     "title": "Keeping Kids Safe and Healthy During Football Season",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.fox5atlanta.com/news/giant-joro-spiders-ruining-georgias-ecosystem-new-uga-study",
+     "url": "https://www.atlantanewsfirst.com/2026/08/28/keeping-kids-safe-healthy-during-football-season/",
      "score": 0
     }
    ]
@@ -339,7 +339,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/culture_3.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/georgia-restaurant-celebrates-customer-98th-birthday-walter-arnett/507-9a510f86-2e21-4ec5-a333-6eb0608031c8",
      "score": 46
     },
