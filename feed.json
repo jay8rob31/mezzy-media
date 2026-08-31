@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T14:50:25",
+ "updated": "2026-08-31T14:55:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -293,15 +293,6 @@
      "score": 30
     },
     {
-     "title": "Outkast marks 30 years of \u2018ATLiens\u2019 by giving back to Atlanta youth soccer",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/outkast-marks-30-years-atliens-by-giving-back-atlanta-youth-soccer/YYCXC4LKONBUTI6X36IUBUW3NY/",
-     "score": 0
-    },
-    {
      "title": "Sanford Stadium hosts historic, record-breaking night for Georgia women\u2019s soccer",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/big-ten-ruling-college-football-eligibility/507-60946d53-faa3-416e-ac78-ee316e568e94",
+     "score": 0
+    },
+    {
+     "title": "Are giant Joro Spiders ruining Georgia's ecosystem? A new UGA study",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/giant-joro-spiders-ruining-georgias-ecosystem-new-uga-study",
      "score": 0
     }
    ]
