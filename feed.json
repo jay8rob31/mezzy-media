@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T06:35:25",
+ "updated": "2026-08-31T06:40:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -284,15 +284,6 @@
      "score": 30
     },
     {
-     "title": "Bill Rasmussen, founder of ESPN, dies at 93",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/bill-rasmussen-espn-founder-dies/507-517405db-5d87-4870-88c0-c6605eb744e7",
-     "score": 0
-    },
-    {
      "title": "Jonesboro coach Lorenzo Bailey wins national Jr. NBA/Jr. WNBA Coach of the Year honor",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/outkast-marks-30-years-atliens-by-giving-back-atlanta-youth-soccer/YYCXC4LKONBUTI6X36IUBUW3NY/",
+     "score": 0
+    },
+    {
+     "title": "Sanford Stadium hosts historic, record-breaking night for Georgia women\u2019s soccer",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/30/sanford-stadium-hosts-historic-record-breaking-night-georgia-womens-soccer/",
      "score": 0
     }
    ]
