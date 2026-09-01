@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T13:50:25",
+ "updated": "2026-09-01T13:55:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -335,24 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Mother charged after allegedly giving teen daughters golf club used to hit other teens during fight",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/culture_4.jpg",
-     "url": "https://www.11alive.com/article/news/crime/newnan-georgia-crime-news-mother-charged-teen-daughters-fight-golf-club/85-ab27e1d7-29b9-4f68-8585-035402502fc0",
-     "score": 46
-    },
-    {
-     "title": "U.S. job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/culture_18.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/us-jobs-report-july/507-eb9ad043-8e57-487f-a75f-a635723939a3",
-     "score": 46
-    },
-    {
      "title": "Scottie Scheffler wins TOUR Championship in Atlanta \u2014 here's how much money he'll take home",
      "desc": "",
      "cat": "Culture",
@@ -360,6 +342,24 @@
      "img": "art/culture_7.jpg",
      "url": "https://www.11alive.com/article/sports/golf/scottie-scheffler-wins-tour-championship-atlanta-how-much-money-he-will-take-home/85-01b22b7d-e7e2-466e-b1b1-50384b2d8a0e",
      "score": 42
+    },
+    {
+     "title": "Mother charged after allegedly giving teen daughters golf club used to hit other teens during fight",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/crime/newnan-georgia-crime-news-mother-charged-teen-daughters-fight-golf-club/85-ab27e1d7-29b9-4f68-8585-035402502fc0",
+     "score": 40
+    },
+    {
+     "title": "U.S. job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/us-jobs-report-july/507-eb9ad043-8e57-487f-a75f-a635723939a3",
+     "score": 40
     },
     {
      "title": "Reports: Lionel Richie checks into hospital after weekend concert in St. Louis",
