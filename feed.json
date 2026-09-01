@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T20:00:25",
+ "updated": "2026-08-31T20:05:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -35,6 +35,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
+     "score": 103
+    },
+    {
+     "title": "Man walking in northwest Atlanta wounded after hearing sudden gunfire",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
      "score": 103
     },
     {
@@ -90,15 +99,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F66K56HBXVVGAHEOYGA5LS5BS5Q.jpg?auth=fe45f3ad7ac93e89fc2513c88df9fc68589e63450ebce21b0d4b6d103ac632b5&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/murder-suspect-claims-she-was-too-afraid-reveal-where-missing-womans-remains-were/EDLQWIEU6JDNZF2JF45APIFPJM/",
      "score": 86
-    },
-    {
-     "title": "\u2018Keep your head on a swivel\u2019: Gunfire reports rattle Beltline crowd near Ponce City Market",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-30-2026%2Ft_19ba7482e03e4933af894aee0e11694e_name_6PV_INCIDENT_755_NORTH_ATL_VO_frame_0.jpeg?auth=bc7f8252458f26ddefcc17fdb873f948a2eca803169e103d12c90dea5332849f&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/keep-your-head-swivel-gunfire-reports-rattle-beltline-crowd-near-ponce-city-market/JIQWOWJNRZG3JGQ6L5ADM5IE6Y/",
-     "score": 85
     }
    ]
   },
@@ -131,6 +131,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
+     "score": 103
+    },
+    {
+     "title": "Man walking in northwest Atlanta wounded after hearing sudden gunfire",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
      "score": 103
     },
     {
@@ -204,15 +213,6 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/vlcsnap-2026-08-28-21h21m09s865.png?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/music-producer-shot-killed-during-robbery-attempt-atlanta-police-say",
      "score": 85
-    },
-    {
-     "title": "Atlanta Beltline deadly stabbing: Family, friends hold vigil for 29-year-old victim, call for change",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFCGYURER5JETTIFRPSUMNL6AIQ.jpeg?auth=7cff255ec0601364d157f4efb46138e06944e18392ecef2800d5d05fd1ada605&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-beltline-deadly-stabbing-family-friends-hold-vigil-29-year-old-victim-call-change/ATXQSOW24RCYLEFLPRWBJ7GNNI/",
-     "score": 83
     }
    ]
   },
