@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T05:55:25",
+ "updated": "2026-09-01T06:00:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -248,15 +248,6 @@
      "score": 46
     },
     {
-     "title": "15-year-old football player with dreams of playing in the NFL dies after getting trapped in house fire",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/DAWZPFELJFGMXGKNNGHGDRPLBM.jpg?auth=699ef850e7be3feda962f1441334f51be7cd6aca875d52ef62f24e4956ff8141&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/31/15-year-old-football-player-with-dreams-playing-nfl-dies-after-getting-trapped-house-fire/",
-     "score": 40
-    },
-    {
      "title": "Scholarship set up in memory of legendary Georgia high school football coach",
      "desc": "",
      "cat": "Sports",
@@ -282,6 +273,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
      "score": 36
+    },
+    {
+     "title": "15-year-old football player with dreams of playing in the NFL dies after getting trapped in house fire",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/31/15-year-old-football-player-with-dreams-playing-nfl-dies-after-getting-trapped-house-fire/",
+     "score": 34
     },
     {
      "title": "Olson delivers walk-off single as Braves outlast Rockies for 7th consecutive win",
