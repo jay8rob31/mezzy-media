@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T21:05:25",
+ "updated": "2026-08-31T21:10:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -230,15 +230,6 @@
      "score": 64
     },
     {
-     "title": "Report: Kyle Farmer, pitching prospect to be called up to Braves when rosters expand",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/TP473A2V6RFCFD4X4SVAH2N5LY.jpg?auth=0d1fcff1d5ed325227536e94c3b8b1aad54c68a48bab790a4c5333ff16246c26&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/31/report-kyle-farmer-pitching-prospect-be-called-up-braves-when-rosters-expand/",
-     "score": 48
-    },
-    {
      "title": "Atlanta Falcons finalize 53-man roster ahead of season, with some notable surprises",
      "desc": "",
      "cat": "Sports",
@@ -261,9 +252,18 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F35GIWEGFSREO7PAQSWSXMEI42Q.jpg?auth=bdbe7f1759a54470c59c8218277f0baa2c89c64e7a5df6caf3cc5d6117c2237a&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/chris-sale-caps-1st-complete-game-since-2019-braves-shut-out-dodgers-sweep/AEKASLLAXVA5DNQMXQYB5LFU5M/",
      "score": 46
+    },
+    {
+     "title": "Report: Kyle Farmer, pitching prospect to be called up to Braves when rosters expand",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/31/report-kyle-farmer-pitching-prospect-be-called-up-braves-when-rosters-expand/",
+     "score": 42
     },
     {
      "title": "Scholarship set up in memory of legendary Georgia high school football coach",
@@ -348,7 +348,7 @@
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:sports:www.11alive.com",
-     "img": "",
+     "img": "art/culture_7.jpg",
      "url": "https://www.11alive.com/article/sports/golf/scottie-scheffler-wins-tour-championship-atlanta-how-much-money-he-will-take-home/85-01b22b7d-e7e2-466e-b1b1-50384b2d8a0e",
      "score": 42
     },
