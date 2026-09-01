@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T01:45:25",
+ "updated": "2026-09-01T01:50:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -20,15 +20,6 @@
      "score": 118
     },
     {
-     "title": "Teen arrested in deadly Sandy Springs apartment shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
-     "score": 99
-    },
-    {
      "title": "Cedartown Police chief releases video on 'tragic loss' of HeeHaw the donkey shot, killed by officer",
      "desc": "",
      "cat": "Crime",
@@ -45,6 +36,15 @@
      "img": "art/crime_6.jpg",
      "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
      "score": 98
+    },
+    {
+     "title": "Teen arrested in deadly Sandy Springs apartment shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
+     "score": 93
     },
     {
      "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
@@ -116,15 +116,6 @@
      "score": 118
     },
     {
-     "title": "Teen arrested in deadly Sandy Springs apartment shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
-     "score": 99
-    },
-    {
      "title": "Cedartown Police chief releases video on 'tragic loss' of HeeHaw the donkey shot, killed by officer",
      "desc": "",
      "cat": "Crime",
@@ -141,6 +132,15 @@
      "img": "art/crime_6.jpg",
      "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
      "score": 98
+    },
+    {
+     "title": "Teen arrested in deadly Sandy Springs apartment shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
+     "score": 93
     },
     {
      "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
