@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T23:50:25",
+ "updated": "2026-08-31T23:55:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -230,15 +230,6 @@
      "score": 64
     },
     {
-     "title": "Braves\u2019 7-game win streak snapped by Giants",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/U3AN34LVAREYZNU2DMEV43YIU4.jpg?auth=5240313509fe3ac63a27dae7e270ee501c240344b73b82cfd5dc9089fcfc5060&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=1765%2C650",
-     "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
-     "score": 48
-    },
-    {
      "title": "Atlanta Falcons finalize 53-man roster ahead of season, with some notable surprises",
      "desc": "",
      "cat": "Sports",
@@ -275,6 +266,15 @@
      "score": 42
     },
     {
+     "title": "Braves\u2019 7-game win streak snapped by Giants",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
+     "score": 42
+    },
+    {
      "title": "Scholarship set up in memory of legendary Georgia high school football coach",
      "desc": "",
      "cat": "Sports",
@@ -282,15 +282,6 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/scholarship-set-up-memory-legendary-georgia-high-school-football-coach/44VAMNBELZFCHPSNMDKTTYFJ2E/",
      "score": 36
-    },
-    {
-     "title": "Lionel Messi announces retirement from international football",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/lionel-messi-announces-retirement-international-football/SGMQ4TSQINBDFMNMUME5R32MQU/",
-     "score": 34
     },
     {
      "title": "Olson delivers walk-off single as Braves outlast Rockies for 7th consecutive win",
@@ -326,6 +317,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/28/high-school-football-game-rockdale-county-canceled-because-fight/",
+     "score": 0
+    },
+    {
+     "title": "College Park Skyhawks\u2019 2026-27 schedule announced",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/29/college-park-skyhawks-2026-27-schedule-announced/",
      "score": 0
     }
    ]
