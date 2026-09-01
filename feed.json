@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T22:10:25",
+ "updated": "2026-08-31T22:15:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -197,15 +197,6 @@
      "score": 85
     },
     {
-     "title": "Atlanta Beltline deadly stabbing: Family, friends hold vigil for 29-year-old victim, call for change",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFCGYURER5JETTIFRPSUMNL6AIQ.jpeg?auth=7cff255ec0601364d157f4efb46138e06944e18392ecef2800d5d05fd1ada605&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-beltline-deadly-stabbing-family-friends-hold-vigil-29-year-old-victim-call-change/ATXQSOW24RCYLEFLPRWBJ7GNNI/",
-     "score": 83
-    },
-    {
      "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +204,15 @@
      "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
      "score": 83
+    },
+    {
+     "title": "90 Americans still missing after deadly flooding in Nepal; we now know who some of them are",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_14.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/90-americans-still-missing-deadly-flooding-nepal/507-fab36e0b-be96-437b-9d2a-b814e15196e7",
+     "score": 81
     }
    ]
   },
