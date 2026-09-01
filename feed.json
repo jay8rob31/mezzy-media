@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T23:40:25",
+ "updated": "2026-08-31T23:45:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -335,6 +335,15 @@
    "title": "ATL Culture",
    "items": [
     {
+     "title": "Teen girl hospitalized after being hit in the head with a golf club",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZHBTVX6ED6VVJYPYGNUMHAIMMM.jpg?auth=2d2347dcb0e8d0736a12fc44c36be648d97c45cf3c4b4570aa2e6842a48e08fd&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/teen-girl-hospitalized-after-being-hit-head-with-golf-club/R5K455AKWBG7ROWEVPYXOF7KEE/",
+     "score": 46
+    },
+    {
      "title": "Miley Cyrus debuts name change and teases new music",
      "desc": "",
      "cat": "Culture",
@@ -431,15 +440,6 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/scottie-scheffler-captures-another-fedex-cup-moves-past-tiger-woods-pga-tour-career-earnings/BDRPZWDCYRFQZPI3MJO7K5Q7C4/",
-     "score": 0
-    },
-    {
-     "title": "Atlanta Beltline stairs near Grant Street close for reconstruction months after opening",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/31/atlanta-beltline-stairs-near-grant-street-close-reconstruction-months-after-opening/",
      "score": 0
     }
    ]
