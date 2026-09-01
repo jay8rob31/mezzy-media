@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T17:35:25",
+ "updated": "2026-09-01T17:40:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -239,15 +239,6 @@
      "score": 48
     },
     {
-     "title": "Watch: Brawl breaks out between coaches at youth football game",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/1200/630/screenshot-2026-09-01-at-11.06.53.png?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/watch-brawl-breaks-out-between-coaches-youth-football-game",
-     "score": 48
-    },
-    {
      "title": "Atlanta Falcons finalize 53-man roster ahead of season, with some notable surprises",
      "desc": "",
      "cat": "Sports",
@@ -255,6 +246,15 @@
      "img": "art/sports_8.jpg",
      "url": "https://www.11alive.com/article/sports/nfl/atlanta-falcons/atlanta-falcons-finalize-53-man-roster-ahead-of-season-some-notable-surprises/85-72f292df-1779-4d1f-903b-ee2c86ad3c07",
      "score": 46
+    },
+    {
+     "title": "Watch: Brawl breaks out between coaches at youth football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/1200/630/screenshot-2026-09-01-at-11.06.53.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/watch-brawl-breaks-out-between-coaches-youth-football-game",
+     "score": 42
     },
     {
      "title": "Scholarship set up in memory of legendary Georgia high school football coach",
