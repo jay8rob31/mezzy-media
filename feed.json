@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T11:40:26",
+ "updated": "2026-09-01T11:45:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -407,15 +407,6 @@
      "score": 0
     },
     {
-     "title": "Canada drops tariffs on US seafood and fish products, including lobster, amid trade tensions",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/canada-drops-retaliatory-counter-tariffs-maine-lobster-seafood/507-4e9b7c7a-86ed-4460-a711-fdb2d6ac632f",
-     "score": 0
-    },
-    {
      "title": "Metropolitan Museum of Art cancels planned Met Gala exhibit on fashion designer John Galliano",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/georgia-restaurant-celebrates-customer-98th-birthday-walter-arnett/507-9a510f86-2e21-4ec5-a333-6eb0608031c8",
+     "score": 0
+    },
+    {
+     "title": "Music Monday with DJ Calypso",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/31/music-monday-with-dj-calypso/",
      "score": 0
     }
    ]
