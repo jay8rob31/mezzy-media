@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T14:30:25",
+ "updated": "2026-09-01T14:35:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -38,15 +38,6 @@
      "score": 99
     },
     {
-     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
-     "score": 97
-    },
-    {
      "title": "Teen arrested in deadly Sandy Springs apartment shooting",
      "desc": "",
      "cat": "Crime",
@@ -54,6 +45,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
      "score": 93
+    },
+    {
+     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
+     "score": 91
     },
     {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
@@ -134,15 +134,6 @@
      "score": 99
     },
     {
-     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
-     "score": 97
-    },
-    {
      "title": "Teen arrested in deadly Sandy Springs apartment shooting",
      "desc": "",
      "cat": "Crime",
@@ -150,6 +141,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
      "score": 93
+    },
+    {
+     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
+     "score": 91
     },
     {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
@@ -320,13 +320,13 @@
      "score": 30
     },
     {
-     "title": "Tony Romo pleads no contest to OWI offense, addresses immediate future ahead of NFL season",
+     "title": "Reese has 8th technical of the season rescinded by WNBA, avoiding 1-game suspension",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/09/01/tony-romo-pleads-no-contest-owi-offense-addresses-immediate-future-ahead-nfl-season/",
-     "score": 30
+     "url": "https://www.atlantanewsfirst.com/2026/08/30/reese-has-8th-technical-season-rescinded-by-wnba-avoiding-1-game-suspension/",
+     "score": 0
     }
    ]
   },
