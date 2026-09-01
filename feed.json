@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T14:50:25",
+ "updated": "2026-09-01T14:55:28",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -239,6 +239,15 @@
      "score": 48
     },
     {
+     "title": "Watch: Brawl breaks out between coaches at youth football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/1200/630/screenshot-2026-09-01-at-11.06.53.png?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/watch-brawl-breaks-out-between-coaches-youth-football-game",
+     "score": 48
+    },
+    {
      "title": "Atlanta Falcons finalize 53-man roster ahead of season, with some notable surprises",
      "desc": "",
      "cat": "Sports",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
      "score": 30
-    },
-    {
-     "title": "Reese has 8th technical of the season rescinded by WNBA, avoiding 1-game suspension",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/30/reese-has-8th-technical-season-rescinded-by-wnba-avoiding-1-game-suspension/",
-     "score": 0
     }
    ]
   },
