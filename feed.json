@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T17:50:25",
+ "updated": "2026-09-01T17:55:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -252,7 +252,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/1200/630/screenshot-2026-09-01-at-11.06.53.png?ve=1&amp;tl=1",
+     "img": "",
      "url": "https://www.fox5atlanta.com/news/watch-brawl-breaks-out-between-coaches-youth-football-game",
      "score": 42
     },
@@ -344,13 +344,22 @@
      "score": 42
     },
     {
+     "title": "Reports: Lionel Richie checks into hospital after weekend concert in St. Louis",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/reports-lionel-richie-checks-into-hospital-after-weekend-concert-st-louis/YE34U6JXVBDC5HVTMVSX4YPXPA/",
+     "score": 34
+    },
+    {
      "title": "Mother charged after allegedly giving teen daughters golf club used to hit other teens during fight",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/crime/newnan-georgia-crime-news-mother-charged-teen-daughters-fight-golf-club/85-ab27e1d7-29b9-4f68-8585-035402502fc0",
-     "score": 40
+     "score": 34
     },
     {
      "title": "U.S. job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs",
@@ -359,15 +368,6 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/us-jobs-report-july/507-eb9ad043-8e57-487f-a75f-a635723939a3",
-     "score": 40
-    },
-    {
-     "title": "Reports: Lionel Richie checks into hospital after weekend concert in St. Louis",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/reports-lionel-richie-checks-into-hospital-after-weekend-concert-st-louis/YE34U6JXVBDC5HVTMVSX4YPXPA/",
      "score": 34
     },
     {
