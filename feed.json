@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T12:40:25",
+ "updated": "2026-09-01T12:45:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -425,21 +425,21 @@
      "score": 0
     },
     {
-     "title": "Prince estate opens vault with 10-track album marking 10 years since his death",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/prince-timeless-album/507-b4f9db5d-317c-4317-bb00-ca4aa9c1fd18",
-     "score": 0
-    },
-    {
      "title": "Georgia restaurant celebrates customer's 98th birthday at his 'second home'",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/georgia-restaurant-celebrates-customer-98th-birthday-walter-arnett/507-9a510f86-2e21-4ec5-a333-6eb0608031c8",
+     "score": 0
+    },
+    {
+     "title": "Music Monday with DJ Calypso",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/31/music-monday-with-dj-calypso/",
      "score": 0
     }
    ]
