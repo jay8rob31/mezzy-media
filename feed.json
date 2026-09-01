@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T17:10:25",
+ "updated": "2026-09-01T17:15:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -20,15 +20,6 @@
      "score": 118
     },
     {
-     "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
-     "score": 99
-    },
-    {
      "title": "Teen arrested in deadly Sandy Springs apartment shooting",
      "desc": "",
      "cat": "Crime",
@@ -44,6 +35,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime_13.jpg",
      "url": "https://www.11alive.com/article/news/crime/woman-killed-following-shooting-northwest-atlanta-police-say/85-fd282a08-0b40-43e9-a8d2-49b3bb124950",
+     "score": 93
+    },
+    {
+     "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
      "score": 93
     },
     {
@@ -116,15 +116,6 @@
      "score": 118
     },
     {
-     "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
-     "score": 99
-    },
-    {
      "title": "Teen arrested in deadly Sandy Springs apartment shooting",
      "desc": "",
      "cat": "Crime",
@@ -140,6 +131,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime_13.jpg",
      "url": "https://www.11alive.com/article/news/crime/woman-killed-following-shooting-northwest-atlanta-police-say/85-fd282a08-0b40-43e9-a8d2-49b3bb124950",
+     "score": 93
+    },
+    {
+     "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
      "score": 93
     },
     {
@@ -371,15 +371,6 @@
      "score": 34
     },
     {
-     "title": "\u2018Food safety is NOT red tape\u2019: Cattle group pushes back on Trump\u2019s processing proposal",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/30/food-safety-is-not-red-tape-cattle-group-pushes-back-trumps-processing-proposal/",
-     "score": 0
-    },
-    {
      "title": "Scottie Scheffler captures another FedEx Cup and moves past Tiger Woods in PGA Tour career earnings",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
      "url": "https://www.fox5atlanta.com/news/how-sams-club-worker-used-100-fake-accounts-steal-cellphones",
+     "score": 0
+    },
+    {
+     "title": "Miley Cyrus debuts name change and teases new music",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/miley-cyrus-name-change-debut/507-1f53ce38-25d9-464f-84c9-8ff614af7c55",
      "score": 0
     }
    ]
