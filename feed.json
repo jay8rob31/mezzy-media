@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T05:50:25",
+ "updated": "2026-09-01T05:55:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -20,15 +20,6 @@
      "score": 118
     },
     {
-     "title": "Woman killed following shooting in northwest Atlanta, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_13.jpg",
-     "url": "https://www.11alive.com/article/news/crime/woman-killed-following-shooting-northwest-atlanta-police-say/85-fd282a08-0b40-43e9-a8d2-49b3bb124950",
-     "score": 111
-    },
-    {
      "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
      "desc": "",
      "cat": "Crime",
@@ -36,6 +27,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
      "score": 111
+    },
+    {
+     "title": "Woman killed following shooting in northwest Atlanta, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_13.jpg",
+     "url": "https://www.11alive.com/article/news/crime/woman-killed-following-shooting-northwest-atlanta-police-say/85-fd282a08-0b40-43e9-a8d2-49b3bb124950",
+     "score": 105
     },
     {
      "title": "More than 1,000 dead, 3,916 missing from catastrophic Nepal and Tibet floods",
@@ -116,15 +116,6 @@
      "score": 118
     },
     {
-     "title": "Woman killed following shooting in northwest Atlanta, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_13.jpg",
-     "url": "https://www.11alive.com/article/news/crime/woman-killed-following-shooting-northwest-atlanta-police-say/85-fd282a08-0b40-43e9-a8d2-49b3bb124950",
-     "score": 111
-    },
-    {
      "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
      "desc": "",
      "cat": "Crime",
@@ -132,6 +123,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
      "score": 111
+    },
+    {
+     "title": "Woman killed following shooting in northwest Atlanta, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_13.jpg",
+     "url": "https://www.11alive.com/article/news/crime/woman-killed-following-shooting-northwest-atlanta-police-say/85-fd282a08-0b40-43e9-a8d2-49b3bb124950",
+     "score": 105
     },
     {
      "title": "More than 1,000 dead, 3,916 missing from catastrophic Nepal and Tibet floods",
@@ -311,21 +311,21 @@
      "score": 0
     },
     {
-     "title": "Pregame fight halts Rockdale County football game as district investigates",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/pregame-fight-halts-rockdale-county-football-game-district-investigates",
-     "score": 0
-    },
-    {
      "title": "High school\u2019s entire football season canceled amid developing criminal investigation",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/29/high-schools-entire-football-season-canceled-amid-developing-criminal-investigation/",
+     "score": 0
+    },
+    {
+     "title": "3 students in custody after fight at high school football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/coweta-county/3-students-custody-after-fight-high-school-football-game/CYDC622X4VALRBL3JYL2L3VNUY/",
      "score": 0
     }
    ]
