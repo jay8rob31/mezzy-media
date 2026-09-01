@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T21:10:25",
+ "updated": "2026-08-31T21:15:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -18,15 +18,6 @@
      "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/columbia-police-investigate-saturday-morning-shooting/101-897fdb38-a091-4e50-b569-f9749d0656fe",
      "score": 118
-    },
-    {
-     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
-     "score": 103
     },
     {
      "title": "Man walking in northwest Atlanta wounded after hearing sudden gunfire",
@@ -63,6 +54,15 @@
      "img": "art/crime_6.jpg",
      "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
      "score": 98
+    },
+    {
+     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
+     "score": 97
     },
     {
      "title": "1 dead, several missing in Grand Canyon flooding",
@@ -116,15 +116,6 @@
      "score": 118
     },
     {
-     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
-     "score": 103
-    },
-    {
      "title": "Man walking in northwest Atlanta wounded after hearing sudden gunfire",
      "desc": "",
      "cat": "Crime",
@@ -159,6 +150,15 @@
      "img": "art/crime_6.jpg",
      "url": "https://www.11alive.com/article/news/local/police-responding-to-reports-of-person-shot-in-dekalb-county/85-348e5559-8f4f-429a-bc6c-b1b561e17b8d",
      "score": 98
+    },
+    {
+     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
+     "score": 97
     },
     {
      "title": "1 dead, several missing in Grand Canyon flooding",
@@ -371,15 +371,6 @@
      "score": 34
     },
     {
-     "title": "Last Bahama Breeze in Georgia runs out of food, closes for good",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/bahama-breeze-closes-good-after-running-out-food/TPJGEC3EEJEM3BBCQBFTMOQKEA/",
-     "score": 0
-    },
-    {
      "title": "Northwest Naturals raw dog, cat food recalled due to risk of listeria, salmonella",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/atlanta-beltline-stairs-near-grant-street-close-reconstruction-months-after-opening/",
+     "score": 0
+    },
+    {
+     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
+     "desc": "",
+     "cat": "Breaking News",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
      "score": 0
     }
    ]
