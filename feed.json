@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T03:40:25",
+ "updated": "2026-09-01T03:45:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -344,6 +344,15 @@
      "score": 42
     },
     {
+     "title": "Teen girl hospitalized after being hit in the head with a golf club",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FZHBTVX6ED6VVJYPYGNUMHAIMMM.jpg?auth=2d2347dcb0e8d0736a12fc44c36be648d97c45cf3c4b4570aa2e6842a48e08fd&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/teen-girl-hospitalized-after-being-hit-head-with-golf-club/R5K455AKWBG7ROWEVPYXOF7KEE/",
+     "score": 40
+    },
+    {
      "title": "Miley Cyrus debuts name change and teases new music",
      "desc": "",
      "cat": "Culture",
@@ -431,15 +440,6 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/canada-drops-retaliatory-counter-tariffs-maine-lobster-seafood/507-4e9b7c7a-86ed-4460-a711-fdb2d6ac632f",
-     "score": 0
-    },
-    {
-     "title": "Metropolitan Museum of Art cancels planned Met Gala exhibit on fashion designer John Galliano",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/john-galliano-met-gala-exhibit-canceled-controversial-statements/507-9cd198b1-f93d-40e5-84bd-8a8a385ba395",
      "score": 0
     }
    ]
