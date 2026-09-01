@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T20:30:26",
+ "updated": "2026-08-31T20:35:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -18,15 +18,6 @@
      "img": "art/crime_9.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/columbia-police-investigate-saturday-morning-shooting/101-897fdb38-a091-4e50-b569-f9749d0656fe",
      "score": 118
-    },
-    {
-     "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_7.jpg",
-     "url": "https://www.11alive.com/article/news/local/justice-4-heehaw-cedartown-farm-owner-mourning-loss-of-beloved-baby-donkey-shot-killed-by-officer/85-09a04bc2-6609-4c4e-bf0b-d3096ced03ca",
-     "score": 105
     },
     {
      "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
@@ -53,6 +44,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
+     "score": 99
+    },
+    {
+     "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_7.jpg",
+     "url": "https://www.11alive.com/article/news/local/justice-4-heehaw-cedartown-farm-owner-mourning-loss-of-beloved-baby-donkey-shot-killed-by-officer/85-09a04bc2-6609-4c4e-bf0b-d3096ced03ca",
      "score": 99
     },
     {
@@ -116,15 +116,6 @@
      "score": 118
     },
     {
-     "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_7.jpg",
-     "url": "https://www.11alive.com/article/news/local/justice-4-heehaw-cedartown-farm-owner-mourning-loss-of-beloved-baby-donkey-shot-killed-by-officer/85-09a04bc2-6609-4c4e-bf0b-d3096ced03ca",
-     "score": 105
-    },
-    {
      "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
      "desc": "",
      "cat": "Crime",
@@ -149,6 +140,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
+     "score": 99
+    },
+    {
+     "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_7.jpg",
+     "url": "https://www.11alive.com/article/news/local/justice-4-heehaw-cedartown-farm-owner-mourning-loss-of-beloved-baby-donkey-shot-killed-by-officer/85-09a04bc2-6609-4c4e-bf0b-d3096ced03ca",
      "score": 99
     },
     {
