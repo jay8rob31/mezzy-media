@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T16:00:28",
+ "updated": "2026-09-01T16:05:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -311,21 +311,21 @@
      "score": 30
     },
     {
-     "title": "Harris\u2019 clutch RBI double puts Braves past Rockies for 6th straight win",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/29/harris-clutch-rbi-double-puts-braves-past-rockies-6th-straight-win/",
-     "score": 30
-    },
-    {
      "title": "Braves\u2019 7-game win streak snapped by Giants",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
+     "score": 30
+    },
+    {
+     "title": "Harris\u2019 clutch RBI double puts Braves past Rockies for 6th straight win",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/29/harris-clutch-rbi-double-puts-braves-past-rockies-6th-straight-win/",
      "score": 30
     }
    ]
