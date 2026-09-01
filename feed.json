@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T10:10:25",
+ "updated": "2026-09-01T10:15:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -65,21 +65,21 @@
      "score": 93
     },
     {
-     "title": "More than 1,000 dead, 3,916 missing from catastrophic Nepal and Tibet floods",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_16.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-flooding-missing-china/507-206be34d-2023-468a-a277-e522a0771cb3",
-     "score": 93
-    },
-    {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
+     "score": 87
+    },
+    {
+     "title": "More than 1,000 dead, 3,916 missing from catastrophic Nepal and Tibet floods",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_16.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-flooding-missing-china/507-206be34d-2023-468a-a277-e522a0771cb3",
      "score": 87
     },
     {
@@ -161,21 +161,21 @@
      "score": 93
     },
     {
-     "title": "More than 1,000 dead, 3,916 missing from catastrophic Nepal and Tibet floods",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_16.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-flooding-missing-china/507-206be34d-2023-468a-a277-e522a0771cb3",
-     "score": 93
-    },
-    {
      "title": "Donkey shot, killed in Polk County; Cedartown officer on leave",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-august-30-2026-at-14.33.58.jpeg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/donkey-shot-killed-polk-county-cedartown-police-officer-leave",
+     "score": 87
+    },
+    {
+     "title": "More than 1,000 dead, 3,916 missing from catastrophic Nepal and Tibet floods",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_16.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/nepal-tibet-flooding-missing-china/507-206be34d-2023-468a-a277-e522a0771cb3",
      "score": 87
     },
     {
