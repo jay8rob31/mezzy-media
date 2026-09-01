@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T18:30:25",
+ "updated": "2026-09-01T18:35:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -252,7 +252,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/1200/630/screenshot-2026-09-01-at-11.06.53.png?ve=1&amp;tl=1",
+     "img": "",
      "url": "https://www.fox5atlanta.com/news/watch-brawl-breaks-out-between-coaches-youth-football-game",
      "score": 42
     },
@@ -334,6 +334,15 @@
    "id": "culture",
    "title": "ATL Culture",
    "items": [
+    {
+     "title": "Music therapy program connects toddlers and seniors",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/culture_5.jpg",
+     "url": "https://www.11alive.com/article/entertainment/music/music-therapy-program-connects-toddlers-and-seniors/85-4a295f49-f8a8-402f-8fbd-eb4ddfdf60a3",
+     "score": 46
+    },
     {
      "title": "Scottie Scheffler wins TOUR Championship in Atlanta \u2014 here's how much money he'll take home",
      "desc": "",
@@ -431,15 +440,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
      "url": "https://www.fox5atlanta.com/news/how-sams-club-worker-used-100-fake-accounts-steal-cellphones",
-     "score": 0
-    },
-    {
-     "title": "Miley Cyrus debuts name change and teases new music",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/miley-cyrus-name-change-debut/507-1f53ce38-25d9-464f-84c9-8ff614af7c55",
      "score": 0
     }
    ]
