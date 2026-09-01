@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T19:35:25",
+ "updated": "2026-09-01T19:40:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -275,15 +275,6 @@
      "score": 34
     },
     {
-     "title": "DeKalb screen time, UGA med school students, and new Children's CEO",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/dekalb-screen-time-uga-med-school-students-new-childrens-ceo",
-     "score": 34
-    },
-    {
      "title": "Report: Kyle Farmer, pitching prospect to be called up to Braves when rosters expand",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/big-12-ban-former-nfl-players/507-f1eba372-0f91-4720-9bf0-9a43cd757477",
+     "score": 0
+    },
+    {
+     "title": "Angel Reese breaks WNBA double-double record",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/angel-reese-breaks-wnba-double-double-record/MHZ37QDKM5CTJP3HH6R262G7JY/",
      "score": 0
     }
    ]
