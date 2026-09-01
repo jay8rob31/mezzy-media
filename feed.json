@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T22:20:25",
+ "updated": "2026-08-31T22:25:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -335,6 +335,24 @@
    "title": "ATL Culture",
    "items": [
     {
+     "title": "Miley Cyrus debuts name change and teases new music",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/culture_3.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/miley-cyrus-name-change-debut/507-1f53ce38-25d9-464f-84c9-8ff614af7c55",
+     "score": 46
+    },
+    {
+     "title": "Domino's offers free pizza to people who eat at other fast food restaurants",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/culture_18.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/dominos-free-pizza-new-menu-item/507-484d5309-bc21-445d-a9c9-da490082b1ec",
+     "score": 46
+    },
+    {
      "title": "Scottie Scheffler wins TOUR Championship in Atlanta \u2014 here's how much money he'll take home",
      "desc": "",
      "cat": "Culture",
@@ -422,24 +440,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/atlanta-beltline-stairs-near-grant-street-close-reconstruction-months-after-opening/",
-     "score": 0
-    },
-    {
-     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
-     "desc": "",
-     "cat": "Breaking News",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
-     "score": 0
-    },
-    {
-     "title": "Canada drops tariffs on US seafood and fish products, including lobster, amid trade tensions",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/canada-drops-retaliatory-counter-tariffs-maine-lobster-seafood/507-4e9b7c7a-86ed-4460-a711-fdb2d6ac632f",
      "score": 0
     }
    ]
