@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T10:40:24",
+ "updated": "2026-09-01T10:45:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -284,15 +284,6 @@
      "score": 34
     },
     {
-     "title": "Mother suggests metal detectors after gun found during fight at high school football game",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/mother-suggests-metal-detectors-after-gun-found-during-fight-high-school-football-game/ZBB42ST535F4ZKEYWSZZF5VOCQ/",
-     "score": 34
-    },
-    {
      "title": "Olson delivers walk-off single as Braves outlast Rockies for 7th consecutive win",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
      "score": 30
+    },
+    {
+     "title": "Reese has 8th technical of the season rescinded by WNBA, avoiding 1-game suspension",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/30/reese-has-8th-technical-season-rescinded-by-wnba-avoiding-1-game-suspension/",
+     "score": 0
     }
    ]
   },
