@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T11:10:27",
+ "updated": "2026-09-01T11:15:24",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -20,21 +20,21 @@
      "score": 118
     },
     {
-     "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
-     "score": 105
-    },
-    {
      "title": "Woman killed following shooting in northwest Atlanta, police say",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime_13.jpg",
      "url": "https://www.11alive.com/article/news/crime/woman-killed-following-shooting-northwest-atlanta-police-say/85-fd282a08-0b40-43e9-a8d2-49b3bb124950",
+     "score": 99
+    },
+    {
+     "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
      "score": 99
     },
     {
@@ -116,21 +116,21 @@
      "score": 118
     },
     {
-     "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
-     "score": 105
-    },
-    {
      "title": "Woman killed following shooting in northwest Atlanta, police say",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime_13.jpg",
      "url": "https://www.11alive.com/article/news/crime/woman-killed-following-shooting-northwest-atlanta-police-say/85-fd282a08-0b40-43e9-a8d2-49b3bb124950",
+     "score": 99
+    },
+    {
+     "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
      "score": 99
     },
     {
