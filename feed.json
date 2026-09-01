@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T10:15:25",
+ "updated": "2026-09-01T10:20:27",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -284,6 +284,15 @@
      "score": 34
     },
     {
+     "title": "Mother suggests metal detectors after gun found during fight at high school football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/mother-suggests-metal-detectors-after-gun-found-during-fight-high-school-football-game/ZBB42ST535F4ZKEYWSZZF5VOCQ/",
+     "score": 34
+    },
+    {
      "title": "Olson delivers walk-off single as Braves outlast Rockies for 7th consecutive win",
      "desc": "",
      "cat": "Sports",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
      "score": 30
-    },
-    {
-     "title": "Georgia aquarium welcomes 2 new beluga whales",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/09/01/georgia-aquarium-welcomes-2-new-beluga-whales/",
-     "score": 30
     }
    ]
   },
@@ -351,24 +351,6 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/trending/reports-lionel-richie-checks-into-hospital-after-weekend-concert-st-louis/YE34U6JXVBDC5HVTMVSX4YPXPA/",
      "score": 40
-    },
-    {
-     "title": "Miley Cyrus debuts name change and teases new music",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/miley-cyrus-name-change-debut/507-1f53ce38-25d9-464f-84c9-8ff614af7c55",
-     "score": 34
-    },
-    {
-     "title": "Domino's offers free pizza to people who eat at other fast food restaurants",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/dominos-free-pizza-new-menu-item/507-484d5309-bc21-445d-a9c9-da490082b1ec",
-     "score": 34
     },
     {
      "title": "Douglas County cancels museum lease \u2018with no warning\u2019",
@@ -440,6 +422,24 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/john-galliano-met-gala-exhibit-canceled-controversial-statements/507-9cd198b1-f93d-40e5-84bd-8a8a385ba395",
+     "score": 0
+    },
+    {
+     "title": "Prince estate opens vault with 10-track album marking 10 years since his death",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/prince-timeless-album/507-b4f9db5d-317c-4317-bb00-ca4aa9c1fd18",
+     "score": 0
+    },
+    {
+     "title": "Georgia restaurant celebrates customer's 98th birthday at his 'second home'",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/georgia-restaurant-celebrates-customer-98th-birthday-walter-arnett/507-9a510f86-2e21-4ec5-a333-6eb0608031c8",
      "score": 0
     }
    ]
