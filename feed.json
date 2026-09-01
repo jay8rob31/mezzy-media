@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T12:25:25",
+ "updated": "2026-09-01T12:30:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -252,7 +252,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/sports_13.jpg",
      "url": "https://www.11alive.com/article/news/nation-world/jacob-fields-tcu-forth-worth-texas/507-d9d545d4-1b4d-4cd5-ac3f-ef82bb376f1f",
      "score": 40
     },
@@ -261,7 +261,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/student-screen-time-new-med-students-new-ceo-for-childrens.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/dekalb-screen-time-uga-med-school-students-new-childrens-ceo",
      "score": 40
     },
