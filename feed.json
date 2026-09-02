@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T23:20:25",
+ "updated": "2026-09-01T23:25:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -371,15 +371,6 @@
      "score": 34
     },
     {
-     "title": "Atlanta Beltline stairs near Grant Street close for reconstruction months after opening",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/31/atlanta-beltline-stairs-near-grant-street-close-reconstruction-months-after-opening/",
-     "score": 0
-    },
-    {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
      "desc": "",
      "cat": "Breaking News",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/dominos-free-pizza-new-menu-item/507-484d5309-bc21-445d-a9c9-da490082b1ec",
+     "score": 0
+    },
+    {
+     "title": "Coweta County family speaks out after teenager beaten with a golf club released from hospital",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/09/01/coweta-county-family-speaks-out-after-teenager-beaten-with-golf-club-released-hospital/",
      "score": 0
     }
    ]
