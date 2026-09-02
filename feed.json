@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T14:30:28",
+ "updated": "2026-09-02T14:35:26",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -92,13 +92,13 @@
      "score": 87
     },
     {
-     "title": "Suspect accused of shooting, killing Georgia police officer caught in SC",
+     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2ETYLNTXB5GI3EZAIBS56K5VV4.png?auth=66b7f6ac68cb0aa9f7e5660e6b1d7035669dd190e5195364b82cba27292ccae3&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/suspect-accused-shooting-killing-georgia-police-officer-caught-sc/DM3S32H6SVGK3CBACPTWBW2UZU/",
-     "score": 86
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
+     "score": 85
     }
    ]
   },
@@ -188,15 +188,6 @@
      "score": 87
     },
     {
-     "title": "Suspect accused of shooting, killing Georgia police officer caught in SC",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2ETYLNTXB5GI3EZAIBS56K5VV4.png?auth=66b7f6ac68cb0aa9f7e5660e6b1d7035669dd190e5195364b82cba27292ccae3&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/suspect-accused-shooting-killing-georgia-police-officer-caught-sc/DM3S32H6SVGK3CBACPTWBW2UZU/",
-     "score": 86
-    },
-    {
      "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +204,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
      "score": 85
+    },
+    {
+     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
+     "score": 85
     }
    ]
   },
@@ -225,7 +225,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/FS3IL3HKKNACDFPTJZYC7MWI6U.jpg?auth=daa49bd5da6260b55018afb32e593a8aeab230262441c8ad30465bc536befbdb&amp;width=1200&amp;height=600&amp;smart=true",
+     "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/georgia-tech-kick-off-season-with-rare-thursday-night-game-bobby-dodd-stadium/",
      "score": 48
     },
@@ -335,6 +335,15 @@
    "title": "ATL Culture",
    "items": [
     {
+     "title": "Employee injured in fire outside Perimeter Mall restaurant",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YQF7KRDB7VASLP7IMYEBTAEIUY.png?auth=d9fc4afb499775bfe91c01b924fc03af518ac506761aa03bba0e9e33d324bcd4&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/09/02/employee-injured-fire-outside-perimeter-mall-restaurant/",
+     "score": 52
+    },
+    {
      "title": "WATCH: HBO releases new trailer for 'Harry Potter' TV show, featuring extended look inside Hogwarts",
      "desc": "",
      "cat": "Culture",
@@ -369,15 +378,6 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/trending/six-workers-injured-after-ed-sheeran-concert-detroit/62FJYPTXRJEHFHEDCETIQAIY3A/",
      "score": 34
-    },
-    {
-     "title": "Georgia restaurant celebrates customer's 98th birthday at his 'second home'",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/georgia-restaurant-celebrates-customer-98th-birthday-walter-arnett/507-9a510f86-2e21-4ec5-a333-6eb0608031c8",
-     "score": 0
     },
     {
      "title": "Music Monday with DJ Calypso",
