@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T00:20:25",
+ "updated": "2026-09-02T00:25:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -344,15 +344,6 @@
      "score": 42
     },
     {
-     "title": "Music therapy program connects toddlers and seniors",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/entertainment/music/music-therapy-program-connects-toddlers-and-seniors/85-4a295f49-f8a8-402f-8fbd-eb4ddfdf60a3",
-     "score": 40
-    },
-    {
      "title": "Douglas County Commissioners grant one-year lease to historic museum",
      "desc": "",
      "cat": "Culture",
@@ -360,6 +351,15 @@
      "img": "",
      "url": "https://www.fox5atlanta.com/news/douglas-county-commissioners-grant-one-year-lease-historic-museum",
      "score": 40
+    },
+    {
+     "title": "Music therapy program connects toddlers and seniors",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/entertainment/music/music-therapy-program-connects-toddlers-and-seniors/85-4a295f49-f8a8-402f-8fbd-eb4ddfdf60a3",
+     "score": 34
     },
     {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
