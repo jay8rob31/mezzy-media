@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T12:30:26",
+ "updated": "2026-09-02T12:35:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -275,15 +275,6 @@
      "score": 34
     },
     {
-     "title": "Teen sells Jimothy the raccoon gold baseball card for $20K",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/teen-sells-jimothy-raccoon-gold-card-20k/507-0f8905d0-fe64-4a99-83fa-3736fd8940ec",
-     "score": 34
-    },
-    {
      "title": "Report: Kyle Farmer, pitching prospect to be called up to Braves when rosters expand",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:sports:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/sports/nfl/former-cleveland-browns-rb-nick-chubb-retirement-nfl/95-0979d559-fe83-4588-b7fe-051e609a3f68",
+     "score": 0
+    },
+    {
+     "title": "Six charged in fight at East Coweta vs. Newnan football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/crime/east-coweta-newnan-football-fight-six-charged/85-247b632f-387d-4332-8f1f-79131870ecf0",
      "score": 0
     }
    ]
