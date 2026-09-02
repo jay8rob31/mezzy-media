@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T23:50:25",
+ "updated": "2026-09-01T23:55:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -362,15 +362,6 @@
      "score": 40
     },
     {
-     "title": "U.S. job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/us-jobs-report-july/507-eb9ad043-8e57-487f-a75f-a635723939a3",
-     "score": 34
-    },
-    {
      "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
      "desc": "",
      "cat": "Breaking News",
@@ -431,6 +422,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/dominos-free-pizza-new-menu-item/507-484d5309-bc21-445d-a9c9-da490082b1ec",
+     "score": 0
+    },
+    {
+     "title": "U.S. job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/us-jobs-report-july/507-eb9ad043-8e57-487f-a75f-a635723939a3",
      "score": 0
     },
     {
