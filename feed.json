@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T16:55:25",
+ "updated": "2026-09-02T17:00:26",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -65,15 +65,6 @@
      "score": 93
     },
     {
-     "title": "Police investigating deadly shooting at southeast Atlanta park",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/O5NMTRGAZFHMPHXTDCPMOIBTS4.png?auth=c79aaacd19b6ab88750b7e3485436c4d238ad28a4dd8fab44486f79c9641067f&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/09/02/police-investigating-deadly-shooting-southeast-atlanta-park/",
-     "score": 89
-    },
-    {
      "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
      "desc": "",
      "cat": "Crime",
@@ -98,6 +89,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
+     "score": 85
+    },
+    {
+     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
      "score": 85
     }
    ]
@@ -161,15 +161,6 @@
      "score": 93
     },
     {
-     "title": "Police investigating deadly shooting at southeast Atlanta park",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/O5NMTRGAZFHMPHXTDCPMOIBTS4.png?auth=c79aaacd19b6ab88750b7e3485436c4d238ad28a4dd8fab44486f79c9641067f&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/09/02/police-investigating-deadly-shooting-southeast-atlanta-park/",
-     "score": 89
-    },
-    {
      "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +204,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-30-2026%2Ft_19ba7482e03e4933af894aee0e11694e_name_6PV_INCIDENT_755_NORTH_ATL_VO_frame_0.jpeg?auth=bc7f8252458f26ddefcc17fdb873f948a2eca803169e103d12c90dea5332849f&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/keep-your-head-swivel-gunfire-reports-rattle-beltline-crowd-near-ponce-city-market/JIQWOWJNRZG3JGQ6L5ADM5IE6Y/",
      "score": 85
+    },
+    {
+     "title": "Police investigating deadly shooting at southeast Atlanta park",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/O5NMTRGAZFHMPHXTDCPMOIBTS4.png?auth=c79aaacd19b6ab88750b7e3485436c4d238ad28a4dd8fab44486f79c9641067f&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/09/02/police-investigating-deadly-shooting-southeast-atlanta-park/",
+     "score": 83
     }
    ]
   },
