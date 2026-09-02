@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T06:30:26",
+ "updated": "2026-09-02T06:35:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -248,24 +248,6 @@
      "score": 42
     },
     {
-     "title": "Teen sells Jimothy the raccoon gold baseball card for $20K",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/teen-sells-jimothy-raccoon-gold-card-20k/507-0f8905d0-fe64-4a99-83fa-3736fd8940ec",
-     "score": 40
-    },
-    {
-     "title": "Scholarship set up in memory of legendary Georgia high school football coach",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/scholarship-set-up-memory-legendary-georgia-high-school-football-coach/44VAMNBELZFCHPSNMDKTTYFJ2E/",
-     "score": 36
-    },
-    {
      "title": "Watch: Brawl breaks out between coaches at youth football game",
      "desc": "",
      "cat": "Sports",
@@ -281,6 +263,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/15-year-old-football-player-with-dreams-playing-nfl-dies-after-getting-trapped-house-fire/",
+     "score": 34
+    },
+    {
+     "title": "Teen sells Jimothy the raccoon gold baseball card for $20K",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/teen-sells-jimothy-raccoon-gold-card-20k/507-0f8905d0-fe64-4a99-83fa-3736fd8940ec",
      "score": 34
     },
     {
@@ -326,6 +317,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/trending/lionel-messi-announces-retirement-international-football/SGMQ4TSQINBDFMNMUME5R32MQU/",
+     "score": 0
+    },
+    {
+     "title": "'I have no regrets': Former UGA star Nick Chubb announces retirement from NFL",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/sports/nfl/former-cleveland-browns-rb-nick-chubb-retirement-nfl/95-0979d559-fe83-4588-b7fe-051e609a3f68",
      "score": 0
     }
    ]
