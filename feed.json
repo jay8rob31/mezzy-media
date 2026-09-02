@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T14:10:26",
+ "updated": "2026-09-02T14:15:27",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -353,15 +353,6 @@
      "score": 42
     },
     {
-     "title": "Six workers injured after Ed Sheeran concert in Detroit",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/six-workers-injured-after-ed-sheeran-concert-detroit/62FJYPTXRJEHFHEDCETIQAIY3A/",
-     "score": 40
-    },
-    {
      "title": "Where to see classic Dolly Parton movie screenings in Georgia",
      "desc": "",
      "cat": "Culture",
@@ -369,6 +360,15 @@
      "img": "",
      "url": "https://www.fox5atlanta.com/news/where-see-classic-dolly-parton-movie-screenings-georgia",
      "score": 40
+    },
+    {
+     "title": "Six workers injured after Ed Sheeran concert in Detroit",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/six-workers-injured-after-ed-sheeran-concert-detroit/62FJYPTXRJEHFHEDCETIQAIY3A/",
+     "score": 34
     },
     {
      "title": "Georgia restaurant celebrates customer's 98th birthday at his 'second home'",
