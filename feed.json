@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T16:45:26",
+ "updated": "2026-09-02T16:50:25",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -353,15 +353,6 @@
      "score": 42
     },
     {
-     "title": "Where to see classic Dolly Parton movie screenings in Georgia",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/where-see-classic-dolly-parton-movie-screenings-georgia",
-     "score": 40
-    },
-    {
      "title": "WATCH: HBO releases new trailer for 'Harry Potter' TV show, featuring extended look inside Hogwarts",
      "desc": "",
      "cat": "Culture",
@@ -377,6 +368,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/trending/six-workers-injured-after-ed-sheeran-concert-detroit/62FJYPTXRJEHFHEDCETIQAIY3A/",
+     "score": 34
+    },
+    {
+     "title": "Where to see classic Dolly Parton movie screenings in Georgia",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/where-see-classic-dolly-parton-movie-screenings-georgia",
      "score": 34
     },
     {
@@ -464,7 +464,7 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/02/black-widow-accused-targeting-men-dating-apps-money-drugging-them-authorities-say/",
-     "score": 0
+     "score": 30
     }
    ]
   }
