@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T17:20:26",
+ "updated": "2026-09-02T17:25:25",
  "hero": {
   "title": "Fight over cellphone leads to deadly DeKalb ghost gun shooting",
   "desc": "",
@@ -38,15 +38,6 @@
      "score": 99
     },
     {
-     "title": "Man shot, killed at South Bend Park in southeast Atlanta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/02/1200/630/Police-lights.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-shot-killed-south-bend-park-southeast-atlanta",
-     "score": 99
-    },
-    {
      "title": "Woman killed following shooting in northwest Atlanta, police say",
      "desc": "",
      "cat": "Crime",
@@ -62,6 +53,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
+     "score": 93
+    },
+    {
+     "title": "Man shot, killed at South Bend Park in southeast Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/02/1200/630/Police-lights.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-shot-killed-south-bend-park-southeast-atlanta",
      "score": 93
     },
     {
@@ -134,15 +134,6 @@
      "score": 99
     },
     {
-     "title": "Man shot, killed at South Bend Park in southeast Atlanta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/02/1200/630/Police-lights.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-shot-killed-south-bend-park-southeast-atlanta",
-     "score": 99
-    },
-    {
      "title": "Woman killed following shooting in northwest Atlanta, police say",
      "desc": "",
      "cat": "Crime",
@@ -158,6 +149,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
+     "score": 93
+    },
+    {
+     "title": "Man shot, killed at South Bend Park in southeast Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/02/1200/630/Police-lights.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-shot-killed-south-bend-park-southeast-atlanta",
      "score": 93
     },
     {
