@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T07:25:25",
+ "updated": "2026-09-02T07:30:28",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -56,15 +56,6 @@
      "score": 87
     },
     {
-     "title": "Fatal shooting reported in Warm Springs in Meriwether County",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-49.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/fatal-shooting-reported-warm-springs-meriwether-county",
-     "score": 86
-    },
-    {
      "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
      "desc": "",
      "cat": "Crime",
@@ -99,6 +90,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-30-2026%2Ft_19ba7482e03e4933af894aee0e11694e_name_6PV_INCIDENT_755_NORTH_ATL_VO_frame_0.jpeg?auth=bc7f8252458f26ddefcc17fdb873f948a2eca803169e103d12c90dea5332849f&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/keep-your-head-swivel-gunfire-reports-rattle-beltline-crowd-near-ponce-city-market/JIQWOWJNRZG3JGQ6L5ADM5IE6Y/",
      "score": 85
+    },
+    {
+     "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
+     "score": 83
     }
    ]
   },
@@ -150,15 +150,6 @@
      "img": "art/crime_7.jpg",
      "url": "https://www.11alive.com/article/news/local/justice-4-heehaw-cedartown-farm-owner-mourning-loss-of-beloved-baby-donkey-shot-killed-by-officer/85-09a04bc2-6609-4c4e-bf0b-d3096ced03ca",
      "score": 87
-    },
-    {
-     "title": "Fatal shooting reported in Warm Springs in Meriwether County",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-49.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/fatal-shooting-reported-warm-springs-meriwether-county",
-     "score": 86
     },
     {
      "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
@@ -213,6 +204,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFCGYURER5JETTIFRPSUMNL6AIQ.jpeg?auth=7cff255ec0601364d157f4efb46138e06944e18392ecef2800d5d05fd1ada605&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta/atlanta-beltline-deadly-stabbing-family-friends-hold-vigil-29-year-old-victim-call-change/ATXQSOW24RCYLEFLPRWBJ7GNNI/",
      "score": 83
+    },
+    {
+     "title": "Mother accused of fatally shooting her 2-year-old daughter charged with murder, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/5RPJSV7YSZCHPCMVHZBZR6YE2A.JPG?auth=ccc9a5ed6a50fd679da809875b80380740e2382f10e963575a9d0b3a15c57fb4&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/31/mother-accused-fatally-shooting-her-2-year-old-daughter-charged-with-murder-police-say/",
+     "score": 82
     }
    ]
   },
