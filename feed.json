@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T13:15:26",
+ "updated": "2026-09-02T13:20:28",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -311,21 +311,21 @@
      "score": 30
     },
     {
-     "title": "'I have no regrets': Former UGA star Nick Chubb announces retirement from NFL",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/sports/nfl/former-cleveland-browns-rb-nick-chubb-retirement-nfl/95-0979d559-fe83-4588-b7fe-051e609a3f68",
-     "score": 0
-    },
-    {
      "title": "Six charged in fight at East Coweta vs. Newnan football game",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/crime/east-coweta-newnan-football-fight-six-charged/85-247b632f-387d-4332-8f1f-79131870ecf0",
+     "score": 0
+    },
+    {
+     "title": "'I have my future all mapped out' | Cristiano Ronaldo announces probable retirement from soccer",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/sports/soccer/cristiano-ronaldo-soccer-retirement/507-3171f266-067d-4f9a-b4bd-2d70e8407c0d",
      "score": 0
     }
    ]
