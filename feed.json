@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T12:40:25",
+ "updated": "2026-09-02T12:45:26",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -92,13 +92,13 @@
      "score": 87
     },
     {
-     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
+     "title": "Suspect accused of shooting, killing Georgia police officer caught in SC",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
-     "score": 85
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2ETYLNTXB5GI3EZAIBS56K5VV4.png?auth=66b7f6ac68cb0aa9f7e5660e6b1d7035669dd190e5195364b82cba27292ccae3&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/suspect-accused-shooting-killing-georgia-police-officer-caught-sc/DM3S32H6SVGK3CBACPTWBW2UZU/",
+     "score": 86
     }
    ]
   },
@@ -188,6 +188,15 @@
      "score": 87
     },
     {
+     "title": "Suspect accused of shooting, killing Georgia police officer caught in SC",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2ETYLNTXB5GI3EZAIBS56K5VV4.png?auth=66b7f6ac68cb0aa9f7e5660e6b1d7035669dd190e5195364b82cba27292ccae3&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/suspect-accused-shooting-killing-georgia-police-officer-caught-sc/DM3S32H6SVGK3CBACPTWBW2UZU/",
+     "score": 86
+    },
+    {
      "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
      "desc": "",
      "cat": "Crime",
@@ -203,15 +212,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
-     "score": 85
-    },
-    {
-     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
      "score": 85
     }
    ]
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Where to see classic Dolly Parton movie screenings in Georgia",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/where-see-classic-dolly-parton-movie-screenings-georgia",
-     "score": 46
-    },
-    {
      "title": "Scottie Scheffler wins TOUR Championship in Atlanta \u2014 here's how much money he'll take home",
      "desc": "",
      "cat": "Culture",
@@ -359,6 +350,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/trending/six-workers-injured-after-ed-sheeran-concert-detroit/62FJYPTXRJEHFHEDCETIQAIY3A/",
+     "score": 40
+    },
+    {
+     "title": "Where to see classic Dolly Parton movie screenings in Georgia",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/where-see-classic-dolly-parton-movie-screenings-georgia",
      "score": 40
     },
     {
