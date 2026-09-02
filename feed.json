@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T13:05:25",
+ "updated": "2026-09-02T13:10:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -20,15 +20,6 @@
      "score": 118
     },
     {
-     "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_14.jpg",
-     "url": "https://www.11alive.com/article/news/local/sgt-chris-fisher-warm-springs-georgia-police-officer-shot-killed/85-a61d07ad-d8c9-49bb-90ae-4f1a57f505f9",
-     "score": 111
-    },
-    {
      "title": "Fight over cellphone leads to deadly DeKalb ghost gun shooting",
      "desc": "",
      "cat": "Crime",
@@ -44,6 +35,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/11/1200/630/ba34c87e-005e2304-handcuffs_1444577974483_345240_ver1.0_1280_720.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/5-arrested-deadly-shooting-hartwell-bar-2022",
+     "score": 105
+    },
+    {
+     "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_14.jpg",
+     "url": "https://www.11alive.com/article/news/local/sgt-chris-fisher-warm-springs-georgia-police-officer-shot-killed/85-a61d07ad-d8c9-49bb-90ae-4f1a57f505f9",
      "score": 105
     },
     {
@@ -116,15 +116,6 @@
      "score": 118
     },
     {
-     "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_14.jpg",
-     "url": "https://www.11alive.com/article/news/local/sgt-chris-fisher-warm-springs-georgia-police-officer-shot-killed/85-a61d07ad-d8c9-49bb-90ae-4f1a57f505f9",
-     "score": 111
-    },
-    {
      "title": "Fight over cellphone leads to deadly DeKalb ghost gun shooting",
      "desc": "",
      "cat": "Crime",
@@ -140,6 +131,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/11/1200/630/ba34c87e-005e2304-handcuffs_1444577974483_345240_ver1.0_1280_720.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/5-arrested-deadly-shooting-hartwell-bar-2022",
+     "score": 105
+    },
+    {
+     "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_14.jpg",
+     "url": "https://www.11alive.com/article/news/local/sgt-chris-fisher-warm-springs-georgia-police-officer-shot-killed/85-a61d07ad-d8c9-49bb-90ae-4f1a57f505f9",
      "score": 105
     },
     {
