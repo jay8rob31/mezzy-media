@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T20:30:26",
+ "updated": "2026-09-01T20:35:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -47,15 +47,6 @@
      "score": 93
     },
     {
-     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
-     "score": 91
-    },
-    {
      "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
      "desc": "",
      "cat": "Crime",
@@ -80,6 +71,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
+     "score": 85
+    },
+    {
+     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
      "score": 85
     },
     {
@@ -143,15 +143,6 @@
      "score": 93
     },
     {
-     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
-     "score": 91
-    },
-    {
      "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
      "desc": "",
      "cat": "Crime",
@@ -176,6 +167,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
+     "score": 85
+    },
+    {
+     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
      "score": 85
     },
     {
@@ -252,7 +252,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
+     "img": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/1200/630/screenshot-2026-09-01-at-11.06.53.png?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/watch-brawl-breaks-out-between-coaches-youth-football-game",
      "score": 42
     },
