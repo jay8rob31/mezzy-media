@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T19:25:25",
+ "updated": "2026-09-02T19:30:25",
  "hero": {
   "title": "5 arrested for deadly shooting at Hartwell bar in 2022",
   "desc": "",
@@ -92,12 +92,12 @@
      "score": 85
     },
     {
-     "title": "\u2018Keep your head on a swivel\u2019: Gunfire reports rattle Beltline crowd near Ponce City Market",
+     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
      "desc": "",
      "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-30-2026%2Ft_19ba7482e03e4933af894aee0e11694e_name_6PV_INCIDENT_755_NORTH_ATL_VO_frame_0.jpeg?auth=bc7f8252458f26ddefcc17fdb873f948a2eca803169e103d12c90dea5332849f&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/keep-your-head-swivel-gunfire-reports-rattle-beltline-crowd-near-ponce-city-market/JIQWOWJNRZG3JGQ6L5ADM5IE6Y/",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
      "score": 85
     }
    ]
@@ -188,6 +188,15 @@
      "score": 85
     },
     {
+     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
+     "score": 85
+    },
+    {
      "title": "\u2018Keep your head on a swivel\u2019: Gunfire reports rattle Beltline crowd near Ponce City Market",
      "desc": "",
      "cat": "Crime",
@@ -203,15 +212,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/O5NMTRGAZFHMPHXTDCPMOIBTS4.png?auth=c79aaacd19b6ab88750b7e3485436c4d238ad28a4dd8fab44486f79c9641067f&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/09/02/police-investigating-deadly-shooting-southeast-atlanta-park/",
-     "score": 83
-    },
-    {
-     "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
      "score": 83
     }
    ]
