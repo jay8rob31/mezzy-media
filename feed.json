@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T02:30:25",
+ "updated": "2026-09-02T02:35:25",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -239,15 +239,6 @@
      "score": 46
     },
     {
-     "title": "Teen sells Jimothy the raccoon gold baseball card for $20K",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/sports_19.jpg",
-     "url": "https://www.11alive.com/article/news/nation-world/teen-sells-jimothy-raccoon-gold-card-20k/507-0f8905d0-fe64-4a99-83fa-3736fd8940ec",
-     "score": 46
-    },
-    {
      "title": "Atlanta Dream playoff tickets on sale Tuesday",
      "desc": "",
      "cat": "Sports",
@@ -255,6 +246,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FEKROMOBHEVG6NNRPJTDKIW3YLM.jpg?auth=7192fd1ea5ebe95a640108c28d8e327629723bbae8517334a0e973f7f5d1abdb&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/atlanta-dream-playoff-tickets-sale-tuesday/NVDZEXRGYNGTDJMACFWX4MCZAY/",
      "score": 42
+    },
+    {
+     "title": "Teen sells Jimothy the raccoon gold baseball card for $20K",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/teen-sells-jimothy-raccoon-gold-card-20k/507-0f8905d0-fe64-4a99-83fa-3736fd8940ec",
+     "score": 40
     },
     {
      "title": "Scholarship set up in memory of legendary Georgia high school football coach",
