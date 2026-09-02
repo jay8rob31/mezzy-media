@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T00:45:25",
+ "updated": "2026-09-02T00:50:26",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -239,6 +239,15 @@
      "score": 46
     },
     {
+     "title": "Teen sells Jimothy the raccoon gold baseball card for $20K",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/sports_19.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/teen-sells-jimothy-raccoon-gold-card-20k/507-0f8905d0-fe64-4a99-83fa-3736fd8940ec",
+     "score": 46
+    },
+    {
      "title": "Atlanta Dream playoff tickets on sale Tuesday",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/angel-reese-breaks-wnba-double-double-record/MHZ37QDKM5CTJP3HH6R262G7JY/",
-     "score": 0
-    },
-    {
-     "title": "Lionel Messi announces retirement from international football",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/lionel-messi-announces-retirement-international-football/SGMQ4TSQINBDFMNMUME5R32MQU/",
      "score": 0
     }
    ]
