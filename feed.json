@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T08:35:26",
+ "updated": "2026-09-02T08:40:27",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -362,15 +362,6 @@
      "score": 34
     },
     {
-     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
-     "desc": "",
-     "cat": "Breaking News",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
-     "score": 0
-    },
-    {
      "title": "Metropolitan Museum of Art cancels planned Met Gala exhibit on fashion designer John Galliano",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/us-jobs-report-july/507-eb9ad043-8e57-487f-a75f-a635723939a3",
+     "score": 0
+    },
+    {
+     "title": "Music therapy program connects toddlers and seniors",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/entertainment/music/music-therapy-program-connects-toddlers-and-seniors/85-4a295f49-f8a8-402f-8fbd-eb4ddfdf60a3",
      "score": 0
     }
    ]
