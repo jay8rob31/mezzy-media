@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T16:50:25",
+ "updated": "2026-09-02T16:55:25",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -74,6 +74,15 @@
      "score": 89
     },
     {
+     "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_7.jpg",
+     "url": "https://www.11alive.com/article/news/local/justice-4-heehaw-cedartown-farm-owner-mourning-loss-of-beloved-baby-donkey-shot-killed-by-officer/85-09a04bc2-6609-4c4e-bf0b-d3096ced03ca",
+     "score": 87
+    },
+    {
      "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
      "desc": "",
      "cat": "Crime",
@@ -89,15 +98,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
-     "score": 85
-    },
-    {
-     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
      "score": 85
     }
    ]
@@ -170,6 +170,15 @@
      "score": 89
     },
     {
+     "title": "'Justice 4 HeeHaw': Cedartown farm owner mourning loss of beloved baby donkey allegedly shot, killed by officer",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_7.jpg",
+     "url": "https://www.11alive.com/article/news/local/justice-4-heehaw-cedartown-farm-owner-mourning-loss-of-beloved-baby-donkey-shot-killed-by-officer/85-09a04bc2-6609-4c4e-bf0b-d3096ced03ca",
+     "score": 87
+    },
+    {
      "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
      "desc": "",
      "cat": "Crime",
@@ -204,15 +213,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-30-2026%2Ft_19ba7482e03e4933af894aee0e11694e_name_6PV_INCIDENT_755_NORTH_ATL_VO_frame_0.jpeg?auth=bc7f8252458f26ddefcc17fdb873f948a2eca803169e103d12c90dea5332849f&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/keep-your-head-swivel-gunfire-reports-rattle-beltline-crowd-near-ponce-city-market/JIQWOWJNRZG3JGQ6L5ADM5IE6Y/",
      "score": 85
-    },
-    {
-     "title": "Loved ones remember man killed in Atlanta Beltline stabbing",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static-media.fox.com/fmcv3/prod/fts/8dktub60kenq9qle/1200/630/ud3sj57bnchlszsp.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/loved-ones-remember-man-killed-atlanta-beltline-stabbing",
-     "score": 83
     }
    ]
   },
@@ -320,12 +320,12 @@
      "score": 0
     },
     {
-     "title": "Tommy John, four-time MLB All-Star and namesake of pivotal elbow surgery, has died",
+     "title": "TCU football player's alleged locker room attack of teammate causes 'brain bleed'",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
+     "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/tommy-john-dies-mlb-yankees-baseball-elbow-surgery-obit/507-52518f16-f911-4974-89e6-7c0d0528137f",
+     "url": "https://www.11alive.com/article/news/nation-world/jacob-fields-tcu-forth-worth-texas/507-d9d545d4-1b4d-4cd5-ac3f-ef82bb376f1f",
      "score": 0
     }
    ]
@@ -353,84 +353,12 @@
      "score": 42
     },
     {
-     "title": "WATCH: HBO releases new trailer for 'Harry Potter' TV show, featuring extended look inside Hogwarts",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/hbo-harry-potter-philosophers-stone-trailer/507-65cda3ed-a9fe-411a-af8b-d5329ea5fa94",
-     "score": 40
-    },
-    {
-     "title": "Six workers injured after Ed Sheeran concert in Detroit",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/six-workers-injured-after-ed-sheeran-concert-detroit/62FJYPTXRJEHFHEDCETIQAIY3A/",
-     "score": 34
-    },
-    {
-     "title": "Where to see classic Dolly Parton movie screenings in Georgia",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/where-see-classic-dolly-parton-movie-screenings-georgia",
-     "score": 34
-    },
-    {
-     "title": "Music Monday with DJ Calypso",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/31/music-monday-with-dj-calypso/",
-     "score": 0
-    },
-    {
-     "title": "How a Sam's Club worker used 100 fake accounts to steal cellphones",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/how-sams-club-worker-used-100-fake-accounts-steal-cellphones",
-     "score": 0
-    },
-    {
-     "title": "Miley Cyrus debuts name change and teases new music",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/miley-cyrus-name-change-debut/507-1f53ce38-25d9-464f-84c9-8ff614af7c55",
-     "score": 0
-    },
-    {
-     "title": "Domino's offers free pizza to people who eat at other fast food restaurants",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/dominos-free-pizza-new-menu-item/507-484d5309-bc21-445d-a9c9-da490082b1ec",
-     "score": 0
-    },
-    {
      "title": "Mother charged after allegedly giving teen daughters golf club used to hit other teens during fight",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/crime/newnan-georgia-crime-news-mother-charged-teen-daughters-fight-golf-club/85-ab27e1d7-29b9-4f68-8585-035402502fc0",
-     "score": 0
-    },
-    {
-     "title": "U.S. job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/us-jobs-report-july/507-eb9ad043-8e57-487f-a75f-a635723939a3",
      "score": 0
     },
     {
@@ -441,30 +369,78 @@
      "img": "",
      "url": "https://www.11alive.com/article/entertainment/music/music-therapy-program-connects-toddlers-and-seniors/85-4a295f49-f8a8-402f-8fbd-eb4ddfdf60a3",
      "score": 0
-    }
-   ]
-  },
-  {
-   "id": "juzmezzy",
-   "title": "JuzMezzy",
-   "items": [
-    {
-     "title": "\u2018Dancing with the Stars\u2019 season 35: Meet celebrity cast, pro dance partners",
-     "desc": "",
-     "cat": "Juzmezzy",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/dancing-with-stars-season-35-meet-celebrity-cast-pro-dance-partners/R6QTLETWJVBYLL4LSV2LKJEIHA/",
-     "score": 34
     },
     {
-     "title": "\u2018Black Widow\u2019 accused of targeting men on dating apps for money and drugging them, authorities say",
+     "title": "Coweta County family speaks out after teenager beaten with a golf club released from hospital",
      "desc": "",
-     "cat": "Juzmezzy",
+     "cat": "Culture",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/09/02/black-widow-accused-targeting-men-dating-apps-money-drugging-them-authorities-say/",
-     "score": 30
+     "url": "https://www.atlantanewsfirst.com/2026/09/01/coweta-county-family-speaks-out-after-teenager-beaten-with-golf-club-released-hospital/",
+     "score": 0
+    },
+    {
+     "title": "Douglas County Commissioners grant one-year lease to historic museum",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/douglas-county-commissioners-grant-one-year-lease-historic-museum",
+     "score": 0
+    },
+    {
+     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
+     "desc": "",
+     "cat": "Breaking News",
+     "source": "11Alive",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
+     "score": 0
+    },
+    {
+     "title": "Georgia restaurant celebrates customer's 98th birthday at his 'second home'",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/georgia-restaurant-celebrates-customer-98th-birthday-walter-arnett/507-9a510f86-2e21-4ec5-a333-6eb0608031c8",
+     "score": 0
+    },
+    {
+     "title": "Metropolitan Museum of Art cancels planned Met Gala exhibit on fashion designer John Galliano",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/john-galliano-met-gala-exhibit-canceled-controversial-statements/507-9cd198b1-f93d-40e5-84bd-8a8a385ba395",
+     "score": 0
+    },
+    {
+     "title": "Atlanta Beltline stairs near Grant Street close for reconstruction months after opening",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/31/atlanta-beltline-stairs-near-grant-street-close-reconstruction-months-after-opening/",
+     "score": 0
+    },
+    {
+     "title": "Scottie Scheffler rallies from behind to capture FedEx Cup win",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/scottie-scheffler-rallies-from-behind-capture-fedex-cup-win",
+     "score": 0
+    },
+    {
+     "title": "\u2018Food safety is NOT red tape\u2019: Cattle group pushes back on Trump\u2019s processing proposal",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/30/food-safety-is-not-red-tape-cattle-group-pushes-back-trumps-processing-proposal/",
+     "score": 0
     }
    ]
   }
