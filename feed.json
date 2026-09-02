@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T15:15:27",
+ "updated": "2026-09-02T15:20:26",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -221,6 +221,15 @@
    "title": "Sports",
    "items": [
     {
+     "title": "Georgia Tech to kick off season with rare Thursday night game at Bobby Dodd Stadium",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/31/georgia-tech-kick-off-season-with-rare-thursday-night-game-bobby-dodd-stadium/",
+     "score": 48
+    },
+    {
      "title": "Atlanta Falcons finalize 53-man roster. Who made it and who was cut?",
      "desc": "",
      "cat": "Sports",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/tommy-john-dies-mlb-yankees-baseball-elbow-surgery-obit/507-52518f16-f911-4974-89e6-7c0d0528137f",
      "score": 0
-    },
-    {
-     "title": "TCU football player's alleged locker room attack of teammate causes 'brain bleed'",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/jacob-fields-tcu-forth-worth-texas/507-d9d545d4-1b4d-4cd5-ac3f-ef82bb376f1f",
-     "score": 0
     }
    ]
   },
@@ -344,15 +344,6 @@
      "score": 52
     },
     {
-     "title": "WATCH: HBO releases new trailer for 'Harry Potter' TV show, featuring extended look inside Hogwarts",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/hbo-harry-potter-philosophers-stone-trailer/507-65cda3ed-a9fe-411a-af8b-d5329ea5fa94",
-     "score": 46
-    },
-    {
      "title": "Scottie Scheffler wins TOUR Championship in Atlanta \u2014 here's how much money he'll take home",
      "desc": "",
      "cat": "Culture",
@@ -368,6 +359,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
      "url": "https://www.fox5atlanta.com/news/where-see-classic-dolly-parton-movie-screenings-georgia",
+     "score": 40
+    },
+    {
+     "title": "WATCH: HBO releases new trailer for 'Harry Potter' TV show, featuring extended look inside Hogwarts",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/hbo-harry-potter-philosophers-stone-trailer/507-65cda3ed-a9fe-411a-af8b-d5329ea5fa94",
      "score": 40
     },
     {
