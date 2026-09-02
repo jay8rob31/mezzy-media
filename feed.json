@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T18:10:25",
+ "updated": "2026-09-02T18:15:25",
  "hero": {
   "title": "5 arrested for deadly shooting at Hartwell bar in 2022",
   "desc": "",
@@ -266,15 +266,6 @@
      "score": 36
     },
     {
-     "title": "15-year-old football player with dreams of playing in the NFL dies after getting trapped in house fire",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/31/15-year-old-football-player-with-dreams-playing-nfl-dies-after-getting-trapped-house-fire/",
-     "score": 34
-    },
-    {
      "title": "Report: Kyle Farmer, pitching prospect to be called up to Braves when rosters expand",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/jacob-fields-tcu-forth-worth-texas/507-d9d545d4-1b4d-4cd5-ac3f-ef82bb376f1f",
+     "score": 0
+    },
+    {
+     "title": "DeKalb screen time, UGA med school students, and new Children's CEO",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/dekalb-screen-time-uga-med-school-students-new-childrens-ceo",
      "score": 0
     }
    ]
