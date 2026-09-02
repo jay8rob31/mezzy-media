@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T13:50:26",
+ "updated": "2026-09-02T13:55:27",
  "hero": {
   "title": "Columbia, SC officer killed, second wounded in shooting; suspect also dead",
   "desc": "",
@@ -20,15 +20,6 @@
      "score": 118
     },
     {
-     "title": "5 arrested for deadly shooting at Hartwell bar in 2022",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/11/1200/630/ba34c87e-005e2304-handcuffs_1444577974483_345240_ver1.0_1280_720.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/5-arrested-deadly-shooting-hartwell-bar-2022",
-     "score": 105
-    },
-    {
      "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
      "desc": "",
      "cat": "Crime",
@@ -45,6 +36,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
      "score": 105
+    },
+    {
+     "title": "5 arrested for deadly shooting at Hartwell bar in 2022",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/11/1200/630/ba34c87e-005e2304-handcuffs_1444577974483_345240_ver1.0_1280_720.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/5-arrested-deadly-shooting-hartwell-bar-2022",
+     "score": 99
     },
     {
      "title": "Man shot, killed at South Bend Park in southeast Atlanta",
@@ -116,15 +116,6 @@
      "score": 118
     },
     {
-     "title": "5 arrested for deadly shooting at Hartwell bar in 2022",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/11/1200/630/ba34c87e-005e2304-handcuffs_1444577974483_345240_ver1.0_1280_720.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/5-arrested-deadly-shooting-hartwell-bar-2022",
-     "score": 105
-    },
-    {
      "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
      "desc": "",
      "cat": "Crime",
@@ -141,6 +132,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
      "score": 105
+    },
+    {
+     "title": "5 arrested for deadly shooting at Hartwell bar in 2022",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/11/1200/630/ba34c87e-005e2304-handcuffs_1444577974483_345240_ver1.0_1280_720.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/5-arrested-deadly-shooting-hartwell-bar-2022",
+     "score": 99
     },
     {
      "title": "Man shot, killed at South Bend Park in southeast Atlanta",
