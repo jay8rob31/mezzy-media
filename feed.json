@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T00:05:24",
+ "updated": "2026-09-03T00:10:24",
  "hero": {
   "title": "Boys watched as parents shot, dad killed in their own home",
   "desc": "",
@@ -353,6 +353,15 @@
      "score": 40
     },
     {
+     "title": "Fuel, food prices remain high into Labor Day weekend",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/09/03/fuel-food-prices-remain-high-into-labor-day-weekend/",
+     "score": 30
+    },
+    {
      "title": "Reports: Lionel Richie checks into hospital after weekend concert in St. Louis",
      "desc": "",
      "cat": "Culture",
@@ -431,15 +440,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/atlanta-beltline-stairs-near-grant-street-close-reconstruction-months-after-opening/",
-     "score": 0
-    },
-    {
-     "title": "Scottie Scheffler rallies from behind to capture FedEx Cup win",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/scottie-scheffler-rallies-from-behind-capture-fedex-cup-win",
      "score": 0
     }
    ]
