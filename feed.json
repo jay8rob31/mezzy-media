@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T07:05:25",
+ "updated": "2026-09-03T07:10:25",
  "hero": {
   "title": "5 arrested for deadly shooting at Hartwell bar in 2022",
   "desc": "",
@@ -266,6 +266,15 @@
      "score": 42
     },
     {
+     "title": "Atlanta Dream playoff tickets on sale Tuesday",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/atlanta-dream-playoff-tickets-sale-tuesday/NVDZEXRGYNGTDJMACFWX4MCZAY/",
+     "score": 42
+    },
+    {
      "title": "Watch: Brawl breaks out between coaches at youth football game",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/report-kyle-farmer-pitching-prospect-be-called-up-braves-when-rosters-expand/",
-     "score": 30
-    },
-    {
-     "title": "Olson delivers walk-off single as Braves outlast Rockies for 7th consecutive win",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/30/olson-delivers-walk-off-single-braves-outlast-rockies-7th-consecutive-win/",
      "score": 30
     }
    ]
