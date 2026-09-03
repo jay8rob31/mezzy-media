@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T18:20:25",
+ "updated": "2026-09-03T18:25:25",
  "hero": {
   "title": "Man who shot and killed Warm Springs officer punched him during arrest days earlier, warrants say",
   "desc": "",
@@ -18,15 +18,6 @@
      "img": "art/crime_3.jpg",
      "url": "https://www.11alive.com/article/news/crime/jimmy-steverson-prior-arrest-sgt-chris-fisher-killing-warm-springs-georgia/85-cf72f69d-91be-4f28-ac4e-82cf330fa59a",
      "score": 99
-    },
-    {
-     "title": "Man sentenced to life in prison for deadly triple shooting at Douglas County home",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YBJ7I3675NAXPBTVOIH2IM4XHI.jpg?auth=ac5b2e0b1b694eba70e2f6ea56848f0c33ee36214297cc55857307254782573b&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/09/03/man-sentenced-life-prison-deadly-triple-shooting-douglas-county-home/",
-     "score": 95
     },
     {
      "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
@@ -63,6 +54,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
      "score": 93
+    },
+    {
+     "title": "Man sentenced to life in prison for deadly triple shooting at Douglas County home",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YBJ7I3675NAXPBTVOIH2IM4XHI.jpg?auth=ac5b2e0b1b694eba70e2f6ea56848f0c33ee36214297cc55857307254782573b&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/09/03/man-sentenced-life-prison-deadly-triple-shooting-douglas-county-home/",
+     "score": 89
     },
     {
      "title": "Man shot, killed at South Bend Park in southeast Atlanta",
@@ -116,15 +116,6 @@
      "score": 99
     },
     {
-     "title": "Man sentenced to life in prison for deadly triple shooting at Douglas County home",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YBJ7I3675NAXPBTVOIH2IM4XHI.jpg?auth=ac5b2e0b1b694eba70e2f6ea56848f0c33ee36214297cc55857307254782573b&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/09/03/man-sentenced-life-prison-deadly-triple-shooting-douglas-county-home/",
-     "score": 95
-    },
-    {
      "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
      "desc": "",
      "cat": "Crime",
@@ -159,6 +150,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-45.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/woman-killed-shooting-defoors-ferry-road-apartment-complex",
      "score": 93
+    },
+    {
+     "title": "Man sentenced to life in prison for deadly triple shooting at Douglas County home",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YBJ7I3675NAXPBTVOIH2IM4XHI.jpg?auth=ac5b2e0b1b694eba70e2f6ea56848f0c33ee36214297cc55857307254782573b&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/09/03/man-sentenced-life-prison-deadly-triple-shooting-douglas-county-home/",
+     "score": 89
     },
     {
      "title": "Man shot, killed at South Bend Park in southeast Atlanta",
