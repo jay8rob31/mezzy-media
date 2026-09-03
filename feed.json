@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T07:00:25",
+ "updated": "2026-09-03T07:05:25",
  "hero": {
   "title": "5 arrested for deadly shooting at Hartwell bar in 2022",
   "desc": "",
@@ -257,15 +257,6 @@
      "score": 46
     },
     {
-     "title": "Atlanta Dream playoff tickets on sale Tuesday",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/atlanta-dream-playoff-tickets-sale-tuesday/NVDZEXRGYNGTDJMACFWX4MCZAY/",
-     "score": 42
-    },
-    {
      "title": "Head coaches suspended, schools fined after fight that canceled Rockdale-Heritage high school football game",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/report-kyle-farmer-pitching-prospect-be-called-up-braves-when-rosters-expand/",
      "score": 30
+    },
+    {
+     "title": "Olson delivers walk-off single as Braves outlast Rockies for 7th consecutive win",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/30/olson-delivers-walk-off-single-braves-outlast-rockies-7th-consecutive-win/",
+     "score": 30
     }
    ]
   },
@@ -351,15 +351,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/02/employee-injured-fire-outside-perimeter-mall-restaurant/",
      "score": 34
-    },
-    {
-     "title": "Reports: Lionel Richie checks into hospital after weekend concert in St. Louis",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/reports-lionel-richie-checks-into-hospital-after-weekend-concert-st-louis/YE34U6JXVBDC5HVTMVSX4YPXPA/",
-     "score": 0
     },
     {
      "title": "Music therapy program connects toddlers and seniors",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/30/food-safety-is-not-red-tape-cattle-group-pushes-back-trumps-processing-proposal/",
+     "score": 0
+    },
+    {
+     "title": "Douglas County Museum fate still up in air",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/douglas-county/douglas-county-museum-fate-still-up-air/JFVUEKPM3VDDZOX7ZQBH734VNE/",
      "score": 0
     }
    ]
