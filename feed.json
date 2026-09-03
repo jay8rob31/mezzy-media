@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T18:05:26",
+ "updated": "2026-09-03T18:10:26",
  "hero": {
   "title": "Man who shot and killed Warm Springs officer punched him during arrest days earlier, warrants say",
   "desc": "",
@@ -225,7 +225,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FALK5IJ2MFZCZFMR353EFIBAFG4.webp?auth=c3f9071a64dc2091083fc930e3880be243b5a0a3f8941754dd7272441cfaaf57&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/georgia-tech-names-its-first-football-jersey-patch-sponsor/B4V3DPSSGNEBHNKKDXQM74O4ZQ/",
      "score": 48
     },
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Scottie Scheffler wins TOUR Championship in Atlanta \u2014 here's how much money he'll take home",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/sports/golf/scottie-scheffler-wins-tour-championship-atlanta-how-much-money-he-will-take-home/85-01b22b7d-e7e2-466e-b1b1-50384b2d8a0e",
-     "score": 42
-    },
-    {
      "title": "Employee injured in fire outside Perimeter Mall restaurant",
      "desc": "",
      "cat": "Culture",
@@ -440,6 +431,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/miley-cyrus-name-change-debut/507-1f53ce38-25d9-464f-84c9-8ff614af7c55",
+     "score": 0
+    },
+    {
+     "title": "Domino's offers free pizza to people who eat at other fast food restaurants",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/dominos-free-pizza-new-menu-item/507-484d5309-bc21-445d-a9c9-da490082b1ec",
      "score": 0
     }
    ]
