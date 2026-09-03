@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T12:15:26",
+ "updated": "2026-09-03T12:20:26",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -335,15 +335,6 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "'Really bittersweet' | Dolly Parton's niece reveals why country music legend kept cancer battle private",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-family-details-cancer-battle/507-74ad5c11-b14e-48e3-bbe4-b6030818b077",
-     "score": 46
-    },
-    {
      "title": "Scottie Scheffler wins TOUR Championship in Atlanta \u2014 here's how much money he'll take home",
      "desc": "",
      "cat": "Culture",
@@ -351,6 +342,15 @@
      "img": "",
      "url": "https://www.11alive.com/article/sports/golf/scottie-scheffler-wins-tour-championship-atlanta-how-much-money-he-will-take-home/85-01b22b7d-e7e2-466e-b1b1-50384b2d8a0e",
      "score": 42
+    },
+    {
+     "title": "'Really bittersweet' | Dolly Parton's niece reveals why country music legend kept cancer battle private",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-family-details-cancer-battle/507-74ad5c11-b14e-48e3-bbe4-b6030818b077",
+     "score": 40
     },
     {
      "title": "Employee injured in fire outside Perimeter Mall restaurant",
