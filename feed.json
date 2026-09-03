@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T21:15:26",
+ "updated": "2026-09-02T21:20:25",
  "hero": {
   "title": "Boys watched as parents shot, dad killed in their own home",
   "desc": "",
@@ -230,6 +230,15 @@
      "score": 60
     },
     {
+     "title": "Head coaches suspended, schools fined after fight that canceled Rockdale-Heritage high school football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "art/sports_8.jpg",
+     "url": "https://www.11alive.com/article/sports/high-school/hs-football/head-coaches-suspended-schools-fined-after-altercation-canceled-rockdale-heritage-high-school-football-game/85-97d2c65c-5d81-4fda-b8b4-558cc3dda5d7",
+     "score": 54
+    },
+    {
      "title": "Georgia Tech to kick off season with rare Thursday night game at Bobby Dodd Stadium",
      "desc": "",
      "cat": "Sports",
@@ -237,6 +246,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/georgia-tech-kick-off-season-with-rare-thursday-night-game-bobby-dodd-stadium/",
      "score": 48
+    },
+    {
+     "title": "NBA team hit with $30M fine, owner suspended",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/nba-team-hit-with-30m-fine-owner-suspended/YVAIVD6DYNEAXGKOXLPHASZNB4/",
+     "score": 46
     },
     {
      "title": "Atlanta Falcons finalize 53-man roster. Who made it and who was cut?",
@@ -309,24 +327,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/30/olson-delivers-walk-off-single-braves-outlast-rockies-7th-consecutive-win/",
      "score": 30
-    },
-    {
-     "title": "Mother suggests metal detectors after gun found during fight at high school football game",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/mother-suggests-metal-detectors-after-gun-found-during-fight-high-school-football-game/ZBB42ST535F4ZKEYWSZZF5VOCQ/",
-     "score": 0
-    },
-    {
-     "title": "TCU football player's alleged locker room attack of teammate causes 'brain bleed'",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/jacob-fields-tcu-forth-worth-texas/507-d9d545d4-1b4d-4cd5-ac3f-ef82bb376f1f",
-     "score": 0
     }
    ]
   },
