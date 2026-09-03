@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T14:20:27",
+ "updated": "2026-09-03T14:25:25",
  "hero": {
   "title": "Man who shot and killed Warm Springs officer punched him during arrest days earlier, warrants say",
   "desc": "",
@@ -275,15 +275,6 @@
      "score": 42
     },
     {
-     "title": "NBA fines Clippers $30M, takes away 5 first-round picks for salary cap violations",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/trending/nba-fines-clippers-30m-takes-away-5-first-round-picks-salary-cap-violations/HEMDSJBFFBHH7LEXLAGIVM6BSM/",
-     "score": 40
-    },
-    {
      "title": "Roswell teen uses basketball to fight youth mental health stigma",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/scholarship-set-up-memory-legendary-georgia-high-school-football-coach/44VAMNBELZFCHPSNMDKTTYFJ2E/",
      "score": 36
+    },
+    {
+     "title": "NBA fines Clippers $30M, takes away 5 first-round picks for salary cap violations",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/trending/nba-fines-clippers-30m-takes-away-5-first-round-picks-salary-cap-violations/HEMDSJBFFBHH7LEXLAGIVM6BSM/",
+     "score": 34
     }
    ]
   },
