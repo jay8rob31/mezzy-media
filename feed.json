@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T03:10:25",
+ "updated": "2026-09-03T03:15:25",
  "hero": {
   "title": "Woman killed following shooting in northwest Atlanta, police say",
   "desc": "",
@@ -266,15 +266,6 @@
      "score": 42
     },
     {
-     "title": "NBA team hit with $30M fine, owner suspended",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/nba-team-hit-with-30m-fine-owner-suspended/YVAIVD6DYNEAXGKOXLPHASZNB4/",
-     "score": 40
-    },
-    {
      "title": "Watch: Brawl breaks out between coaches at youth football game",
      "desc": "",
      "cat": "Sports",
@@ -291,6 +282,15 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/scholarship-set-up-memory-legendary-georgia-high-school-football-coach/44VAMNBELZFCHPSNMDKTTYFJ2E/",
      "score": 36
+    },
+    {
+     "title": "NBA team hit with $30M fine, owner suspended",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/nba-team-hit-with-30m-fine-owner-suspended/YVAIVD6DYNEAXGKOXLPHASZNB4/",
+     "score": 34
     },
     {
      "title": "15-year-old football player with dreams of playing in the NFL dies after getting trapped in house fire",
