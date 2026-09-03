@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T05:15:25",
+ "updated": "2026-09-03T05:20:25",
  "hero": {
   "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
   "desc": "",
@@ -230,6 +230,15 @@
      "score": 66
     },
     {
+     "title": "Georgia Tech kicks season off hosting Deion Sanders, Colorado",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F42RIZQQAKZCN5E5Z5HQFPEBKAY.jpg?auth=e080a449d7a3833ec5eef1c9478630171c466c7f7e33fb06f78f34540b1533af&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/georgia-tech-kicks-season-off-hosting-deion-sanders-colorado/CBVZBAXI6RA3DHHVK3EMDRBL7Y/",
+     "score": 66
+    },
+    {
      "title": "Georgia Tech to kick off season with rare Thursday night game at Bobby Dodd Stadium",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/report-kyle-farmer-pitching-prospect-be-called-up-braves-when-rosters-expand/",
-     "score": 30
-    },
-    {
-     "title": "Olson delivers walk-off single as Braves outlast Rockies for 7th consecutive win",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/30/olson-delivers-walk-off-single-braves-outlast-rockies-7th-consecutive-win/",
      "score": 30
     }
    ]
