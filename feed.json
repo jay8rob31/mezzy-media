@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T07:40:25",
+ "updated": "2026-09-03T07:45:25",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -74,15 +74,6 @@
      "score": 87
     },
     {
-     "title": "Police chief fired over alleged racist text messages in aftermath of 1-year-old\u2019s shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/C2CWWZQ2CZBHVMUCFVV4CSH5PI.png?auth=f1a46393cba5380a0101c95a845653a03c15d8af465b95415f68f83e98fa5d77&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/09/03/police-chief-fired-over-alleged-racist-text-messages-aftermath-1-year-olds-shooting/",
-     "score": 86
-    },
-    {
      "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
      "desc": "",
      "cat": "Crime",
@@ -98,6 +89,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
+     "score": 85
+    },
+    {
+     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
      "score": 85
     }
    ]
@@ -170,15 +170,6 @@
      "score": 87
     },
     {
-     "title": "Police chief fired over alleged racist text messages in aftermath of 1-year-old\u2019s shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/C2CWWZQ2CZBHVMUCFVV4CSH5PI.png?auth=f1a46393cba5380a0101c95a845653a03c15d8af465b95415f68f83e98fa5d77&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/09/03/police-chief-fired-over-alleged-racist-text-messages-aftermath-1-year-olds-shooting/",
-     "score": 86
-    },
-    {
      "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +204,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-30-2026%2Ft_19ba7482e03e4933af894aee0e11694e_name_6PV_INCIDENT_755_NORTH_ATL_VO_frame_0.jpeg?auth=bc7f8252458f26ddefcc17fdb873f948a2eca803169e103d12c90dea5332849f&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/keep-your-head-swivel-gunfire-reports-rattle-beltline-crowd-near-ponce-city-market/JIQWOWJNRZG3JGQ6L5ADM5IE6Y/",
      "score": 85
+    },
+    {
+     "title": "Mother accused of fatally shooting her 2-year-old daughter charged with murder, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/5RPJSV7YSZCHPCMVHZBZR6YE2A.JPG?auth=ccc9a5ed6a50fd679da809875b80380740e2382f10e963575a9d0b3a15c57fb4&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/31/mother-accused-fatally-shooting-her-2-year-old-daughter-charged-with-murder-police-say/",
+     "score": 82
     }
    ]
   },
@@ -353,6 +353,15 @@
      "score": 34
     },
     {
+     "title": "Mother charged after allegedly giving teen daughters golf club used to hit other teens during fight",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/crime/newnan-georgia-crime-news-mother-charged-teen-daughters-fight-golf-club/85-ab27e1d7-29b9-4f68-8585-035402502fc0",
+     "score": 0
+    },
+    {
      "title": "U.S. job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs",
      "desc": "",
      "cat": "Culture",
@@ -431,15 +440,6 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "",
      "url": "https://www.11alive.com/article/news/nation-world/dominos-free-pizza-new-menu-item/507-484d5309-bc21-445d-a9c9-da490082b1ec",
-     "score": 0
-    },
-    {
-     "title": "How a Sam's Club worker used 100 fake accounts to steal cellphones",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/how-sams-club-worker-used-100-fake-accounts-steal-cellphones",
      "score": 0
     }
    ]
