@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T11:25:25",
+ "updated": "2026-09-03T11:30:25",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -221,6 +221,15 @@
    "title": "Sports",
    "items": [
     {
+     "title": "Santa with Down syndrome inducted into the International Santa Hall of Fame",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/sports_20.jpg",
+     "url": "https://www.11alive.com/article/life/santa-with-down-syndrome-inducted-into-the-international-santa-hall-of-fame/85-582e9b0e-7382-417d-84d9-118d38d91ab3",
+     "score": 60
+    },
+    {
      "title": "Georgia Tech announces first football jersey patch sponsor",
      "desc": "",
      "cat": "Sports",
@@ -246,15 +255,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/georgia-tech-kick-off-season-with-rare-thursday-night-game-bobby-dodd-stadium/",
      "score": 48
-    },
-    {
-     "title": "AG Carr tells SEC he could use 'all legal means necessary to protect the University of Georgia' in LSU/NFL players controversy",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/sports/georgia-ag-chris-carr-letter-to-sec-commissioner-greg-sankey-lsu-nfl-player-dispute/85-8f329d85-9ff1-40ce-b9d3-90b0549aedf4",
-     "score": 46
     },
     {
      "title": "Atlanta Falcons finalize 53-man roster. Who made it and who was cut?",
@@ -293,6 +293,15 @@
      "score": 40
     },
     {
+     "title": "AG Carr tells SEC he could use 'all legal means necessary to protect the University of Georgia' in LSU/NFL players controversy",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/sports/georgia-ag-chris-carr-letter-to-sec-commissioner-greg-sankey-lsu-nfl-player-dispute/85-8f329d85-9ff1-40ce-b9d3-90b0549aedf4",
+     "score": 40
+    },
+    {
      "title": "Watch: Brawl breaks out between coaches at youth football game",
      "desc": "",
      "cat": "Sports",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/scholarship-set-up-memory-legendary-georgia-high-school-football-coach/44VAMNBELZFCHPSNMDKTTYFJ2E/",
      "score": 36
-    },
-    {
-     "title": "15-year-old football player with dreams of playing in the NFL dies after getting trapped in house fire",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/31/15-year-old-football-player-with-dreams-playing-nfl-dies-after-getting-trapped-house-fire/",
-     "score": 34
     }
    ]
   },
