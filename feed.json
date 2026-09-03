@@ -1,24 +1,15 @@
 {
- "updated": "2026-09-03T02:45:24",
+ "updated": "2026-09-03T02:50:24",
  "hero": {
-  "title": "Boys watched as parents shot, dad killed in their own home",
+  "title": "Woman killed following shooting in northwest Atlanta, police say",
   "desc": "",
-  "url": "https://www.wsbtv.com/news/local/douglas-county/boys-watched-parents-shot-dad-killed-their-own-home/6AVBBLUB7BEYXCTT6QBZ4TOQ6U/"
+  "url": "https://www.11alive.com/article/news/crime/woman-killed-following-shooting-northwest-atlanta-police-say/85-fd282a08-0b40-43e9-a8d2-49b3bb124950"
  },
  "rails": [
   {
    "id": "trending",
    "title": "Top 10 in Atlanta",
    "items": [
-    {
-     "title": "Boys watched as parents shot, dad killed in their own home",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYCQBOS4EG5AXPPK57CAMQJ3CEM.png?auth=c8935a201e0db5fc674f220da5b375c9293eaf34c660c9bccb3dd17656a39b80&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/douglas-county/boys-watched-parents-shot-dad-killed-their-own-home/6AVBBLUB7BEYXCTT6QBZ4TOQ6U/",
-     "score": 99
-    },
     {
      "title": "Woman killed following shooting in northwest Atlanta, police say",
      "desc": "",
@@ -62,6 +53,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
+     "score": 93
+    },
+    {
+     "title": "Boys watched as parents shot, dad killed in their own home",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYCQBOS4EG5AXPPK57CAMQJ3CEM.png?auth=c8935a201e0db5fc674f220da5b375c9293eaf34c660c9bccb3dd17656a39b80&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/douglas-county/boys-watched-parents-shot-dad-killed-their-own-home/6AVBBLUB7BEYXCTT6QBZ4TOQ6U/",
      "score": 93
     },
     {
@@ -107,15 +107,6 @@
    "title": "Crime Watch",
    "items": [
     {
-     "title": "Boys watched as parents shot, dad killed in their own home",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYCQBOS4EG5AXPPK57CAMQJ3CEM.png?auth=c8935a201e0db5fc674f220da5b375c9293eaf34c660c9bccb3dd17656a39b80&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/douglas-county/boys-watched-parents-shot-dad-killed-their-own-home/6AVBBLUB7BEYXCTT6QBZ4TOQ6U/",
-     "score": 99
-    },
-    {
      "title": "Woman killed following shooting in northwest Atlanta, police say",
      "desc": "",
      "cat": "Crime",
@@ -158,6 +149,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
+     "score": 93
+    },
+    {
+     "title": "Boys watched as parents shot, dad killed in their own home",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYCQBOS4EG5AXPPK57CAMQJ3CEM.png?auth=c8935a201e0db5fc674f220da5b375c9293eaf34c660c9bccb3dd17656a39b80&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/douglas-county/boys-watched-parents-shot-dad-killed-their-own-home/6AVBBLUB7BEYXCTT6QBZ4TOQ6U/",
      "score": 93
     },
     {
