@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T09:20:25",
+ "updated": "2026-09-03T09:25:25",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -221,15 +221,6 @@
    "title": "Sports",
    "items": [
     {
-     "title": "Georgia Tech announces first football jersey patch sponsor",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUCICKVQWUNDQZIPHKZQGCNCWSY.webp?auth=c7e52817e729342c2af936b732f8e92c207239722ec2a24e0835af5caf28c05b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/georgia-tech-announces-first-football-jersey-patch-sponsor/SG2EWB3JCJC2LFNTDQUA63RLF4/",
-     "score": 60
-    },
-    {
      "title": "Georgia Tech kicks season off hosting Deion Sanders, Colorado",
      "desc": "",
      "cat": "Sports",
@@ -237,6 +228,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F42RIZQQAKZCN5E5Z5HQFPEBKAY.jpg?auth=e080a449d7a3833ec5eef1c9478630171c466c7f7e33fb06f78f34540b1533af&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/georgia-tech-kicks-season-off-hosting-deion-sanders-colorado/CBVZBAXI6RA3DHHVK3EMDRBL7Y/",
      "score": 60
+    },
+    {
+     "title": "Georgia Tech announces first football jersey patch sponsor",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUCICKVQWUNDQZIPHKZQGCNCWSY.webp?auth=c7e52817e729342c2af936b732f8e92c207239722ec2a24e0835af5caf28c05b&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/georgia-tech-announces-first-football-jersey-patch-sponsor/SG2EWB3JCJC2LFNTDQUA63RLF4/",
+     "score": 54
     },
     {
      "title": "Georgia Tech to kick off season with rare Thursday night game at Bobby Dodd Stadium",
