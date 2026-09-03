@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T15:20:25",
+ "updated": "2026-09-03T15:25:25",
  "hero": {
   "title": "Man who shot and killed Warm Springs officer punched him during arrest days earlier, warrants say",
   "desc": "",
@@ -221,15 +221,6 @@
    "title": "Sports",
    "items": [
     {
-     "title": "Georgia Tech announces first football jersey patch sponsor",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUCICKVQWUNDQZIPHKZQGCNCWSY.webp?auth=c7e52817e729342c2af936b732f8e92c207239722ec2a24e0835af5caf28c05b&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/georgia-tech-announces-first-football-jersey-patch-sponsor/SG2EWB3JCJC2LFNTDQUA63RLF4/",
-     "score": 54
-    },
-    {
      "title": "Georgia Tech kicks season off hosting Deion Sanders, Colorado",
      "desc": "",
      "cat": "Sports",
@@ -246,6 +237,15 @@
      "img": "art/sports_20.jpg",
      "url": "https://www.11alive.com/article/life/santa-with-down-syndrome-inducted-into-the-international-santa-hall-of-fame/85-582e9b0e-7382-417d-84d9-118d38d91ab3",
      "score": 54
+    },
+    {
+     "title": "Georgia Tech names its first football jersey patch sponsor",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/georgia-tech-names-its-first-football-jersey-patch-sponsor/B4V3DPSSGNEBHNKKDXQM74O4ZQ/",
+     "score": 48
     },
     {
      "title": "Georgia Tech to kick off season with rare Thursday night game at Bobby Dodd Stadium",
