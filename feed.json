@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T09:15:26",
+ "updated": "2026-09-03T09:20:25",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -275,15 +275,6 @@
      "score": 46
     },
     {
-     "title": "Coaches, players suspended after fight cancels football game",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/rockdale-county/coaches-players-suspended-after-fight-cancels-football-game/26UVT7K2SFGT3IFICAUGWJFUDY/",
-     "score": 42
-    },
-    {
      "title": "Atlanta Dream playoff tickets on sale Tuesday",
      "desc": "",
      "cat": "Sports",
@@ -299,6 +290,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
      "url": "https://www.fox5atlanta.com/news/watch-brawl-breaks-out-between-coaches-youth-football-game",
+     "score": 36
+    },
+    {
+     "title": "Head coaches suspended, schools fined after fight that canceled Rockdale-Heritage high school football game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/sports/high-school/hs-football/head-coaches-suspended-schools-fined-after-altercation-canceled-rockdale-heritage-high-school-football-game/85-97d2c65c-5d81-4fda-b8b4-558cc3dda5d7",
      "score": 36
     },
     {
@@ -448,6 +448,15 @@
    "id": "juzmezzy",
    "title": "JuzMezzy",
    "items": [
+    {
+     "title": "Hall of Fame RB Emmitt Smith, company accused of cheating investor out of $2.5 million",
+     "desc": "",
+     "cat": "Juzmezzy",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FMH25R7EI7ZGHJDU6WELF22OVMM.jpg?auth=a49668fa6cdc083d25dacd2d91d86ef5553397e74da0df12febd81e18aa30e03&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/trending/hall-fame-rb-emmitt-smith-company-accused-cheating-investor-out-25-million/KWTRAVZ6WFCU3AQSUINFIBTS7I/",
+     "score": 60
+    },
     {
      "title": "\u2018Dancing with the Stars\u2019 season 35: Meet celebrity cast, pro dance partners",
      "desc": "",
