@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T21:50:25",
+ "updated": "2026-09-02T21:55:25",
  "hero": {
   "title": "Boys watched as parents shot, dad killed in their own home",
   "desc": "",
@@ -302,15 +302,6 @@
      "score": 34
     },
     {
-     "title": "Braves\u2019 7-game win streak snapped by Giants",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
-     "score": 30
-    },
-    {
      "title": "Report: Kyle Farmer, pitching prospect to be called up to Braves when rosters expand",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/30/olson-delivers-walk-off-single-braves-outlast-rockies-7th-consecutive-win/",
      "score": 30
+    },
+    {
+     "title": "TCU football player's alleged locker room attack of teammate causes 'brain bleed'",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/jacob-fields-tcu-forth-worth-texas/507-d9d545d4-1b4d-4cd5-ac3f-ef82bb376f1f",
+     "score": 0
     }
    ]
   },
