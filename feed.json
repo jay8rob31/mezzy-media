@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T17:20:25",
+ "updated": "2026-09-03T17:25:25",
  "hero": {
   "title": "Man who shot and killed Warm Springs officer punched him during arrest days earlier, warrants say",
   "desc": "",
@@ -221,15 +221,6 @@
    "title": "Sports",
    "items": [
     {
-     "title": "Santa with Down syndrome inducted into the International Santa Hall of Fame",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/sports_20.jpg",
-     "url": "https://www.11alive.com/article/life/santa-with-down-syndrome-inducted-into-the-international-santa-hall-of-fame/85-582e9b0e-7382-417d-84d9-118d38d91ab3",
-     "score": 54
-    },
-    {
      "title": "Georgia Tech names its first football jersey patch sponsor",
      "desc": "",
      "cat": "Sports",
@@ -245,6 +236,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/georgia-tech-kicks-season-off-hosting-deion-sanders-colorado/CBVZBAXI6RA3DHHVK3EMDRBL7Y/",
+     "score": 48
+    },
+    {
+     "title": "Santa with Down syndrome inducted into the International Santa Hall of Fame",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/life/santa-with-down-syndrome-inducted-into-the-international-santa-hall-of-fame/85-582e9b0e-7382-417d-84d9-118d38d91ab3",
      "score": 48
     },
     {
