@@ -1,24 +1,15 @@
 {
- "updated": "2026-09-03T07:10:25",
+ "updated": "2026-09-03T07:15:25",
  "hero": {
-  "title": "5 arrested for deadly shooting at Hartwell bar in 2022",
+  "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
-  "url": "https://www.fox5atlanta.com/news/5-arrested-deadly-shooting-hartwell-bar-2022"
+  "url": "https://www.11alive.com/article/news/local/sgt-chris-fisher-warm-springs-georgia-police-officer-shot-killed/85-a61d07ad-d8c9-49bb-90ae-4f1a57f505f9"
  },
  "rails": [
   {
    "id": "trending",
    "title": "Top 10 in Atlanta",
    "items": [
-    {
-     "title": "5 arrested for deadly shooting at Hartwell bar in 2022",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/11/1200/630/ba34c87e-005e2304-handcuffs_1444577974483_345240_ver1.0_1280_720.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/5-arrested-deadly-shooting-hartwell-bar-2022",
-     "score": 93
-    },
     {
      "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
      "desc": "",
@@ -99,6 +90,15 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
      "score": 85
+    },
+    {
+     "title": "Man walking in northwest Atlanta wounded after hearing sudden gunfire",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
+     "score": 85
     }
    ]
   },
@@ -106,15 +106,6 @@
    "id": "crime",
    "title": "Crime Watch",
    "items": [
-    {
-     "title": "5 arrested for deadly shooting at Hartwell bar in 2022",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/11/1200/630/ba34c87e-005e2304-handcuffs_1444577974483_345240_ver1.0_1280_720.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/5-arrested-deadly-shooting-hartwell-bar-2022",
-     "score": 93
-    },
     {
      "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
      "desc": "",
@@ -213,6 +204,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
      "score": 85
+    },
+    {
+     "title": "\u2018Keep your head on a swivel\u2019: Gunfire reports rattle Beltline crowd near Ponce City Market",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-30-2026%2Ft_19ba7482e03e4933af894aee0e11694e_name_6PV_INCIDENT_755_NORTH_ATL_VO_frame_0.jpeg?auth=bc7f8252458f26ddefcc17fdb873f948a2eca803169e103d12c90dea5332849f&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/keep-your-head-swivel-gunfire-reports-rattle-beltline-crowd-near-ponce-city-market/JIQWOWJNRZG3JGQ6L5ADM5IE6Y/",
+     "score": 85
     }
    ]
   },
@@ -221,21 +221,21 @@
    "title": "Sports",
    "items": [
     {
-     "title": "Georgia Tech kicks season off hosting Deion Sanders, Colorado",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F42RIZQQAKZCN5E5Z5HQFPEBKAY.jpg?auth=e080a449d7a3833ec5eef1c9478630171c466c7f7e33fb06f78f34540b1533af&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/georgia-tech-kicks-season-off-hosting-deion-sanders-colorado/CBVZBAXI6RA3DHHVK3EMDRBL7Y/",
-     "score": 66
-    },
-    {
      "title": "Georgia Tech announces first football jersey patch sponsor",
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUCICKVQWUNDQZIPHKZQGCNCWSY.webp?auth=c7e52817e729342c2af936b732f8e92c207239722ec2a24e0835af5caf28c05b&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/georgia-tech-announces-first-football-jersey-patch-sponsor/SG2EWB3JCJC2LFNTDQUA63RLF4/",
+     "score": 60
+    },
+    {
+     "title": "Georgia Tech kicks season off hosting Deion Sanders, Colorado",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F42RIZQQAKZCN5E5Z5HQFPEBKAY.jpg?auth=e080a449d7a3833ec5eef1c9478630171c466c7f7e33fb06f78f34540b1533af&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/georgia-tech-kicks-season-off-hosting-deion-sanders-colorado/CBVZBAXI6RA3DHHVK3EMDRBL7Y/",
      "score": 60
     },
     {
@@ -293,15 +293,6 @@
      "score": 36
     },
     {
-     "title": "NBA team hit with $30M fine, owner suspended",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/nba-team-hit-with-30m-fine-owner-suspended/YVAIVD6DYNEAXGKOXLPHASZNB4/",
-     "score": 34
-    },
-    {
      "title": "15-year-old football player with dreams of playing in the NFL dies after getting trapped in house fire",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/report-kyle-farmer-pitching-prospect-be-called-up-braves-when-rosters-expand/",
      "score": 30
+    },
+    {
+     "title": "Olson delivers walk-off single as Braves outlast Rockies for 7th consecutive win",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/08/30/olson-delivers-walk-off-single-braves-outlast-rockies-7th-consecutive-win/",
+     "score": 30
     }
    ]
   },
@@ -351,6 +351,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/02/employee-injured-fire-outside-perimeter-mall-restaurant/",
      "score": 34
+    },
+    {
+     "title": "U.S. job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/us-jobs-report-july/507-eb9ad043-8e57-487f-a75f-a635723939a3",
+     "score": 0
     },
     {
      "title": "Music therapy program connects toddlers and seniors",
@@ -380,66 +389,81 @@
      "score": 0
     },
     {
-     "title": "Jellyfish Museum puts spotlight on translucent invertebrates",
-     "desc": "",
-     "cat": "Breaking News",
-     "source": "11Alive",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/jellyfish-museum-opens-pompano-beach-florida/507-e9846b14-1047-46e4-bb5c-af27cd36782b",
-     "score": 0
-    },
-    {
-     "title": "Georgia restaurant celebrates customer's 98th birthday at his 'second home'",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/georgia-restaurant-celebrates-customer-98th-birthday-walter-arnett/507-9a510f86-2e21-4ec5-a333-6eb0608031c8",
-     "score": 0
-    },
-    {
-     "title": "Metropolitan Museum of Art cancels planned Met Gala exhibit on fashion designer John Galliano",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/john-galliano-met-gala-exhibit-canceled-controversial-statements/507-9cd198b1-f93d-40e5-84bd-8a8a385ba395",
-     "score": 0
-    },
-    {
-     "title": "Atlanta Beltline stairs near Grant Street close for reconstruction months after opening",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/31/atlanta-beltline-stairs-near-grant-street-close-reconstruction-months-after-opening/",
-     "score": 0
-    },
-    {
-     "title": "Scottie Scheffler rallies from behind to capture FedEx Cup win",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/scottie-scheffler-rallies-from-behind-capture-fedex-cup-win",
-     "score": 0
-    },
-    {
-     "title": "\u2018Food safety is NOT red tape\u2019: Cattle group pushes back on Trump\u2019s processing proposal",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/08/30/food-safety-is-not-red-tape-cattle-group-pushes-back-trumps-processing-proposal/",
-     "score": 0
-    },
-    {
-     "title": "Douglas County Museum fate still up in air",
+     "title": "Six workers injured after Ed Sheeran concert in Detroit",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
-     "url": "https://www.wsbtv.com/news/local/douglas-county/douglas-county-museum-fate-still-up-air/JFVUEKPM3VDDZOX7ZQBH734VNE/",
+     "url": "https://www.wsbtv.com/news/trending/six-workers-injured-after-ed-sheeran-concert-detroit/62FJYPTXRJEHFHEDCETIQAIY3A/",
+     "score": 0
+    },
+    {
+     "title": "Where to see classic Dolly Parton movie screenings in Georgia",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/where-see-classic-dolly-parton-movie-screenings-georgia",
+     "score": 0
+    },
+    {
+     "title": "WATCH: HBO releases new trailer for 'Harry Potter' TV show, featuring extended look inside Hogwarts",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/hbo-harry-potter-philosophers-stone-trailer/507-65cda3ed-a9fe-411a-af8b-d5329ea5fa94",
+     "score": 0
+    },
+    {
+     "title": "Miley Cyrus debuts name change and teases new music",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/miley-cyrus-name-change-debut/507-1f53ce38-25d9-464f-84c9-8ff614af7c55",
+     "score": 0
+    },
+    {
+     "title": "Domino's offers free pizza to people who eat at other fast food restaurants",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/dominos-free-pizza-new-menu-item/507-484d5309-bc21-445d-a9c9-da490082b1ec",
+     "score": 0
+    },
+    {
+     "title": "How a Sam's Club worker used 100 fake accounts to steal cellphones",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/how-sams-club-worker-used-100-fake-accounts-steal-cellphones",
+     "score": 0
+    }
+   ]
+  },
+  {
+   "id": "juzmezzy",
+   "title": "JuzMezzy",
+   "items": [
+    {
+     "title": "\u2018Dancing with the Stars\u2019 season 35: Meet celebrity cast, pro dance partners",
+     "desc": "",
+     "cat": "Juzmezzy",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/dancing-with-stars-season-35-meet-celebrity-cast-pro-dance-partners/R6QTLETWJVBYLL4LSV2LKJEIHA/",
+     "score": 0
+    },
+    {
+     "title": "\u2018Black Widow\u2019 accused of targeting men on dating apps for money and drugging them, authorities say",
+     "desc": "",
+     "cat": "Juzmezzy",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/09/02/black-widow-accused-targeting-men-dating-apps-money-drugging-them-authorities-say/",
      "score": 0
     }
    ]
