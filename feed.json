@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T07:45:24",
+ "updated": "2026-09-04T07:50:24",
  "hero": {
   "title": "Police offering up to $5K for information in deadly shooting of 22-year-old woman in Atlanta",
   "desc": "",
@@ -458,15 +458,6 @@
      "score": 42
     },
     {
-     "title": "\u2018Dancing with the Stars\u2019 season 35: Meet celebrity cast, pro dance partners",
-     "desc": "",
-     "cat": "Juzmezzy",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/dancing-with-stars-season-35-meet-celebrity-cast-pro-dance-partners/R6QTLETWJVBYLL4LSV2LKJEIHA/",
-     "score": 0
-    },
-    {
      "title": "\u2018Black Widow\u2019 accused of targeting men on dating apps for money and drugging them, authorities say",
      "desc": "",
      "cat": "Juzmezzy",
@@ -491,6 +482,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/03/son-real-housewives-star-kim-zolciak-indicted-7-felonies-after-alleged-sexual-assault/",
+     "score": 0
+    },
+    {
+     "title": "\u2018Dancing with the Stars\u2019 season 35: Meet celebrity cast, pro dance partners",
+     "desc": "",
+     "cat": "Juzmezzy",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/dancing-with-stars-season-35-meet-celebrity-cast-pro-dance-partners/R6QTLETWJVBYLL4LSV2LKJEIHA/",
      "score": 0
     }
    ]
