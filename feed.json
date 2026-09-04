@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T06:15:24",
+ "updated": "2026-09-04T06:20:25",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -26,6 +26,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-54.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-killed-shooting-buckhead-apartment-parking-deck",
+     "score": 111
+    },
+    {
+     "title": "Police offering up to $5K for information in deadly shooting of 22-year-old woman in Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_15.jpg",
+     "url": "https://www.11alive.com/article/news/crime/police-offering-up-to-5k-for-information-in-deadly-shooting-of-22-year-old-woman-in-atlanta/85-ce2924cc-fbb3-448a-a53e-1a0296000f24",
      "score": 111
     },
     {
@@ -90,15 +99,6 @@
      "img": "art/crime_3.jpg",
      "url": "https://www.11alive.com/article/news/crime/jimmy-steverson-prior-arrest-sgt-chris-fisher-killing-warm-springs-georgia/85-cf72f69d-91be-4f28-ac4e-82cf330fa59a",
      "score": 87
-    },
-    {
-     "title": "Cedartown Police chief releases video on 'tragic loss' of HeeHaw the donkey shot, killed by officer",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_15.jpg",
-     "url": "https://www.11alive.com/article/news/local/cedartown-police-chief-releases-video-on-tragic-loss-heehaw-the-donkey-shot-killed-by-officer/85-3321b1c1-e494-40b8-b3e0-46d2bacc8461",
-     "score": 87
     }
    ]
   },
@@ -122,6 +122,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-54.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-killed-shooting-buckhead-apartment-parking-deck",
+     "score": 111
+    },
+    {
+     "title": "Police offering up to $5K for information in deadly shooting of 22-year-old woman in Atlanta",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_15.jpg",
+     "url": "https://www.11alive.com/article/news/crime/police-offering-up-to-5k-for-information-in-deadly-shooting-of-22-year-old-woman-in-atlanta/85-ce2924cc-fbb3-448a-a53e-1a0296000f24",
      "score": 111
     },
     {
@@ -204,15 +213,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
      "score": 85
-    },
-    {
-     "title": "Man walking in northwest Atlanta wounded after hearing sudden gunfire",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
-     "score": 85
     }
    ]
   },
@@ -257,15 +257,6 @@
      "score": 48
     },
     {
-     "title": "Georgia Tech falls to Colorado after game-winning kick is blocked",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/09/04/georgia-tech-falls-colorado-after-game-winning-kick-gets-blocked/",
-     "score": 44
-    },
-    {
      "title": "Santa with Down syndrome inducted into the International Santa Hall of Fame",
      "desc": "",
      "cat": "Sports",
@@ -282,6 +273,15 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/atlanta-dream-playoff-tickets-sale-tuesday/NVDZEXRGYNGTDJMACFWX4MCZAY/",
      "score": 42
+    },
+    {
+     "title": "Georgia Tech falls to Colorado after game-winning kick is blocked",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/09/04/georgia-tech-falls-colorado-after-game-winning-kick-gets-blocked/",
+     "score": 38
     },
     {
      "title": "Head coaches suspended, schools fined after fight that canceled Rockdale-Heritage high school football game",
