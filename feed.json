@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T22:20:24",
+ "updated": "2026-09-03T22:25:24",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -56,15 +56,6 @@
      "score": 93
     },
     {
-     "title": "Man sentenced to life in prison for deadly triple shooting at Douglas County home",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YBJ7I3675NAXPBTVOIH2IM4XHI.jpg?auth=ac5b2e0b1b694eba70e2f6ea56848f0c33ee36214297cc55857307254782573b&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/09/03/man-sentenced-life-prison-deadly-triple-shooting-douglas-county-home/",
-     "score": 89
-    },
-    {
      "title": "Man shot, killed at South Bend Park in southeast Atlanta",
      "desc": "",
      "cat": "Crime",
@@ -90,6 +81,15 @@
      "img": "art/crime_15.jpg",
      "url": "https://www.11alive.com/article/news/local/cedartown-police-chief-releases-video-on-tragic-loss-heehaw-the-donkey-shot-killed-by-officer/85-3321b1c1-e494-40b8-b3e0-46d2bacc8461",
      "score": 87
+    },
+    {
+     "title": "Man arrested at family home after White County shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-arrested-family-home-after-white-county-shooting",
+     "score": 86
     },
     {
      "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
@@ -152,15 +152,6 @@
      "score": 93
     },
     {
-     "title": "Man sentenced to life in prison for deadly triple shooting at Douglas County home",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YBJ7I3675NAXPBTVOIH2IM4XHI.jpg?auth=ac5b2e0b1b694eba70e2f6ea56848f0c33ee36214297cc55857307254782573b&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/09/03/man-sentenced-life-prison-deadly-triple-shooting-douglas-county-home/",
-     "score": 89
-    },
-    {
      "title": "Man shot, killed at South Bend Park in southeast Atlanta",
      "desc": "",
      "cat": "Crime",
@@ -186,6 +177,15 @@
      "img": "art/crime_15.jpg",
      "url": "https://www.11alive.com/article/news/local/cedartown-police-chief-releases-video-on-tragic-loss-heehaw-the-donkey-shot-killed-by-officer/85-3321b1c1-e494-40b8-b3e0-46d2bacc8461",
      "score": 87
+    },
+    {
+     "title": "Man arrested at family home after White County shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-arrested-family-home-after-white-county-shooting",
+     "score": 86
     },
     {
      "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
@@ -234,7 +234,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F42RIZQQAKZCN5E5Z5HQFPEBKAY.jpg?auth=e080a449d7a3833ec5eef1c9478630171c466c7f7e33fb06f78f34540b1533af&amp;width=1200&amp;height=630&amp;smart=true",
+     "img": "",
      "url": "https://www.wsbtv.com/news/local/georgia-tech-kicks-season-off-hosting-deion-sanders-colorado/CBVZBAXI6RA3DHHVK3EMDRBL7Y/",
      "score": 48
     },
