@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T22:50:24",
+ "updated": "2026-09-03T22:55:25",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -243,7 +243,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
-     "img": "",
+     "img": "art/sports_20.jpg",
      "url": "https://www.11alive.com/article/life/santa-with-down-syndrome-inducted-into-the-international-santa-hall-of-fame/85-582e9b0e-7382-417d-84d9-118d38d91ab3",
      "score": 48
     },
@@ -252,7 +252,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/FS3IL3HKKNACDFPTJZYC7MWI6U.jpg?auth=daa49bd5da6260b55018afb32e593a8aeab230262441c8ad30465bc536befbdb&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/georgia-tech-kick-off-season-with-rare-thursday-night-game-bobby-dodd-stadium/",
      "score": 48
     },
