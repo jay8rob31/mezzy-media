@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T09:55:27",
+ "updated": "2026-09-04T10:00:27",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -47,21 +47,21 @@
      "score": 99
     },
     {
-     "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_14.jpg",
-     "url": "https://www.11alive.com/article/news/local/sgt-chris-fisher-warm-springs-georgia-police-officer-shot-killed/85-a61d07ad-d8c9-49bb-90ae-4f1a57f505f9",
-     "score": 93
-    },
-    {
      "title": "Fight over cellphone leads to deadly DeKalb ghost gun shooting",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
+     "score": 93
+    },
+    {
+     "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_14.jpg",
+     "url": "https://www.11alive.com/article/news/local/sgt-chris-fisher-warm-springs-georgia-police-officer-shot-killed/85-a61d07ad-d8c9-49bb-90ae-4f1a57f505f9",
      "score": 93
     },
     {
@@ -143,21 +143,21 @@
      "score": 99
     },
     {
-     "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_14.jpg",
-     "url": "https://www.11alive.com/article/news/local/sgt-chris-fisher-warm-springs-georgia-police-officer-shot-killed/85-a61d07ad-d8c9-49bb-90ae-4f1a57f505f9",
-     "score": 93
-    },
-    {
      "title": "Fight over cellphone leads to deadly DeKalb ghost gun shooting",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
+     "score": 93
+    },
+    {
+     "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_14.jpg",
+     "url": "https://www.11alive.com/article/news/local/sgt-chris-fisher-warm-springs-georgia-police-officer-shot-killed/85-a61d07ad-d8c9-49bb-90ae-4f1a57f505f9",
      "score": 93
     },
     {
@@ -311,15 +311,6 @@
      "score": 36
     },
     {
-     "title": "SEC sues LSU over recruiting NFL players to play college football",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/sports/sec-sues-lsu-over-recruiting-nfl-players-play-college-football",
-     "score": 34
-    },
-    {
      "title": "15-year-old football player with dreams of playing in the NFL dies after getting trapped in house fire",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/15-year-old-football-player-with-dreams-playing-nfl-dies-after-getting-trapped-house-fire/",
      "score": 34
+    },
+    {
+     "title": "Braves\u2019 7-game win streak snapped by Giants",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
+     "score": 30
     }
    ]
   },
