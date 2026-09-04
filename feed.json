@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T14:00:36",
+ "updated": "2026-09-04T14:05:27",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -3382,15 +3382,6 @@
    "title": "JuzMezzy",
    "items": [
     {
-     "title": "Former NFL quarterback Mark Sanchez expected to plead guilty in stabbing case",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FBYK3GLOZYZCSFMZXKR23OBLMOM.jpg?auth=5b88667dbc72f6c31c1739eb17ae761781ee292aeaaf386f091878ed10c46e5a&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/trending/former-nfl-quarterback-mark-sanchez-expected-plead-guilty-stabbing-case/TA37RZJNQ5H4FH2UVFNGQTEBVI/",
-     "score": 70
-    },
-    {
      "title": "Bank robbery suspect killed by armed customer who intervened, police say",
      "desc": "",
      "cat": "Crime",
@@ -3398,6 +3389,15 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/T34XUHOTMJEFZD55ZUZY73CE4U.png?auth=07d7fe57b0b3db0822b8015e24ea5e5d30a4538495acbc7d448feb8369e51a48&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/09/02/bank-robbery-suspect-killed-by-armed-customer-who-intervened-police-say/",
      "score": 69
+    },
+    {
+     "title": "Former NFL quarterback Mark Sanchez expected to plead guilty in stabbing case",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FBYK3GLOZYZCSFMZXKR23OBLMOM.jpg?auth=5b88667dbc72f6c31c1739eb17ae761781ee292aeaaf386f091878ed10c46e5a&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/trending/former-nfl-quarterback-mark-sanchez-expected-plead-guilty-stabbing-case/TA37RZJNQ5H4FH2UVFNGQTEBVI/",
+     "score": 64
     },
     {
      "title": "Son of ex-Falcons, RHOA star indicted on multiple sex crime charges",
