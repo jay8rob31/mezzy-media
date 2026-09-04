@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T09:15:36",
+ "updated": "2026-09-04T09:20:30",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -221,6 +221,15 @@
    "title": "Sports",
    "items": [
     {
+     "title": "John Abraham to be inducted this year into Falcons Ring of Honor",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "art/sports_13.jpg",
+     "url": "https://www.11alive.com/article/sports/nfl/atlanta-falcons/john-abraham-atlanta-falcons-ring-of-honor-2026/85-07d8cde9-bf54-4afb-a4fb-d32f93ca8d59",
+     "score": 64
+    },
+    {
      "title": "Georgia Tech field goal blocked in late loss to Colorado",
      "desc": "",
      "cat": "Sports",
@@ -257,15 +266,6 @@
      "score": 48
     },
     {
-     "title": "Judge clears path for LSU to add former NFL players to roster",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/judge-clears-path-lsu-add-former-nfl-players-roster/6JF3ZDEXNRB4NFRBSR46EOGDWY/",
-     "score": 46
-    },
-    {
      "title": "Santa with Down syndrome inducted into the International Santa Hall of Fame",
      "desc": "",
      "cat": "Sports",
@@ -282,6 +282,15 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/atlanta-dream-playoff-tickets-sale-tuesday/NVDZEXRGYNGTDJMACFWX4MCZAY/",
      "score": 42
+    },
+    {
+     "title": "Judge clears path for LSU to add former NFL players to roster",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/judge-clears-path-lsu-add-former-nfl-players-roster/6JF3ZDEXNRB4NFRBSR46EOGDWY/",
+     "score": 40
     },
     {
      "title": "Georgia Tech falls to Colorado after game-winning kick is blocked",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/15-year-old-football-player-with-dreams-playing-nfl-dies-after-getting-trapped-house-fire/",
      "score": 34
-    },
-    {
-     "title": "Braves\u2019 7-game win streak snapped by Giants",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
-     "score": 30
     }
    ]
   },
@@ -342,15 +342,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/02/employee-injured-fire-outside-perimeter-mall-restaurant/",
      "score": 34
-    },
-    {
-     "title": "Where to see classic Dolly Parton movie screenings in Georgia",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/where-see-classic-dolly-parton-movie-screenings-georgia",
-     "score": 0
     },
     {
      "title": "WATCH: HBO releases new trailer for 'Harry Potter' TV show, featuring extended look inside Hogwarts",
@@ -413,6 +404,15 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
      "url": "https://www.fox5atlanta.com/news/ed-sheerans-atlanta-concert-date-time-mercedes-benz-stadium-guidelines",
+     "score": 0
+    },
+    {
+     "title": "Where to see classic Dolly Parton movie screenings in Georgia",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/where-see-classic-dolly-parton-movie-screenings-georgia",
      "score": 0
     },
     {
