@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T00:45:24",
+ "updated": "2026-09-04T00:50:24",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -38,15 +38,6 @@
      "score": 93
     },
     {
-     "title": "Man who shot and killed Warm Springs officer punched him during arrest days earlier, warrants say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/crime/jimmy-steverson-prior-arrest-sgt-chris-fisher-killing-warm-springs-georgia/85-cf72f69d-91be-4f28-ac4e-82cf330fa59a",
-     "score": 93
-    },
-    {
      "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
      "desc": "",
      "cat": "Crime",
@@ -71,6 +62,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYCQBOS4EG5AXPPK57CAMQJ3CEM.png?auth=c8935a201e0db5fc674f220da5b375c9293eaf34c660c9bccb3dd17656a39b80&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/douglas-county/boys-watched-parents-shot-dad-killed-their-own-home/6AVBBLUB7BEYXCTT6QBZ4TOQ6U/",
+     "score": 87
+    },
+    {
+     "title": "Man who shot and killed Warm Springs officer punched him during arrest days earlier, warrants say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_3.jpg",
+     "url": "https://www.11alive.com/article/news/crime/jimmy-steverson-prior-arrest-sgt-chris-fisher-killing-warm-springs-georgia/85-cf72f69d-91be-4f28-ac4e-82cf330fa59a",
      "score": 87
     },
     {
@@ -134,15 +134,6 @@
      "score": 93
     },
     {
-     "title": "Man who shot and killed Warm Springs officer punched him during arrest days earlier, warrants say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/crime/jimmy-steverson-prior-arrest-sgt-chris-fisher-killing-warm-springs-georgia/85-cf72f69d-91be-4f28-ac4e-82cf330fa59a",
-     "score": 93
-    },
-    {
      "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
      "desc": "",
      "cat": "Crime",
@@ -167,6 +158,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYCQBOS4EG5AXPPK57CAMQJ3CEM.png?auth=c8935a201e0db5fc674f220da5b375c9293eaf34c660c9bccb3dd17656a39b80&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/douglas-county/boys-watched-parents-shot-dad-killed-their-own-home/6AVBBLUB7BEYXCTT6QBZ4TOQ6U/",
+     "score": 87
+    },
+    {
+     "title": "Man who shot and killed Warm Springs officer punched him during arrest days earlier, warrants say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_3.jpg",
+     "url": "https://www.11alive.com/article/news/crime/jimmy-steverson-prior-arrest-sgt-chris-fisher-killing-warm-springs-georgia/85-cf72f69d-91be-4f28-ac4e-82cf330fa59a",
      "score": 87
     },
     {
@@ -284,15 +284,6 @@
      "score": 42
     },
     {
-     "title": "UGA vs Tennessee: What to know if you're headed to Athens on Saturday",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/uga-vs-tennessee-what-know-youre-headed-athens-saturday",
-     "score": 40
-    },
-    {
      "title": "SEC sues LSU over recruiting NFL players to play college football",
      "desc": "",
      "cat": "Sports",
@@ -326,6 +317,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/rockdale-county/he-was-sucker-punched-father-speaks-out-after-son-injures-pregame-football-fight/CZTRXHOXJJHZ3PIEOGBIZVV4MI/",
+     "score": 34
+    },
+    {
+     "title": "UGA vs Tennessee: What to know if you're headed to Athens on Saturday",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/uga-vs-tennessee-what-know-youre-headed-athens-saturday",
      "score": 34
     }
    ]
