@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T14:45:25",
+ "updated": "2026-09-04T14:50:26",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -453,26 +453,6 @@
     {
      "league": "GA High School Football",
      "home": {
-      "name": "Lakeside",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "away": {
-      "name": "Midtown",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "5:30p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/lakeside-atlanta-vs-midtown-atlanta/9-4-2026/?c=c22502e4-27b0-45ed-8045-ed9b077ecd98"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
       "name": "South Atlanta",
       "score": "",
       "record": "1-0",
@@ -493,6 +473,26 @@
     {
      "league": "GA High School Football",
      "home": {
+      "name": "Lakeside",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Midtown",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "5:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/lakeside-atlanta-vs-midtown-atlanta/9-4-2026/?c=c22502e4-27b0-45ed-8045-ed9b077ecd98"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
       "name": "Alcovy",
       "score": "",
       "record": "0-2",
@@ -509,66 +509,6 @@
      "state": "pre",
      "isLocal": true,
      "link": "https://www.maxpreps.com/ga/football/game/alcovy-covington-vs-meadowcreek-norcross/9-4-2026/?c=57d35dce-9ca7-4bf6-a2f6-5b98ac1b8fb1"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "Discovery",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "away": {
-      "name": "Loganville",
-      "score": "",
-      "record": "1-1",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/discovery-lawrenceville-vs-loganville/9-4-2026/?c=cd7ff900-8450-4faa-8ed8-5121944c5f99"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "Stephenson",
-      "score": "",
-      "record": "2-0",
-      "logo": ""
-     },
-     "away": {
-      "name": "Tucker",
-      "score": "",
-      "record": "2-0",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/stephenson-stone-mountain-vs-tucker/9-4-2026/?c=9da570ca-969f-4098-9746-f002a7520e13"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "Druid Hills",
-      "score": "",
-      "record": "1-1",
-      "logo": ""
-     },
-     "away": {
-      "name": "Landmark Christian",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/druid-hills-atlanta-vs-landmark-christian-fairburn/9-4-2026/?c=15976ff8-2b06-4905-b8ef-0357ff4c5a95"
     },
     {
      "league": "GA High School Football",
@@ -613,82 +553,62 @@
     {
      "league": "GA High School Football",
      "home": {
-      "name": "Harrison",
+      "name": "Druid Hills",
       "score": "",
       "record": "1-1",
       "logo": ""
      },
      "away": {
-      "name": "North Paulding",
+      "name": "Landmark Christian",
       "score": "",
-      "record": "1-1",
+      "record": "0-2",
       "logo": ""
      },
      "network": "",
-     "detail": "7:30p",
+     "detail": "7p",
      "state": "pre",
      "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/harrison-kennesaw-vs-north-paulding-dallas/9-4-2026/?c=a20cb2ab-e299-4943-88aa-322d31f66f0f"
+     "link": "https://www.maxpreps.com/ga/football/game/druid-hills-atlanta-vs-landmark-christian-fairburn/9-4-2026/?c=15976ff8-2b06-4905-b8ef-0357ff4c5a95"
     },
     {
      "league": "GA High School Football",
      "home": {
-      "name": "Alpharetta",
+      "name": "Discovery",
       "score": "",
       "record": "0-2",
       "logo": ""
      },
      "away": {
-      "name": "Centennial",
-      "score": "",
-      "record": "2-0",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7:30p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/alpharetta-vs-centennial-roswell/9-4-2026/?c=30b79240-4c41-4e25-b850-0052d1221fbd"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "Callaway",
+      "name": "Loganville",
       "score": "",
       "record": "1-1",
       "logo": ""
      },
-     "away": {
-      "name": "Whitewater",
-      "score": "",
-      "record": "2-0",
-      "logo": ""
-     },
      "network": "",
-     "detail": "7:30p",
+     "detail": "7p",
      "state": "pre",
      "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/callaway-hogansville-vs-whitewater-fayetteville/9-4-2026/?c=eeb506a3-ac60-49d2-af2b-40d7fadf20e1"
+     "link": "https://www.maxpreps.com/ga/football/game/discovery-lawrenceville-vs-loganville/9-4-2026/?c=cd7ff900-8450-4faa-8ed8-5121944c5f99"
     },
     {
      "league": "GA High School Football",
      "home": {
-      "name": "Community Christian",
+      "name": "Stephenson",
       "score": "",
-      "record": "1-1",
+      "record": "2-0",
       "logo": ""
      },
      "away": {
-      "name": "Griffin Christian",
+      "name": "Tucker",
       "score": "",
       "record": "2-0",
       "logo": ""
      },
      "network": "",
-     "detail": "7:30p",
+     "detail": "7p",
      "state": "pre",
      "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/community-christian-stockbridge-vs-griffin-christian/9-4-2026/?c=6761e1ea-5591-4222-9620-eaecc979a906"
+     "link": "https://www.maxpreps.com/ga/football/game/stephenson-stone-mountain-vs-tucker/9-4-2026/?c=9da570ca-969f-4098-9746-f002a7520e13"
     },
     {
      "league": "GA High School Football",
@@ -713,6 +633,26 @@
     {
      "league": "GA High School Football",
      "home": {
+      "name": "Harrison",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "North Paulding",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/harrison-kennesaw-vs-north-paulding-dallas/9-4-2026/?c=a20cb2ab-e299-4943-88aa-322d31f66f0f"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
       "name": "Clarkston",
       "score": "",
       "record": "0-2",
@@ -729,46 +669,6 @@
      "state": "pre",
      "isLocal": true,
      "link": "https://www.maxpreps.com/ga/football/game/clarkston-vs-walker-marietta/9-4-2026/?c=b3870c7c-4419-4213-8f59-7517e028e2a3"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "Cherokee",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "away": {
-      "name": "River Ridge",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7:30p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/cherokee-canton-vs-river-ridge-woodstock/9-4-2026/?c=452dc002-6bac-42f7-b2d2-692a9be4fa54"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "McDonough",
-      "score": "",
-      "record": "1-1",
-      "logo": ""
-     },
-     "away": {
-      "name": "Mt. Zion",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7:30p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/mcdonough-vs-mt-zion-jonesboro/9-4-2026/?c=867a347e-4eca-4583-9872-74b635cc06b6"
     },
     {
      "league": "GA High School Football",
@@ -793,6 +693,86 @@
     {
      "league": "GA High School Football",
      "home": {
+      "name": "Alpharetta",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Centennial",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/alpharetta-vs-centennial-roswell/9-4-2026/?c=30b79240-4c41-4e25-b850-0052d1221fbd"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Community Christian",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Griffin Christian",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/community-christian-stockbridge-vs-griffin-christian/9-4-2026/?c=6761e1ea-5591-4222-9620-eaecc979a906"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "McDonough",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Mt. Zion",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/mcdonough-vs-mt-zion-jonesboro/9-4-2026/?c=867a347e-4eca-4583-9872-74b635cc06b6"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "South Paulding",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Villa Rica",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/south-paulding-douglasville-vs-villa-rica/9-4-2026/?c=04231c74-97b1-437d-9949-acfe87981ab6"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
       "name": "Mays",
       "score": "",
       "record": "2-0",
@@ -813,22 +793,22 @@
     {
      "league": "GA High School Football",
      "home": {
-      "name": "Apalachee",
+      "name": "Cherokee",
       "score": "",
-      "record": "1-1",
+      "record": "0-2",
       "logo": ""
      },
      "away": {
-      "name": "Lassiter",
+      "name": "River Ridge",
       "score": "",
-      "record": "2-0",
+      "record": "0-2",
       "logo": ""
      },
      "network": "",
      "detail": "7:30p",
      "state": "pre",
      "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/apalachee-winder-vs-lassiter-marietta/9-4-2026/?c=d20d747f-ed55-4356-a0ba-bd120ad8501c"
+     "link": "https://www.maxpreps.com/ga/football/game/cherokee-canton-vs-river-ridge-woodstock/9-4-2026/?c=452dc002-6bac-42f7-b2d2-692a9be4fa54"
     },
     {
      "league": "GA High School Football",
@@ -849,6 +829,26 @@
      "state": "pre",
      "isLocal": true,
      "link": "https://www.maxpreps.com/ga/football/game/kell-marietta-vs-sprayberry-marietta/9-4-2026/?c=feb0c203-2132-4c65-a126-5ec433a6696c"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Callaway",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Whitewater",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/callaway-hogansville-vs-whitewater-fayetteville/9-4-2026/?c=eeb506a3-ac60-49d2-af2b-40d7fadf20e1"
     },
     {
      "league": "MLB",
@@ -3418,15 +3418,6 @@
      "score": 40
     },
     {
-     "title": "\u2018Black Widow\u2019 accused of targeting men on dating apps for money and drugging them, authorities say",
-     "desc": "",
-     "cat": "Juzmezzy",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/09/02/black-widow-accused-targeting-men-dating-apps-money-drugging-them-authorities-say/",
-     "score": 0
-    },
-    {
      "title": "Son of former NFL player, reality TV star faces sexual battery, sodomy charges",
      "desc": "",
      "cat": "Juzmezzy",
@@ -3442,6 +3433,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/03/son-real-housewives-star-kim-zolciak-indicted-7-felonies-after-alleged-sexual-assault/",
+     "score": 0
+    },
+    {
+     "title": "\u2018Black Widow\u2019 accused of targeting men on dating apps for money and drugging them, authorities say",
+     "desc": "",
+     "cat": "Juzmezzy",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/09/02/black-widow-accused-targeting-men-dating-apps-money-drugging-them-authorities-say/",
      "score": 0
     }
    ]
