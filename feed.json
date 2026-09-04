@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T06:40:24",
+ "updated": "2026-09-04T06:45:25",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -293,15 +293,6 @@
      "score": 36
     },
     {
-     "title": "Scholarship set up in memory of legendary Georgia high school football coach",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "",
-     "url": "https://www.wsbtv.com/news/local/scholarship-set-up-memory-legendary-georgia-high-school-football-coach/44VAMNBELZFCHPSNMDKTTYFJ2E/",
-     "score": 36
-    },
-    {
      "title": "UGA vs Tennessee: What to know if you're headed to Athens on Saturday",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/15-year-old-football-player-with-dreams-playing-nfl-dies-after-getting-trapped-house-fire/",
      "score": 34
+    },
+    {
+     "title": "Braves\u2019 7-game win streak snapped by Giants",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "",
+     "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
+     "score": 30
     }
    ]
   },
