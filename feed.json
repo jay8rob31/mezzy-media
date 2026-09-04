@@ -1,15 +1,24 @@
 {
- "updated": "2026-09-04T05:15:24",
+ "updated": "2026-09-04T05:20:25",
  "hero": {
-  "title": "Man shot, killed at luxury apartments in Buckhead",
+  "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
-  "url": "https://www.wsbtv.com/news/local/man-shot-killed-luxury-apartment-buckhead/CMYKFXODTBDHHAWGIFN2TKKEXE/"
+  "url": "https://www.11alive.com/article/news/crime/shooting-at-buckhead-apartments-leaves-1-dead/85-660f30e6-60d5-4a4b-b20d-b482962f2932"
  },
  "rails": [
   {
    "id": "trending",
    "title": "Top 10 in Atlanta",
    "items": [
+    {
+     "title": "Deadly shooting investigation at Buckhead apartments",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_19.jpg",
+     "url": "https://www.11alive.com/article/news/crime/shooting-at-buckhead-apartments-leaves-1-dead/85-660f30e6-60d5-4a4b-b20d-b482962f2932",
+     "score": 111
+    },
     {
      "title": "Man shot, killed at luxury apartments in Buckhead",
      "desc": "",
@@ -90,15 +99,6 @@
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
      "score": 85
-    },
-    {
-     "title": "Man walking in northwest Atlanta wounded after hearing sudden gunfire",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
-     "score": 85
     }
    ]
   },
@@ -106,6 +106,15 @@
    "id": "crime",
    "title": "Crime Watch",
    "items": [
+    {
+     "title": "Deadly shooting investigation at Buckhead apartments",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_19.jpg",
+     "url": "https://www.11alive.com/article/news/crime/shooting-at-buckhead-apartments-leaves-1-dead/85-660f30e6-60d5-4a4b-b20d-b482962f2932",
+     "score": 111
+    },
     {
      "title": "Man shot, killed at luxury apartments in Buckhead",
      "desc": "",
@@ -204,15 +213,6 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
      "score": 85
-    },
-    {
-     "title": "Mother accused of fatally shooting her 2-year-old daughter charged with murder, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/5RPJSV7YSZCHPCMVHZBZR6YE2A.JPG?auth=ccc9a5ed6a50fd679da809875b80380740e2382f10e963575a9d0b3a15c57fb4&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/08/31/mother-accused-fatally-shooting-her-2-year-old-daughter-charged-with-murder-police-say/",
-     "score": 82
     }
    ]
   },
