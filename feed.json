@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T20:45:25",
+ "updated": "2026-09-03T20:50:25",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -257,15 +257,6 @@
      "score": 48
     },
     {
-     "title": "UGA vs Tennessee: What to know if you're headed to Athens on Saturday",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/uga-vs-tennessee-what-know-youre-headed-athens-saturday",
-     "score": 46
-    },
-    {
      "title": "Atlanta Falcons finalize 53-man roster. Who made it and who was cut?",
      "desc": "",
      "cat": "Sports",
@@ -290,6 +281,15 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "",
      "url": "https://www.wsbtv.com/news/local/rockdale-county/he-was-sucker-punched-father-speaks-out-after-son-injures-pregame-football-fight/CZTRXHOXJJHZ3PIEOGBIZVV4MI/",
+     "score": 40
+    },
+    {
+     "title": "UGA vs Tennessee: What to know if you're headed to Athens on Saturday",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/uga-vs-tennessee-what-know-youre-headed-athens-saturday",
      "score": 40
     },
     {
@@ -453,7 +453,7 @@
      "desc": "",
      "cat": "Juzmezzy",
      "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FMH25R7EI7ZGHJDU6WELF22OVMM.jpg?auth=a49668fa6cdc083d25dacd2d91d86ef5553397e74da0df12febd81e18aa30e03&amp;width=1200&amp;height=630&amp;smart=true",
+     "img": "",
      "url": "https://www.wsbtv.com/news/trending/hall-fame-rb-emmitt-smith-company-accused-cheating-investor-out-25-million/KWTRAVZ6WFCU3AQSUINFIBTS7I/",
      "score": 48
     },
