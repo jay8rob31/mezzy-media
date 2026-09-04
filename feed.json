@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T11:40:25",
+ "updated": "2026-09-04T11:45:26",
  "hero": {
   "title": "Police offering up to $5K for information in deadly shooting of 22-year-old woman in Atlanta",
   "desc": "",
@@ -47,15 +47,6 @@
      "score": 93
     },
     {
-     "title": "Fight over cellphone leads to deadly DeKalb ghost gun shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
-     "score": 93
-    },
-    {
      "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
      "desc": "",
      "cat": "Crime",
@@ -92,13 +83,22 @@
      "score": 87
     },
     {
-     "title": "Man shot, killed at South Bend Park in southeast Atlanta",
+     "title": "Man walking in northwest Atlanta wounded after hearing sudden gunfire",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/02/1200/630/Police-lights.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-shot-killed-south-bend-park-southeast-atlanta",
-     "score": 87
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
+     "score": 85
+    },
+    {
+     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
+     "score": 85
     }
    ]
   },
@@ -143,15 +143,6 @@
      "score": 93
     },
     {
-     "title": "Fight over cellphone leads to deadly DeKalb ghost gun shooting",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
-     "score": 93
-    },
-    {
      "title": "Woman dead after shooting at Defoors Ferry Road NW apartment complex",
      "desc": "",
      "cat": "Crime",
@@ -188,15 +179,6 @@
      "score": 87
     },
     {
-     "title": "Man shot, killed at South Bend Park in southeast Atlanta",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/02/1200/630/Police-lights.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-shot-killed-south-bend-park-southeast-atlanta",
-     "score": 87
-    },
-    {
      "title": "Man walking in northwest Atlanta wounded after hearing sudden gunfire",
      "desc": "",
      "cat": "Crime",
@@ -213,6 +195,24 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
      "score": 85
+    },
+    {
+     "title": "Man sentenced to life in prison for deadly triple shooting at Douglas County home",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YBJ7I3675NAXPBTVOIH2IM4XHI.jpg?auth=ac5b2e0b1b694eba70e2f6ea56848f0c33ee36214297cc55857307254782573b&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/09/03/man-sentenced-life-prison-deadly-triple-shooting-douglas-county-home/",
+     "score": 77
+    },
+    {
+     "title": "ICE officer charged with lying to investigators in shooting of Venezuelan man, source says",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_11.jpg",
+     "url": "https://www.11alive.com/article/news/nation-world/ice-officer-charged-with-lying-to-investigators-venezuela-man-shooting/507-ee241eac-6c7f-4cd0-adf2-a70e4f2e0ca3",
+     "score": 68
     }
    ]
   },
