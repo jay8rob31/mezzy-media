@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T04:35:24",
+ "updated": "2026-09-04T04:40:25",
  "hero": {
   "title": "Man shot, killed at luxury apartments in Buckhead",
   "desc": "",
@@ -221,6 +221,15 @@
    "title": "Sports",
    "items": [
     {
+     "title": "Georgia Tech field goal blocked in late loss to Colorado",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXUFOZNANMVCRPMIAAGLAD5ILPQ.jpg?auth=474395de997cdd2bfd7c5fca7156178ff52ead09b64b80a30e8ae7a4dc156b1d&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/georgia-tech-field-goal-blocked-late-loss-colorado/GBOF73AKEBEH3KL6BKSEFWGJCI/",
+     "score": 66
+    },
+    {
      "title": "Georgia Tech names its first football jersey patch sponsor",
      "desc": "",
      "cat": "Sports",
@@ -317,15 +326,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "",
      "url": "https://www.fox5atlanta.com/news/uga-vs-tennessee-what-know-youre-headed-athens-saturday",
-     "score": 34
-    },
-    {
-     "title": "Ex-NFL player Alphonso Smith Jr. dies at 40",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/sports/ex-nfl-player-alphonso-smith-jr-dies",
      "score": 34
     }
    ]
