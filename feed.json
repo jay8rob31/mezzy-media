@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T12:35:26",
+ "updated": "2026-09-04T12:40:25",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -230,6 +230,15 @@
      "score": 62
     },
     {
+     "title": "SEC GameDay on 2 returns to Channel 2 every Saturday following ABC primetime game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FDIXY7B3HFJGIJFLH5SGNDTYKRY.png?auth=b6109ceff1c338356550d74a89bf396646cce63e31ffcbe1be787c1ae387844e&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/sports/sec-gameday-2-returns-channel-2-every-saturday-following-abc-primetime-game/F7BEQA3GKZBERGRIAP6GIWL3BM/",
+     "score": 60
+    },
+    {
      "title": "John Abraham to be inducted this year into Falcons Ring of Honor",
      "desc": "",
      "cat": "Sports",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/04/georgia-tech-falls-colorado-after-game-winning-kick-gets-blocked/",
      "score": 32
-    },
-    {
-     "title": "Braves\u2019 7-game win streak snapped by Giants",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
-     "score": 30
     }
    ],
    "games": [
