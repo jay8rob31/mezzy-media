@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T03:50:24",
+ "updated": "2026-09-04T03:55:24",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -26,15 +26,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
-     "score": 93
-    },
-    {
-     "title": "22-year-old woman killed following shooting in northwest Atlanta, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_13.jpg",
-     "url": "https://www.11alive.com/article/news/crime/woman-killed-following-shooting-northwest-atlanta-police-say/85-fd282a08-0b40-43e9-a8d2-49b3bb124950",
      "score": 93
     },
     {
@@ -99,6 +90,15 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
      "score": 85
+    },
+    {
+     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
+     "score": 85
     }
    ]
   },
@@ -122,15 +122,6 @@
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
-     "score": 93
-    },
-    {
-     "title": "22-year-old woman killed following shooting in northwest Atlanta, police say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_13.jpg",
-     "url": "https://www.11alive.com/article/news/crime/woman-killed-following-shooting-northwest-atlanta-police-say/85-fd282a08-0b40-43e9-a8d2-49b3bb124950",
      "score": 93
     },
     {
@@ -213,6 +204,15 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/YBJ7I3675NAXPBTVOIH2IM4XHI.jpg?auth=ac5b2e0b1b694eba70e2f6ea56848f0c33ee36214297cc55857307254782573b&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/09/03/man-sentenced-life-prison-deadly-triple-shooting-douglas-county-home/",
      "score": 83
+    },
+    {
+     "title": "Mother accused of fatally shooting her 2-year-old daughter charged with murder, police say",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.atlantanewsfirst.com",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/5RPJSV7YSZCHPCMVHZBZR6YE2A.JPG?auth=ccc9a5ed6a50fd679da809875b80380740e2382f10e963575a9d0b3a15c57fb4&amp;width=1200&amp;height=600&amp;smart=true",
+     "url": "https://www.atlantanewsfirst.com/2026/08/31/mother-accused-fatally-shooting-her-2-year-old-daughter-charged-with-murder-police-say/",
+     "score": 82
     }
    ]
   },
