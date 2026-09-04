@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T10:20:26",
+ "updated": "2026-09-04T10:25:25",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -38,21 +38,21 @@
      "score": 105
     },
     {
-     "title": "Man shot, killed at luxury apartments in Buckhead",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXK66DNGINFB5FP46W4DQZOADE4.png?auth=3d19cc24173dfa9e17bfcd4b3cc0f545a4bc6f43acd64ce90adce8d471ece991&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/man-shot-killed-luxury-apartment-buckhead/CMYKFXODTBDHHAWGIFN2TKKEXE/",
-     "score": 99
-    },
-    {
      "title": "Fight over cellphone leads to deadly DeKalb ghost gun shooting",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
+     "score": 93
+    },
+    {
+     "title": "Man shot, killed at luxury apartments in Buckhead",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXK66DNGINFB5FP46W4DQZOADE4.png?auth=3d19cc24173dfa9e17bfcd4b3cc0f545a4bc6f43acd64ce90adce8d471ece991&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/man-shot-killed-luxury-apartment-buckhead/CMYKFXODTBDHHAWGIFN2TKKEXE/",
      "score": 93
     },
     {
@@ -134,21 +134,21 @@
      "score": 105
     },
     {
-     "title": "Man shot, killed at luxury apartments in Buckhead",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXK66DNGINFB5FP46W4DQZOADE4.png?auth=3d19cc24173dfa9e17bfcd4b3cc0f545a4bc6f43acd64ce90adce8d471ece991&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/man-shot-killed-luxury-apartment-buckhead/CMYKFXODTBDHHAWGIFN2TKKEXE/",
-     "score": 99
-    },
-    {
      "title": "Fight over cellphone leads to deadly DeKalb ghost gun shooting",
      "desc": "",
      "cat": "Crime",
      "source": "atlanta:news:www.fox5atlanta.com",
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/10/1200/630/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/fight-over-cellphone-leads-deadly-dekalb-ghost-gun-shooting",
+     "score": 93
+    },
+    {
+     "title": "Man shot, killed at luxury apartments in Buckhead",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXK66DNGINFB5FP46W4DQZOADE4.png?auth=3d19cc24173dfa9e17bfcd4b3cc0f545a4bc6f43acd64ce90adce8d471ece991&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/man-shot-killed-luxury-apartment-buckhead/CMYKFXODTBDHHAWGIFN2TKKEXE/",
      "score": 93
     },
     {
@@ -261,7 +261,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
+     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/FS3IL3HKKNACDFPTJZYC7MWI6U.jpg?auth=daa49bd5da6260b55018afb32e593a8aeab230262441c8ad30465bc536befbdb&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/georgia-tech-kick-off-season-with-rare-thursday-night-game-bobby-dodd-stadium/",
      "score": 48
     },
