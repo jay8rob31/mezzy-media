@@ -1,24 +1,15 @@
 {
- "updated": "2026-09-04T07:10:24",
+ "updated": "2026-09-04T07:15:25",
  "hero": {
-  "title": "Deadly shooting investigation at Buckhead apartments",
+  "title": "Man killed in shooting at Buckhead apartment parking deck",
   "desc": "",
-  "url": "https://www.11alive.com/article/news/crime/shooting-at-buckhead-apartments-leaves-1-dead/85-660f30e6-60d5-4a4b-b20d-b482962f2932"
+  "url": "https://www.fox5atlanta.com/news/man-killed-shooting-buckhead-apartment-parking-deck"
  },
  "rails": [
   {
    "id": "trending",
    "title": "Top 10 in Atlanta",
    "items": [
-    {
-     "title": "Deadly shooting investigation at Buckhead apartments",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_19.jpg",
-     "url": "https://www.11alive.com/article/news/crime/shooting-at-buckhead-apartments-leaves-1-dead/85-660f30e6-60d5-4a4b-b20d-b482962f2932",
-     "score": 111
-    },
     {
      "title": "Man killed in shooting at Buckhead apartment parking deck",
      "desc": "",
@@ -36,6 +27,15 @@
      "img": "art/crime_15.jpg",
      "url": "https://www.11alive.com/article/news/crime/police-offering-up-to-5k-for-information-in-deadly-shooting-of-22-year-old-woman-in-atlanta/85-ce2924cc-fbb3-448a-a53e-1a0296000f24",
      "score": 111
+    },
+    {
+     "title": "Deadly shooting investigation at Buckhead apartments",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_19.jpg",
+     "url": "https://www.11alive.com/article/news/crime/shooting-at-buckhead-apartments-leaves-1-dead/85-660f30e6-60d5-4a4b-b20d-b482962f2932",
+     "score": 105
     },
     {
      "title": "Man shot, killed at luxury apartments in Buckhead",
@@ -107,15 +107,6 @@
    "title": "Crime Watch",
    "items": [
     {
-     "title": "Deadly shooting investigation at Buckhead apartments",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_19.jpg",
-     "url": "https://www.11alive.com/article/news/crime/shooting-at-buckhead-apartments-leaves-1-dead/85-660f30e6-60d5-4a4b-b20d-b482962f2932",
-     "score": 111
-    },
-    {
      "title": "Man killed in shooting at Buckhead apartment parking deck",
      "desc": "",
      "cat": "Crime",
@@ -132,6 +123,15 @@
      "img": "art/crime_15.jpg",
      "url": "https://www.11alive.com/article/news/crime/police-offering-up-to-5k-for-information-in-deadly-shooting-of-22-year-old-woman-in-atlanta/85-ce2924cc-fbb3-448a-a53e-1a0296000f24",
      "score": 111
+    },
+    {
+     "title": "Deadly shooting investigation at Buckhead apartments",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "art/crime_19.jpg",
+     "url": "https://www.11alive.com/article/news/crime/shooting-at-buckhead-apartments-leaves-1-dead/85-660f30e6-60d5-4a4b-b20d-b482962f2932",
+     "score": 105
     },
     {
      "title": "Man shot, killed at luxury apartments in Buckhead",
