@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T12:30:32",
+ "updated": "2026-09-04T12:35:26",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -327,6 +327,2948 @@
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/01/braves-7-game-win-streak-snapped-by-giants/",
      "score": 30
+    }
+   ],
+   "games": [
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Steelers",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
+     },
+     "away": {
+      "name": "Falcons",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
+     },
+     "network": "FOX",
+     "detail": "9/13 - 1:00 PM EDT",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872658"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Georgia",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
+     },
+     "away": {
+      "name": "Tennessee St",
+      "score": "0",
+      "record": "0-1",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2634.png"
+     },
+     "network": "SECN+",
+     "detail": "9/5 - 3:00 PM EDT",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856658"
+    },
+    {
+     "league": "WNBA",
+     "home": {
+      "name": "Dream",
+      "score": "0",
+      "record": "26-14",
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png"
+     },
+     "away": {
+      "name": "Sun",
+      "score": "0",
+      "record": "10-30",
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png"
+     },
+     "network": "Atlanta News First",
+     "detail": "9/17 - 7:30 PM EDT",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.espn.com/wnba/game/_/gameId/401857190"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Georgia St",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png"
+     },
+     "away": {
+      "name": "Bowling Green",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/189.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401910994"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Georgia",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"
+     },
+     "away": {
+      "name": "NC Central",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2428.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401906779"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Phillies",
+      "score": "0",
+      "record": "79-61",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png"
+     },
+     "away": {
+      "name": "Braves",
+      "score": "0",
+      "record": "83-57",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/atl.png"
+     },
+     "network": "ESPN Unlmtd",
+     "detail": "9/4 - 6:40 PM EDT",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816798"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "South Atlanta",
+      "score": "",
+      "record": "1-0",
+      "logo": ""
+     },
+     "away": {
+      "name": "Washington",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "5:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/south-atlanta-vs-washington-atlanta/9-4-2026/?c=97e4a7b9-d9fc-4772-8cb6-8a6475cd0c1c"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Lakeside",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Midtown",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "5:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/lakeside-atlanta-vs-midtown-atlanta/9-4-2026/?c=c22502e4-27b0-45ed-8045-ed9b077ecd98"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Alcovy",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Meadowcreek",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/alcovy-covington-vs-meadowcreek-norcross/9-4-2026/?c=57d35dce-9ca7-4bf6-a2f6-5b98ac1b8fb1"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Collins Hill",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Parkview",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/collins-hill-suwanee-vs-parkview-lilburn/9-4-2026/?c=934047bd-cd12-4794-816a-c2f922a7f3ff"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Lambert",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Tift County",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/lambert-suwanee-vs-tift-county-tifton/9-4-2026/?c=65c93ce2-0edf-47b8-8f42-792d779d21e9"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Druid Hills",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Landmark Christian",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/druid-hills-atlanta-vs-landmark-christian-fairburn/9-4-2026/?c=15976ff8-2b06-4905-b8ef-0357ff4c5a95"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Discovery",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Loganville",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/discovery-lawrenceville-vs-loganville/9-4-2026/?c=cd7ff900-8450-4faa-8ed8-5121944c5f99"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Stephenson",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "away": {
+      "name": "Tucker",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/stephenson-stone-mountain-vs-tucker/9-4-2026/?c=9da570ca-969f-4098-9746-f002a7520e13"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Fellowship Christian",
+      "score": "",
+      "record": "1-0",
+      "logo": ""
+     },
+     "away": {
+      "name": "Lovett",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/fellowship-christian-roswell-vs-lovett-atlanta/9-4-2026/?c=61346a55-8ebf-48f2-87b0-21a4c18311c1"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Harrison",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "North Paulding",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/harrison-kennesaw-vs-north-paulding-dallas/9-4-2026/?c=a20cb2ab-e299-4943-88aa-322d31f66f0f"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Clarkston",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Walker",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/clarkston-vs-walker-marietta/9-4-2026/?c=b3870c7c-4419-4213-8f59-7517e028e2a3"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Community Christian",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Griffin Christian",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/community-christian-stockbridge-vs-griffin-christian/9-4-2026/?c=6761e1ea-5591-4222-9620-eaecc979a906"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Campbell",
+      "score": "",
+      "record": "1-0",
+      "logo": ""
+     },
+     "away": {
+      "name": "Denmark",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/campbell-smyrna-vs-denmark-alpharetta/9-4-2026/?c=2b4a7c0c-cd70-460d-b5c5-d6164369a72f"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Alpharetta",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Centennial",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/alpharetta-vs-centennial-roswell/9-4-2026/?c=30b79240-4c41-4e25-b850-0052d1221fbd"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "McDonough",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Mt. Zion",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/mcdonough-vs-mt-zion-jonesboro/9-4-2026/?c=867a347e-4eca-4583-9872-74b635cc06b6"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "South Paulding",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Villa Rica",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/south-paulding-douglasville-vs-villa-rica/9-4-2026/?c=04231c74-97b1-437d-9949-acfe87981ab6"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Mays",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "away": {
+      "name": "Pebblebrook",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/mays-atlanta-vs-pebblebrook-mableton/9-4-2026/?c=334c38d6-2802-4b8d-b03a-1c0920b0a7be"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Cherokee",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "River Ridge",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/cherokee-canton-vs-river-ridge-woodstock/9-4-2026/?c=452dc002-6bac-42f7-b2d2-692a9be4fa54"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Kell",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Sprayberry",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/kell-marietta-vs-sprayberry-marietta/9-4-2026/?c=feb0c203-2132-4c65-a126-5ec433a6696c"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Callaway",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Whitewater",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/callaway-hogansville-vs-whitewater-fayetteville/9-4-2026/?c=eeb506a3-ac60-49d2-af2b-40d7fadf20e1"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "USC",
+      "score": "42",
+      "record": "1-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
+     },
+     "away": {
+      "name": "San Jos\u00e9 St",
+      "score": "26",
+      "record": "0-1",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png"
+     },
+     "network": "NBC",
+     "detail": "Final",
+     "state": "post",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401864494"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Utah",
+      "score": "66",
+      "record": "1-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png"
+     },
+     "away": {
+      "name": "Idaho",
+      "score": "14",
+      "record": "0-2",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png"
+     },
+     "network": "ESPNU",
+     "detail": "Final",
+     "state": "post",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856768"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Missouri",
+      "score": "54",
+      "record": "1-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png"
+     },
+     "away": {
+      "name": "AR-Pine Bluff",
+      "score": "14",
+      "record": "1-1",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2029.png"
+     },
+     "network": "SEC Network",
+     "detail": "Final",
+     "state": "post",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856663"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Seahawks",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
+     },
+     "away": {
+      "name": "Patriots",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
+     },
+     "network": "NBC",
+     "detail": "9/9 - 8:20 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872656"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Rams",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
+     },
+     "away": {
+      "name": "49ers",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
+     },
+     "network": "Netflix",
+     "detail": "9/10 - 8:35 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872657"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Bengals",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
+     },
+     "away": {
+      "name": "Buccaneers",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png"
+     },
+     "network": "FOX",
+     "detail": "9/13 - 1:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872925"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Lions",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
+     },
+     "away": {
+      "name": "Saints",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png"
+     },
+     "network": "FOX",
+     "detail": "9/13 - 1:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872923"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Titans",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
+     },
+     "away": {
+      "name": "Jets",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
+     },
+     "network": "CBS",
+     "detail": "9/13 - 1:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872924"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Colts",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
+     },
+     "away": {
+      "name": "Ravens",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
+     },
+     "network": "CBS",
+     "detail": "9/13 - 1:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872659"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Panthers",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
+     },
+     "away": {
+      "name": "Bears",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
+     },
+     "network": "FOX",
+     "detail": "9/13 - 1:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872661"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Jaguars",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png"
+     },
+     "away": {
+      "name": "Browns",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png"
+     },
+     "network": "CBS",
+     "detail": "9/13 - 1:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872922"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Texans",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
+     },
+     "away": {
+      "name": "Bills",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
+     },
+     "network": "CBS",
+     "detail": "9/13 - 1:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872660"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Raiders",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
+     },
+     "away": {
+      "name": "Dolphins",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
+     },
+     "network": "FOX",
+     "detail": "9/13 - 4:25 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872928"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Vikings",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png"
+     },
+     "away": {
+      "name": "Packers",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
+     },
+     "network": "CBS",
+     "detail": "9/13 - 4:25 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872927"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Eagles",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
+     },
+     "away": {
+      "name": "Commanders",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
+     },
+     "network": "FOX",
+     "detail": "9/13 - 4:25 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872929"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Chargers",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
+     },
+     "away": {
+      "name": "Cardinals",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
+     },
+     "network": "CBS",
+     "detail": "9/13 - 4:25 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872926"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Giants",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
+     },
+     "away": {
+      "name": "Cowboys",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
+     },
+     "network": "NBC",
+     "detail": "9/13 - 8:20 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872930"
+    },
+    {
+     "league": "NFL",
+     "home": {
+      "name": "Chiefs",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
+     },
+     "away": {
+      "name": "Broncos",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
+     },
+     "network": "ESPN",
+     "detail": "9/14 - 8:15 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nfl/game/_/gameId/401872931"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Oklahoma",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png"
+     },
+     "away": {
+      "name": "UTEP",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png"
+     },
+     "network": "SECN+",
+     "detail": "9/4 - 8:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856664"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Stanford",
+      "score": "0",
+      "record": "1-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png"
+     },
+     "away": {
+      "name": "Miami",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png"
+     },
+     "network": "ESPN",
+     "detail": "9/4 - 9:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401858206"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "USC",
+      "score": "0",
+      "record": "1-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"
+     },
+     "away": {
+      "name": "Fresno St",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png"
+     },
+     "network": "FOX",
+     "detail": "9/4 - 9:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401858436"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Indiana",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
+     },
+     "away": {
+      "name": "North Texas",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png"
+     },
+     "network": "FOX",
+     "detail": "9/5 - 12:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401858425"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Alabama",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png"
+     },
+     "away": {
+      "name": "East Carolina",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/151.png"
+     },
+     "network": "ABC",
+     "detail": "9/5 - 12:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856634"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Houston",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png"
+     },
+     "away": {
+      "name": "Oregon St",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png"
+     },
+     "network": "ESPN",
+     "detail": "9/5 - 12:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856778"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Ohio State",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png"
+     },
+     "away": {
+      "name": "Ball State",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2050.png"
+     },
+     "network": "BTN",
+     "detail": "9/5 - 12:30 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401858432"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Oregon",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"
+     },
+     "away": {
+      "name": "Boise St",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/68.png"
+     },
+     "network": "CBS",
+     "detail": "9/5 - 3:30 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401858433"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Texas",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+     },
+     "away": {
+      "name": "Texas St",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png"
+     },
+     "network": "ESPN",
+     "detail": "9/5 - 3:30 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856667"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Penn State",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png"
+     },
+     "away": {
+      "name": "Marshall",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png"
+     },
+     "network": "FS1",
+     "detail": "9/5 - 3:30 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401858434"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Tennessee",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"
+     },
+     "away": {
+      "name": "Furman",
+      "score": "0",
+      "record": "1-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/231.png"
+     },
+     "network": "SECN+",
+     "detail": "9/5 - 3:30 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856666"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Iowa",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png"
+     },
+     "away": {
+      "name": "N Illinois",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png"
+     },
+     "network": "BTN",
+     "detail": "9/5 - 4:15 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401858426"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Texas A&M",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png"
+     },
+     "away": {
+      "name": "Missouri St",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png"
+     },
+     "network": "ESPN",
+     "detail": "9/5 - 7:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856668"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Texas Tech",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png"
+     },
+     "away": {
+      "name": "Abilene Chrstn",
+      "score": "0",
+      "record": "0-1",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png"
+     },
+     "network": "FS1",
+     "detail": "9/5 - 7:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856770"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "LSU",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"
+     },
+     "away": {
+      "name": "Clemson",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png"
+     },
+     "network": "ABC",
+     "detail": "9/5 - 7:30 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856660"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Michigan",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"
+     },
+     "away": {
+      "name": "W Michigan",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png"
+     },
+     "network": "NBC",
+     "detail": "9/5 - 7:30 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401858428"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "BYU",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png"
+     },
+     "away": {
+      "name": "Utah Tech",
+      "score": "0",
+      "record": "0-1",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png"
+     },
+     "network": "ESPN+",
+     "detail": "9/5 - 8:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856775"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Washington",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png"
+     },
+     "away": {
+      "name": "Washington St",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png"
+     },
+     "network": "NBC",
+     "detail": "9/6 - 4:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401858437"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Notre Dame",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png"
+     },
+     "away": {
+      "name": "Wisconsin",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png"
+     },
+     "network": "NBC",
+     "detail": "9/6 - 7:30 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401858438"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Ole Miss",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png"
+     },
+     "away": {
+      "name": "Louisville",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png"
+     },
+     "network": "ABC",
+     "detail": "9/6 - 7:30 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401856661"
+    },
+    {
+     "league": "College Football",
+     "home": {
+      "name": "Florida St",
+      "score": "0",
+      "record": "1-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png"
+     },
+     "away": {
+      "name": "SMU",
+      "score": "0",
+      "record": "0-0",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png"
+     },
+     "network": "ESPN",
+     "detail": "9/7 - 7:30 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/college-football/game/_/gameId/401858212"
+    },
+    {
+     "league": "NBA",
+     "home": {
+      "name": "Raptors",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
+     },
+     "away": {
+      "name": "Heat",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png"
+     },
+     "network": "",
+     "detail": "10/3 - 7:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nba/game/_/gameId/401902644"
+    },
+    {
+     "league": "WNBA",
+     "home": {
+      "name": "Sky",
+      "score": "0",
+      "record": "15-25",
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/chi.png"
+     },
+     "away": {
+      "name": "Mystics",
+      "score": "0",
+      "record": "24-16",
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wsh.png"
+     },
+     "network": "CW26",
+     "detail": "9/17 - 8:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/wnba/game/_/gameId/401857191"
+    },
+    {
+     "league": "WNBA",
+     "home": {
+      "name": "Wings",
+      "score": "0",
+      "record": "24-16",
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/dal.png"
+     },
+     "away": {
+      "name": "Sparks",
+      "score": "0",
+      "record": "15-25",
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png"
+     },
+     "network": "USA Net",
+     "detail": "9/17 - 8:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/wnba/game/_/gameId/401857192"
+    },
+    {
+     "league": "WNBA",
+     "home": {
+      "name": "Fire",
+      "score": "0",
+      "record": "16-24",
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png"
+     },
+     "away": {
+      "name": "Mercury",
+      "score": "0",
+      "record": "14-26",
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/phx.png"
+     },
+     "network": "Fox 12 Plus",
+     "detail": "9/17 - 10:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/wnba/game/_/gameId/401857193"
+    },
+    {
+     "league": "WNBA",
+     "home": {
+      "name": "Storm",
+      "score": "0",
+      "record": "8-32",
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png"
+     },
+     "away": {
+      "name": "Aces",
+      "score": "0",
+      "record": "27-13",
+      "logo": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png"
+     },
+     "network": "USA Net",
+     "detail": "9/17 - 10:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/wnba/game/_/gameId/401857194"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "BYU",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png"
+     },
+     "away": {
+      "name": "Ohio State",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401916313"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Minnesota",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png"
+     },
+     "away": {
+      "name": "North Dakota",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/155.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401916303"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Maryland",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png"
+     },
+     "away": {
+      "name": "Bucknell",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2083.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401916296"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Indiana",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png"
+     },
+     "away": {
+      "name": "E Illinois",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401916286"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Illinois",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png"
+     },
+     "away": {
+      "name": "FDU",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/161.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401913525"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "North Carolina",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"
+     },
+     "away": {
+      "name": "W Carolina",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401913099"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Cincinnati",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png"
+     },
+     "away": {
+      "name": "American",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/44.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401912207"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "UC Davis",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png"
+     },
+     "away": {
+      "name": "North Alabama",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2453.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911517"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Nevada",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png"
+     },
+     "away": {
+      "name": "Robert Morris",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2523.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911452"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "UConn",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png"
+     },
+     "away": {
+      "name": "Gardner-Webb",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2241.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911390"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "South Florida",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/58.png"
+     },
+     "away": {
+      "name": "Charleston So",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2127.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911374"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Wright St",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png"
+     },
+     "away": {
+      "name": "Air Force",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911333"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "St Bonaventure",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/179.png"
+     },
+     "away": {
+      "name": "Youngstown St",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2754.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911261"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Saint Louis",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png"
+     },
+     "away": {
+      "name": "Lehigh",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911248"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Richmond",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/257.png"
+     },
+     "away": {
+      "name": "UNC Asheville",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2427.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911237"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Loyola Chicago",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2350.png"
+     },
+     "away": {
+      "name": "The Citadel",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2643.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911228"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "G Washington",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png"
+     },
+     "away": {
+      "name": "Navy",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911208"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Dayton",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png"
+     },
+     "away": {
+      "name": "NJIT",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2885.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911185"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "GA Southern",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/290.png"
+     },
+     "away": {
+      "name": "Ball State",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2050.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911004"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "South Alabama",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png"
+     },
+     "away": {
+      "name": "Ohio",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911003"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "James Madison",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/256.png"
+     },
+     "away": {
+      "name": "Miami OH",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911002"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Troy",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png"
+     },
+     "away": {
+      "name": "UMass",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911001"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Louisiana Tech",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png"
+     },
+     "away": {
+      "name": "Kent State",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911000"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Arkansas St",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png"
+     },
+     "away": {
+      "name": "Toledo",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401910999"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Coastal",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/324.png"
+     },
+     "away": {
+      "name": "E Michigan",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401910998"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Old Dominion",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/295.png"
+     },
+     "away": {
+      "name": "W Michigan",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401910997"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "UL Monroe",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png"
+     },
+     "away": {
+      "name": "C Michigan",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401910996"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Marshall",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png"
+     },
+     "away": {
+      "name": "Buffalo",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401910995"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Louisiana",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png"
+     },
+     "away": {
+      "name": "Akron",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401910993"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Kansas",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"
+     },
+     "away": {
+      "name": "Fordham",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909784"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Iowa State",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png"
+     },
+     "away": {
+      "name": "Memphis",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909771"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Colorado",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"
+     },
+     "away": {
+      "name": "Abilene Chrstn",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909759"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Wake Forest",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png"
+     },
+     "away": {
+      "name": "MD Eastern",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2379.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909725"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Syracuse",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png"
+     },
+     "away": {
+      "name": "New Haven",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2441.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909716"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Pitt",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png"
+     },
+     "away": {
+      "name": "Rider",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2520.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909705"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Duke",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
+     },
+     "away": {
+      "name": "Army",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/349.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909562"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Xavier",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2752.png"
+     },
+     "away": {
+      "name": "Mount St Marys",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/116.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909541"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Providence",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png"
+     },
+     "away": {
+      "name": "Maine",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/311.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909531"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Marquette",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/269.png"
+     },
+     "away": {
+      "name": "Mercyhurst",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2385.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909522"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "DePaul",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/305.png"
+     },
+     "away": {
+      "name": "West Georgia",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2698.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909500"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Creighton",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/156.png"
+     },
+     "away": {
+      "name": "Kansas City",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/140.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909490"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Texas",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"
+     },
+     "away": {
+      "name": "Chicago St",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2130.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401906863"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Oklahoma",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png"
+     },
+     "away": {
+      "name": "East Texas A&M",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2837.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401906801"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Mississippi St",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png"
+     },
+     "away": {
+      "name": "Tennessee Tech",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2635.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401906791"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Florida",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png"
+     },
+     "away": {
+      "name": "Miami",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401906769"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Butler",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png"
+     },
+     "away": {
+      "name": "Lafayette",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/322.png"
+     },
+     "network": "",
+     "detail": "TBD",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401902275"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Tennessee St",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2634.png"
+     },
+     "away": {
+      "name": "Murray St",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/93.png"
+     },
+     "network": "",
+     "detail": "11/2 - 11:30 AM EST",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911707"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "UTEP",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png"
+     },
+     "away": {
+      "name": "N Kentucky",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/94.png"
+     },
+     "network": "",
+     "detail": "11/2 - 2:00 PM EST",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911532"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Brown",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/225.png"
+     },
+     "away": {
+      "name": "New Hampshire",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/160.png"
+     },
+     "network": "",
+     "detail": "11/2 - 7:00 PM EST",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911304"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Florida St",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png"
+     },
+     "away": {
+      "name": "Florida A&M",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/50.png"
+     },
+     "network": "",
+     "detail": "11/2 - 8:30 PM EST",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909694"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Grand Canyon",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2253.png"
+     },
+     "away": {
+      "name": "Texas Southern",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png"
+     },
+     "network": "",
+     "detail": "11/2 - 9:00 PM EST",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911389"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Baylor",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png"
+     },
+     "away": {
+      "name": "N'Western St",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png"
+     },
+     "network": "",
+     "detail": "11/2 - 9:30 PM EST",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909750"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "San Jos\u00e9 St",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png"
+     },
+     "away": {
+      "name": "UTSA",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png"
+     },
+     "network": "",
+     "detail": "11/2 - 10:00 PM EST",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401911469"
+    },
+    {
+     "league": "Men's College Basketball",
+     "home": {
+      "name": "Arizona",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"
+     },
+     "away": {
+      "name": "UCLA",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png"
+     },
+     "network": "",
+     "detail": "11/2 - 10:00 PM EST",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909738"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Guardians",
+      "score": "0",
+      "record": "70-70",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
+     },
+     "away": {
+      "name": "Tigers",
+      "score": "0",
+      "record": "64-75",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 2:10 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401877193"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Reds",
+      "score": "0",
+      "record": "67-73",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png"
+     },
+     "away": {
+      "name": "Brewers",
+      "score": "0",
+      "record": "87-54",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 6:10 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816802"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Pirates",
+      "score": "0",
+      "record": "69-72",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/pit.png"
+     },
+     "away": {
+      "name": "Angels",
+      "score": "0",
+      "record": "53-87",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 6:40 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816797"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Orioles",
+      "score": "0",
+      "record": "69-72",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png"
+     },
+     "away": {
+      "name": "Red Sox",
+      "score": "0",
+      "record": "76-65",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 7:05 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816799"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Marlins",
+      "score": "0",
+      "record": "71-70",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mia.png"
+     },
+     "away": {
+      "name": "Cubs",
+      "score": "0",
+      "record": "79-62",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 7:10 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816800"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Guardians",
+      "score": "0",
+      "record": "70-70",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png"
+     },
+     "away": {
+      "name": "Tigers",
+      "score": "0",
+      "record": "64-75",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 7:10 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816801"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Mets",
+      "score": "0",
+      "record": "63-77",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png"
+     },
+     "away": {
+      "name": "Giants",
+      "score": "0",
+      "record": "58-83",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 7:10 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816803"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "White Sox",
+      "score": "0",
+      "record": "73-67",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chw.png"
+     },
+     "away": {
+      "name": "Twins",
+      "score": "0",
+      "record": "67-73",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 7:40 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816805"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Rangers",
+      "score": "0",
+      "record": "70-71",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png"
+     },
+     "away": {
+      "name": "Rays",
+      "score": "0",
+      "record": "83-57",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 8:05 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816806"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Astros",
+      "score": "0",
+      "record": "72-69",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png"
+     },
+     "away": {
+      "name": "Diamondbacks",
+      "score": "0",
+      "record": "74-67",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ari.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 8:10 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816804"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Royals",
+      "score": "0",
+      "record": "63-78",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png"
+     },
+     "away": {
+      "name": "Blue Jays",
+      "score": "0",
+      "record": "70-71",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 8:10 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816807"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Rockies",
+      "score": "0",
+      "record": "54-86",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png"
+     },
+     "away": {
+      "name": "Cardinals",
+      "score": "0",
+      "record": "70-71",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 8:40 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816808"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Padres",
+      "score": "0",
+      "record": "73-67",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png"
+     },
+     "away": {
+      "name": "Yankees",
+      "score": "0",
+      "record": "80-60",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 9:40 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816810"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Mariners",
+      "score": "0",
+      "record": "66-75",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png"
+     },
+     "away": {
+      "name": "Athletics",
+      "score": "0",
+      "record": "55-86",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 10:10 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816809"
+    },
+    {
+     "league": "MLB",
+     "home": {
+      "name": "Dodgers",
+      "score": "0",
+      "record": "83-57",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+     },
+     "away": {
+      "name": "Nationals",
+      "score": "0",
+      "record": "67-75",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png"
+     },
+     "network": "MLB.TV",
+     "detail": "9/4 - 10:10 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/mlb/game/_/gameId/401816811"
+    },
+    {
+     "league": "NHL",
+     "home": {
+      "name": "Maple Leafs",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png"
+     },
+     "away": {
+      "name": "Canadiens",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png"
+     },
+     "network": "",
+     "detail": "9/19 - 7:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nhl/game/_/gameId/401881922"
+    },
+    {
+     "league": "NHL",
+     "home": {
+      "name": "Canadiens",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/mtl.png"
+     },
+     "away": {
+      "name": "Maple Leafs",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png"
+     },
+     "network": "",
+     "detail": "9/19 - 7:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nhl/game/_/gameId/401881923"
+    },
+    {
+     "league": "NHL",
+     "home": {
+      "name": "Blues",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/stl.png"
+     },
+     "away": {
+      "name": "Stars",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png"
+     },
+     "network": "",
+     "detail": "9/19 - 7:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nhl/game/_/gameId/401886427"
+    },
+    {
+     "league": "NHL",
+     "home": {
+      "name": "Oilers",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png"
+     },
+     "away": {
+      "name": "Jets",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/wpg.png"
+     },
+     "network": "",
+     "detail": "9/19 - 8:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nhl/game/_/gameId/401878099"
+    },
+    {
+     "league": "NHL",
+     "home": {
+      "name": "Wild",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/min.png"
+     },
+     "away": {
+      "name": "Blackhawks",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png"
+     },
+     "network": "",
+     "detail": "9/19 - 8:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nhl/game/_/gameId/401886258"
+    },
+    {
+     "league": "NHL",
+     "home": {
+      "name": "Kings",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png"
+     },
+     "away": {
+      "name": "Golden Knights",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png"
+     },
+     "network": "Scripps Sports",
+     "detail": "9/19 - 9:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nhl/game/_/gameId/401879412"
+    },
+    {
+     "league": "NHL",
+     "home": {
+      "name": "Kraken",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png"
+     },
+     "away": {
+      "name": "Canucks",
+      "score": "0",
+      "record": "",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/van.png"
+     },
+     "network": "",
+     "detail": "9/19 - 10:00 PM EDT",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/nhl/game/_/gameId/401879652"
+    },
+    {
+     "league": "MLS",
+     "home": {
+      "name": "NYCFC",
+      "score": "0",
+      "record": "7-7-8",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
+     },
+     "away": {
+      "name": "Nashville",
+      "score": "0",
+      "record": "16-4-2",
+      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png"
+     },
+     "network": "Apple TV",
+     "detail": "Scheduled",
+     "state": "pre",
+     "isLocal": false,
+     "link": "https://www.espn.com/usa.1/game/_/gameId/761770"
     }
    ]
   },
