@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T22:15:25",
+ "updated": "2026-09-03T22:20:24",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -243,7 +243,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/sports_20.jpg",
+     "img": "",
      "url": "https://www.11alive.com/article/life/santa-with-down-syndrome-inducted-into-the-international-santa-hall-of-fame/85-582e9b0e-7382-417d-84d9-118d38d91ab3",
      "score": 48
     },
@@ -353,15 +353,6 @@
      "score": 34
     },
     {
-     "title": "'Really bittersweet' | Dolly Parton's niece reveals why country music legend kept cancer battle private",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "",
-     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-family-details-cancer-battle/507-74ad5c11-b14e-48e3-bbe4-b6030818b077",
-     "score": 34
-    },
-    {
      "title": "Six workers injured after Ed Sheeran concert in Detroit",
      "desc": "",
      "cat": "Culture",
@@ -395,6 +386,15 @@
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/03/fuel-food-prices-remain-high-into-labor-day-weekend/",
+     "score": 0
+    },
+    {
+     "title": "'Really bittersweet' | Dolly Parton's niece reveals why country music legend kept cancer battle private",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.11alive.com",
+     "img": "",
+     "url": "https://www.11alive.com/article/news/nation-world/dolly-parton-family-details-cancer-battle/507-74ad5c11-b14e-48e3-bbe4-b6030818b077",
      "score": 0
     },
     {
