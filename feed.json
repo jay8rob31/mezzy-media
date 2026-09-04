@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T01:40:24",
+ "updated": "2026-09-04T01:45:25",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -335,21 +335,21 @@
    "title": "ATL Culture",
    "items": [
     {
-     "title": "Ed Sheeran's Atlanta concert: Date, time and Mercedes-Benz Stadium guidelines",
-     "desc": "",
-     "cat": "Culture",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/news/ed-sheerans-atlanta-concert-date-time-mercedes-benz-stadium-guidelines",
-     "score": 40
-    },
-    {
      "title": "Employee injured in fire outside Perimeter Mall restaurant",
      "desc": "",
      "cat": "Culture",
      "source": "atlanta:news:www.atlantanewsfirst.com",
      "img": "",
      "url": "https://www.atlantanewsfirst.com/2026/09/02/employee-injured-fire-outside-perimeter-mall-restaurant/",
+     "score": 34
+    },
+    {
+     "title": "Ed Sheeran's Atlanta concert: Date, time and Mercedes-Benz Stadium guidelines",
+     "desc": "",
+     "cat": "Culture",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/news/ed-sheerans-atlanta-concert-date-time-mercedes-benz-stadium-guidelines",
      "score": 34
     },
     {
