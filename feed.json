@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T13:25:28",
+ "updated": "2026-09-04T13:30:29",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -293,6 +293,15 @@
      "score": 46
     },
     {
+     "title": "Teams involved in football fight ordered to forfeit canceled game",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "",
+     "url": "https://www.wsbtv.com/news/local/teams-involved-football-fight-ordered-forfeit-canceled-game/DOPI6WSTGJA3XAOFQVCOEHD224/",
+     "score": 46
+    },
+    {
      "title": "Santa with Down syndrome inducted into the International Santa Hall of Fame",
      "desc": "",
      "cat": "Sports",
@@ -318,15 +327,6 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/judge-clears-path-lsu-add-former-nfl-players-roster/6JF3ZDEXNRB4NFRBSR46EOGDWY/",
      "score": 34
-    },
-    {
-     "title": "Georgia Tech falls to Colorado after game-winning kick is blocked",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "",
-     "url": "https://www.atlantanewsfirst.com/2026/09/04/georgia-tech-falls-colorado-after-game-winning-kick-gets-blocked/",
-     "score": 32
     }
    ],
    "games": [
