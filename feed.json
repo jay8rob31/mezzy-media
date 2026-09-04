@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T08:05:25",
+ "updated": "2026-09-04T08:10:24",
  "hero": {
   "title": "Police offering up to $5K for information in deadly shooting of 22-year-old woman in Atlanta",
   "desc": "",
@@ -74,6 +74,15 @@
      "score": 93
     },
     {
+     "title": "Teen arrested in deadly Sandy Springs apartment shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
+     "score": 93
+    },
+    {
      "title": "Man shot, killed at South Bend Park in southeast Atlanta",
      "desc": "",
      "cat": "Crime",
@@ -89,15 +98,6 @@
      "source": "atlanta:news:www.wsbtv.com",
      "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FYCQBOS4EG5AXPPK57CAMQJ3CEM.png?auth=c8935a201e0db5fc674f220da5b375c9293eaf34c660c9bccb3dd17656a39b80&amp;width=1200&amp;height=630&amp;smart=true",
      "url": "https://www.wsbtv.com/news/local/douglas-county/boys-watched-parents-shot-dad-killed-their-own-home/6AVBBLUB7BEYXCTT6QBZ4TOQ6U/",
-     "score": 87
-    },
-    {
-     "title": "Man who shot and killed Warm Springs officer punched him during arrest days earlier, warrants say",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.11alive.com",
-     "img": "art/crime_3.jpg",
-     "url": "https://www.11alive.com/article/news/crime/jimmy-steverson-prior-arrest-sgt-chris-fisher-killing-warm-springs-georgia/85-cf72f69d-91be-4f28-ac4e-82cf330fa59a",
      "score": 87
     }
    ]
@@ -170,6 +170,15 @@
      "score": 93
     },
     {
+     "title": "Teen arrested in deadly Sandy Springs apartment shooting",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/untitled-design-22.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/teen-arrested-deadly-sandy-springs-apartment-shooting",
+     "score": 93
+    },
+    {
      "title": "Man shot, killed at South Bend Park in southeast Atlanta",
      "desc": "",
      "cat": "Crime",
@@ -204,15 +213,6 @@
      "img": "art/crime_15.jpg",
      "url": "https://www.11alive.com/article/news/local/cedartown-police-chief-releases-video-on-tragic-loss-heehaw-the-donkey-shot-killed-by-officer/85-3321b1c1-e494-40b8-b3e0-46d2bacc8461",
      "score": 87
-    },
-    {
-     "title": "Music producer, DJ killed in robbery. Police release videos of \u2018persons of interest\u2019",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.wsbtv.com",
-     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FUXEPP6SPKFDJFO4LVWPL65674Y.jpeg?auth=1f7dcd65a97ccb91b90ed7eda2780d05ec3bae1fdf5492b3cfdd31b8df8145aa&amp;width=1200&amp;height=630&amp;smart=true",
-     "url": "https://www.wsbtv.com/news/local/music-producer-dj-killed-robbery-police-release-videos-persons-interest/ERFJU2R2NFHCVCIP6UZAO24LAA/",
-     "score": 85
     }
    ]
   },
