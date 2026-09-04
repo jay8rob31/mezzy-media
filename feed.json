@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T20:35:25",
+ "updated": "2026-09-03T20:40:25",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -243,7 +243,7 @@
      "desc": "",
      "cat": "Sports",
      "source": "atlanta:news:www.11alive.com",
-     "img": "art/sports_20.jpg",
+     "img": "",
      "url": "https://www.11alive.com/article/life/santa-with-down-syndrome-inducted-into-the-international-santa-hall-of-fame/85-582e9b0e-7382-417d-84d9-118d38d91ab3",
      "score": 48
     },
@@ -320,12 +320,12 @@
      "score": 36
     },
     {
-     "title": "Roswell teen uses basketball to fight youth mental health stigma",
+     "title": "AG Carr tells SEC he could use 'all legal means necessary to protect the University of Georgia' in LSU/NFL players controversy",
      "desc": "",
      "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
+     "source": "atlanta:news:www.11alive.com",
      "img": "",
-     "url": "https://www.fox5atlanta.com/news/roswell-teen-uses-basketball-fight-youth-mental-health-stigma",
+     "url": "https://www.11alive.com/article/sports/georgia-ag-chris-carr-letter-to-sec-commissioner-greg-sankey-lsu-nfl-player-dispute/85-8f329d85-9ff1-40ce-b9d3-90b0549aedf4",
      "score": 34
     }
    ]
