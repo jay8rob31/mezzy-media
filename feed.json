@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T14:40:26",
+ "updated": "2026-09-04T14:45:25",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -453,26 +453,6 @@
     {
      "league": "GA High School Football",
      "home": {
-      "name": "South Atlanta",
-      "score": "",
-      "record": "1-0",
-      "logo": ""
-     },
-     "away": {
-      "name": "Washington",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "5:30p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/south-atlanta-vs-washington-atlanta/9-4-2026/?c=97e4a7b9-d9fc-4772-8cb6-8a6475cd0c1c"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
       "name": "Lakeside",
       "score": "",
       "record": "0-2",
@@ -493,6 +473,26 @@
     {
      "league": "GA High School Football",
      "home": {
+      "name": "South Atlanta",
+      "score": "",
+      "record": "1-0",
+      "logo": ""
+     },
+     "away": {
+      "name": "Washington",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "5:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/south-atlanta-vs-washington-atlanta/9-4-2026/?c=97e4a7b9-d9fc-4772-8cb6-8a6475cd0c1c"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
       "name": "Alcovy",
       "score": "",
       "record": "0-2",
@@ -509,66 +509,6 @@
      "state": "pre",
      "isLocal": true,
      "link": "https://www.maxpreps.com/ga/football/game/alcovy-covington-vs-meadowcreek-norcross/9-4-2026/?c=57d35dce-9ca7-4bf6-a2f6-5b98ac1b8fb1"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "Collins Hill",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "away": {
-      "name": "Parkview",
-      "score": "",
-      "record": "1-1",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/collins-hill-suwanee-vs-parkview-lilburn/9-4-2026/?c=934047bd-cd12-4794-816a-c2f922a7f3ff"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "Lambert",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "away": {
-      "name": "Tift County",
-      "score": "",
-      "record": "2-0",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/lambert-suwanee-vs-tift-county-tifton/9-4-2026/?c=65c93ce2-0edf-47b8-8f42-792d779d21e9"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "Druid Hills",
-      "score": "",
-      "record": "1-1",
-      "logo": ""
-     },
-     "away": {
-      "name": "Landmark Christian",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/druid-hills-atlanta-vs-landmark-christian-fairburn/9-4-2026/?c=15976ff8-2b06-4905-b8ef-0357ff4c5a95"
     },
     {
      "league": "GA High School Football",
@@ -613,22 +553,62 @@
     {
      "league": "GA High School Football",
      "home": {
-      "name": "Fellowship Christian",
+      "name": "Druid Hills",
       "score": "",
-      "record": "1-0",
+      "record": "1-1",
       "logo": ""
      },
      "away": {
-      "name": "Lovett",
+      "name": "Landmark Christian",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/druid-hills-atlanta-vs-landmark-christian-fairburn/9-4-2026/?c=15976ff8-2b06-4905-b8ef-0357ff4c5a95"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Collins Hill",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Parkview",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/collins-hill-suwanee-vs-parkview-lilburn/9-4-2026/?c=934047bd-cd12-4794-816a-c2f922a7f3ff"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Lambert",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "away": {
+      "name": "Tift County",
       "score": "",
       "record": "2-0",
       "logo": ""
      },
      "network": "",
-     "detail": "7:30p",
+     "detail": "7p",
      "state": "pre",
      "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/fellowship-christian-roswell-vs-lovett-atlanta/9-4-2026/?c=61346a55-8ebf-48f2-87b0-21a4c18311c1"
+     "link": "https://www.maxpreps.com/ga/football/game/lambert-suwanee-vs-tift-county-tifton/9-4-2026/?c=65c93ce2-0edf-47b8-8f42-792d779d21e9"
     },
     {
      "league": "GA High School Football",
@@ -653,46 +633,6 @@
     {
      "league": "GA High School Football",
      "home": {
-      "name": "Clarkston",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "away": {
-      "name": "Walker",
-      "score": "",
-      "record": "1-1",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7:30p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/clarkston-vs-walker-marietta/9-4-2026/?c=b3870c7c-4419-4213-8f59-7517e028e2a3"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "Campbell",
-      "score": "",
-      "record": "1-0",
-      "logo": ""
-     },
-     "away": {
-      "name": "Denmark",
-      "score": "",
-      "record": "1-1",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7:30p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/campbell-smyrna-vs-denmark-alpharetta/9-4-2026/?c=2b4a7c0c-cd70-460d-b5c5-d6164369a72f"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
       "name": "Alpharetta",
       "score": "",
       "record": "0-2",
@@ -709,6 +649,26 @@
      "state": "pre",
      "isLocal": true,
      "link": "https://www.maxpreps.com/ga/football/game/alpharetta-vs-centennial-roswell/9-4-2026/?c=30b79240-4c41-4e25-b850-0052d1221fbd"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Callaway",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Whitewater",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/callaway-hogansville-vs-whitewater-fayetteville/9-4-2026/?c=eeb506a3-ac60-49d2-af2b-40d7fadf20e1"
     },
     {
      "league": "GA High School Football",
@@ -733,33 +693,13 @@
     {
      "league": "GA High School Football",
      "home": {
-      "name": "McDonough",
+      "name": "Fellowship Christian",
       "score": "",
-      "record": "1-1",
+      "record": "1-0",
       "logo": ""
      },
      "away": {
-      "name": "Mt. Zion",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7:30p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/mcdonough-vs-mt-zion-jonesboro/9-4-2026/?c=867a347e-4eca-4583-9872-74b635cc06b6"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "South Paulding",
-      "score": "",
-      "record": "0-2",
-      "logo": ""
-     },
-     "away": {
-      "name": "Villa Rica",
+      "name": "Lovett",
       "score": "",
       "record": "2-0",
       "logo": ""
@@ -768,18 +708,18 @@
      "detail": "7:30p",
      "state": "pre",
      "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/south-paulding-douglasville-vs-villa-rica/9-4-2026/?c=04231c74-97b1-437d-9949-acfe87981ab6"
+     "link": "https://www.maxpreps.com/ga/football/game/fellowship-christian-roswell-vs-lovett-atlanta/9-4-2026/?c=61346a55-8ebf-48f2-87b0-21a4c18311c1"
     },
     {
      "league": "GA High School Football",
      "home": {
-      "name": "Mays",
+      "name": "Clarkston",
       "score": "",
-      "record": "2-0",
+      "record": "0-2",
       "logo": ""
      },
      "away": {
-      "name": "Pebblebrook",
+      "name": "Walker",
       "score": "",
       "record": "1-1",
       "logo": ""
@@ -788,7 +728,7 @@
      "detail": "7:30p",
      "state": "pre",
      "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/mays-atlanta-vs-pebblebrook-mableton/9-4-2026/?c=334c38d6-2802-4b8d-b03a-1c0920b0a7be"
+     "link": "https://www.maxpreps.com/ga/football/game/clarkston-vs-walker-marietta/9-4-2026/?c=b3870c7c-4419-4213-8f59-7517e028e2a3"
     },
     {
      "league": "GA High School Football",
@@ -813,6 +753,86 @@
     {
      "league": "GA High School Football",
      "home": {
+      "name": "McDonough",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Mt. Zion",
+      "score": "",
+      "record": "0-2",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/mcdonough-vs-mt-zion-jonesboro/9-4-2026/?c=867a347e-4eca-4583-9872-74b635cc06b6"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Campbell",
+      "score": "",
+      "record": "1-0",
+      "logo": ""
+     },
+     "away": {
+      "name": "Denmark",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/campbell-smyrna-vs-denmark-alpharetta/9-4-2026/?c=2b4a7c0c-cd70-460d-b5c5-d6164369a72f"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Mays",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "away": {
+      "name": "Pebblebrook",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/mays-atlanta-vs-pebblebrook-mableton/9-4-2026/?c=334c38d6-2802-4b8d-b03a-1c0920b0a7be"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Apalachee",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Lassiter",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/apalachee-winder-vs-lassiter-marietta/9-4-2026/?c=d20d747f-ed55-4356-a0ba-bd120ad8501c"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
       "name": "Kell",
       "score": "",
       "record": "1-1",
@@ -829,26 +849,6 @@
      "state": "pre",
      "isLocal": true,
      "link": "https://www.maxpreps.com/ga/football/game/kell-marietta-vs-sprayberry-marietta/9-4-2026/?c=feb0c203-2132-4c65-a126-5ec433a6696c"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
-      "name": "Callaway",
-      "score": "",
-      "record": "1-1",
-      "logo": ""
-     },
-     "away": {
-      "name": "Whitewater",
-      "score": "",
-      "record": "2-0",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7:30p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/callaway-hogansville-vs-whitewater-fayetteville/9-4-2026/?c=eeb506a3-ac60-49d2-af2b-40d7fadf20e1"
     },
     {
      "league": "MLB",
