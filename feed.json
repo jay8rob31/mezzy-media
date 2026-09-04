@@ -1,24 +1,15 @@
 {
- "updated": "2026-09-04T07:20:25",
+ "updated": "2026-09-04T07:25:25",
  "hero": {
-  "title": "Man killed in shooting at Buckhead apartment parking deck",
+  "title": "Police offering up to $5K for information in deadly shooting of 22-year-old woman in Atlanta",
   "desc": "",
-  "url": "https://www.fox5atlanta.com/news/man-killed-shooting-buckhead-apartment-parking-deck"
+  "url": "https://www.11alive.com/article/news/crime/police-offering-up-to-5k-for-information-in-deadly-shooting-of-22-year-old-woman-in-atlanta/85-ce2924cc-fbb3-448a-a53e-1a0296000f24"
  },
  "rails": [
   {
    "id": "trending",
    "title": "Top 10 in Atlanta",
    "items": [
-    {
-     "title": "Man killed in shooting at Buckhead apartment parking deck",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-54.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-killed-shooting-buckhead-apartment-parking-deck",
-     "score": 111
-    },
     {
      "title": "Police offering up to $5K for information in deadly shooting of 22-year-old woman in Atlanta",
      "desc": "",
@@ -35,6 +26,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime_19.jpg",
      "url": "https://www.11alive.com/article/news/crime/shooting-at-buckhead-apartments-leaves-1-dead/85-660f30e6-60d5-4a4b-b20d-b482962f2932",
+     "score": 105
+    },
+    {
+     "title": "Man killed in shooting at Buckhead apartment parking deck",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-54.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-killed-shooting-buckhead-apartment-parking-deck",
      "score": 105
     },
     {
@@ -107,15 +107,6 @@
    "title": "Crime Watch",
    "items": [
     {
-     "title": "Man killed in shooting at Buckhead apartment parking deck",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-54.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/man-killed-shooting-buckhead-apartment-parking-deck",
-     "score": 111
-    },
-    {
      "title": "Police offering up to $5K for information in deadly shooting of 22-year-old woman in Atlanta",
      "desc": "",
      "cat": "Crime",
@@ -131,6 +122,15 @@
      "source": "atlanta:news:www.11alive.com",
      "img": "art/crime_19.jpg",
      "url": "https://www.11alive.com/article/news/crime/shooting-at-buckhead-apartments-leaves-1-dead/85-660f30e6-60d5-4a4b-b20d-b482962f2932",
+     "score": 105
+    },
+    {
+     "title": "Man killed in shooting at Buckhead apartment parking deck",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/09/1200/630/video-54.jpg?ve=1&amp;tl=1",
+     "url": "https://www.fox5atlanta.com/news/man-killed-shooting-buckhead-apartment-parking-deck",
      "score": 105
     },
     {
