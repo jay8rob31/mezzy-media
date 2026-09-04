@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T11:15:27",
+ "updated": "2026-09-04T11:20:27",
  "hero": {
   "title": "Man killed in shooting at Buckhead apartment parking deck",
   "desc": "",
@@ -221,15 +221,6 @@
    "title": "Sports",
    "items": [
     {
-     "title": "John Abraham to be inducted this year into Falcons Ring of Honor",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:sports:www.11alive.com",
-     "img": "art/sports_13.jpg",
-     "url": "https://www.11alive.com/article/sports/nfl/atlanta-falcons/john-abraham-atlanta-falcons-ring-of-honor-2026/85-07d8cde9-bf54-4afb-a4fb-d32f93ca8d59",
-     "score": 64
-    },
-    {
      "title": "Georgia Tech\u2019s Rahkeem Smith returns kickoff 100 yards for Yellow Jackets\u2019 first score of season",
      "desc": "",
      "cat": "Sports",
@@ -237,6 +228,15 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/INZUZ6QUGNFATHFFDTUTMANCYU.jpg?auth=581d63202fe3a80d8f8cd790e2fb9146a56f14e8f8464006a6d4e0c8d6954dd0&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/09/04/georgia-techs-rahkeem-smith-returns-kickoff-100-yards-yellow-jackets-first-score-season/",
      "score": 62
+    },
+    {
+     "title": "John Abraham to be inducted this year into Falcons Ring of Honor",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:sports:www.11alive.com",
+     "img": "art/sports_13.jpg",
+     "url": "https://www.11alive.com/article/sports/nfl/atlanta-falcons/john-abraham-atlanta-falcons-ring-of-honor-2026/85-07d8cde9-bf54-4afb-a4fb-d32f93ca8d59",
+     "score": 58
     },
     {
      "title": "Georgia Tech field goal blocked in late loss to Colorado",
