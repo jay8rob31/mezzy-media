@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T23:35:24",
+ "updated": "2026-09-03T23:40:24",
  "hero": {
   "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
   "desc": "",
@@ -302,15 +302,6 @@
      "score": 40
     },
     {
-     "title": "Ex-NFL player Alphonso Smith Jr. dies at 40",
-     "desc": "",
-     "cat": "Sports",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "",
-     "url": "https://www.fox5atlanta.com/sports/ex-nfl-player-alphonso-smith-jr-dies",
-     "score": 40
-    },
-    {
      "title": "Head coaches suspended, schools fined after fight that canceled Rockdale-Heritage high school football game",
      "desc": "",
      "cat": "Sports",
@@ -327,6 +318,15 @@
      "img": "",
      "url": "https://www.wsbtv.com/news/local/scholarship-set-up-memory-legendary-georgia-high-school-football-coach/44VAMNBELZFCHPSNMDKTTYFJ2E/",
      "score": 36
+    },
+    {
+     "title": "Ex-NFL player Alphonso Smith Jr. dies at 40",
+     "desc": "",
+     "cat": "Sports",
+     "source": "atlanta:news:www.fox5atlanta.com",
+     "img": "",
+     "url": "https://www.fox5atlanta.com/sports/ex-nfl-player-alphonso-smith-jr-dies",
+     "score": 34
     }
    ]
   },
