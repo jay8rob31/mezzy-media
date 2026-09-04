@@ -1,15 +1,24 @@
 {
- "updated": "2026-09-04T04:25:24",
+ "updated": "2026-09-04T04:30:25",
  "hero": {
-  "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
+  "title": "Man shot, killed at luxury apartments in Buckhead",
   "desc": "",
-  "url": "https://www.11alive.com/article/news/local/sgt-chris-fisher-warm-springs-georgia-police-officer-shot-killed/85-a61d07ad-d8c9-49bb-90ae-4f1a57f505f9"
+  "url": "https://www.wsbtv.com/news/local/man-shot-killed-luxury-apartment-buckhead/CMYKFXODTBDHHAWGIFN2TKKEXE/"
  },
  "rails": [
   {
    "id": "trending",
    "title": "Top 10 in Atlanta",
    "items": [
+    {
+     "title": "Man shot, killed at luxury apartments in Buckhead",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXK66DNGINFB5FP46W4DQZOADE4.png?auth=3d19cc24173dfa9e17bfcd4b3cc0f545a4bc6f43acd64ce90adce8d471ece991&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/man-shot-killed-luxury-apartment-buckhead/CMYKFXODTBDHHAWGIFN2TKKEXE/",
+     "score": 105
+    },
     {
      "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
      "desc": "",
@@ -90,15 +99,6 @@
      "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/12/1200/630/5ed504e8-A2.jpg?ve=1&amp;tl=1",
      "url": "https://www.fox5atlanta.com/news/man-walking-northwest-atlanta-wounded-after-hearing-sudden-gunfire",
      "score": 85
-    },
-    {
-     "title": "'This is our backyard': Witness recalls ducking for cover during Beltline gunfire",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.fox5atlanta.com",
-     "img": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/08/1200/630/e4d8554f-untitled-1.jpg?ve=1&amp;tl=1",
-     "url": "https://www.fox5atlanta.com/news/this-is-our-backyard-witness-recalls-ducking-cover-during-beltline-gunfire",
-     "score": 85
     }
    ]
   },
@@ -106,6 +106,15 @@
    "id": "crime",
    "title": "Crime Watch",
    "items": [
+    {
+     "title": "Man shot, killed at luxury apartments in Buckhead",
+     "desc": "",
+     "cat": "Crime",
+     "source": "atlanta:news:www.wsbtv.com",
+     "img": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXK66DNGINFB5FP46W4DQZOADE4.png?auth=3d19cc24173dfa9e17bfcd4b3cc0f545a4bc6f43acd64ce90adce8d471ece991&amp;width=1200&amp;height=630&amp;smart=true",
+     "url": "https://www.wsbtv.com/news/local/man-shot-killed-luxury-apartment-buckhead/CMYKFXODTBDHHAWGIFN2TKKEXE/",
+     "score": 105
+    },
     {
      "title": "Officer killed in shooting was husband and father of two and had just joined force three months ago, councilor says",
      "desc": "",
@@ -204,15 +213,6 @@
      "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/5RPJSV7YSZCHPCMVHZBZR6YE2A.JPG?auth=ccc9a5ed6a50fd679da809875b80380740e2382f10e963575a9d0b3a15c57fb4&amp;width=1200&amp;height=600&amp;smart=true",
      "url": "https://www.atlantanewsfirst.com/2026/08/31/mother-accused-fatally-shooting-her-2-year-old-daughter-charged-with-murder-police-say/",
      "score": 82
-    },
-    {
-     "title": "Police investigating deadly shooting at southeast Atlanta park",
-     "desc": "",
-     "cat": "Crime",
-     "source": "atlanta:news:www.atlantanewsfirst.com",
-     "img": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/O5NMTRGAZFHMPHXTDCPMOIBTS4.png?auth=c79aaacd19b6ab88750b7e3485436c4d238ad28a4dd8fab44486f79c9641067f&amp;width=1200&amp;height=600&amp;smart=true",
-     "url": "https://www.atlantanewsfirst.com/2026/09/02/police-investigating-deadly-shooting-southeast-atlanta-park/",
-     "score": 77
     }
    ]
   },
