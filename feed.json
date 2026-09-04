@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T13:00:26",
+ "updated": "2026-09-04T13:05:26",
  "hero": {
   "title": "Deadly shooting investigation at Buckhead apartments",
   "desc": "",
@@ -673,26 +673,6 @@
     {
      "league": "GA High School Football",
      "home": {
-      "name": "Community Christian",
-      "score": "",
-      "record": "1-1",
-      "logo": ""
-     },
-     "away": {
-      "name": "Griffin Christian",
-      "score": "",
-      "record": "2-0",
-      "logo": ""
-     },
-     "network": "",
-     "detail": "7:30p",
-     "state": "pre",
-     "isLocal": true,
-     "link": "https://www.maxpreps.com/ga/football/game/community-christian-stockbridge-vs-griffin-christian/9-4-2026/?c=6761e1ea-5591-4222-9620-eaecc979a906"
-    },
-    {
-     "league": "GA High School Football",
-     "home": {
       "name": "Campbell",
       "score": "",
       "record": "1-0",
@@ -729,6 +709,26 @@
      "state": "pre",
      "isLocal": true,
      "link": "https://www.maxpreps.com/ga/football/game/alpharetta-vs-centennial-roswell/9-4-2026/?c=30b79240-4c41-4e25-b850-0052d1221fbd"
+    },
+    {
+     "league": "GA High School Football",
+     "home": {
+      "name": "Community Christian",
+      "score": "",
+      "record": "1-1",
+      "logo": ""
+     },
+     "away": {
+      "name": "Griffin Christian",
+      "score": "",
+      "record": "2-0",
+      "logo": ""
+     },
+     "network": "",
+     "detail": "7:30p",
+     "state": "pre",
+     "isLocal": true,
+     "link": "https://www.maxpreps.com/ga/football/game/community-christian-stockbridge-vs-griffin-christian/9-4-2026/?c=6761e1ea-5591-4222-9620-eaecc979a906"
     },
     {
      "league": "GA High School Football",
